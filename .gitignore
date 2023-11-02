@@ -1,0 +1,9 @@
+# to only exclude plugin obsidian-git configuration. Might be useful to prevent some plugin from exposing sensitive data
+.obsidian/plugins/obsidian-git
+
+# OR only to exclude workspace cache
+.obsidian/workspace.json
+
+# Add below lines to exclude OS settings and caches
+.trash/
+.DS_Store

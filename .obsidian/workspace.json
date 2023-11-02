@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "699fedbd17bed79c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa889d1f38aa8825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8dd5a8e7f00e8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13f9b82afb42a5c7",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "151b059b196759ef",
+            "type": "leaf",
+            "state": {
+              "type": "map",
+              "state": {
+                "name": "Default",
+                "mapZoom": 12,
+                "mapCenter": {
+                  "lat": 35.66994486116747,
+                  "lng": 139.7742462367751
+                },
+                "query": "",
+                "chosenMapSource": 0,
+                "queryError": false,
+                "followActiveNote": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "284032d960bb6076",
+    "type": "split",
+    "children": [
+      {
+        "id": "178de496624bf6e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e89a79a745e1164b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23723419d0798a64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9f2a975d7aedbcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e506ed6599e75a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be0c566cc90023a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4431f646513e1a5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b73f5beadad8809",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "408e844197925b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9c4a9ba49456f5ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md"
+              }
+            }
+          },
+          {
+            "id": "f225721411716e83",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "markdown-importer:Apri importazione Markdown": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-day-planner:Timeline": false
+    }
+  },
+  "active": "e89a79a745e1164b",
+  "lastOpenFiles": [
+    "Locations/Stores",
+    "Locations/Restaurants",
+    "Locations/Tamples/Senza nome",
+    "Locations/Temples",
+    "Locations/Cities",
+    "Locations/Senza nome.md",
+    "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+    "Locations",
+    "Locations Interactive Map",
+    "Path.json",
+    "//Path.json",
+    "Senza nome.md"
+  ]
+}

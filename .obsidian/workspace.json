@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
-                "mode": "preview",
+                "file": "Locations/Cities/Senza nome.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+                "file": "Locations/Cities/Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
+                "file": "Locations/Cities/Senza nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations Interactive Map/Location added on 2023-11-02T10-47.md"
+                "file": "Locations/Cities/Senza nome.md"
               }
             }
           },
@@ -187,15 +187,18 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "7b8dd5a8e7f00e8b",
   "lastOpenFiles": [
+    "Locations/Restaurants/Senza nome.md",
+    "Locations/Cities/Senza nome.md",
+    "Locations/Stores/Senza nome.md",
+    "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations/Stores",
     "Locations/Restaurants",
     "Locations/Tamples/Senza nome",
     "Locations/Temples",
     "Locations/Cities",
     "Locations/Senza nome.md",
-    "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations",
     "Locations Interactive Map",
     "Path.json",

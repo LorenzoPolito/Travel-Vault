@@ -15,9 +15,9 @@ scale: 1
 darkMode: true
 ```
 
+### Clima
 
-
-
+Tokyo gode di un [clima temperato](https://it.wikipedia.org/wiki/Clima_temperato "Clima temperato"), con un'[umidità relativa](https://it.wikipedia.org/wiki/Umidit%C3
 
 
 

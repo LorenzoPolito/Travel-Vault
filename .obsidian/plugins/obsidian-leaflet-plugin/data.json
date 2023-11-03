@@ -1,33 +1,5 @@
 {
-  "mapMarkers": [
-    {
-      "id": "tokyo-map",
-      "lastAccessed": 1699021910551,
-      "markers": [
-        {
-          "id": "ID_c9e9fbda48ea",
-          "type": "default",
-          "loc": [
-            35.6944817295592,
-            139.77401730604473
-          ],
-          "layer": "real",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Locations/Cities/Tokyo東京.md"
-      ]
-    }
-  ],
+  "mapMarkers": [],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

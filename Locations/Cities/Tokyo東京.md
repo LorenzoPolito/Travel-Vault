@@ -12,12 +12,12 @@ maxZoom: 15
 defaultZoom: 10
 unit: meters
 scale: 1
-darkMode: true
+darkMode: true 
+marker: default,35.69039215333176,139.776763971895,Tokyo東京
 ```
 
-### Clima
 
-Tokyo gode di un [clima temperato](https://it.wikipedia.org/wiki/Clima_temperato "Clima temperato"), con un'[umidità relativa](https://it.wikipedia.org/wiki/Umidit%C3
+
 
 
 

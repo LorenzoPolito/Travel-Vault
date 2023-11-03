@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHotel",
       "🛕",
       "IbStore",
       "RiRestaurantFill",
-      "FasCity",
-      "FasLocationDot"
+      "FasCity"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,6 @@
   "Locations/Cities": "FasCity",
   "Locations/Restaurants": "RiRestaurantFill",
   "Locations/Stores": "IbStore",
-  "Locations/Temples": "🛕"
+  "Locations/Temples": "🛕",
+  "Locations/Hotels": "LiHotel"
 }

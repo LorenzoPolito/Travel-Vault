@@ -2,14 +2,14 @@
   "mapMarkers": [
     {
       "id": "tokyo-map",
-      "lastAccessed": 1699021460947,
+      "lastAccessed": 1699021910551,
       "markers": [
         {
           "id": "ID_c9e9fbda48ea",
           "type": "default",
           "loc": [
-            35.68146876324977,
-            139.76760867051783
+            35.6944817295592,
+            139.77401730604473
           ],
           "layer": "real",
           "mutable": true,

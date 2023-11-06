@@ -14,8 +14,21 @@
               "type": "obsidian-leaflet-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "d0ce079e25357cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerario.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerario.md"
+              }
             }
           },
           {
@@ -152,8 +169,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "26112a1e59045088",
+  "active": "d0ce079e25357cda",
   "lastOpenFiles": [
+    "Itinerario.md",
     "Locations/Cities/Tokyo東京.md",
     "Locations/Hotels/Senza nome.md",
     "Locations/Hotels",
@@ -170,7 +188,6 @@
     "Locations",
     "Locations Interactive Map",
     "Path.json",
-    "//Path.json",
-    "Senza nome.md"
+    "//Path.json"
   ]
 }

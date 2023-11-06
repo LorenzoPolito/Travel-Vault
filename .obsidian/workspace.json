@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Senza nome.md",
+                "file": "Itinerario.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Senza nome.md",
+                "file": "Itinerario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Senza nome.md",
+                "file": "Itinerario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Senza nome.md"
+                "file": "Itinerario.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "d0ce079e25357cda",
   "lastOpenFiles": [
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Senza nome.md",
+    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Itinerario.md",
     "Locations/Hotels/Senza nome.md",
     "Locations/Hotels",

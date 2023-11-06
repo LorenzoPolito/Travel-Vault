@@ -2,7 +2,8 @@
   "mapMarkers": [
     {
       "id": "JAP-map",
-      "lastAccessed": 1699277010540,
+      "locked": true,
+      "lastAccessed": 1699286733457,
       "markers": [
         {
           "id": "ID_3beaa8cb284b",
@@ -75,8 +76,7 @@
               "lng": 139.77630615234378,
               "id": "ID_68b8cb5a2a49",
               "targets": {
-                "vertexIds": [],
-                "markerId": "ID_3beaa8cb284b"
+                "vertexIds": []
               }
             },
             {

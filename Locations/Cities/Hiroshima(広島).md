@@ -16,6 +16,6 @@ maxZoom: 15
 defaultZoom: 10
 unit: meters
 scale: 1
-darkMode: true marker: default,34.391895696789646,132.4520301818848,Hiroshima(広島),,,
-
+darkMode: true 
+marker: default,34.391895696789646,132.4520301818848,Hiroshima(広島),,,
 ```

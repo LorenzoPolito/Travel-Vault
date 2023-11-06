@@ -15,6 +15,7 @@ maxZoom: 15
 defaultZoom: 10
 unit: meters
 scale: 1
-darkMode: true marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
-
+darkMode: true 
+marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 ```
+

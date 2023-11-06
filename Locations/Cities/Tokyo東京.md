@@ -1,6 +1,9 @@
 ---
 locations:
   - Tokyo
+tags:
+  - city
+  - map
 ---
 
 ```leaflet

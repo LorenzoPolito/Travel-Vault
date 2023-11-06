@@ -11,9 +11,9 @@ tags:
 id: hiroshima-map
 lat : 34.391311
 long : 132.452667
-minZoom: 8
-maxZoom: 15
-defaultZoom: 10
+minZoom: 11
+maxZoom: 18
+defaultZoom: 12
 unit: meters
 scale: 1
 darkMode: true 

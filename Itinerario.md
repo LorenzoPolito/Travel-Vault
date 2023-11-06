@@ -2,6 +2,15 @@
 tags:
   - map
 ---
+```leaflet
+id: JAP-map
+minZoom: 8
+maxZoom: 15
+defaultZoom: 10
+unit: meters
+scale: 1
+darkMode: true 
+```>)
 ## Da Ossama e Valentina
 
 ### Itinerario base
@@ -26,19 +35,19 @@ tags:
 	- Gundam
 	- Parco di Kinuta
 - Kyoto
-  - Fushimi Inari Taisha e zona circostante
-    - Arashiyama e il bosco di bambù → un quarto d’ora di treno
-      - Passeggiata del filosofo
-        - Tempio Ginkakuji → prezzo 500 yen, aperto dalle 8:30 alle 17
-        - Gion e Pontocho → Sono due quartieri celebri sia per le **ochaya** che per le **okiya**: le prime sono le _case da tè_, mentre le seconde sono le _case delle geisha_
-        - Nishiro-mon Gate → da vedere di sera
-        - Tempio Kiyomizudera
-        - Sannenzaka e Ninenzaka
-        - Castello Nijo → costo 620 yen
-        - Parco Maruyama
-        - Nishiki market → orari 9-18
-        - Ryoan ji → prezzo 500 yen, orario 8-17
-        - Nanzen Ji → prezzo 600 yen, orario 8:40-17
+	  - Fushimi Inari Taisha e zona circostante
+	  - Arashiyama e il bosco di bambù → un quarto d’ora di treno
+	  - Passeggiata del filosofo
+	  - Tempio Ginkakuji → prezzo 500 yen, aperto dalle 8:30 alle 17
+	  - Gion e Pontocho → Sono due quartieri celebri sia per le **ochaya** che per le **okiya**: le prime sono le _case da tè_, mentre le seconde sono le _case delle geisha_
+	  - Nishiro-mon Gate → da vedere di sera
+	  - Tempio Kiyomizudera
+	  - Sannenzaka e Ninenzaka
+	  - Castello Nijo → costo 620 yen
+	  - Parco Maruyama
+	  - Nishiki market → orari 9-18
+	  - Ryoan ji → prezzo 500 yen, orario 8-17
+	  - Nanzen Ji → prezzo 600 yen, orario 8:40-17
 
 - Hiroshima
 	- Parco della memoria, Museo della Pace e A-Bomb Dome → orario 8:30-18, 200 yen
@@ -49,4 +58,4 @@ tags:
 	- Okonomimura → il regno dell’okonomiyaki
 	- Biblioteca dei manga → chiusa il lunedi
 	- Parco Hijiyama
-- Sentiero Futabanosato → sentiero di 10 km
+	- Sentiero Futabanosato → sentiero di 10 km

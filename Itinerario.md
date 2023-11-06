@@ -66,3 +66,117 @@ darkMode: true
 	- Biblioteca dei manga → chiusa il lunedi
 	- Parco Hijiyama
 	- Sentiero Futabanosato → sentiero di 10 km
+
+### Dettagli
+#### DAY 1 TOKYO
+
+- check in
+- lunch, maybe ichiran shinjuku
+- explore shinkjuku
+- shinjuku goyen
+- suga shrine otodokan
+- batting
+- gov building
+
+#### DAY 2 TOKYO
+
+- Ueno park
+- Ameyoko street
+- Lunch, maybe daitoryo
+- Kappabashi
+- Sensoji
+- Nakamise dori
+- Sumida park ans river walk
+- Skytree
+
+#### DAY 3 TOKYO
+
+- hokusai museum
+- palazzo imperiale
+- lunch, no guess
+- pokemon center
+- kabukiza
+- cafe de lambre
+- gundam
+- joypolis??
+
+#### DAY 4 TOKYO
+
+- Shiba crossing + hachiko
+- meiji jingy + park
+- takeshita street
+- lunch, in takeshita??
+- nintendo store
+- akiba
+- mandarake
+- akiba culture zone (go nagai shop)
+- radio kaikan
+- go play some arcade
+
+#### DAY 5 TOKYO
+
+- change ryokan
+- go to shinjuku to get shonan shinjuku line (940 yen one way)
+- hokokuji
+- hachimangu
+- myohonji
+- lunch
+- daibutsu
+- back to tokyo
+
+#### DAY 1 KYOTO
+
+- arrive in kyoto
+- Kiyomizu deru
+- ninenzaka
+- sannenzaka
+- lunch, maybe menya inoichi
+- chion in temple
+- is there is time shoren in
+- go to center passing through gion and hanamijoki
+- imperial palace or nijo castle
+
+#### DAY 2 KYOTO
+
+- early to tenryu-ji
+- arashiyama bamboo
+- have a walk here [https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930)
+- lunch, no guess
+- ryoan-ji (if we are tired we can skip it)
+- kinkaku-ji
+- if possible, ginkakujico and philosopher path
+
+#### DAY 3 KYOTO
+
+- fushimi to ginkakuji hike or just hike near fushimi
+- buffer, possibly nara
+
+#### DAY 1 KOBE
+
+- check in hostel
+- ikuta jinja
+- chinatown
+- launch early in chinatown
+- Kitano cho
+- herb garden
+- get lost in the mountain
+- go down with ropeway
+
+#### DAY 1 HIROSHIMA
+
+- museum
+- check in
+- bomb dom
+- memorial
+- lunch
+- shukkein garden or hijiyama park + manga library
+- opt maza museum
+- get lost
+- dinner with okonomiyaki
+
+#### DAY 2 HIROSHIMA
+
+- day in miyajima
+- go up to the mountain
+- go to monkey park
+- get lost

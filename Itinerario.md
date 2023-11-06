@@ -4,13 +4,15 @@ tags:
 ---
 ```leaflet
 id: JAP-map
-minZoom: 8
+minZoom: 1
 maxZoom: 15
 defaultZoom: 10
 unit: meters
 scale: 1
 darkMode: true 
-```>)
+```
+
+
 ## Da Ossama e Valentina
 
 ### Itinerario base

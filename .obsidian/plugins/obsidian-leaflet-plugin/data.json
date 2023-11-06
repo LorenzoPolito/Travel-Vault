@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "JAP-map",
-      "lastAccessed": 1699276760943,
+      "lastAccessed": 1699277010540,
       "markers": [
         {
           "id": "ID_3beaa8cb284b",
@@ -25,8 +25,8 @@
           "id": "ID_7aab8b2b7bdb",
           "type": "default",
           "loc": [
-            35.0209997011147,
-            135.75496673583987
+            35.021210571849416,
+            135.75582504272464
           ],
           "link": "Kyoto(京都)",
           "layer": "real",
@@ -42,8 +42,8 @@
           "id": "ID_69e98a88da1a",
           "type": "default",
           "loc": [
-            34.39830971376958,
-            132.44773864746097
+            34.3916832157663,
+            132.45117187500003
           ],
           "link": "Hiroshima(広島)",
           "layer": "real",

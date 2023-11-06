@@ -4,13 +4,18 @@ tags:
 ---
 ```leaflet
 id: JAP-map
+lat : 35.418433054102756
+long : 136.40625000000003
 minZoom: 1
 maxZoom: 15
-defaultZoom: 10
+defaultZoom: 6
 unit: meters
 scale: 1
-darkMode: true 
+darkMode: true
 ```
+
+
+
 
 
 
@@ -51,7 +56,6 @@ darkMode: true
 	  - Nishiki market → orari 9-18
 	  - Ryoan ji → prezzo 500 yen, orario 8-17
 	  - Nanzen Ji → prezzo 600 yen, orario 8:40-17
-
 - Hiroshima
 	- Parco della memoria, Museo della Pace e A-Bomb Dome → orario 8:30-18, 200 yen
 	- Museo Mazda → automobili, gratuito e bisogna prenotare in anticipo [qui](https://www.mazda.com/en/about/museum/reservations/)

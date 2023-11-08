@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
+                "file": "Locations/Cities/blocks/Shibuya(しぶや).md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
+                "file": "Locations/Cities/blocks/Shibuya(しぶや).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
+                "file": "Locations/Cities/blocks/Shibuya(しぶや).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/blocks/Asakusa(浅草).md"
+                "file": "Locations/Cities/blocks/Shibuya(しぶや).md"
               }
             }
           },
@@ -191,13 +191,15 @@
   },
   "active": "26112a1e59045088",
   "lastOpenFiles": [
-    "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/Tokyo(東京).md",
+    "Locations/Cities/blocks/Shibuya(しぶや).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Locations/Cities/Kyoto(京都).md",
     "Itinerario Ossama Valentina.md",
     "Locations/Cities/blocks",
     "Itenerario v1.md",
     "Itinerario Tokyo v2.md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/~WRL0001.tmp",
     "Locations/Cities/~WRD0000.tmp",
     "Locations/Cities/~$okyo東京.docx",
@@ -208,7 +210,6 @@
     "Locations/Cities/Tokyo東京.odt",
     "Locations/Cities/Tokyo東京.txt",
     "allegati/Pasted image 20231108100023.png",
-    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Hotels/Senza nome.md",
     "Locations/Temples/Senza nome.md",
     "Locations Interactive Map/Location added on 2023-11-02T10-47.md",

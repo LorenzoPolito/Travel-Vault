@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "JAP-map",
-      "lastAccessed": 1699437103814,
+      "lastAccessed": 1699437412597,
       "markers": [
         {
           "id": "ID_793adac88a0b",
@@ -42,6 +42,50 @@
       "files": [
         "Itinerario Ossama Valentina.md",
         "Itenerario v1.md"
+      ]
+    },
+    {
+      "id": "asakusa-map",
+      "lastAccessed": 1699437412597,
+      "markers": [
+        {
+          "id": "ID_f82afa4b390b",
+          "type": "default",
+          "loc": [
+            35.71632155264631,
+            139.7908973693848
+          ],
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4a9bcab9ab49",
+          "type": "default",
+          "loc": [
+            35.715010547316524,
+            139.79574680328372
+          ],
+          "link": "Asakusa(浅草)",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Cities/blocks/Asakusa(浅草).md"
       ]
     }
   ],

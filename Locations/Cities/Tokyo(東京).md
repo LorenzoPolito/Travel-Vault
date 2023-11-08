@@ -27,7 +27,7 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 
 _**Shibuya, Harajuku e Shinjuku**_
 
-Iniziamo dal quartiere di [Shibuya](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/cosa-vedere-a-shibuya/). Attraversate il famosissimo incrocio e salite al primo piano di Starbucks per vederlo dall’alto. Vicino si trova la famosa statua del cane Hachiko.
+Iniziamo dal quartiere di [[Shibuya(しぶや)]][__](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/cosa-vedere-a-shibuya/). Attraversate il famosissimo incrocio e salite al primo piano di Starbucks per vederlo dall’alto. Vicino si trova la famosa statua del cane Hachiko.
 
 Girate per Central Gai, zona pedonale piena di negozi e ristoranti. Poi salite verso Koen Dori, nelle vicinanze vi consiglio un giro da Tokyu Hands (grande negozio dedicato al fai da te).
 

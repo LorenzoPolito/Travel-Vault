@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
+                "file": "Itenerario v1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "727a8ff1698572ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Cities/Tokyo東京.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
+                "file": "Locations/Cities/Tokyo東京.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
+                "file": "Locations/Cities/Tokyo東京.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Ossama Valentina.md"
+                "file": "Locations/Cities/Tokyo東京.md"
               }
             }
           },
@@ -190,12 +202,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b2c21dd435ce56f8",
+  "active": "727a8ff1698572ce",
   "lastOpenFiles": [
+    "Itinerario Tokyo v2.md",
     "Itenerario v1.md",
+    "Itinerario Ossama Valentina.md",
     "allegati",
     "allegati/Pasted image 20231108100023.png",
-    "Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo東京.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Kyoto(京都).md",

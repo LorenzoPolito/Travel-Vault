@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itenerario v1.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +190,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "b2c21dd435ce56f8",
   "lastOpenFiles": [
     "allegati",
     "allegati/Pasted image 20231108100023.png",

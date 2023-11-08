@@ -1,3 +1,5 @@
+> questo è preso da [Itinerari in Giappone di 5, 7, 10, 12, 14 e 21 giorni (zipangu.it)](https://www.zipangu.it/itinerari-in-giappone.html#itinerari-in-giappone-di-2-settimane)
+
 ```leaflet
 id: JAP-map
 lat : 35.418433054102756
@@ -21,3 +23,8 @@ darkMode: true
 
 
 ![[Pasted image 20231108100023.png]]
+
+## Alcune note
+
+1. I giorni di permanenza a tokyo sono troppo pochi
+2. 

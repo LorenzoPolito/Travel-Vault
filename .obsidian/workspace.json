@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itenerario v1.md",
+                "file": "Itinerario Ossama Valentina.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itenerario v1.md",
+                "file": "Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itenerario v1.md",
+                "file": "Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itenerario v1.md"
+                "file": "Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -192,10 +192,10 @@
   },
   "active": "b2c21dd435ce56f8",
   "lastOpenFiles": [
+    "Itenerario v1.md",
     "allegati",
     "allegati/Pasted image 20231108100023.png",
     "Itinerario Ossama Valentina.md",
-    "Itenerario v1.md",
     "Locations/Cities/Tokyo東京.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Kyoto(京都).md",
@@ -213,7 +213,6 @@
     "Locations/Senza nome.md",
     "Locations",
     "Locations Interactive Map",
-    "Path.json",
-    "//Path.json"
+    "Path.json"
   ]
 }

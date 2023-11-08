@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itenerario v1.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itenerario v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itenerario v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md"
+                "file": "Itenerario v1.md"
               }
             }
           },
@@ -204,6 +204,10 @@
   },
   "active": "727a8ff1698572ce",
   "lastOpenFiles": [
+    "Itinerario Tokyo v2.md",
+    "Itenerario v1.md",
+    "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/~WRL0001.tmp",
     "Locations/Cities/~WRD0000.tmp",
     "Locations/Cities/~$okyo東京.docx",
@@ -213,16 +217,11 @@
     "Locations/Cities/~$okyo東京.odt",
     "Locations/Cities/Tokyo東京.odt",
     "Locations/Cities/Tokyo東京.txt",
-    "Itinerario Tokyo v2.md",
-    "Itenerario v1.md",
     "Itinerario Ossama Valentina.md",
     "allegati",
     "allegati/Pasted image 20231108100023.png",
-    "Locations/Cities/Tokyo東京.md",
     "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Hotels/Senza nome.md",
-    "Locations/Hotels",
     "Locations/Temples/Senza nome.md",
     "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations/Restaurants/Senza nome.md",

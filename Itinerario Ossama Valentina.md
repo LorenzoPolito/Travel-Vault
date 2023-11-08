@@ -24,13 +24,13 @@ darkMode: true
 ### Itinerario base
 
 - Tokyo
-	-  Quartiere Asakusa e Tempio Senso-Ji
+	-  Quartiere [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 	- National Museum (?) → chiuso il lunedi
 	- Parco di Ueno
-	- Kanda → quartiere residenziale e pieno di templi. Centro accademico della capitale, qui ci sono storici atenei e un buon numero di templi e santuari di grande importanza. Imperdibile il _Santuario Kanda-Myojin_, dove ogni anno, a capodanno, chi conduce un'attività in proprio si reca in pellegrinaggio per chiedere un anno prospero. Gli studenti si recano invece al _Mausoleo di Confucio_ per chiedere buoni voti agli esami e acquistare matite votive. **Molto interessante passeggiare anche tra vie caratteristiche e tematiche**: _via Ochanomizu_ dove si trovano negozi di strumenti musicali e _Jimbocho_ ricco di librerie e caffetterie. Per gli appassionati, interessante una visita all'_Origami Kaikan_. **Zona consigliata anche per i buongustai**; in questo quartiere si trovano infatti più di 30 ristoranti specializzati in _curry_, specialità per la quale nel mese di novembre viene addirittura dedicata una festa. P_oco distante dalla stazione Kanda si trovano alcuni dei più famosi ristoranti di soba della città, come ad esempio Kanda Yabusoba e Kanda Matsuya, che propongono semplici piatti di soba fresca._
-	- Quartiere di Shinjuku → ottimo per la sera, usare linea Japan Rail East per Japan Rail Pass
+	- [[Kanda]] → quartiere residenziale e pieno di templi. Centro accademico della capitale, qui ci sono storici atenei e un buon numero di templi e santuari di grande importanza. Imperdibile il _Santuario Kanda-Myojin_, dove ogni anno, a capodanno, chi conduce un'attività in proprio si reca in pellegrinaggio per chiedere un anno prospero. Gli studenti si recano invece al _Mausoleo di Confucio_ per chiedere buoni voti agli esami e acquistare matite votive. **Molto interessante passeggiare anche tra vie caratteristiche e tematiche**: _via Ochanomizu_ dove si trovano negozi di strumenti musicali e _Jimbocho_ ricco di librerie e caffetterie. Per gli appassionati, interessante una visita all'_Origami Kaikan_. **Zona consigliata anche per i buongustai**; in questo quartiere si trovano infatti più di 30 ristoranti specializzati in _curry_, specialità per la quale nel mese di novembre viene addirittura dedicata una festa. P_oco distante dalla stazione Kanda si trovano alcuni dei più famosi ristoranti di soba della città, come ad esempio Kanda Yabusoba e Kanda Matsuya, che propongono semplici piatti di soba fresca._
+	- Quartiere di [[Shinjuku]] → ottimo per la sera, usare linea Japan Rail East per Japan Rail Pass
 	- Golden Gai → a Shinjuku, molti bar
-	- Santuario Meiji
+	- [[Santuario Meiji]]
 	- Quartiere Harajuku + Yoyogi park → negozi di abbigliamento e vintage
 	- Shibuya → statua di Hachiko
 	- Quartiere Roppongi → per la notte

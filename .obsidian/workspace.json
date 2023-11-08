@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
-                "mode": "preview",
+                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
+                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
+                "file": "Locations/Cities/blocks/Asakusa(浅草).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Ossama Valentina.md"
+                "file": "Locations/Cities/blocks/Asakusa(浅草).md"
               }
             }
           },
@@ -189,12 +189,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "26112a1e59045088",
   "lastOpenFiles": [
-    "Locations/Cities/Senza nome",
+    "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/blocks/Asakusa(浅草).md",
+    "Itinerario Ossama Valentina.md",
+    "Locations/Cities/blocks",
     "Itenerario v1.md",
     "Itinerario Tokyo v2.md",
-    "Locations/Cities/Tokyo東京.md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/~WRL0001.tmp",
     "Locations/Cities/~WRD0000.tmp",
@@ -205,8 +207,6 @@
     "Locations/Cities/~$okyo東京.odt",
     "Locations/Cities/Tokyo東京.odt",
     "Locations/Cities/Tokyo東京.txt",
-    "Itinerario Ossama Valentina.md",
-    "allegati",
     "allegati/Pasted image 20231108100023.png",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Hotels/Senza nome.md",

@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itinerario Ossama Valentina.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2c21dd435ce56f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerario Ossama Valentina.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md",
+                "file": "Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Tokyo東京.md"
+                "file": "Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -136,13 +149,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "5024ef9948d2adc3",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +181,14 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "26112a1e59045088",
+  "active": "b2c21dd435ce56f8",
   "lastOpenFiles": [
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Itinerario.md",
-    "Locations/Hotels/Senza nome.md",
+    "Itenerario v1.md",
+    "Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Hotels/Senza nome.md",
     "Locations/Hotels",
     "Locations/Temples/Senza nome.md",
     "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
@@ -181,7 +203,6 @@
     "Locations",
     "Locations Interactive Map",
     "Path.json",
-    "//Path.json",
-    "Senza nome.md"
+    "//Path.json"
   ]
 }

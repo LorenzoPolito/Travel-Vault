@@ -55,7 +55,7 @@ Ci spostiamo poi nel primo pomeriggio a [Ginza](https://www.giapponepertutti.it
 [![Ginza Car-free zone](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ginza_Car-free_zone.jpg/1024px-Ginza_Car-free_zone.jpg)](https://commons.wikimedia.org/wiki/File:Ginza_Car-free_zone.jpg "Volfgang, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons")
 ### Giorno 3
 
-_**Asakusa e Ueno**_
+_**[[Asakusa(浅草)]] e Ueno**_
 
 Partendo da [Asakusa](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/cosa-vedere-ad-asakusa/) visitiamo il complesso del tempio Sensoji con la strada dei negozi (per turisti) Nakamise Dori e il portale di entrata Kaminarimon. Davanti al portale troverete un edificio ricoperto di legno, ospita gli uffici del turismo di Asakusa, potete salire gratuitamente fino all’8° piano e vedere il quartiere dall’alto.
 

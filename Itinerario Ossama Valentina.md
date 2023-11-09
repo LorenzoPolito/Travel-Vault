@@ -23,7 +23,7 @@ darkMode: true
 
 ### Itinerario base
 
-- Tokyo
+- [[Tokyo(東京)]]
 	-  Quartiere [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 	- National Museum (?) → chiuso il lunedi
 	- Parco di Ueno
@@ -42,7 +42,7 @@ darkMode: true
 	- Tokyo Tower
 	- Gundam
 	- Parco di Kinuta
-- Kyoto
+- [[Kyoto(京都)]]
 	  - Fushimi Inari Taisha e zona circostante
 	  - Arashiyama e il bosco di bambù → un quarto d’ora di treno
 	  - Passeggiata del filosofo
@@ -56,7 +56,7 @@ darkMode: true
 	  - Nishiki market → orari 9-18
 	  - Ryoan ji → prezzo 500 yen, orario 8-17
 	  - Nanzen Ji → prezzo 600 yen, orario 8:40-17
-- Hiroshima
+- [[Hiroshima(広島)]]
 	- Parco della memoria, Museo della Pace e A-Bomb Dome → orario 8:30-18, 200 yen
 	- Museo Mazda → automobili, gratuito e bisogna prenotare in anticipo [qui](https://www.mazda.com/en/about/museum/reservations/)
 	- Giardino Shukkeien → orario 9-17, 260 yen

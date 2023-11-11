@@ -3,7 +3,7 @@
     {
       "id": "JAP-map",
       "locked": true,
-      "lastAccessed": 1699713675133,
+      "lastAccessed": 1699713710845,
       "markers": [
         {
           "id": "ID_3beaa8cb284b",
@@ -100,7 +100,10 @@
           "reversed": false
         }
       ],
-      "files": []
+      "files": [
+        "Itenerario v1.md",
+        "Itinerario Ossama Valentina.md"
+      ]
     }
   ],
   "defaultMarker": {

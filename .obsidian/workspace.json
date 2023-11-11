@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4171027c469818cc",
+        "id": "372920bf6b6fcb56",
         "type": "tabs",
         "children": [
           {
-            "id": "d0ce079e25357cda",
+            "id": "66cbc55d7585c96e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerario Ossama Valentina.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerario Ossama Valentina.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,8 +152,9 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "d0ce079e25357cda",
+  "active": "66cbc55d7585c96e",
   "lastOpenFiles": [
+    "Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Itenerario v1.md",
@@ -172,7 +165,6 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Locations/Cities/blocks",
     "Locations/Cities/Tokyo東京.docx",
-    "Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo東京.md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Hotels/Senza nome.md",

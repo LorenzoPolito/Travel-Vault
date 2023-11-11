@@ -135,7 +135,7 @@
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {
-    "darkMode": "false",
+    "darkMode": "true",
     "defaultZoom": 5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",

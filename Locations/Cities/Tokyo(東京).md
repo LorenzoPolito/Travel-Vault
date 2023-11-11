@@ -32,7 +32,11 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 - [[Ueno]]
 - [[Shibuya(渋谷)]]
 - [[Asakusa(浅草)]]
-- Gotokuji Temple
+- [[Gotokuji Temple]]
+- [[Jardín Koishikawa Korakuen]]
+- [[Kamakura]]
+- [[Godzilla Statue]]
+- 
 
 
 ## Itinerario tokyo v1

@@ -22,7 +22,11 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 
 ## Zone da visitare
 
--
+- [[Tokyo tower]]
+- [[Palazzo Imperiale di tokyo]]
+- [[Museo Ghibli]]
+- [[Shinjuku Gyo-en]]
+- 
 
 
 ## Itinerario tokyo v1

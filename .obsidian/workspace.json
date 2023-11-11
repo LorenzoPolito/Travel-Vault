@@ -14,8 +14,21 @@
               "type": "obsidian-leaflet-map-view",
               "state": {}
             }
+          },
+          {
+            "id": "f9dad0f91086cbf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerario v2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerario v2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerario v2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerario v2.md"
+              }
             }
           },
           {
@@ -152,12 +169,13 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "66cbc55d7585c96e",
+  "active": "f9dad0f91086cbf2",
   "lastOpenFiles": [
+    "Itenerario v1.md",
+    "Itinerario v2.md",
     "Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Hiroshima(広島).md",
-    "Itenerario v1.md",
     "Itinerario.md",
     "allegati/Pasted image 20231108100023.png",
     "allegati",

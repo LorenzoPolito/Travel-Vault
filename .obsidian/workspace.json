@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerario v2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario v2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario v2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario v2.md"
+                "file": "Locations/Cities/Tokyo(東京).md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "f9dad0f91086cbf2",
   "lastOpenFiles": [
-    "Locations/Cities/Tokyo(東京).md",
     "Itinerario v2.md",
+    "Locations/Cities/Tokyo(東京).md",
     "Itenerario v1.md",
     "Itinerario Ossama Valentina.md",
     "Locations/Cities/Hiroshima(広島).md",

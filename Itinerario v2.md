@@ -17,4 +17,19 @@ darkMode: true
 ## Alloggi
 
 <iframe src="https://www.booking.com/hotel/jp/sakura-jimbocho.it.html?aid=397645&amp;label=bin859jc-1DCAEoggI46AdIFFgDaHGIAQGYARS4ARfIAQzYAQPoAQH4AQKIAgGoAgO4ArvSvqoGwAIB0gIkY2QxYmJiMWYtNDBmZi00YzRhLWJjYzctN2I4NWQ5ZWZiYTcw2AIE4AIB&amp;sid=ea640eb0dbd9b1e1ab2fa300a48bd4f0&amp;dest_id=-246227&amp;dest_type=city&amp;nflt=roomfacility%3D38%3Bprice%3DEUR-min-600-1&amp;room1=A%2CA%2CA%2CA%2CA%2CA&amp;group_adults=6&amp;group_children=0&amp;no_rooms=1&amp;checkin=2024-04-02&amp;checkout=2024-04-06&amp;highlighted_blocks=49980027_190301452_6_1_0&amp;atlas_src=sr_iw_title&amp;ucfs=1" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
-[]
+### [[Sakura Hotel Jimbocho]]
+
+#### Vantaggi
+
+- bagno privato
+- *cancellazione gratuita*
+- *colazione inclusa*
+
+#### Svantaggio
+
+- struttura piccola
+- poche camere
+- poco curato
+- letti a castello
+
+## Zone da v

@@ -2,17 +2,15 @@
   "mapMarkers": [
     {
       "id": "JAP-map",
-      "locked": true,
-      "lastAccessed": 1699713710845,
+      "lastAccessed": 1700046995318,
       "markers": [
         {
-          "id": "ID_3beaa8cb284b",
+          "id": "ID_793adac88a0b",
           "type": "default",
           "loc": [
-            35.69076395093683,
-            139.77630615234378
+            36.25793199580119,
+            130.20996093750003
           ],
-          "link": "Tokyo東京",
           "layer": "real",
           "mutable": true,
           "command": false,
@@ -23,30 +21,12 @@
           "tooltip": "hover"
         },
         {
-          "id": "ID_7aab8b2b7bdb",
+          "id": "ID_7bdaca581ad9",
           "type": "default",
           "loc": [
-            35.021210571849416,
-            135.75582504272464
+            36.25793199580119,
+            130.20996093750003
           ],
-          "link": "Kyoto(京都)",
-          "layer": "real",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_69e98a88da1a",
-          "type": "default",
-          "loc": [
-            34.3916832157663,
-            132.45117187500003
-          ],
-          "link": "Hiroshima(広島)",
           "layer": "real",
           "mutable": true,
           "command": false,
@@ -58,51 +38,38 @@
         }
       ],
       "overlays": [],
-      "shapes": [
+      "shapes": [],
+      "files": [
+        "Itinerario Ossama Valentina.md",
+        "Itenerario v1.md"
+      ]
+    },
+    {
+      "id": "asakusa-map",
+      "lastAccessed": 1700047020133,
+      "markers": [
         {
-          "type": "polyline",
-          "color": "#005ec2",
-          "vertices": [
-            {
-              "lat": 41.897453730479384,
-              "lng": 12.48321533203125,
-              "id": "ID_88995b4b49db",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 35.69076395093683,
-              "lng": 139.77630615234378,
-              "id": "ID_68b8cb5a2a49",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 35.01947087202344,
-              "lng": 135.75393676757815,
-              "id": "ID_5ad8e95b1a39",
-              "targets": {
-                "vertexIds": []
-              }
-            },
-            {
-              "lat": 34.3916832157663,
-              "lng": 132.44018554687503,
-              "id": "ID_3a793ac9b918",
-              "targets": {
-                "vertexIds": []
-              }
-            }
+          "id": "ID_4a9bcab9ab49",
+          "type": "default",
+          "loc": [
+            35.715010547316524,
+            139.79574680328372
           ],
-          "arrows": false,
-          "reversed": false
+          "link": "Asakusa(浅草)",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
+      "overlays": [],
+      "shapes": [],
       "files": [
-        "Itenerario v1.md",
-        "Itinerario Ossama Valentina.md"
+        "Locations/Cities/blocks/Asakusa(浅草).md"
       ]
     }
   ],
@@ -135,8 +102,8 @@
   "configDirectory": null,
   "mapViewEnabled": true,
   "mapViewParameters": {
-    "darkMode": "true",
-    "defaultZoom": 5,
+    "darkMode": true,
+    "defaultZoom": 12,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -152,13 +119,15 @@
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [],
+    "marker": [
+      "default,35.69039215333176,139.776763971895,Tokyo東京"
+    ],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
-    "maxZoom": 10,
-    "minZoom": 1,
+    "maxZoom": 18,
+    "minZoom": 11,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",
@@ -169,6 +138,9 @@
     "zoomDelta": 1,
     "zoomFeatures": false,
     "id": "tokyo-map",
+    "lat": 35.652832,
+    "long": 139.839478,
+    "unit": "meters",
     "filterTag": []
   },
   "enableDraw": true,

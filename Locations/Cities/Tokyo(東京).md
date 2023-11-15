@@ -20,6 +20,24 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 ```
 
 
+## Zone da visitare
+
+- [[Tokyo tower]]
+- [[Palazzo Imperiale di tokyo]]
+- [[Museo Ghibli]]
+- [[Shinjuku Gyo-en]]
+- [[Rainbow Bridge]]
+- [[Tsukiji Hongwanji Temple]] #informarsi
+- [[Tokyo skytree]]
+- [[Ueno]]
+- [[Shibuya(渋谷)]]
+- [[Asakusa(浅草)]]
+- [[Gotokuji Temple]]
+- [[Jardín Koishikawa Korakuen]]
+- [[Kamakura]]
+- [[Godzilla Statue]]
+
+
 ## Itinerario tokyo v1
 
 >Da [Cosa vedere a Tokyo: itinerario di 4 e 5 giorni - Giappone per Tutti](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/cosa-vedere-a-tokyo/tokyo-itinerario-4-giorni/#tab-id-1)

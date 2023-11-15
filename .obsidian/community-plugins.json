@@ -17,5 +17,6 @@
   "obsidian-pandoc",
   "url-into-selection",
   "oz-image-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "convert-url-to-iframe"
 ]

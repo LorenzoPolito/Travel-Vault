@@ -14,11 +14,6 @@ scale: 1
 darkMode: true
 ```
 
-
-
-
-
-
 ## Da Ossama e Valentina
 
 ### Itinerario base

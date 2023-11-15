@@ -4,11 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4171027c469818cc",
+        "id": "372920bf6b6fcb56",
         "type": "tabs",
         "children": [
           {
-            "id": "26112a1e59045088",
+            "id": "66cbc55d7585c96e",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "f9dad0f91086cbf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +25,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b2c21dd435ce56f8",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -145,25 +145,8 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "5024ef9948d2adc3",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          },
-          {
-            "id": "459e884ed208ec01",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,39 +162,41 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "b2c21dd435ce56f8",
+  "active": "f9dad0f91086cbf2",
   "lastOpenFiles": [
-    "Itenerario v1.md",
+    "Itinerario v2.md",
     "Locations/Cities/Tokyo(東京).md",
+    "Itenerario v1.md",
     "Itinerario Ossama Valentina.md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Itinerario.md",
+    "allegati/Pasted image 20231108100023.png",
+    "allegati",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/blocks",
-    "Itinerario Tokyo v2.md",
-    "Locations/Cities/~WRL0001.tmp",
-    "Locations/Cities/~WRD0000.tmp",
-    "Locations/Cities/~$okyo東京.docx",
     "Locations/Cities/Tokyo東京.docx",
-    "Locations/Cities/Tokyo東京.mediawiki",
-    "Locations/Cities/Tokyo東京.html",
-    "Locations/Cities/~$okyo東京.odt",
-    "Locations/Cities/Tokyo東京.odt",
-    "Locations/Cities/Tokyo東京.txt",
-    "allegati/Pasted image 20231108100023.png",
+    "Locations/Cities/Tokyo東京.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Locations/Hotels/Senza nome.md",
+    "Locations/Hotels",
     "Locations/Temples/Senza nome.md",
     "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Stores/Senza nome.md",
-    "Locations/Senza nome.md"
+    "Locations/Stores",
+    "Locations/Restaurants",
+    "Locations/Tamples/Senza nome",
+    "Locations/Temples",
+    "Locations/Cities",
+    "Locations/Senza nome.md",
+    "Locations"
   ]
 }

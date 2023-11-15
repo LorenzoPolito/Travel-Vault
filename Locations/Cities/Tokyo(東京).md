@@ -36,6 +36,7 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 - [[Jardín Koishikawa Korakuen]]
 - [[Kamakura]]
 - [[Godzilla Statue]]
+- [[Fabrica dei Gundam]] a [[Yokohama]]!!!
 
 
 ## Itinerario tokyo v1

@@ -4,7 +4,7 @@
 3. A seconda dell'orario si può cominciare a visitare Tokyo con le mete più vicine.
 4. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]]
 5. Cena
-6. un po di vita notturna, ma a letto presto per aiutare con il jetleg
+6. un po di vita notturna a [[Shinguku]], ma a letto presto per aiutare con il jet leg.
 
 ## Giorno 2
-1. Pariamo per [[Kamakura(鎌倉市)]]
+1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]]

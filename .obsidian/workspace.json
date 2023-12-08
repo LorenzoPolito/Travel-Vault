@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Itinerario v2.md",
                 "mode": "preview",
                 "source": false
               }
             }
+          },
+          {
+            "id": "32ff37d528a8c36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerario v3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Itinerario v3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Itinerario v3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md"
+                "file": "Itinerario v3.md"
               }
             }
           },
@@ -177,18 +190,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "906e8ca7e21e18b8",
+  "active": "32ff37d528a8c36c",
   "lastOpenFiles": [
+    "Itinerario v2.md",
+    "Itinerario v3.md",
+    "Itenerario v1.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Location added on 2023-11-17T11-11.md",
     "Locations/Cities/Tokyo(東京).md",
-    "Itinerario v2.md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Itinerario Ossama Valentina.md",
-    "Itenerario v1.md",
     "Locations/Cities/blocks",
     "Itinerario Tokyo v2.md",
     "Locations/Cities/~WRL0001.tmp",

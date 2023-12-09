@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerario v3.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario v3.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario v3.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario v3.md"
+                "file": "Locations/Cities/Osaka(大阪市).md"
               }
             }
           },
@@ -192,8 +192,9 @@
   },
   "active": "32ff37d528a8c36c",
   "lastOpenFiles": [
-    "Itinerario v2.md",
     "Itinerario v3.md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Itinerario v2.md",
     "Itenerario v1.md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",

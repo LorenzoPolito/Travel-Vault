@@ -19,3 +19,5 @@ darkMode: true
 marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 ```
 
+## Hotels
+- 

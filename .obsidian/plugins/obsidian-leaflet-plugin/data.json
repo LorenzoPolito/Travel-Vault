@@ -1,9 +1,41 @@
 {
   "mapMarkers": [
     {
+      "id": "asakusa-map",
+      "lastAccessed": 1700215948055,
+      "markers": [
+        {
+          "id": "ID_4a9bcab9ab49",
+          "type": "default",
+          "loc": [
+            35.715010547316524,
+            139.79574680328372
+          ],
+          "link": "Asakusa(浅草)",
+          "layer": "real",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Cities/blocks/Asakusa(浅草).md"
+      ]
+    },
+    {
       "id": "JAP-map",
+<<<<<<< HEAD
       "locked": true,
       "lastAccessed": 1700327663852,
+=======
+      "lastAccessed": 1702069988536,
+>>>>>>> origin/main
       "markers": [
         {
           "id": "ID_3beaa8cb284b",
@@ -38,6 +70,7 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+<<<<<<< HEAD
         },
         {
           "id": "ID_69e98a88da1a",
@@ -100,6 +133,12 @@
           "reversed": false
         }
       ],
+=======
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+>>>>>>> origin/main
       "files": [
         "Itenerario v1.md"
       ]

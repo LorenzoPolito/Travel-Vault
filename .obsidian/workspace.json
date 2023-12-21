@@ -97,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Locations/Cities/Kyoto(京都).md"
               }
             }
           },
@@ -187,10 +189,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "906e8ca7e21e18b8",
   "lastOpenFiles": [
-    "Locations/Cities/Kyoto(京都).md",
     "conflict-files-obsidian-git.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Itinerario v3.md",

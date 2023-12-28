@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b60a8bcc898c879",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +171,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "4b60a8bcc898c879",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Streamer build V0.2.2.md",

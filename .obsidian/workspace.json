@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Streamer build V0.2.2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "4b60a8bcc898c879",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Streamer build V0.2.2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Streamer build V0.2.2.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Streamer build V0.2.2.md"
+                "file": "Locations/Cities/Tokyo(東京).md"
               }
             }
           },
@@ -171,19 +160,19 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "4b60a8bcc898c879",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Streamer build V0.2.2.md",
+    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Kobe(神戸).md",
+    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Kyoto(京都).md",
     "Itinerario v3.md",
+    "Streamer build V0.2.2.md",
+    "conflict-files-obsidian-git.md",
     "Itinerario v2.md",
     "Itinerario Ossama Valentina.md",
     "Itenerario v1.md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Osaka(大阪市).md",
-    "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Cities/Tokyo(東京).md",
     "Itinerario.md",
     "allegati/Pasted image 20231108100023.png",

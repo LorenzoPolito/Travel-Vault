@@ -14,19 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Info/Voli/Test per riferimento.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32ff37d528a8c36c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -191,6 +179,8 @@
   },
   "active": "906e8ca7e21e18b8",
   "lastOpenFiles": [
+    "allegati/Pasted image 20240109155043.png",
+    "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
     "allegati/Pasted image 20240109154335.png",
     "allegati/Pasted image 20240109154118.png",

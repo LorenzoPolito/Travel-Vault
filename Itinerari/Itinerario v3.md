@@ -8,8 +8,7 @@
 
 ## Giorno 2
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
-2. partenza con lo shinkansen( #todo come si prenota lo shinkansen?) verso [[Osaka(大阪市)]]
-3. Check-in Hotel e veloce visita della città
+2. Si torna alla stazione 
 
 ## Giorno 3
 1. visita del [[Castello di Osaka]] ( 2 ore )

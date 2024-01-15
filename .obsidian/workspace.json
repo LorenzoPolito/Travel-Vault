@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
-                "mode": "preview",
+                "file": "Itinerari/Itinerario v3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Itinerario v3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Itinerario v3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md"
+                "file": "Itinerari/Itinerario v3.md"
               }
             }
           },
@@ -179,13 +179,13 @@
   },
   "active": "906e8ca7e21e18b8",
   "lastOpenFiles": [
+    "Info/Voli/Test per riferimento.md",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
     "allegati/Pasted image 20240109154335.png",
     "allegati/Pasted image 20240109154118.png",
     "Itinerari/Itenerario v1.md",
-    "Info/Voli/Test per riferimento.md",
     "Info/Voli",
     "Info",
     "Itinerari/Itinerario v3.md",

@@ -8,8 +8,9 @@
 
 ## Giorno 2
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
-2. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
-3. Ritorno a Tokyo per vita notturna
+2. pranzo
+3. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
+4. Ritorno a Tokyo per vita notturna
 
 ## Giorno 3
 1. 

@@ -8,7 +8,7 @@
 
 ## Giorno 2
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
-2. Si torna alla stazione 
+2. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
 
 ## Giorno 3
 1. visita del [[Castello di Osaka]] ( 2 ore )
@@ -18,5 +18,5 @@
 5. Partenza per [[Kyoto(京都)]]
 
 ## Giorno 4
-1. Arrivo sera e check-in all' Hotel
+1. Arrivo sera e check-in all'Hotel
 2. 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hotels/Senza nome.md",
-                "mode": "preview",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Hotels/Senza nome.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Hotels/Senza nome.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Hotels/Senza nome.md"
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
               }
             }
           },
@@ -163,7 +163,7 @@
   "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Locations/Hotels/Senza nome.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",

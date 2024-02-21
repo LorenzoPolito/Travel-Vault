@@ -9,7 +9,7 @@
 - https://www.booking.com/Share-rp6WzZo
 - https://www.booking.com/Share-uCuAG0
 ##### Hotel/Hostel:
-
+- https://www.booking.com/Share-F2Xq5Q (meno di 10 euro a notte!)
 ### Kyoto
 ##### Case vacanza/appartamenti:
 - https://www.booking.com/Share-To8rXM

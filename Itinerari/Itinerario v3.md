@@ -8,10 +8,14 @@
 
 ## Giorno 2
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
-2. partenza con lo shinkansen( #todo come si prenota lo shinkansen?) verso [[Osaka(大阪市)]]
-3. Check-in Hotel e veloce visita della città
+2. pranzo
+3. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
+4. Ritorno a Tokyo per vita notturna
 
 ## Giorno 3
+1. 
+
+## Giorno X
 1. visita del [[Castello di Osaka]] ( 2 ore )
 2. Giro per la città
 3. viaggio verso [[Kobe(神戸)]] per il pranzo con la carne più buona(costosa) del mondo
@@ -19,5 +23,5 @@
 5. Partenza per [[Kyoto(京都)]]
 
 ## Giorno 4
-1. Arrivo sera e check-in all' Hotel
+1. Arrivo sera e check-in all'Hotel
 2. 

@@ -13,7 +13,7 @@
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto
 2. check in all'hotel
-## Giorno X ( 2 - Osaka)
+## Giorno 2 ( 2 - Osaka)
 1. visita del [[Castello di Osaka]] ( 2 ore )
 2. Giro per la città
 ## Giorno X ( 1 - Tokyo)

@@ -1,4 +1,10 @@
 
+| città     | giorni |
+| --------- | ------ |
+| Osaka     | 3       |
+| Kyoto     | 3       |
+| Hiroshima | 1       |
+| Tokyo          | 5       |
 
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md",
+                "file": "Itinerari/Itinerario v4.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md",
+                "file": "Itinerari/Itinerario v4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md",
+                "file": "Itinerari/Itinerario v4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md"
+                "file": "Itinerari/Itinerario v4.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   },
   "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Cities/Osaka(大阪市).md",
     "Itinerari/Itinerario v4.md",
     "Itinerari/Itinerario Ossama Valentina.md",
@@ -195,7 +196,6 @@
     "Locations/Cities/Kobe(神戸).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Tokyo(東京).md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "conflict-files-obsidian-git.md",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",

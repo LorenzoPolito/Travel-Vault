@@ -148,13 +148,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c4103d0aeec749df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 274.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +180,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "c4103d0aeec749df",
   "lastOpenFiles": [
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario v4.md",

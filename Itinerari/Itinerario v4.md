@@ -1,13 +1,11 @@
 
 
-## Giorno 1 ()
-1. 
+## Giorno 1 ( 1 - Osaka)
+1. arrivo a [[Osaka(大阪市)]] aeroporto
+2. check in all'hotel
 ## Giorno X ( 2 - Osaka)
 1. visita del [[Castello di Osaka]] ( 2 ore )
 2. Giro per la città
-3. viaggio verso [[Kobe(神戸)]] per il pranzo con la carne più buona(costosa) del mondo
-4. piccolo giro verso il porto di Kobe
-5. Partenza per [[Kyoto(京都)]]
 ## Giorno X ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]]
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).

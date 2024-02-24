@@ -3,10 +3,10 @@
 |:----------:|:------:|:-----:|:------------------------------:|
 |   Osaka    |   3    |   2   |       1/2 giorno a Nara        |
 |    Kobe    |   1    |   1   |                                |
-|   Kyoto    |   4    |   3   | 1 giorno all'Universal studios |
+|   Kyoto    |   4    |   4   | 1 giorno all'Universal studios |
 | Hiroshima  |   1    |   1   |                                |
-|   Tokyo    |   5    |   4   |                                |
-| **TOTALE** |   14   |  11   |                                |
+|   Tokyo    |   5    |   5   |                                |
+| **TOTALE** |   14   |  13   |                                |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

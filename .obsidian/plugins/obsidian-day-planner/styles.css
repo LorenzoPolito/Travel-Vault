@@ -443,12 +443,8 @@
   border-left: 20px solid transparent;
 }
 .progress-pie.day-planner {
-  float: left;
-  display: none;
   width: 20px;
   height: 20px;
-  margin: 0.3px 10px 0.3px 0;
-  background-color: var(--text-muted);
 }
 .progress-pie.day-planner::after {
   width: 80%;
@@ -462,7 +458,8 @@
   background-color: transparent;
 }
 [data-type=timeline] .view-content,
-[data-type=weekly] .view-content {
+[data-type=weekly] .view-content,
+[data-type=timeTracker] .view-content {
   --time-ruler-width: 30px;
   display: flex;
   flex-direction: column;
@@ -472,4 +469,8 @@
   position: absolute;
   right: 0;
   left: 0;
+}
+.day-planner-release-notes-modal .modal-content {
+  height: 100%;
+  overflow: auto;
 }

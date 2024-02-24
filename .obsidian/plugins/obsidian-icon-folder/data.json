@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
@@ -13,7 +13,15 @@
       "RiRestaurantFill"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "icon": "IbLocation",
+        "rule": "Locations Interactive Map\\/[\\w\\d\\s]+\\.(?:\\w+\\.)*\\w+",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -23,11 +31,9 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
-  },
-  "Locations Interactive Map": {
-    "iconName": "LiLocateFixed",
-    "inheritanceIcon": "IbLocation"
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
   "Locations": "FasLocationDot",
   "Locations/Cities": "FasCity",
@@ -35,5 +41,6 @@
   "Locations/Stores": "IbStore",
   "Locations/Temples": "🛕",
   "Locations/Hotels": "LiHotel",
-  "Locations/Cities/blocks": "FasStreetView"
+  "Locations/Cities/blocks": "FasStreetView",
+  "Locations Interactive Map": "LiLocateFixed"
 }

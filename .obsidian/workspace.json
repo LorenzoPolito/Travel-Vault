@@ -156,13 +156,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "2e74f90a2459c6d3",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 271.5
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,19 +181,22 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Ossama Valentina.md",
+    "Info/Voli/Test per riferimento.md",
+    "2024-02-25.md",
+    "2024-02-24.md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
-    "Itinerari/Itinerario Osaka to Kyoto.md",
-    "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Osaka(大阪市).md",
@@ -193,7 +204,6 @@
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario v2.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Info/Voli/Test per riferimento.md",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Stores/Senza nome.md",
     "conflict-files-obsidian-git.md",
@@ -219,8 +229,6 @@
     "Locations/Cities/Tokyo東京.docx",
     "Locations/Cities/Tokyo東京.md",
     "Locations/Hotels",
-    "Locations/Temples/Senza nome.md",
-    "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations/Stores",
     "Locations/Restaurants",
     "Locations/Tamples/Senza nome"

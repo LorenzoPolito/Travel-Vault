@@ -1,5 +1,5 @@
 ```mapview
-{"name":"Default","mapZoom":8,"centerLat":34.6937569,"centerLng":135.5014539,"query":"","chosenMapSource":0}
+{"name":"Default","mapZoom":9,"centerLat":34.655803905058974,"centerLng":135.51361083984378,"query":"","chosenMapSource":0}
 ```
 
 ## Hotels

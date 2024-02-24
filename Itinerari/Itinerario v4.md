@@ -1,12 +1,13 @@
 
-|   città   | giorni |              nota              |
-|:---------:|:------:|:------------------------------:|
-|   Osaka   |   3    |       1/2 giorno a Nara        |
-|   Kobe    |   1    |                                |
-|   Kyoto   |   4    | 1 giorno all'Universal studios |
-| Hiroshima |   1    |                                |
-|   Tokyo   |   6    |                                |
-|  **TOTALE**   |        |                                |
+|   città    | giorni |              nota              |
+|:----------:|:------:|:------------------------------:|
+|   Osaka    |   3    |       1/2 giorno a Nara        |
+|    Kobe    |   1    |                                |
+|   Kyoto    |   4    | 1 giorno all'Universal studios |
+| Hiroshima  |   1    |                                |
+|   Tokyo    |   6    |                                |
+| **TOTALE** |        |                                |
+<!-- TBLFM: @>$2
 
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto

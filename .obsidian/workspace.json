@@ -15,7 +15,7 @@
               "state": {
                 "file": "Itinerari/Itinerario v4.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -180,7 +180,7 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "c4103d0aeec749df",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario v4.md",

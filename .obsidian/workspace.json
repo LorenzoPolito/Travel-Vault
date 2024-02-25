@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Parks/TOEI Kyoto studio park.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Parks/TOEI Kyoto studio park.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Parks/TOEI Kyoto studio park.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Parks/TOEI Kyoto studio park.md"
+                "file": "Itinerari/Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -196,10 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "250e2a75922185da",
   "lastOpenFiles": [
-    "zs.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
+    "zs.md",
     "Locations/Parks",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Osaka to Kyoto.md",

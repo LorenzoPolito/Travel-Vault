@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md"
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
               }
             }
           },
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 300.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,12 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "250e2a75922185da",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "zs.md",
     "Locations/Parks",
-    "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
     "Info/Voli/Test per riferimento.md",
     "2024-02-25.md",

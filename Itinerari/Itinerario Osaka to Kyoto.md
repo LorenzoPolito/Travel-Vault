@@ -13,9 +13,17 @@
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto
 2. check in all'hotel
+3. grattacielo [[Abeno Harukas]] il più alto del Giappone
+4. [[Namba yasaka shrine]]
+5. quartiere centrale di Osaka [[Dontobori]] ( bar e negozi )
 ## Giorno 2 ( 2 - Osaka)
-1. visita del [[Castello di Osaka]] ( 2 ore )
-2. Giro per la città
+1. visita del [[Castello di Osaka]]  e parco( al mattino presto)
+2. [[Shintenogi temple]]/[[Tenmagu shrine]]
+3. quartiere [[Shinsekai]]
+4. [[Teamlab botanical garden]] (solo di sera) 
+
+## Giorno 3 ( 3 - Osaka)
+1. 
 ## Giorno X ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]]
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).

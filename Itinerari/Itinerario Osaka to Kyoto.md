@@ -1,9 +1,9 @@
 
 |   città    | giorni | notti |              nota              |
-|:----------:|:------:|:-----:|:------------------------------:|
-|   Osaka    |   3    |   2   |       1/2 giorno a Nara        |
+| :--------: | :----: | :---: | :----------------------------: |
+|   Osaka    |   3    |   2   | 1 giorno all'Universal studios |
 |    Kobe    |   1    |   1   |                                |
-|   Kyoto    |   4    |   4   | 1 giorno all'Universal studios |
+|   Kyoto    |   4    |   4   |       1/2 giorno a Nara        |
 | Hiroshima  |   1    |   1   |                                |
 |   Tokyo    |   5    |   5   |                                |
 | **TOTALE** |   14   |  13   |                                |

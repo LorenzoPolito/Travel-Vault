@@ -16,15 +16,15 @@
 4. grattacielo [[Abeno Harukas]], il più alto del Giappone (1 ora)
 5. [[Namba yasaka shrine]] (2 ore)
 6. cena
-7. quartiere centrale di Osaka [[Dontobori]] ( bar e negozi )
+7. quartiere centrale di Osaka [[Dontobori]] *( bar e negozi )*
 8. ritorno all'Hotel
 ## Giorno 2 ( 2 - Osaka)
-1. visita del [[Castello di Osaka]]  e parco( al mattino presto) ( 3 ore)
+1. visita del [[Castello di Osaka]]  e parco *( al mattino presto )* ( 3 ore)
 2. pranzo
 3. [[Shintenogi temple]]/[[Tenmagu shrine]] (2 ore)
 4. quartiere [[Shinsekai]]
 5. cena
-6. [[Teamlab botanical garden]] (solo di sera) 
+6. [[Teamlab botanical garden]] *(solo di sera)* *( opzionale )*
 
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]] 

@@ -25,6 +25,7 @@
 4. quartiere [[Shinsekai]]
 5. cena
 6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
+7. ritorno all'hotel
 
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]]

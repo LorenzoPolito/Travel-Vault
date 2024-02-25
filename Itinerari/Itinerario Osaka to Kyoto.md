@@ -23,7 +23,8 @@
 4. [[Teamlab botanical garden]] (solo di sera) 
 
 ## Giorno 3 ( 3 - Osaka)
-1. 
+1. [[Universal Studios Japan]] 
+2. [[Kayuka aquarium]] *(opzionale)*
 ## Giorno X ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]]
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).

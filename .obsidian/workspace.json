@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -167,12 +166,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +188,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "c4103d0aeec749df",
   "lastOpenFiles": [
     "Itinerari/Itinerario Ossama Valentina.md",
     "Info/Voli/Test per riferimento.md",

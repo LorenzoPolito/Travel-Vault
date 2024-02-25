@@ -1,26 +1,30 @@
 
 |   città    | giorni | notti |                                   note                                    |
-| :--------: | :----: | :---: | :-----------------------------------------------------------------------: |
+|:----------:|:------:|:-----:|:-------------------------------------------------------------------------:|
 |   Osaka    |   3    |   2   | 1 giorno all'Universal studios;<br>Osaka Amazing pass (2 giorni 22 euro); |
-|    Kobe    |   1    |   1   |                                                                           |
 |   Kyoto    |   4    |   4   |                            1/2 giorno a Nara;                             |
 | Hiroshima  |   1    |   1   |                                                                           |
-|   Tokyo    |   5    |   5   |                                                                           |
+|   Tokyo    |   6    |   6   |                                                                           |
 | **TOTALE** |   14   |  13   |                                                                           |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
 ## Giorno 1 ( 1 - Osaka)
-1. arrivo a [[Osaka(大阪市)]] aeroporto
-2. check in all'hotel
-3. grattacielo [[Abeno Harukas]] il più alto del Giappone
-4. [[Namba yasaka shrine]]
-5. quartiere centrale di Osaka [[Dontobori]] ( bar e negozi )
+1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*
+2. check in all'hotel *( riposo post viaggio )*
+3. pranzo
+4. grattacielo [[Abeno Harukas]], il più alto del Giappone (1 ora)
+5. [[Namba yasaka shrine]] (2 ore)
+6. cena
+7. quartiere centrale di Osaka [[Dontobori]] ( bar e negozi )
+8. ritorno all'Hotel
 ## Giorno 2 ( 2 - Osaka)
-1. visita del [[Castello di Osaka]]  e parco( al mattino presto)
-2. [[Shintenogi temple]]/[[Tenmagu shrine]]
-3. quartiere [[Shinsekai]]
-4. [[Teamlab botanical garden]] (solo di sera) 
+1. visita del [[Castello di Osaka]]  e parco( al mattino presto) ( 3 ore)
+2. pranzo
+3. [[Shintenogi temple]]/[[Tenmagu shrine]] (2 ore)
+4. quartiere [[Shinsekai]]
+5. cena
+6. [[Teamlab botanical garden]] (solo di sera) 
 
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]] 

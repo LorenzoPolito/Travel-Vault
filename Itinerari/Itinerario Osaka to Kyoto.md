@@ -1,11 +1,11 @@
 
-|   città    | giorni | notti |                                   note                                    |
-|:----------:|:------:|:-----:|:-------------------------------------------------------------------------:|
-|   Osaka    |   3    |   2   | 1 giorno all'Universal studios;<br>Osaka Amazing pass (2 giorni 22 euro); |
-|   Kyoto    |   4    |   4   |                            1/2 giorno a Nara;                             |
-| Hiroshima  |   1    |   1   |                                                                           |
-|   Tokyo    |   6    |   6   |                                                                           |
-| **TOTALE** |   14   |  13   |                                                                           |
+|   città    | giorni | notti |                                                        note                                                        |
+| :--------: | :----: | :---: | :----------------------------------------------------------------------------------------------------------------: |
+|   Osaka    |   3    |   2   | 1 giorno all'Universal studios(50 euro);<br>Osaka Amazing pass (2 giorni 22 euro);<br>vedi [Klook.com] per sconti; |
+|   Kyoto    |   4    |   4   |                                     1/2 giorno a Nara; TOEI park Eva(15 euro)                                      |
+| Hiroshima  |   1    |   1   |                                                *2 giorni è meglio?*                                                |
+|   Tokyo    |   6    |   6   |                                                    *è troppo?*                                                     |
+| **TOTALE** |   14   |  13   |                                                                                                                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

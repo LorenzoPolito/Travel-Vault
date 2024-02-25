@@ -6,6 +6,7 @@
       {
         "id": "217b9f3dd4244ee6",
         "type": "tabs",
+        "dimension": 66.92789968652038,
         "children": [
           {
             "id": "ae1e2da64af5b6f1",
@@ -18,7 +19,14 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "69f0fb3cdfd17bab",
+        "type": "tabs",
+        "dimension": 33.07210031347962,
+        "children": [
           {
             "id": "250e2a75922185da",
             "type": "leaf",
@@ -97,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+                "file": "Itinerari/Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -188,13 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4103d0aeec749df",
+  "active": "250e2a75922185da",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Info/Voli/Test per riferimento.md",
     "2024-02-25.md",
     "2024-02-24.md",
-    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
     "Locations/Cities/Hiroshima(広島).md",

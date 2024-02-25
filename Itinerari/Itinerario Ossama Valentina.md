@@ -2,18 +2,6 @@
 tags:
   - map
 ---
-```leaflet
-id: JAP-map
-lat : 35.418433054102756
-long : 136.40625000000003
-minZoom: 1
-maxZoom: 15
-defaultZoom: 6
-unit: meters
-scale: 1
-darkMode: true
-```
-
 ## Da Ossama e Valentina
 
 ### Itinerario base

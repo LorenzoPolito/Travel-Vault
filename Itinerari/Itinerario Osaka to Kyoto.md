@@ -1,12 +1,12 @@
 
-|   città    | giorni | notti |              nota              |
-| :--------: | :----: | :---: | :----------------------------: |
-|   Osaka    |   3    |   2   | 1 giorno all'Universal studios |
-|    Kobe    |   1    |   1   |                                |
-|   Kyoto    |   4    |   4   |       1/2 giorno a Nara        |
-| Hiroshima  |   1    |   1   |                                |
-|   Tokyo    |   5    |   5   |                                |
-| **TOTALE** |   14   |  13   |                                |
+|   città    | giorni | notti |                                   note                                    |
+| :--------: | :----: | :---: | :-----------------------------------------------------------------------: |
+|   Osaka    |   3    |   2   | 1 giorno all'Universal studios;<br>Osaka Amazing pass (2 giorni 22 euro); |
+|    Kobe    |   1    |   1   |                                                                           |
+|   Kyoto    |   4    |   4   |                            1/2 giorno a Nara;                             |
+| Hiroshima  |   1    |   1   |                                                                           |
+|   Tokyo    |   5    |   5   |                                                                           |
+| **TOTALE** |   14   |  13   |                                                                           |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -25,6 +25,10 @@
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]] 
 2. [[Kayuka aquarium]] *(opzionale)*
+3. partenza per [[Kyoto(京都)]]
+
+## Giorno 4 ( 1 - Kyoto)
+1. 
 ## Giorno X ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]]
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).

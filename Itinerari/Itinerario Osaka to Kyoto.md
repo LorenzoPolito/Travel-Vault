@@ -24,7 +24,7 @@
 3. [[Shintenogi temple]]/[[Tenmagu shrine]] (2 ore)
 4. quartiere [[Shinsekai]]
 5. cena
-6. [[Teamlab botanical garden]] *(solo di sera)* *( opzionale )*
+6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
 
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]] 

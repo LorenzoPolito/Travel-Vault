@@ -27,7 +27,7 @@
 6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
 
 ## Giorno 3 ( 3 - Osaka)
-1. [[Universal Studios Japan]] 
+1. [[Universal Studios Japan]]
 2. [[Kayuka aquarium]] *(opzionale)*
 3. partenza per [[Kyoto(京都)]]
 

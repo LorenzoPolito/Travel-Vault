@@ -6,6 +6,7 @@
       {
         "id": "217b9f3dd4244ee6",
         "type": "tabs",
+        "dimension": 73.15989847715736,
         "children": [
           {
             "id": "ae1e2da64af5b6f1",
@@ -14,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Itinerario Osaka to Kyoto.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -24,6 +25,7 @@
       {
         "id": "b22e9400a3a3de25",
         "type": "tabs",
+        "dimension": 26.84010152284264,
         "children": [
           {
             "id": "8979022672b262f1",

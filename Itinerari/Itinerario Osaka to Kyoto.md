@@ -5,11 +5,9 @@
 |    Kyoto    |   4    |   4   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
 |  Hiroshima  |   1    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
 |    Tokyo    |   6    |   6   |           23 €            |                                                          *sono troppi giorni?*                                                          |
-| **MEDIA €** |        |       |                           |                                                                                                                                         |
 | **TOTALE**  |   14   |  13   |                           |                                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
-<!-- TBLFM: @-1$3=sum(@I..@-1) -->
 
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*

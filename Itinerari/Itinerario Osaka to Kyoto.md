@@ -33,7 +33,12 @@
 3. partenza per [[Kyoto(京都)]]
 
 ## Giorno X ( 1 - Hiroshima)
-1. partenza da 
+1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
+2. arrivo e check-in all'hotel
+3. traghetto per l'isola di [[Miyajima]]
+4. pranzo
+5. museo e Bomb-dom (2/3 ore)
+6. cena
 ## Giorno 4 ( 1 - Kyoto)
 1. 
 ## Giorno X ( 1 - Tokyo)

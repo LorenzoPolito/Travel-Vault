@@ -9,7 +9,7 @@
 | **TOTALE**  |   14   |  13   |                           |                                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
-<!-- TBLFM: @>$3=sum(@I..@-1) -->
+<!-- TBLFM: @-1$3=sum(@I..@-1) -->
 
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*

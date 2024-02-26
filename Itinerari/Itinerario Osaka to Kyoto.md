@@ -28,9 +28,12 @@
 7. ritorno all'hotel
 
 ## Giorno 3 ( 3 - Osaka)
-1. [[Universal Studios Japan]]
+1. [[Universal Studios Japan]] (pranzo)
 2. [[Kayuka aquarium]] *(opzionale)*
 3. partenza per [[Kyoto(京都)]]
+
+## Giorno 4 ( 1 - Kyoto)
+1. 
 
 ## Giorno X ( 1 - Hiroshima)
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
@@ -38,11 +41,11 @@
 3. traghetto per l'isola di [[Miyajima]]
 4. pranzo
 5. museo e Bomb-dom (2/3 ore)
-6. cena
-## Giorno 4 ( 1 - Kyoto)
-1. 
+6. memorial
+7. cena
+8. ritorno all'hotel
 ## Giorno X ( 1 - Tokyo)
-1. arrivo a [[Tokyo(東京)]]
+1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).
 3. A seconda dell'orario si può cominciare a visitare Tokyo con le mete più vicine.
 4. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)

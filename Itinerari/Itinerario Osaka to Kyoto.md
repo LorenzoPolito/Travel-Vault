@@ -26,16 +26,19 @@
 5. cena
 6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
 7. ritorno all'hotel
-
 ## Giorno 3 ( 3 - Osaka)
 1. [[Universal Studios Japan]] (pranzo)
 2. [[Kayuka aquarium]] *(opzionale)*
 3. partenza per [[Kyoto(京都)]]
-
-## Giorno 4 ( 1 - Kyoto)
+## Giorno 4 ( 1 - Kyoto) #todo
 1. 
-
-## Giorno X ( 1 - Hiroshima)
+## Giorno 5 ( 2 - Kyoto) #todo
+1. 
+## Giorno 6 ( 3 - Kyoto) #todo
+1. 
+## Giorno 7 ( 4 - Kyoto) #todo
+1. 
+## Giorno 8 ( 1 - Hiroshima) #todo
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
 2. arrivo e check-in all'hotel
 3. traghetto per l'isola di [[Miyajima]]
@@ -44,20 +47,18 @@
 6. memorial
 7. cena
 8. ritorno all'hotel
-## Giorno X ( 1 - Tokyo)
+## Giorno X ( 1 - Tokyo) #todo
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).
 3. A seconda dell'orario si può cominciare a visitare Tokyo con le mete più vicine.
 4. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 5. Cena
-6. un po di vita notturna a [[Shinguku]], ma a letto presto per aiutare con il jet leg.
-
-## Giorno X ( 2 - Tokyo)
+6. un pò di vita notturna a [[Shinguku]].
+## Giorno X ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
 2. pranzo
 3. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
 4. Ritorno a Tokyo per vita notturna
-
 ## Giorno X ()
 1. 
 

@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
               }
             }
           },
@@ -195,10 +195,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8979022672b262f1",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "zs.md",

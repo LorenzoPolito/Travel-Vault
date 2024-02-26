@@ -32,6 +32,8 @@
 2. [[Kayuka aquarium]] *(opzionale)*
 3. partenza per [[Kyoto(京都)]]
 
+## Giorno X ( 1 - Hiroshima)
+1. partenza da 
 ## Giorno 4 ( 1 - Kyoto)
 1. 
 ## Giorno X ( 1 - Tokyo)

@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Itinerario Osaka to Kyoto.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,8 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "44c06b4f2699092a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,9 +212,9 @@
   },
   "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Ossama Valentina.md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "zs.md",
     "Locations/Parks",

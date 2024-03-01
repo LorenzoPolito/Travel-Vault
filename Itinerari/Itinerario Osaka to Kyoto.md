@@ -1,11 +1,11 @@
 
-|    città    | giorni | notti | € a notte *(provvisorio)* |                                                                  note                                                                   |
-| :---------: | :----: | :---: | :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|    Osaka    |   3    |   2   |           22 €            | 1 giorno all'Universal studios(50 €);<br>Osaka Amazing pass (2 giorni 22 €);<br>vedi [Klook.com](https://www.klook.com/it/) per sconti; |
-|    Kyoto    |   4    |   4   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
-|  Hiroshima  |   1    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
-|    Tokyo    |   6    |   6   |           23 €            |                                                          *sono troppi giorni?*                                                          |
-| **TOTALE**  |   14   |  13   |                           |                                                                                                                                         |
+|   città    | giorni | notti | € a notte *(provvisorio)* |                                                                  note                                                                   |
+| :--------: | :----: | :---: | :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+|   Osaka    |   3    |   2   |           22 €            | 1 giorno all'Universal studios(50 €);<br>Osaka Amazing pass (2 giorni 22 €);<br>vedi [Klook.com](https://www.klook.com/it/) per sconti; |
+|   Kyoto    |   4    |   4   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
+| Hiroshima  |   1    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
+|   Tokyo    |   6    |   6   |           23 €            |                                                          *sono troppi giorni?*                                                          |
+| **TOTALE** |   14   |  13   |                           |                                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -51,10 +51,11 @@
 ## Giorno 9 ( 1 - Tokyo) #todo
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.
-3. A seconda dell'orario si può cominciare a visitare Tokyo con le mete più vicine.
-4. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
-5. Cena
-6. un pò di vita notturna a [[Shinguku]].
+3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
+4. pranzo
+5. 
+6. Cena
+7. un pò di vita notturna a [[Shinguku]].
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
 2. pranzo

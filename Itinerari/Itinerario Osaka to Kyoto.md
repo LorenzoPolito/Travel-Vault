@@ -10,6 +10,7 @@
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
 #discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
+#discutere spirito di adattamento
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*
 2. check in all'hotel *( riposo post viaggio )*
@@ -57,11 +58,9 @@
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 4. [[Tempio Senso-Ji]]
 5. pranzo
-6. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del giappone
-7. [[Pokemon center shibuya]] e [[nintendo store]]
-8. Cena
-9. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
-10. un po' di vita notturna a [[Shibuya(渋谷)]].
+6. [[Ueno]]
+7. [[Ueno park]]
+8. [[Ameyoko street]]
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata) (1h di viaggio)
 2. pranzo
@@ -81,10 +80,12 @@
 5. [[Shinjuku Gyo-en]]
 6. cena
 ## Giorno 13 ( 5 - Tokyo )
-1. [[Ueno]]
-2. [[Ueno park]]
-3. [[Ameyoko street]]
-4. pranzo
-5. [[Ueno lo]]
+1. 
+2. pranzo
+3. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del giappone
+4. [[Pokemon center shibuya]] e [[nintendo store]]
+5. Cena
+6. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
+7. un po' di vita notturna a [[Shibuya(渋谷)]].
 ## Giorno 14 ( 6 - Tokyo )
 1. as

@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,8 +198,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,11 +220,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44c06b4f2699092a",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
+    "Santuario Meiji.md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
-    "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo(東京).md",
+    "Itinerari/Itinerario Ossama Valentina.md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Shinjuku.md",
@@ -257,7 +257,6 @@
     "Streamer build V0.2.2.md",
     "Itinerario v2.md",
     "Itinerario Ossama Valentina.md",
-    "Itenerario v1.md",
     "allegati/Pasted image 20231108100023.png",
     "allegati",
     "Locations/Cities/blocks",

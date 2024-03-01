@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Ossama Valentina.md"
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
               }
             }
           },
@@ -204,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 542.5
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44c06b4f2699092a",
+  "active": "8979022672b262f1",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Itinerari/Itinerario Ossama Valentina.md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Santuario Meiji.md",
     "Locations/Cities/Tokyo(東京).md",

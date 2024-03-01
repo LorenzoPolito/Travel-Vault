@@ -82,11 +82,12 @@
 ## Giorno 13 ( 5 - Tokyo )
 1. [[Santuario Meiji]] e parco
 2. pranzo
-3. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del giappone
+3. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del Giappone
 4. [[Pokemon center shibuya]] e [[nintendo store]]
 5. Cena
 6. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
 7. un po' di vita notturna a [[Shibuya(渋谷)]].
 ## Giorno 14 ( 6 - Tokyo ) #discutere 
 1. ultime cose da fare come souvenir?
-2. ripartenza
+2.  [[Nakano Broadway]] ?
+3. ripartenza

@@ -50,7 +50,7 @@
 8. ritorno all'hotel
 ## Giorno 9 ( 1 - Tokyo) #todo
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
-2. check-in all'hotel per lasciare le valige ( circa 1 ora per anche riposarsi dal viaggio).
+2. check-in all'hotel per lasciare le valige.
 3. A seconda dell'orario si può cominciare a visitare Tokyo con le mete più vicine.
 4. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 5. Cena

@@ -73,8 +73,12 @@
 4. cena
 5. ritorno ad [[Asakusa(浅草)]] per vita notturna
 ## Giorno 12 ( 4 - Tokyo )
-1. [[Shinjuku]]
-2. pra
+1. [[Palazzo Imperiale di tokyo]]
+2. [[Hokusai museum]]
+3. pranzo
+4. [[Shinjuku]]
+5. [[Shinjuku Gyo-en]]
 ## Giorno 13 ( 5 - Tokyo )
 1. as
 ## Giorno 14 ( 6 - Tokyo )
+1. as

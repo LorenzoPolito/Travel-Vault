@@ -43,12 +43,13 @@
 ## Giorno 8 ( 1 - Hiroshima) #todo
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
 2. arrivo e check-in all'hotel
-3. traghetto per l'isola di [[Miyajima]]
-4. pranzo
-5. museo e Bomb-dom (2/3 ore)
-6. memorial
-7. cena
-8. ritorno all'hotel
+3. lavaggio vestiti ( #discutere )
+4. traghetto per l'isola di [[Miyajima]]
+5. pranzo
+6. museo e Bomb-dom (2/3 ore)
+7. memorial
+8. cena
+9. ritorno all'hotel
 ## Giorno 9 ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.

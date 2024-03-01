@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "8979022672b262f1",
   "lastOpenFiles": [
-    "nakano Broadway.md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
+    "nakano Broadway.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Santuario Meiji.md",

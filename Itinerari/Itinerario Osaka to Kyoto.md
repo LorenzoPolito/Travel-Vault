@@ -27,10 +27,11 @@
 6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
 7. ritorno all'hotel
 ## Giorno 3 ( 3 - Osaka)
-1. [[Universal Studios Japan]] (pranzo)
-2. [[Kayuka aquarium]] *(opzionale)*
-3. partenza per [[Kyoto(京都)]] ( 1h circa)
-4. check-in all'hotel
+1. check-out hotel
+2. [[Universal Studios Japan]] (pranzo)
+3. [[Kayuka aquarium]] *(opzionale)*
+4. partenza per [[Kyoto(京都)]] ( 1h circa)
+5. check-in all'hotel
 ## Giorno 4 ( 1 - Kyoto) #todo
 1. 
 ## Giorno 5 ( 2 - Kyoto) #todo
@@ -60,7 +61,7 @@
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
 2. pranzo
-3. Si torna alla stazione per andare verso [[Nara]] a veder bambi che si inchina!
+3. 
 4. Ritorno a Tokyo per vita notturna
 ## Giorno 11 ( 3 - Tokyo )
 1. as

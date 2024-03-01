@@ -55,17 +55,17 @@
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 4. [[Tempio Senso-Ji]]
 5. pranzo
-6. visita al quartiere [[Shinjuku]] incrocio più trafficato del giappone
-7. Mario kart ride per [[Shinjuku]] ( informarsi sui permessi di guida internazionale #todo)
+6. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del giappone
+7. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
 8. Cena
-9. un pò di vita notturna a [[Shinjuku]].
+9. un po' di vita notturna a [[Shibuya(渋谷)]].
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata) (1h di viaggio)
 2. pranzo
 3. [[Hokone]] metà giornata (1h30 di viaggio)
 4. Ritorno a Tokyo ( Hotel )
 ## Giorno 11 ( 3 - Tokyo )
-1. as
+1. [[Akihabara]] / [[the making of harry potter]] ( #discutere )
 ## Giorno 12 ( 4 - Tokyo )
 1. as
 ## Giorno 13 ( 5 - Tokyo )

@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +98,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -210,10 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "23723419d0798a64",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Ossama Valentina.md",
+    "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Shinjuku.md",
+    "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Parks/TOEI Kyoto studio park.md",
@@ -245,10 +247,8 @@
     "Itinerario v2.md",
     "Itinerario Ossama Valentina.md",
     "Itenerario v1.md",
-    "Itinerario.md",
     "allegati/Pasted image 20231108100023.png",
     "allegati",
-    "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks",
     "Locations/Cities/Tokyo東京.docx",
     "Locations/Hotels",

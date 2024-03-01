@@ -48,14 +48,15 @@
 6. memorial
 7. cena
 8. ritorno all'hotel
-## Giorno 9 ( 1 - Tokyo) #todo
+## Giorno 9 ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 4. pranzo
-5. 
-6. Cena
-7. un pò di vita notturna a [[Shinguku]].
+5. visita al quartiere [[Shinjuku]] incrocio più trafficato del giappone
+6. Mario kart ride per [[Shinjuku]]
+7. Cena
+8. un pò di vita notturna a [[Shinjuku]].
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
 2. pranzo

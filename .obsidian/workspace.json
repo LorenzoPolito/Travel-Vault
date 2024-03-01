@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+                "file": "Itinerari/Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -221,10 +221,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "44c06b4f2699092a",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Cities/Tokyo(東京).md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",

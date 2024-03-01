@@ -61,7 +61,7 @@
 6. [[Ueno]]
 7. [[Ueno park]]
 8. [[Ameyoko street]]
-## Giorno 10 ( 2 - Tokyo) #todo
+## Giorno 10 ( 2 - Tokyo)
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata) (1h di viaggio)
 2. pranzo
 3. [[Hokone]] metà giornata (1h30 di viaggio)
@@ -87,5 +87,5 @@
 5. Cena
 6. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
 7. un po' di vita notturna a [[Shibuya(渋谷)]].
-## Giorno 14 ( 6 - Tokyo )
-1. as
+## Giorno 14 ( 6 - Tokyo ) #discutere 
+1. ripartenza

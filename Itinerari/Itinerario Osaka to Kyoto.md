@@ -9,6 +9,7 @@
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
+#discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*
 2. check in all'hotel *( riposo post viaggio )*
@@ -68,9 +69,12 @@
 ## Giorno 11 ( 3 - Tokyo )
 1. [[Akihabara]] #gruppoA / [[the making of harry potter]] #gruppoB ( due attività parallele #discutere )
 2. pranzo
+3. [[Ginza]]
+4. cena
+5. ritorno ad [[Asakusa(浅草)]] per vita notturna
 ## Giorno 12 ( 4 - Tokyo )
-1. as
+1. [[Shinjuku]]
+2. pra
 ## Giorno 13 ( 5 - Tokyo )
 1. as
 ## Giorno 14 ( 6 - Tokyo )
-1. as

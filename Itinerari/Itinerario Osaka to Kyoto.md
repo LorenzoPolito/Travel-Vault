@@ -54,7 +54,7 @@
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 4. pranzo
 5. visita al quartiere [[Shinjuku]] incrocio più trafficato del giappone
-6. Mario kart ride per [[Shinjuku]]
+6. Mario kart ride per [[Shinjuku]] ( informarsi sui permessi di guida internazionale #todo)
 7. Cena
 8. un pò di vita notturna a [[Shinjuku]].
 ## Giorno 10 ( 2 - Tokyo) #todo

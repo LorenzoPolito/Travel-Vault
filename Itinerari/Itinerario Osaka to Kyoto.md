@@ -61,8 +61,8 @@
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata)
 2. pranzo
-3. 
-4. Ritorno a Tokyo per vita notturna
+3. [[Hokone]] ()
+4. Ritorno a Tokyo ( Hotel )
 ## Giorno 11 ( 3 - Tokyo )
 1. as
 ## Giorno 12 ( 4 - Tokyo )

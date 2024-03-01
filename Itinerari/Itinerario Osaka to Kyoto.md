@@ -80,7 +80,7 @@
 5. [[Shinjuku Gyo-en]]
 6. cena
 ## Giorno 13 ( 5 - Tokyo )
-1. [[Santuario Meiji]]
+1. [[Santuario Meiji]] e parco
 2. pranzo
 3. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del giappone
 4. [[Pokemon center shibuya]] e [[nintendo store]]

@@ -65,7 +65,8 @@
 3. [[Hokone]] metà giornata (1h30 di viaggio)
 4. Ritorno a Tokyo ( Hotel )
 ## Giorno 11 ( 3 - Tokyo )
-1. [[Akihabara]] / [[the making of harry potter]] ( #discutere )
+1. [[Akihabara]] #gruppoA / [[the making of harry potter]] #gruppoB ( due attività parallele #discutere )
+2. pranzo
 ## Giorno 12 ( 4 - Tokyo )
 1. as
 ## Giorno 13 ( 5 - Tokyo )

@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +98,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "23723419d0798a64",
+  "active": "ae1e2da64af5b6f1",
   "lastOpenFiles": [
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",

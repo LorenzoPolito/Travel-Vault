@@ -61,7 +61,7 @@
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata) (1h di viaggio)
 2. pranzo
-3. [[Hokone]] (1h30 di viaggio)
+3. [[Hokone]] metà giornata (1h30 di viaggio)
 4. Ritorno a Tokyo ( Hotel )
 ## Giorno 11 ( 3 - Tokyo )
 1. as

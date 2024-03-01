@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+                "file": "Itinerari/Itinerario Ossama Valentina.md"
               }
             }
           },
@@ -191,18 +192,19 @@
             }
           },
           {
-            "id": "2e74f90a2459c6d3",
+            "id": "0cd81dbc7b2c53b1",
             "type": "leaf",
             "state": {
               "type": "timeline",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 542.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,16 +222,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae1e2da64af5b6f1",
+  "active": "44c06b4f2699092a",
   "lastOpenFiles": [
-    "Santuario Meiji.md",
-    "Itinerari/Itinerario Ossama Valentina.md",
-    "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Itinerari/Itinerario Ossama Valentina.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Santuario Meiji.md",
+    "Locations/Cities/Tokyo(東京).md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Shinjuku.md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "zs.md",
     "Locations/Parks",

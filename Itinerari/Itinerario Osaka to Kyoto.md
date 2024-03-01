@@ -88,4 +88,5 @@
 6. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
 7. un po' di vita notturna a [[Shibuya(渋谷)]].
 ## Giorno 14 ( 6 - Tokyo ) #discutere 
-1. ripartenza
+1. ultime cose da fare come souvenir?
+2. ripartenza

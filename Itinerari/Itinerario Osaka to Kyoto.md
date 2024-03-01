@@ -53,11 +53,12 @@
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
-4. pranzo
-5. visita al quartiere [[Shinjuku]] incrocio più trafficato del giappone
-6. Mario kart ride per [[Shinjuku]] ( informarsi sui permessi di guida internazionale #todo)
-7. Cena
-8. un pò di vita notturna a [[Shinjuku]].
+4. [[Tempio Senso-Ji]]
+5. pranzo
+6. visita al quartiere [[Shinjuku]] incrocio più trafficato del giappone
+7. Mario kart ride per [[Shinjuku]] ( informarsi sui permessi di guida internazionale #todo)
+8. Cena
+9. un pò di vita notturna a [[Shinjuku]].
 ## Giorno 10 ( 2 - Tokyo) #todo
 1. Partiamo per [[Kamakura(鎌倉市)]] per vedere il Grande Buddha nel Tempio [[Kotoku-in]] (mezza giornata) (1h di viaggio)
 2. pranzo

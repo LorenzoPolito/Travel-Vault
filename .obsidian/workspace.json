@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Itinerario Osaka to Tokyo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md"
               }
             }
           },
@@ -172,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,10 +189,10 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "966e4b30960d2945",
+  "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Itinerari/Itinerario Osaka to Tokyo.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
     "Locations/Parks/TOEI Kyoto studio park.md",

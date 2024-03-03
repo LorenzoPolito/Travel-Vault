@@ -1,11 +1,11 @@
 
 |   città    | giorni | notti | € a notte *(provvisorio)* |                                                                  note                                                                   |
-| :--------: | :----: | :---: | :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
-|   Osaka    |   3    |   2   |           22 €            | 1 giorno all'Universal studios(50 €);<br>Osaka Amazing pass (2 giorni 22 €);<br>vedi [Klook.com](https://www.klook.com/it/) per sconti; |
-|   Kyoto    |   4    |   4   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
-| Hiroshima  |   1    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
-|   Tokyo    |   6    |   6   |           23 €            |                                                          *sono troppi giorni?*                                                          |
-| **TOTALE** |   14   |  13   |                           |                                                                                                                                         |
+|:----------:|:------:|:-----:|:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+|   Osaka    |   2    |   1   |           22 €            | 1 giorno all'Universal studios(50 €);<br>Osaka Amazing pass (2 giorni 22 €);<br>vedi [Klook.com](https://www.klook.com/it/) per sconti; |
+|   Kyoto    |   2    |   2   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
+| Hiroshima  |   2    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
+|   Tokyo    |   5    |   5   |           23 €            |                                                          *sono troppi giorni?*                                                          |
+| **TOTALE** |   11   |   9   |                           |                                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

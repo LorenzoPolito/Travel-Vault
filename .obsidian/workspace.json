@@ -8,11 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "906e8ca7e21e18b8",
+            "id": "7b346e99dad9ede9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966e4b30960d2945",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+              }
             }
           },
           {
@@ -169,8 +190,12 @@
       "obsidian-day-planner:Timeline": false
     }
   },
-  "active": "906e8ca7e21e18b8",
+  "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Itinerari/Itinerario Kyoto to Osaka.md",
+    "Itinerari/Itenerario v1.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Parks",
     "Itinerari/Itinerario v3.md",
@@ -180,7 +205,6 @@
     "allegati/Pasted image 20240109154532.png",
     "allegati/Pasted image 20240109154335.png",
     "allegati/Pasted image 20240109154118.png",
-    "Itinerari/Itenerario v1.md",
     "Info/Voli",
     "Info",
     "Itinerari",
@@ -209,7 +233,6 @@
     "Locations/Temples/Senza nome.md",
     "Locations Interactive Map/Location added on 2023-11-02T10-47.md",
     "Locations/Restaurants/Senza nome.md",
-    "Locations/Stores/Senza nome.md",
-    "Locations/Senza nome.md"
+    "Locations/Stores/Senza nome.md"
   ]
 }

@@ -70,7 +70,7 @@
 1. [[Akihabara]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
 2. [[Nakano Broadway]]
 3. pranzo
-4. k
+4. [[kodokan dojo judo]]
 5. [[Ginza]]
 6. cena
 7. ritorno ad [[Asakusa(浅草)]] per vita notturna

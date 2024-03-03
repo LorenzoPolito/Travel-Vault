@@ -68,10 +68,12 @@
 4. Ritorno a Tokyo ( Hotel ) (1h30 di viaggio)
 ## Giorno 11 ( 3 - Tokyo )
 1. [[Akihabara]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
-2. pranzo
-3. [[Ginza]]
-4. cena
-5. ritorno ad [[Asakusa(浅草)]] per vita notturna
+2. [[Nakano Broadway]]
+3. pranzo
+4. k
+5. [[Ginza]]
+6. cena
+7. ritorno ad [[Asakusa(浅草)]] per vita notturna
 ## Giorno 12 ( 4 - Tokyo )
 1. [[Palazzo Imperiale di tokyo]]
 2. [[Hokusai museum]]

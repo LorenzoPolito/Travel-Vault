@@ -37,27 +37,42 @@
 ## Giorno 4 ( 1 - Kyoto)
 1. Kenninji
 2. Ninenzaka
-3. Sannenzaka
-4. Kiyomizu-dera
-5. Sannenzaka (da vedere anche di notte
+3. pranzo 
+4. Sannenzaka
+5. Kiyomizu-dera
+6. cena
+7. Sannenzaka ( da vedere anche di notte )
+8. ritorno all'hotel
 ## Giorno 5 ( 2 - Kyoto) 
 1. Hokan-ji
 2. Ryozen Kannon
 3. Kodai-ji
 4. Maruyama Park (Santuario Yasaka)
-5. Chion-in
-6. Shoren-in Monzeki
-7. Okazaki Park
-8. Heian Jingu Shrine
-9. Eikando
+5. pranzo
+6. Chion-in
+7. Shoren-in Monzeki
+8. Okazaki Park
+9. Heian Jingu Shrine
+10. Eikando
+11. cena?
+12. ritorno all'hotel
 ## Giorno 6 ( 3 - Kyoto) 
-1. Tenryuji
-2. Foresta di bambù di Sagano
-3. Arashiyama
-4. Parco Kameyama
+1. Adashino nenbutsuj
+2. Tenryuji
+3. pranzo
+4. Foresta di bambù di Sagano
+5. Arashiyama
+6. Parco Kameyama
+7. cena
+8. ritorno all'hotel
 ## Giorno 7 ( 4 - Kyoto) 
-1. Fushimi Inari
-2. Kinkaku-ji
+1. Fushimi Inari
+2. pranzo
+3. Reigenji
+4. Kinkaku-ji
+5. Daikaku-ji Temple
+6. cena
+7. ritorno all'hotel
 ## Giorno 8 ( 1 - Hiroshima) 
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
 2. arrivo e check-in all'hotel

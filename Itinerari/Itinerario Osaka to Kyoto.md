@@ -34,19 +34,31 @@
 3. [[Kayuka aquarium]] *(opzionale)*
 4. partenza per [[Kyoto(京都)]] ( 1h circa)
 5. check-in all'hotel
-## Giorno 4 ( 1 - Kyoto) #todo
+## Giorno 4 ( 1 - Kyoto)
 1. Kenninji
 2. Ninenzaka
 3. Sannenzaka
 4. Kiyomizu-dera
 5. Sannenzaka (da vedere anche di notte
-## Giorno 5 ( 2 - Kyoto) #todo
-1. 
-## Giorno 6 ( 3 - Kyoto) #todo
-1. 
-## Giorno 7 ( 4 - Kyoto) #todo
-1. 
-## Giorno 8 ( 1 - Hiroshima) #todo
+## Giorno 5 ( 2 - Kyoto) 
+1. Hokan-ji
+2. Ryozen Kannon
+3. Kodai-ji
+4. Maruyama Park (Santuario Yasaka)
+5. Chion-in
+6. Shoren-in Monzeki
+7. Okazaki Park
+8. Heian Jingu Shrine
+9. Eikando
+## Giorno 6 ( 3 - Kyoto) 
+1. Tenryuji
+2. Foresta di bambù di Sagano
+3. Arashiyama
+4. Parco Kameyama
+## Giorno 7 ( 4 - Kyoto) 
+1. Fushimi Inari
+2. Kinkaku-ji
+## Giorno 8 ( 1 - Hiroshima) 
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]]
 2. arrivo e check-in all'hotel
 3. lavaggio vestiti ( #discutere )

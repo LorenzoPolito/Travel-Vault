@@ -35,7 +35,11 @@
 4. partenza per [[Kyoto(京都)]] ( 1h circa)
 5. check-in all'hotel
 ## Giorno 4 ( 1 - Kyoto) #todo
-1. 
+1. Kenninji
+2. Ninenzaka
+3. Sannenzaka
+4. Kiyomizu-dera
+5. Sannenzaka (da vedere anche di notte
 ## Giorno 5 ( 2 - Kyoto) #todo
 1. 
 ## Giorno 6 ( 3 - Kyoto) #todo

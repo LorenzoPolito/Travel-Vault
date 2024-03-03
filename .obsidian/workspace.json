@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
-                "mode": "source",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka to Kyoto.md"
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md"
               }
             }
           },
@@ -193,7 +193,7 @@
   "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Itinerari/Itinerario Osaka to Tokyo.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
     "Locations/Parks/TOEI Kyoto studio park.md",

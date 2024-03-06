@@ -137,7 +137,7 @@
 ## Giorno 13 ( 6° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
-- [[Nakano Broadway]]
+- [[Nakano Broadway]] *solo se necessario*
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md"
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "c1b9ab1ef947b821",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Locations/Temples/Santuario Meiji.md",

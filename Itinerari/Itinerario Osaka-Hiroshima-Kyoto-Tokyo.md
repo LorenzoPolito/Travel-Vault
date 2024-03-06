@@ -11,7 +11,7 @@
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 ## Giorno 1 (viaggio)
-## Giorno 2 ( 1° Osaka)
+## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
 - Castello di Osaka, 
 - Tempio Hozen-ji,
@@ -26,7 +26,7 @@
 - Universal Studios
 ##### Sera: 
 - Umeda Sky Building
-## Giorno 4 ( 1° Hiroshima)
+## Giorno 4 ( 1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Mattina: 
 - Visita a Nagarekawa, 
@@ -45,7 +45,7 @@
 - Spiaggia Mikasa
 ##### Sera: 
 - Rientro a Hiroshima
-## Giorno 6 ( 1° Kyoto)
+## Giorno 6 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 - Santuario Yasaka, 
@@ -71,39 +71,39 @@
 - Santuario Kanda, 
 - Parco di Ueno 
 - Akihabara (in generale)
-## Giorno 9 ( 1° Tokyo)
+## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
-- Mercato del pesce di Tsukiji e Ginza
+- [[Mercato del pesce di Tsukiji]] e [[Ginza]]
 ##### Pomeriggio: 
-- Palazzo Imperiale di Tokyo e rientro albergo
+- [[Palazzo Imperiale di tokyo]] e rientro albergo
 ##### Sera: 
-- Roppongi, 
-- Azanudai, 
-- Tokyo Tower 
+- [[Roppongi]], 
+- [[Azanudai]], 
+- [[Tokyo tower]]
 ## Giorno 10 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA Making Harry Potter Tour (30min da Tokyo)  | #gruppoB Akihabara  (x acquisti)
+- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
 ##### Pomeriggio: 
-- Odaiba e Rainbow Bridge (tramonto)
+- [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 ## Giorno 11 ( 3° Tokyo/Esterna)
 ##### Mattina: 
-- Partenza per Mt.Fuji Station (2h e 3),
-- Fujiyoshida, 
-- Kanandorii e Chureito Pagoda
+- Partenza per Mt.Fuji Station (2h30m),
+- [[Fujiyoshida]], 
+- [[Kanandorii]] e [[Chureito Pagoda]]
 ##### Pomeriggio: 
 - rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
 ##### Sera: 
-- Shinjuku, 
-- Santuario Meiji
+- [[Shinjuku]], 
+- [[Santuario Meiji]]
 ## Giorno 12 ( 4° Tokyo/Esterna)
 ##### Mattina: 
-- Partenza per Kamakura (1h) e rientro dopo pranzo
+- Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
 ##### Pomeriggio: 
-- Shibuya, 
-- Nintendo Store, 
-- Pokemon Center
+- [[Shibuya]]
+- [[nintendo store]]
+- [[Pokemon center shibuya]]
 ##### Sera: 
 - Mario Kart Ride, 
 - ancora Shibuya (incrocio dall’alto)

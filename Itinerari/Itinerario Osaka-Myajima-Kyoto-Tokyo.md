@@ -60,7 +60,7 @@
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 - [[Santuario Yasaka]]
-- [[Quartiere Gion]] / [[TOEI Kyoto studio park]]? #discutere 
+- [[Quartiere Gion]]
 - [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
@@ -117,14 +117,15 @@
 - [[Santuario Meiji]]
 ## Giorno 11 ( 4° Tokyo/Esterna)
 ##### Mattina/Pomeriggio: 
-- Partenza per [[Kamakura]] (1h da tokyo
+- Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 
 - libera
 ## Giorno 12 (5° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree]] di Asak
+- [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
+- [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
-- [[Shibuya]]
+- [[Shibuya]] 
 - [[nintendo store]]
 - [[Pokemon center shibuya]]
 ##### Sera: 

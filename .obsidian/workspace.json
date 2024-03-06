@@ -6,20 +6,7 @@
       {
         "id": "217b9f3dd4244ee6",
         "type": "tabs",
-        "dimension": 73.15989847715736,
         "children": [
-          {
-            "id": "0a94cc30b3321ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "a5d3808ae47af1f0",
             "type": "leaf",
@@ -27,26 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b22e9400a3a3de25",
-        "type": "tabs",
-        "dimension": 26.84010152284264,
-        "children": [
-          {
-            "id": "8979022672b262f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -219,6 +186,7 @@
   "lastOpenFiles": [
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+    "Locations/Temples/Santuario Meiji.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
@@ -231,7 +199,6 @@
     "Itinerari/Itinerario Osaka to Kyoto.md",
     "Shinjuku.md",
     "nakano Broadway.md",
-    "Locations/Temples/Santuario Meiji.md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "zs.md",

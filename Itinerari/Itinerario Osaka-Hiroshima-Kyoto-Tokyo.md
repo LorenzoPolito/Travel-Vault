@@ -25,54 +25,58 @@
 
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
-- Castello di Osaka #discutere 
-- Tempio Hozen-ji
+- [[Castello di Osaka]] #discutere 
+- [[Tempio Hozen-ji]]
 - Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
-- [[Shinteno-ji temple]]
+- [[Tempio Shinteno-ji]]
 ##### Sera: 
-- Shinsekai e torre Tsutenkaku
+- [[Shinsekai]]
+- [[Torre Tsutenkaku]]
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
-- Nintendo World 
+- [[Nintendo World]]
 #### Pomeriggio: 
-- Universal Studios
+- [[Universal Studios Japan]]
 ##### Sera: 
-- Umeda Sky Building
+- [[Umeda Sky Building]]
 ## Giorno 4 ( 1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
-##### Mattina: 
-- Visita a Nagarekawa, 
-- Hondori street 
+##### Mattina:
+- Visita a [[Nagarekawa]]
+- [[Hondori street]]
 ##### Pomeriggio: 
-- Memorial Park
+- [[Memorial Park]]
 ##### Sera: 
 - a piacere
 ## Giorno 5 ( 2° Hiroshima)
-*Partenza per Miyajima*
+*Partenza per [[Miyajima]]*
 ##### Mattina: 
-- Visita Itsushima Shrine
+- Visita [[Itsushima Shrine]]
 ##### Pomeriggio: 
-- Monte Misen, 
-- Tempio Daisho-in, 
-- Spiaggia Mikasa
+- [[Monte Misen]],
+- [[Tempio Daisho-in]]
+- [[Spiaggia Mikasa]]
 ##### Sera: 
 - Rientro a Hiroshima
 ## Giorno 6 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
-- Santuario Yasaka, 
-- Quartiere Gion e Nishiki Market (pranzo)
+- [[Santuario Yasaka]], 
+- [[Quartiere Gion]] 
+- [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio/sera: 
-- Tempio Kodai-ji, 
-- Sannenzaka e Ninenzaka street, 
-- Kyojizu-dera
+- [[Tempio Kodai-ji]]
+- [[Sannenzaka]] 
+- [[Ninenzaka street]]
+- [[Kyojizu-dera]]
 ## Giorno 7 ( 2° Kyoto)
 ##### Mattina: 
-- Arashiyama (quartiere e foresta bambu)
+- [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
-- Ryon-ji e Kikaku-ji
+- [[Ryon-ji]]  
+- [[Kikaku-ji]]
 ##### Sera: 
-- Fushimi Inari (tramonto)
+- [[Fushimi Inari]] (tramonto)
 ## Giorno 8 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
 - [[Sentiero del filosofo]] e [[Ginkakuji]]
@@ -122,6 +126,7 @@
 ## Giorno 13 ( 4° Osaka)
 ##### Mattina: 
 - libera (ultimi acquisti)
+- [[Nakano Broadway]]
 ##### Pomeriggio: 
 - partenza
 ## Giorno 14 (viaggio)

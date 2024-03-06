@@ -1,12 +1,12 @@
 > Creato da @Damiano
 
 |    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
-| :----------: | :----: | :---: | :-----------------------: | :------------------: |
+|:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
 | Volo andata  |   1    |   1   |         300/400 €         |                      |
 |    Osaka     |   2    |   2   |           25 €            | 1/2 giorno a Nara?;  |
 |  Hiroshima   |   2    |   2   |        25 € circa         |                      |
-|    Kyoto     |   2    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|    Tokyo     |   6    |   5   |           23 €            |                      |
+|    Kyoto     |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
+|    Tokyo     |   5    |   5   |           23 €            |                      |
 | Volo ritorno |   1    |   1   |         300/400 €         |                      |
 |  **TOTALE**  |   14   |  13   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->

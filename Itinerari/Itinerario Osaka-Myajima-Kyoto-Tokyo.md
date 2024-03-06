@@ -107,11 +107,11 @@
 ## Giorno 10 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
-- [[Fujiyoshida]], 
+- [[Fujiyoshida]]
 - [[Kanandorii]] 
 - [[Chureito Pagoda]]
 ##### Pomeriggio: 
-- rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
+- rientro a Tokyo (verso le 16, arrivo quindi alle 18:30)
 ##### Sera: 
 - [[Shinjuku]]
 - [[Santuario Meiji]]
@@ -119,7 +119,9 @@
 ##### Mattina: 
 - Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
 
-## Girno 12 ()
+## Girno 12 (5° Tokyo)
+##### Mattina:
+- 
 ##### Pomeriggio/sera: 
 - [[Shibuya]]
 - [[nintendo store]]
@@ -127,7 +129,7 @@
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya]] (incrocio dall’alto)
-## Giorno 13 ( 5° Tokyo)
+## Giorno 13 ( 6° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway]]

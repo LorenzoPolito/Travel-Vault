@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1b9ab1ef947b821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5d3808ae47af1f0",
+  "active": "c1b9ab1ef947b821",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka to Tokyo.md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
-    "Locations/Temples/Santuario Meiji.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+    "Itinerari/Itinerario Osaka to Tokyo.md",
     "Itinerari/Itinerario Ossama Valentina.md",
+    "Locations/Temples/Santuario Meiji.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
     "Itinerari/Itenerario v1.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",

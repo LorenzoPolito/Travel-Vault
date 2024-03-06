@@ -1,9 +1,9 @@
 > Creato da @Damiano/@Lorenzo
 
 |       città        | giorni | notti | € a notte *(provvisorio)* |         note         |
-|:------------------:|:------:|:-----:|:-------------------------:|:--------------------:|
+| :----------------: | :----: | :---: | :-----------------------: | :------------------: |
 |    Volo andata     |   1    |   1   |         300/400 €         |                      |
-|       Osaka        |   2    |   2   |           25 €            | 1/2 giorno a Nara?;  |
+|       Osaka        |   2    |   2   |           25 €            |                      |
 | Miyajima/Horoshima |   1    |   1   |        25 € circa         |                      |
 |       Kyoto        |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
 |       Tokyo        |   6    |   6   |           23 €            |                      |
@@ -17,7 +17,10 @@
 
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma
-- per Tokyo e Kyoto è utile una [[Suika card]]
+- per Tokyo e Kyoto è utile una [[Suika card]] o [[Pasmo card]]
+- Ad Osaka si può fare la [[Icoca card]] non so se è valida anche nelle altre citta come Suika
+- [[Osaka Amazing pass]] ( 2 giorni 22 €)
+- Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
 ## Giorno 1 (viaggio)
 #### Mattina:
 - preparazione valige

@@ -1,11 +1,12 @@
+> Creato da @Damiano/@Lorenzo
 
 |       città        | giorni | notti | € a notte *(provvisorio)* |         note         |
-| :----------------: | :----: | :---: | :-----------------------: | :------------------: |
+|:------------------:|:------:|:-----:|:-------------------------:|:--------------------:|
 |    Volo andata     |   1    |   1   |         300/400 €         |                      |
 |       Osaka        |   2    |   2   |           25 €            | 1/2 giorno a Nara?;  |
 | Miyajima/Horoshima |   1    |   1   |        25 € circa         |                      |
-|       Kyoto        |   2    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|       Tokyo        |   6    |   5   |           23 €            |                      |
+|       Kyoto        |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
+|       Tokyo        |   6    |   6   |           23 €            |                      |
 |    Volo ritorno    |   1    |   1   |         300/400 €         |                      |
 |     **TOTALE**     |   14   |  13   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
@@ -117,6 +118,8 @@
 ## Giorno 11 ( 4° Tokyo/Esterna)
 ##### Mattina: 
 - Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
+
+## Girno 12 ()
 ##### Pomeriggio/sera: 
 - [[Shibuya]]
 - [[nintendo store]]
@@ -124,7 +127,7 @@
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya]] (incrocio dall’alto)
-## Giorno 13 ( 4° Tokyo)
+## Giorno 13 ( 5° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway]]

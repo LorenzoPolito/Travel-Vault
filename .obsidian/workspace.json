@@ -26,14 +26,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b22e9400a3a3de25",
@@ -215,18 +214,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a5d3808ae47af1f0",
+  "active": "0a94cc30b3321ef3",
   "lastOpenFiles": [
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Ossama Valentina.md",
+    "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+    "Itinerari/Itenerario v1.md",
+    "Itinerari/Itinerario Kyoto to Osaka.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "torre Tsutenkaku.md",
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
-    "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
     "Shinjuku.md",
     "nakano Broadway.md",
     "Locations/Temples/Santuario Meiji.md",
@@ -236,8 +237,6 @@
     "Locations/Parks",
     "2024-02-25.md",
     "2024-02-24.md",
-    "Itinerari/Itinerario Kyoto to Osaka.md",
-    "Itinerari/Itenerario v1.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Osaka(大阪市).md",

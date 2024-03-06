@@ -90,9 +90,11 @@
 - [[Akihabara]] (in generale)
 ## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
-- [[Mercato del pesce di Tsukiji]] e [[Ginza]]
+- [[Mercato del pesce di Tsukiji]] 
+- [[Ginza]]
 ##### Pomeriggio: 
-- [[Palazzo Imperiale di tokyo]] e rientro albergo
+- [[Palazzo Imperiale di tokyo]] 
+- rientro albergo
 ##### Sera: 
 - [[Roppongi]]
 - [[Azanudai]]
@@ -123,7 +125,7 @@
 - [[nintendo store]]
 - [[Pokemon center shibuya]]
 ##### Sera: 
-- [[Mario kart shibuya ride]], 
+- [[Mario kart shibuya ride]]
 - ancora [[Shibuya]] (incrocio dall’alto)
 ## Giorno 13 ( 4° Tokyo)
 ##### Mattina: 

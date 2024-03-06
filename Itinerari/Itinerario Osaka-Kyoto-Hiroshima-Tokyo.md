@@ -20,18 +20,26 @@
 ##### Sera: 
 - Shinsekai e torre Tsutenkaku
 ## Giorno 3 ( 2° Osaka)
-Mattina: Nintendo World 
-Pomeriggio: Universal Studios
-Sera: Umeda Sky Building
+##### Mattina: 
+- Nintendo World 
+#### Pomeriggio: 
+- Universal Studios
+##### Sera: 
+- Umeda Sky Building
 ## Giorno 4 ( 1° Hiroshima)
-(2h per arrivare a Hiroshima)
-Mattina: Visita a Nagarekawa, Hondori street 
-Pomeriggio: Memorial Park
-Sera: a piacere
+*(2h per arrivare a Hiroshima)*
+##### Mattina: 
+- Visita a Nagarekawa, 
+- Hondori street 
+##### Pomeriggio: 
+- Memorial Park
+##### Sera: 
+- a piacere
 ## Giorno 5 ( 2° Hiroshima)
-Partenza per Miyajima
-Mattina: Visita Itsushima Shrine
-Pomeriggio: Monte Misen, Tempio Daisho-in, Spiaggia Mikasa
+*Partenza per Miyajima*
+##### Mattina: 
+- Visita Itsushima Shrine
+##### Pomeriggio: Monte Misen, Tempio Daisho-in, Spiaggia Mikasa
 Sera: Rientro a Hiroshima
 ## Giorno 6 ( 1° Kyoto)
 (2h per arrivare a Kyoto)

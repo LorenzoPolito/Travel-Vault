@@ -26,13 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b22e9400a3a3de25",
@@ -214,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a94cc30b3321ef3",
+  "active": "a5d3808ae47af1f0",
   "lastOpenFiles": [
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",

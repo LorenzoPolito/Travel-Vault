@@ -4,28 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "1a66358d71f33b82",
+        "id": "217b9f3dd4244ee6",
         "type": "tabs",
+        "dimension": 73.15989847715736,
         "children": [
           {
-            "id": "7b346e99dad9ede9",
+            "id": "0a94cc30b3321ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b22e9400a3a3de25",
+        "type": "tabs",
+        "dimension": 26.84010152284264,
+        "children": [
+          {
+            "id": "8979022672b262f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "966e4b30960d2945",
+            "id": "44c06b4f2699092a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Itinerario Ossama Valentina.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md"
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md"
               }
             }
           },
@@ -150,7 +170,7 @@
             }
           },
           {
-            "id": "5024ef9948d2adc3",
+            "id": "0cd81dbc7b2c53b1",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -158,14 +178,14 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
-        "id": "69ead58e10180993",
+        "id": "6fb3ca181d141cfc",
         "type": "tabs",
         "children": [
           {
-            "id": "459e884ed208ec01",
+            "id": "c4103d0aeec749df",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -176,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,56 +207,56 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-map-view:Open map view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Timeline": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-day-planner:Timeline": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b346e99dad9ede9",
+  "active": "c4103d0aeec749df",
   "lastOpenFiles": [
-    "Itinerari/Itinerario ridotto Osaka-Hiroshima-Tokyo.md",
+    "Locations/Cities/Tokyo(東京).md",
+    "Itinerari/Itinerario Osaka to Kyoto.md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
+    "Shinjuku.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "nakano Broadway.md",
+    "Itinerari/Itinerario Ossama Valentina.md",
+    "Locations/Temples/Santuario Meiji.md",
+    "Info/Voli/Test per riferimento.md",
+    "Locations/Cities/blocks/Shibuya(渋谷).md",
+    "Locations/Parks/TOEI Kyoto studio park.md",
+    "zs.md",
+    "Locations/Parks",
+    "2024-02-25.md",
+    "2024-02-24.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
-    "Locations/Parks/TOEI Kyoto studio park.md",
-    "Locations/Parks",
-    "Itinerari/Itinerario v3.md",
-    "Info/Voli/Test per riferimento.md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Kobe(神戸).md",
+    "Itinerari/Itinerario v2.md",
+    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Stores/Senza nome.md",
+    "conflict-files-obsidian-git.md",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
     "allegati/Pasted image 20240109154335.png",
     "allegati/Pasted image 20240109154118.png",
+    "Itinerari",
     "Info/Voli",
     "Info",
-    "Itinerari",
-    "Locations/Cities/Kyoto(京都).md",
-    "Streamer build V0.2.2.md",
-    "Locations/Cities/Kobe(神戸).md",
-    "conflict-files-obsidian-git.md",
-    "Locations/Cities/Tokyo(東京).md",
-    "Locations/Cities/Osaka(大阪市).md",
-    "Locations/Cities/blocks/Shibuya(渋谷).md",
-    "Itinerari/Itinerario v2.md",
-    "Locations/Cities/blocks/Asakusa(浅草).md",
-    "Locations/Temples/Fabrica dei Gundam.md",
-    "Location added on 2023-11-17T11-11.md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Itinerari/Itinerario Ossama Valentina.md",
-    "Locations/Cities/blocks",
-    "Itinerario Tokyo v2.md",
-    "Locations/Cities/~WRL0001.tmp",
-    "Locations/Cities/~WRD0000.tmp",
-    "Locations/Cities/~$okyo東京.docx",
-    "Locations/Cities/Tokyo東京.docx",
-    "Locations/Cities/Tokyo東京.mediawiki",
     "allegati/Pasted image 20231108100023.png",
-    "Locations/Hotels/Senza nome.md",
-    "Locations/Temples/Senza nome.md",
-    "Locations Interactive Map/Location added on 2023-11-02T10-47.md"
+    "allegati",
+    "Locations/Cities/blocks",
+    "Locations/Cities/Tokyo東京.docx",
+    "Locations/Hotels",
+    "Locations/Stores",
+    "Locations/Restaurants"
   ]
 }

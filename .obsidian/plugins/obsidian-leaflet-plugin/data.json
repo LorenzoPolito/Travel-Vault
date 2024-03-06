@@ -27,49 +27,6 @@
       "files": [
         "Locations/Cities/blocks/Asakusa(浅草).md"
       ]
-    },
-    {
-      "id": "JAP-map",
-      "lastAccessed": 1704811037822,
-      "markers": [
-        {
-          "id": "ID_793adac88a0b",
-          "type": "default",
-          "loc": [
-            36.25793199580119,
-            130.20996093750003
-          ],
-          "layer": "real",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_7bdaca581ad9",
-          "type": "default",
-          "loc": [
-            36.25793199580119,
-            130.20996093750003
-          ],
-          "layer": "real",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Itinerari/Itenerario v1.md"
-      ]
     }
   ],
   "defaultMarker": {

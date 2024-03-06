@@ -21,8 +21,7 @@
 ##### Pomeriggio/Sera:
 - partenza per aeroporto
 - cena
-- partenza
-
+- si vola (15h/16h con scalo)
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
 - [[Castello di Osaka]] #discutere 
@@ -42,7 +41,7 @@
 ## Giorno 4 ( 1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Mattina:
-- Visita a [[Nagarekawa]]
+- [[Nagarekawa]]
 - [[Hondori street]]
 ##### Pomeriggio: 
 - [[Memorial Park]]
@@ -51,7 +50,7 @@
 ## Giorno 5 ( 2° Hiroshima)
 *Partenza per [[Miyajima]]*
 ##### Mattina: 
-- Visita [[Itsushima Shrine]]
+- [[Itsushima Shrine]]
 ##### Pomeriggio: 
 - [[Monte Misen]],
 - [[Tempio Daisho-in]]
@@ -61,12 +60,12 @@
 ## Giorno 6 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
-- [[Santuario Yasaka]], 
-- [[Quartiere Gion]] 
+- [[Santuario Yasaka]]
+- [[Quartiere Gion]] / [[TOEI Kyoto studio park]]? #discutere 
 - [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka]] 
+- [[Sannenzaka]]
 - [[Ninenzaka street]]
 - [[Kyojizu-dera]]
 ## Giorno 7 ( 2° Kyoto)
@@ -105,13 +104,14 @@
 - [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 ## Giorno 11 ( 3° Tokyo/Esterna)
 ##### Mattina: 
-- Partenza per Mt.Fuji Station (2h30m),
+*Partenza per Mt.Fuji Station (2h30m)*
 - [[Fujiyoshida]], 
-- [[Kanandorii]] e [[Chureito Pagoda]]
+- [[Kanandorii]] 
+- [[Chureito Pagoda]]
 ##### Pomeriggio: 
 - rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
 ##### Sera: 
-- [[Shinjuku]], 
+- [[Shinjuku]]
 - [[Santuario Meiji]]
 ## Giorno 12 ( 4° Tokyo/Esterna)
 ##### Mattina: 
@@ -121,14 +121,15 @@
 - [[nintendo store]]
 - [[Pokemon center shibuya]]
 ##### Sera: 
-- Mario Kart Ride, 
+- [[Mario kart shibuya ride]], 
 - ancora Shibuya (incrocio dall’alto)
-## Giorno 13 ( 4° Osaka)
+## Giorno 13 ( 4° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway]]
 ##### Pomeriggio: 
-- partenza
+- preparazione per la partenza
+- volo di rientro (12h/14h diretto)
 ## Giorno 14 (viaggio)
 ##### Mattina
 - rientro a casa

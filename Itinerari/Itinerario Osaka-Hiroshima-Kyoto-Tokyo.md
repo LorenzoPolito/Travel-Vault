@@ -13,9 +13,9 @@
 ## Giorno 1 (viaggio)
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
-- Castello di Osaka, 
-- Tempio Hozen-ji,
-- Quartiere Minami (Namba), 
+- Castello di Osaka
+- Tempio Hozen-ji
+- Quartiere Minami (Namba)
 - Tempio Shitenno-ji
 ##### Sera: 
 - Shinsekai e torre Tsutenkaku
@@ -77,8 +77,8 @@
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di tokyo]] e rientro albergo
 ##### Sera: 
-- [[Roppongi]], 
-- [[Azanudai]], 
+- [[Roppongi]]
+- [[Azanudai]]
 - [[Tokyo tower]]
 ## Giorno 10 ( 2° Tokyo)
 ##### Mattina: 

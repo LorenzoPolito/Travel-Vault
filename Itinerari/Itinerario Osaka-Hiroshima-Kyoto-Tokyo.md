@@ -22,6 +22,8 @@
 - partenza per aeroporto
 - cena
 - si vola (15h/16h con scalo)
+
+> A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
 - [[Castello di Osaka]] #discutere 
@@ -75,7 +77,7 @@
 - [[Ryon-ji]]  
 - [[Kikaku-ji]]
 ##### Sera: 
-- [[Fushimi Inari]] (tramonto)
+- [[Fushimi Inari]] (tramonto) #discutere 
 ## Giorno 8 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
 - [[Sentiero del filosofo]] e [[Ginkakuji]]
@@ -122,7 +124,7 @@
 - [[Pokemon center shibuya]]
 ##### Sera: 
 - [[Mario kart shibuya ride]], 
-- ancora Shibuya (incrocio dall’alto)
+- ancora [[Shibuya]] (incrocio dall’alto)
 ## Giorno 13 ( 4° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)

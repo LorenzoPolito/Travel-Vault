@@ -82,21 +82,36 @@
 - Tokyo Tower 
 ## Giorno 10 ( 2° Tokyo)
 ##### Mattina: 
-- Making Harry Potter Tour (30min da Tokyo)# | Akihabara (x acquisti)
+- #gruppoA Making Harry Potter Tour (30min da Tokyo)  | #gruppoB Akihabara  (x acquisti)
 ##### Pomeriggio: 
-Odaiba e Rainbow Bridge (tramonto)
-Sera: Asakusa e Tempio Senso-ji
+- Odaiba e Rainbow Bridge (tramonto)
+##### Sera: 
+- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 ## Giorno 11 ( 3° Tokyo/Esterna)
-Mattina: Partenza per Mt.Fuji Station (2h e 3), Fujiyoshida, Kanandorii e Chureito Pagoda
-Pomeriggio: rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
-Sera: Shinjuku, Santuario Meiji
+##### Mattina: 
+- Partenza per Mt.Fuji Station (2h e 3),
+- Fujiyoshida, 
+- Kanandorii e Chureito Pagoda
+##### Pomeriggio: 
+- rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
+##### Sera: 
+- Shinjuku, 
+- Santuario Meiji
 ## Giorno 12 ( 4° Tokyo/Esterna)
-Mattina: Partenza per Kamakura (1h) e rientro dopo pranzo
-Pomeriggio: Shibuya, Nintendo Store, Pokemon Center
-Sera: Mario Kart Ride, ancora Shibuya (incrocio dall’alto)
+##### Mattina: 
+- Partenza per Kamakura (1h) e rientro dopo pranzo
+##### Pomeriggio: 
+- Shibuya, 
+- Nintendo Store, 
+- Pokemon Center
+##### Sera: 
+- Mario Kart Ride, 
+- ancora Shibuya (incrocio dall’alto)
 ## Giorno 13 ( 4° Osaka)
 ##### Mattina: 
 - libera (ultimi acquisti)
 ##### Pomeriggio: 
 - partenza
 ## Giorno 14 (viaggio)
+##### Mattina
+- rientro a casa

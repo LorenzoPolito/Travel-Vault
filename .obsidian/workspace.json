@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -214,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a94cc30b3321ef3",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",

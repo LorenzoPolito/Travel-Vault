@@ -13,6 +13,10 @@
 
 #discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
 #discutere spirito di adattamento
+
+## Alcune Info
+- Il fuso orario è di 8 ore avanti rispetto a Roma
+- per Tokyo e Kyoto è utile una [[Suika card]]
 ## Giorno 1 (viaggio)
 #### Mattina:
 - preparazione valige

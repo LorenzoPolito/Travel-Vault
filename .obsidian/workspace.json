@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md"
+                "file": "Itinerari/Itinerario Osaka to Tokyo.md"
               }
             }
           },
@@ -196,11 +196,12 @@
   },
   "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
-    "Itinerari/Itinerario ridotto Osaka-Hiroshima-Tokyo.md",
+    "Itinerari/Itinerario Osaka to Tokyo.rst",
+    "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
+    "Itinerari/Itinerario ridotto Osaka-Hiroshima-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itenerario v1.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Parks",
@@ -236,7 +237,6 @@
     "Locations/Cities/Tokyo東京.mediawiki",
     "allegati/Pasted image 20231108100023.png",
     "Locations/Hotels/Senza nome.md",
-    "Locations/Temples/Senza nome.md",
-    "Locations Interactive Map/Location added on 2023-11-02T10-47.md"
+    "Locations/Temples/Senza nome.md"
   ]
 }

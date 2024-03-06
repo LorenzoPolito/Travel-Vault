@@ -116,12 +116,13 @@
 - [[Shinjuku]]
 - [[Santuario Meiji]]
 ## Giorno 11 ( 4° Tokyo/Esterna)
-##### Mattina: 
-- Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
-
-## Girno 12 (5° Tokyo)
+##### Mattina/Pomeriggio: 
+- Partenza per [[Kamakura]] (1h da tokyo
+##### Sera: 
+- libera
+## Giorno 12 (5° Tokyo)
 ##### Mattina:
-- 
+- [[Tokyo skytree]] di Asak
 ##### Pomeriggio/sera: 
 - [[Shibuya]]
 - [[nintendo store]]

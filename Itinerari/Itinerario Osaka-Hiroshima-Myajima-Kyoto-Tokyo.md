@@ -76,6 +76,7 @@
 - [[Kyojizu-dera]]
 ## Giorno 7 ( 2° Kyoto)
 ##### Mattina: 
+- Lavaggio vestiti
 - [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryon-ji]]  
@@ -124,7 +125,7 @@
 ## Giorno 12 ( 4° Tokyo/Esterna)
 ##### Mattina: 
 - Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
-##### Pomeriggio: 
+##### Pomeriggio/sera: 
 - [[Shibuya]]
 - [[nintendo store]]
 - [[Pokemon center shibuya]]

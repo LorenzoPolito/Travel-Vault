@@ -3,8 +3,8 @@
 | :----------: | :----: | :---: | :-----------------------: | :------------------: |
 | Volo andata  |   1    |   1   |         300/400 €         |                      |
 |    Osaka     |   2    |   2   |           25 €            | 1/2 giorno a Nara?;  |
-|    Kyoto     |   2    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
 |  Hiroshima   |   2    |   2   |        25 € circa         |                      |
+|    Kyoto     |   2    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
 |    Tokyo     |   6    |   5   |           23 €            |                      |
 | Volo ritorno |   1    |   1   |         300/400 €         |                      |
 |  **TOTALE**  |   14   |  13   |                           |                      |
@@ -39,27 +39,52 @@
 *Partenza per Miyajima*
 ##### Mattina: 
 - Visita Itsushima Shrine
-##### Pomeriggio: Monte Misen, Tempio Daisho-in, Spiaggia Mikasa
-Sera: Rientro a Hiroshima
+##### Pomeriggio: 
+- Monte Misen, 
+- Tempio Daisho-in, 
+- Spiaggia Mikasa
+##### Sera: 
+- Rientro a Hiroshima
 ## Giorno 6 ( 1° Kyoto)
 (2h per arrivare a Kyoto)
-Mattina: Santuario Yasaka, Quartiere Gion e Nishiki Market (pranzo)
-Pomeriggio/sera: Tempio Kodai-ji, Sannenzaka e Ninenzaka street, Kyojizu-dera
+##### Mattina: 
+- Santuario Yasaka, 
+- Quartiere Gion e Nishiki Market (pranzo)
+##### Pomeriggio/sera: 
+- Tempio Kodai-ji, 
+- Sannenzaka e Ninenzaka street, 
+- Kyojizu-dera
 ## Giorno 7 ( 2° Kyoto)
-Mattina: Arashiyama (quartiere e foresta bambu)
-Pomeriggio: Ryon-ji e Kikaku-ji
-Sera: Fushimi Inari (tramonto)
+##### Mattina: 
+- Arashiyama (quartiere e foresta bambu)
+##### Pomeriggio: 
+- Ryon-ji e Kikaku-ji
+##### Sera: 
+- Fushimi Inari (tramonto)
 ## Giorno 8 ( 3° Kyoto/Tokyo)
-Mattina: Sentiero del filosofo e Ginkakuji
-Partenza per Tokyo (circa 2h)
-Pomeriggio/sera: Kodokan dojo judo, Santuario Kanda, Parco di Ueno e Akihabara (in generale)
+##### Mattina: 
+- Sentiero del filosofo e Ginkakuji
+
+*Partenza per Tokyo (circa 2h)*
+##### Pomeriggio/sera: 
+- Kodokan dojo judo, 
+- Santuario Kanda, 
+- Parco di Ueno 
+- Akihabara (in generale)
 ## Giorno 9 ( 1° Tokyo)
-Mattina: Mercato del pesce di Tsukiji e Ginza
-Pomeriggio: Palazzo Imperiale di Tokyo e rientro albergo
-Sera: Roppongi, Azanudai, Tokyo Tower 
+##### Mattina: 
+- Mercato del pesce di Tsukiji e Ginza
+##### Pomeriggio: 
+- Palazzo Imperiale di Tokyo e rientro albergo
+##### Sera: 
+- Roppongi, 
+- Azanudai, 
+- Tokyo Tower 
 ## Giorno 10 ( 2° Tokyo)
-Mattina: Making Harry Potter Tour (30min da Tokyo) | Akihabara (x acquisti)
-Pomeriggio: Odaiba e Rainbow Bridge (tramonto)
+##### Mattina: 
+- Making Harry Potter Tour (30min da Tokyo)# | Akihabara (x acquisti)
+##### Pomeriggio: 
+Odaiba e Rainbow Bridge (tramonto)
 Sera: Asakusa e Tempio Senso-ji
 ## Giorno 11 ( 3° Tokyo/Esterna)
 Mattina: Partenza per Mt.Fuji Station (2h e 3), Fujiyoshida, Kanandorii e Chureito Pagoda

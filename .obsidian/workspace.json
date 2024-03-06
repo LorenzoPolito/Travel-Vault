@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Kyoto-Tokyo.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Kyoto-Tokyo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Kyoto-Tokyo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md"
+                "file": "Itinerari/Itinerario Osaka-Hiroshima-Kyoto-Tokyo.md"
               }
             }
           },
@@ -214,11 +214,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4103d0aeec749df",
+  "active": "0a94cc30b3321ef3",
   "lastOpenFiles": [
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka to Kyoto.md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Tokyo.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Shinjuku.md",

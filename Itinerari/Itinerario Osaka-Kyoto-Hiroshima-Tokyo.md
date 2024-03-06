@@ -12,8 +12,13 @@
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 ## Giorno 1 (viaggio)
 ## Giorno 2 ( 1° Osaka)
-Pomeriggio: Castello di Osaka, Tempio Hozen-ji, Quartiere Minami (Namba), Tempio Shitenno-ji
-Sera: Shinsekai e torre Tsutenkaku
+##### Pomeriggio: 
+- Castello di Osaka, 
+- Tempio Hozen-ji,
+- Quartiere Minami (Namba), 
+- Tempio Shitenno-ji
+##### Sera: 
+- Shinsekai e torre Tsutenkaku
 ## Giorno 3 ( 2° Osaka)
 Mattina: Nintendo World 
 Pomeriggio: Universal Studios
@@ -57,6 +62,8 @@ Mattina: Partenza per Kamakura (1h) e rientro dopo pranzo
 Pomeriggio: Shibuya, Nintendo Store, Pokemon Center
 Sera: Mario Kart Ride, ancora Shibuya (incrocio dall’alto)
 ## Giorno 13 ( 4° Osaka)
-Mattina: libera (ultimi acquisti)
-Pomeriggio: partenza
+##### Mattina: 
+- libera (ultimi acquisti)
+##### Pomeriggio: 
+- partenza
 ## Giorno 14 (viaggio)

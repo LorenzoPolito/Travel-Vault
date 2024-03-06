@@ -10,13 +10,25 @@
 |  **TOTALE**  |   14   |  13   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
+
+#discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
+#discutere spirito di adattamento
 ## Giorno 1 (viaggio)
+#### Mattina:
+- preparazione valige
+- inventario e controllo documenti
+- controllo biglietti e pass
+##### Pomeriggio/Sera:
+- partenza per aeroporto
+- cena
+- partenza
+
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
-- Castello di Osaka
+- Castello di Osaka #discutere 
 - Tempio Hozen-ji
-- Quartiere Minami (Namba)
-- Tempio Shitenno-ji
+- Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
+- [[Shinteno-ji temple]]
 ##### Sera: 
 - Shinsekai e torre Tsutenkaku
 ## Giorno 3 ( 2° Osaka)
@@ -63,14 +75,14 @@
 - Fushimi Inari (tramonto)
 ## Giorno 8 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
-- Sentiero del filosofo e Ginkakuji
+- [[Sentiero del filosofo]] e [[Ginkakuji]]
 
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 
-- Kodokan dojo judo, 
-- Santuario Kanda, 
-- Parco di Ueno 
-- Akihabara (in generale)
+- [[kodokan dojo judo]], 
+- [[Santuario Kanda]], 
+- [[Parco di Ueno ]]
+- [[Akihabara]] (in generale)
 ## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] e [[Ginza]]

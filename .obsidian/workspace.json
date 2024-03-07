@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+                "file": "Itinerari/Senza nome.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+                "file": "Itinerari/Senza nome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+                "file": "Itinerari/Senza nome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md"
+                "file": "Itinerari/Senza nome.md"
               }
             }
           },
@@ -186,8 +185,9 @@
   },
   "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Senza nome.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
@@ -221,7 +221,6 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Location added on 2023-11-17T11-11.md",
-    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks",
     "Locations/Cities/~WRL0001.tmp",
     "Locations/Cities/~WRD0000.tmp",

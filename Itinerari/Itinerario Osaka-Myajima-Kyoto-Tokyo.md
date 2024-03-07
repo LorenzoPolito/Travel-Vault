@@ -37,7 +37,7 @@
 - [[Castello di Osaka]] #discutere 
 - [[Tempio Hozen-ji]]
 - Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
-- [[Tempio Shinteno-ji]]
+- [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
 - [[Shinsekai]]
 - [[Torre Tsutenkaku]]

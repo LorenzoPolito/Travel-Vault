@@ -34,8 +34,8 @@
 ##### Pomeriggio: 
 - [[Castello di Osaka]] #discutere 
 - [[Tempio Hozen-ji]]
-- Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
-- [[Tempio Shinteno-ji]]
+- quartiere [[Dotonbori]]
+- [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
 - [[Shinsekai]]
 - [[Torre Tsutenkaku]]
@@ -46,17 +46,11 @@
 - [[Universal Studios Japan]]
 ##### Sera: 
 - [[Umeda Sky Building]]
-## Giorno 4 ( 3° Osaka )
-*(2h per arrivare a Hiroshima)*
-*Partenza per [[Miyajima]]*
-##### Mattina: 
-- [[Itsushima Shrine]]
-##### Pomeriggio: 
-- [[Monte Misen]],
-- [[Tempio Daisho-in]]
-- [[Spiaggia Mikasa]]
-##### Sera: 
-- Rientro a Hiroshima
+## Giorno 4 ( 3° Osaka)
+##### Mattina:
+- Quartiere[[ Minami-sakai]] (Namba)
+##### Pomeriggio
+
 ## Giorno 5 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 

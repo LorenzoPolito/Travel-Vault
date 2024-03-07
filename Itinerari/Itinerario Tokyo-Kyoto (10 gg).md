@@ -32,9 +32,6 @@
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 
 ## Giorno 2( 1° [[Tokyo(東京)]])
-##### Mattina: 
-- [[Mercato del pesce di Tsukiji]] 
-- [[Ginza]]
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di tokyo]] 
 - rientro albergo
@@ -83,7 +80,10 @@
 - [[Tokyo skytree]]
 
 ## Giorno 7 ( 3° Tokyo/Esterna)
-##### Mattina/Pomeriggio: 
+##### Mattina: 
+- [[Mercato del pesce di Tsukiji]] 
+- [[Ginza]]
+##### Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 
 - [[Shinjuku]]

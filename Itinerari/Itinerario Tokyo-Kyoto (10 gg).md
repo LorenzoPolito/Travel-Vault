@@ -30,36 +30,8 @@
 - si vola (15h/16h con scalo)
 
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
-## Giorno 2 ( 1° [[Kyoto(京都)]])
-(2h per arrivare a Kyoto)
-##### Mattina: 
-- [[Santuario Yasaka]]
-- [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
-##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
-## Giorno 3 ( 2° Kyoto)
-##### Mattina: 
-- [[Arashiyama]] (quartiere e foresta bambu)
-##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
-##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
-## Giorno 4 ( 3° Kyoto/Tokyo)
-##### Mattina: 
-- [[Nara]] #discutere 
 
-*Partenza per Tokyo (circa 2h)*
-##### Pomeriggio/sera: 
-- [[kodokan dojo judo]], 
-- [[Santuario Kanda]], 
-- [[Parco di Ueno ]]
-- [[Akihabara]] (in generale)
-## Giorno 5( 1° [[Tokyo(東京)]])
+## Giorno 2( 1° [[Tokyo(東京)]])
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] 
 - [[Ginza]]
@@ -70,6 +42,35 @@
 - [[Roppongi]]
 - [[Azanudai]]
 - [[Tokyo tower]]
+## Giorno 3 ( 1° [[Kyoto(京都)]])
+(2h per arrivare a Kyoto)
+##### Mattina: 
+- [[Santuario Yasaka]]
+- [[Quartiere Gion]]
+- [[Nishiki Market ]] (pranzo)
+##### Pomeriggio/sera: 
+- [[Tempio Kodai-ji]]
+- [[Sannenzaka]]
+- [[Ninenzaka street]]
+- [[Kyojizu-dera]]
+## Giorno 4 ( 2° Kyoto)
+##### Mattina: 
+- [[Arashiyama]] (quartiere e foresta bambu)
+##### Pomeriggio: 
+- [[Ryon-ji]]  
+- [[Kikaku-ji]]
+##### Sera: 
+- [[Fushimi Inari]] (tramonto) #discutere 
+## Giorno 5 ( 3° Kyoto/Tokyo)
+##### Mattina: 
+- [[Nara]] #discutere 
+
+*Partenza per Tokyo (circa 2h)*
+##### Pomeriggio/sera: 
+- [[kodokan dojo judo]], 
+- [[Santuario Kanda]], 
+- [[Parco di Ueno ]]
+- [[Akihabara]] (in generale)
 ## Giorno 6 ( 2° Tokyo)
 ##### Mattina: 
 - #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)

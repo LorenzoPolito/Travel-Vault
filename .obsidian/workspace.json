@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5,
-    "collapsed": true
+    "width": 409.5
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Tokyo (11 gg).md"
+                "file": "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md"
               }
             }
           },
@@ -198,11 +197,11 @@
   },
   "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
-    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "conflict-files-obsidian-git.md",
     "Itinerari/Itinerario Osaka to Tokyo.rst",

@@ -82,7 +82,7 @@
 ## Giorno 7 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] 
-- [[Ginza]]
+- [[Ginza]] ? #discutere *se c'è tempo*
 ##### Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 

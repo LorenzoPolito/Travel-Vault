@@ -4,9 +4,9 @@
 |:------------:|:------:|:-----:|:-------------------------:|:-------------------:|
 | Volo andata  |   1    |   1   |         300/400 €         |                     |
 |    Osaka     |   3    |   3   |           25 €            |  1/2 giorno a nara  |
-|    Tokyo     |   6    |   5   |           23 €            | 1 giorno a Kamakura |
+|    Tokyo     |   6    |   6   |           23 €            | 1 giorno a Kamakura |
 | Volo ritorno |   1    |   1   |         300/400 €         |                     |
-|  **TOTALE**  |   11   |  10   |                           |                     |
+|  **TOTALE**  |   11   |  11   |                           |                     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -80,7 +80,9 @@
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+- [[Asakusa(浅草)]] 
+- [[Tempio Senso-Ji]]
+- [[Tokyo skytree]]
 ## Giorno 8 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
@@ -99,7 +101,7 @@
 - libera
 ## Giorno 10 (5° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
+- quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
 - [[Shibuya]] 

@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +197,14 @@
   },
   "active": "7b346e99dad9ede9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Itinerari/Itinerario Osaka to Tokyo.md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.rst",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
     "Itinerari/Itinerario ridotto Osaka-Hiroshima-Tokyo.md",
-    "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itenerario v1.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
@@ -218,7 +222,6 @@
     "Locations/Cities/Kyoto(京都).md",
     "Streamer build V0.2.2.md",
     "Locations/Cities/Kobe(神戸).md",
-    "conflict-files-obsidian-git.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
@@ -234,9 +237,7 @@
     "Locations/Cities/~WRD0000.tmp",
     "Locations/Cities/~$okyo東京.docx",
     "Locations/Cities/Tokyo東京.docx",
-    "Locations/Cities/Tokyo東京.mediawiki",
     "allegati/Pasted image 20231108100023.png",
-    "Locations/Hotels/Senza nome.md",
-    "Locations/Temples/Senza nome.md"
+    "Locations/Hotels/Senza nome.md"
   ]
 }

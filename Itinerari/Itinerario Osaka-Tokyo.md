@@ -49,33 +49,15 @@
 ## Giorno 4 ( 3° Osaka)
 ##### Mattina:
 - Quartiere[[ Minami-sakai]] (Namba)
-##### Pomeriggio
-
-## Giorno 5 ( 1° [[Kyoto(京都)]])
-(2h per arrivare a Kyoto)
-##### Mattina: 
-- [[Santuario Yasaka]]
-- [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
-##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
-## Giorno 6 ( 2° Kyoto)
-##### Mattina: 
-- Lavaggio vestiti
-- [[Arashiyama]] (quartiere e foresta bambu)
-##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
-##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
-## Giorno 7 ( 3° Kyoto/Tokyo)
-##### Mattina: 
-- [[Sentiero del filosofo]] e [[Ginkakuji]]
-
+##### Pomeriggio:
+*Viaggio verso Nara di 1h*
+- [[Nara]] *(fino alle 18:00 quindi ritorno alle 19:00)*
+ ###### Sera:
+- libera
+## Giorno 7 ( 1 Tokyo)
 *Partenza per Tokyo (circa 2h)*
+##### Mattina: 
+- 
 ##### Pomeriggio/sera: 
 - [[kodokan dojo judo]], 
 - [[Santuario Kanda]], 

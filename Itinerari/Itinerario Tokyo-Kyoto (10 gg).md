@@ -1,4 +1,4 @@
-> Creato da @Damiano/@Lorenzo
+> Creato da @Lorenzo
 
 |    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
@@ -74,26 +74,20 @@
 ##### Mattina: 
 - #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
 ##### Pomeriggio: 
-- [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
+- [[Odaiba]]
+- [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+- [[Asakusa(浅草)]] 
+- [[Tempio Senso-Ji]]
+- [[Tokyo skytree]]
+
 ## Giorno 7 ( 3° Tokyo/Esterna)
-##### Mattina: 
-*Partenza per Mt.Fuji Station (2h30m)*
-- [[Fujiyoshida]]
-- [[Kanandorii]] 
-- [[Chureito Pagoda]]
-##### Pomeriggio: 
-- rientro a Tokyo (verso le 16, arrivo quindi alle 18:30)
-##### Sera: 
-- [[Shinjuku]]
-- [[Santuario Meiji]]
-## Giorno 8 ( 4° Tokyo/Esterna)
 ##### Mattina/Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 
-- libera
-## Giorno 9 (5° Tokyo)
+- [[Shinjuku]]
+- [[Santuario Meiji]]
+## Giorno 8 (4° Tokyo)
 ##### Mattina:
 - [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
 - [[Nakano Broadway]]
@@ -104,13 +98,13 @@
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya]] (incrocio dall’alto)
-## Giorno 10 ( 6° Tokyo)
+## Giorno 9 ( 5° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway]] *solo se necessario*
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)
-## Giorno 11 (viaggio)
+## Giorno 10 (viaggio)
 ##### Mattina
 - rientro a casa

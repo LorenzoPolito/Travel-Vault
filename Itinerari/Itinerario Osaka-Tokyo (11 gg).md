@@ -1,4 +1,4 @@
-> Creato da @Damiano/@Lorenzo
+> Creato da @Lorenzo
 
 |    città     | giorni | notti | € a notte *(provvisorio)* |        note         |
 |:------------:|:------:|:-----:|:-------------------------:|:-------------------:|

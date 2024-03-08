@@ -88,7 +88,28 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d4431f646513e1a5",
+            "id": "bb8d7d74a57d298a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Locations/Lista dei Luoghi.md"
+              }
+            }
+          },
+          {
+            "id": "408e844197925b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b734b96c8a0be179",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -105,7 +126,7 @@
             }
           },
           {
-            "id": "6b73f5beadad8809",
+            "id": "0d1d1591a9e850f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -117,44 +138,15 @@
             }
           },
           {
-            "id": "408e844197925b38",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "9c4a9ba49456f5ee",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Locations/Lista dei Luoghi.md"
-              }
-            }
-          },
-          {
-            "id": "f225721411716e83",
+            "id": "90bd5e3fa407907d",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "7437f92d2265f1e7",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -201,7 +193,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a5fa835e94c4439",
+  "active": "bb8d7d74a57d298a",
   "lastOpenFiles": [
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",

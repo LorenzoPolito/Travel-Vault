@@ -1,3 +1,4 @@
+
 ## Osaka
 
 1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5
@@ -9,7 +10,6 @@
 7. [[Umeda Sky Building]] #3/5
 8. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
 9. [[Kayuka aquarium]] #1/5
-
 ## Hiroshima
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5
@@ -19,7 +19,6 @@
 1. [[Itsukushima shrine]] ( [[Spiaggia Mikasa]] ) #5/5
 2. [[Tempio Daisho-in]] ( 8:00-17:00 ) #3/5
 3. [[Monte Misen]] ( 9:00-17:00 ) #2/5
-
 ## Kyoto
 
 1. [[Arashiyama]] ( 24H ) #5/5
@@ -37,7 +36,6 @@
 13. [[Quartiere Gion]] #1/5
 14. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
 15. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
-
 ## Tokyo
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5
@@ -59,7 +57,6 @@
 17. [[Odaiba]] e [[Rainbow Bridge]] #2/5
 18. Quartiere [[Nakano]] e [[Nakano Broadway]] #5/5
 19. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
-
 ### [[Kamakura(鎌倉市)]] ( Lontano )
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5
 2. [[Temio Kencho-ji]] #3/5

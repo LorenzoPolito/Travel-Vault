@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
+                "file": "Locations/Lista dei Luoghi.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -183,20 +183,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-map-view:Open map view": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-map-view:Open map view": false
     }
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Lista dei Luoghi.md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",

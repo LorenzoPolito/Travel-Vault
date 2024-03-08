@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md"
               }
             }
           },
@@ -235,11 +234,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be4f9be14b9d4b21",
+  "active": "c1f8863339a7bc7b",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Tier list.md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Slides/Slide Viaggio in Giappone.md",

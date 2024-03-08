@@ -12,4 +12,5 @@
 
 ## Hiroshima/Miyajima
 
-1. 
+1. [[Memorial Park Hiroshima]] 3.5/5
+2. 

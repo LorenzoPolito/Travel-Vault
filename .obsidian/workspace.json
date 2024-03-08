@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Hiroshima(広島).md",
-                "mode": "preview",
+                "file": "Slides/Slide Viaggio in Giappone.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Hiroshima(広島).md",
+                "file": "Slides/Slide Viaggio in Giappone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Hiroshima(広島).md",
+                "file": "Slides/Slide Viaggio in Giappone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Hiroshima(広島).md"
+                "file": "Slides/Slide Viaggio in Giappone.md"
               }
             }
           },
@@ -192,6 +192,13 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Location added on 2024-03-08T17-02.md",
+    "Slides/Slide Viaggio in Giappone.md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Tokyo(東京).md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Cities/Kobe(神戸).md",
+    "Locations/Cities/Hiroshima(広島).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itenerario v1.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
@@ -200,14 +207,10 @@
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Itinerario Ossama Valentina.md",
-    "Slides/Slide Viaggio in Giappone.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Fabrica dei Gundam.md",
-    "Locations/Cities/Osaka(大阪市).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
-    "Locations/Cities/Kyoto(京都).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
-    "Locations/Cities/Tokyo(東京).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "Info/Voli/Test per riferimento.md",
     "Palazzo Imperiale di tokyo.md",
@@ -220,9 +223,6 @@
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Temples/Santuario Meiji.md",
-    "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
-    "Itinerari/Itinerario Kyoto to Osaka.md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Parks",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",

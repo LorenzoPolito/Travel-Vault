@@ -23,14 +23,18 @@
 ## Kyoto
 
 1. [[Arashiyama]] 5/5
-2. [[Santuario Yasaka]] 4/5
-3. [[Nishiki Market]] 4/5
-4. zona [[Sannenzaka]] strada [[Ninenzaka]] 4/5
-5. [[Quartiere Gion]] 1/5
+2. [[Kiyomizu-dera]] 5/5
+3. [[Santuario Yasaka]] 4/5
+4. [[Nishiki Market]] 4/5
+5. zona [[Sannenzaka]] strada [[Ninenzaka]] 4/5
 6. [[Tempio Kodai-ji]] 3/5
-7. [[Kiyomizu-dera]] 5/5
-8. [[Kinkaku-ji]] 3/5
-9. [[Fushimi Inari]] 3/5
-10. [[Ryoan-ji]] 2/5
+7. [[Kinkaku-ji]] 3/5
+8. [[Fushimi Inari]] 3/5
+9. [[Ryoan-ji]] 2/5
+10. [[Adashino nenbutsuji]] 2/5
 11. [[Sentiero del filosofo]] 1/5
-12. [[Ginkakuji temple]] 2/5
+12. [[Quartiere Gion]] 1/5
+13. [[Ginkakuji temple]] 1/5
+14. [[TOEI Kyoto studio park]] 1/5
+15. [[Reigenji temple]] 1/5
+16. 

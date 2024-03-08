@@ -44,4 +44,9 @@
 2. Quartiere di [[Shibuya]] 5/5
 3. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
 4. Quartiere di [[Akihabara]] 4/5
-5. Quartiere di [[Ueno]] e [[Parco di Ueno]]
+5. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
+6. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
+7. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
+8. [[Santuario Kanda]] ( 24H ) 3/5
+9. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
+10. [[Ginza]] 1/5

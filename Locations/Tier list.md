@@ -56,5 +56,11 @@
 14. [[Tokyo tower]] ( 9:00 - 22:30 ) 4/5
 15. [[Odaiba]] e [[Rainbow Bridge]] 2/5
 16. Quartiere [[Nakano]] e [[Nakano Broadway]] 5/5
-17. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] 2/5 ( lontano )
-18. [[Kamakura(鎌倉市)]] 3/5
+17. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] 2/5 ( lontano 
+
+### [[Kamakura(鎌倉市)]] 
+1. [[Tempio Kutoku-in]] Grande Buddha 3/5
+2. [[Temio Kencho-ji]]
+3. [[Tempio Hase-dera]]
+4. [[Santuario Tsurugaoka Hachimangu]]
+5. [[Tempio Henga]]

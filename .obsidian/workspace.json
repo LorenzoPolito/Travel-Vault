@@ -6,6 +6,7 @@
       {
         "id": "a99b6f9094d49828",
         "type": "tabs",
+        "dimension": 50.11600928074246,
         "children": [
           {
             "id": "6a5fa835e94c4439",
@@ -29,6 +30,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6a7e6905a3d2ab80",
+        "type": "tabs",
+        "dimension": 49.88399071925754,
+        "children": [
+          {
+            "id": "de7b771c1db27240",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
             }
           }
         ]
@@ -212,8 +228,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "6a5fa835e94c4439",
+  "active": "de7b771c1db27240",
   "lastOpenFiles": [
+    "Slides/Slide Viaggio in Giappone.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
@@ -222,7 +239,6 @@
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Slides/Slide Viaggio in Giappone.md",
     "Calendar",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Stores/Senza nome.md",

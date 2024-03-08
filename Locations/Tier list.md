@@ -16,6 +16,10 @@
 2. Quartiere [[Nagarekawa]] [[Hondori street]] 3/5
 ### Miyajima
 
-1. [[Itsukushima shrine]] 5/5
-2. [[Monte Misen]] 2/5
-3. [[Tempio Daisho-in]] 
+1. [[Itsukushima shrine]] ( [[Spiaggia Mikasa]] )5/5
+2. [[Tempio Daisho-in]] 3/5
+3. [[Monte Misen]] 2/5
+
+## Kyoto
+
+1. [[Santuario Yasaka]] 

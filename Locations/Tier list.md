@@ -42,25 +42,29 @@
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) 5/5
 2. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) 3/5
-3. Quartiere di [[Shibuya]] 5/5
+3. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] 5/5
 4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
 5. Quartiere di [[Akihabara]] 4/5
-6. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
-7. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
-8. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
-9. [[Santuario Kanda]] ( 24H ) 3/5
-10. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
-11. Quartiere di [[Ginza]] 1/5
-12. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) 4/5
-13. Quartiere [[Roppongi]] (notturno) 3/5
-14. [[Tokyo tower]] ( 9:00 - 22:30 ) 4/5
-15. [[Odaiba]] e [[Rainbow Bridge]] 2/5
-16. Quartiere [[Nakano]] e [[Nakano Broadway]] 5/5
-17. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] 2/5 ( lontano 
+6. Quartiere di [[Shinjuku]] 4/5
+7. [[Santuario Meiji]] 3/5
+8. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
+9. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
+10. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
+11. [[Santuario Kanda]] ( 24H ) 3/5
+12. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
+13. Quartiere di [[Ginza]] 1/5
+14. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) 4/5
+15. Quartiere [[Roppongi]] (notturno) 3/5
+16. [[Tokyo tower]] ( 9:00 - 22:30 ) 4/5
+17. [[Odaiba]] e [[Rainbow Bridge]] 2/5
+18. Quartiere [[Nakano]] e [[Nakano Broadway]] 5/5
+19. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] 3/5 ( Lontano )
+20. 
 
-### [[Kamakura(鎌倉市)]] 
+### [[Kamakura(鎌倉市)]] ( Lontano )
 1. [[Tempio Kutoku-in]] Grande Buddha 3/5
-2. [[Temio Kencho-ji]]
-3. [[Tempio Hase-dera]]
-4. [[Santuario Tsurugaoka Hachimangu]]
-5. [[Tempio Henga]]
+2. [[Temio Kencho-ji]] 3/5
+3. [[Tempio Hase-dera]] 1/5
+4. [[Santuario Tsurugaoka Hachimangu]] 1/5
+5. [[Tempio Engaku-ji]] 2/5
+6. [[Tempio Hokoku-ji]] 1/5

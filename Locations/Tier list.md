@@ -12,13 +12,13 @@
 
 ## Hiroshima
 
-1. [[Memorial Park Hiroshima]] (9:0) 3.5/5
+1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) 3.5/5
 2. Quartiere [[Nagarekawa]] [[Hondori street]] 3/5
 ### Miyajima
 
 1. [[Itsukushima shrine]] ( [[Spiaggia Mikasa]] ) 5/5
-2. [[Tempio Daisho-in]] (8:00-17:00) 3/5
-3. [[Monte Misen]] 2/5
+2. [[Tempio Daisho-in]] ( 8:00-17:00 ) 3/5
+3. [[Monte Misen]] ( 9:00-17:00 ) 2/5
 
 ## Kyoto
 
@@ -40,4 +40,5 @@
 
 ## Tokyo
 
-1. 
+1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) 5/5
+2. Quartier di [[Shibuya]] 

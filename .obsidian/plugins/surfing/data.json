@@ -48,21 +48,10 @@
   },
   "treeData": [
     {
-      "id": "1f2c0a5ed8ee731e",
+      "id": "3f1a3daa44999c76",
       "parent": 0,
       "droppable": true,
       "text": "Klook Travel - attività, tour e attrazioni- Klook",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    },
-    {
-      "id": "3ec1a5c750e26d2d",
-      "parent": 0,
-      "droppable": true,
-      "text": "Booking.com: Hotel Kyoto. Prenota ora il tuo hotel!",
       "data": {
         "fileType": "site",
         "fileSize": "",

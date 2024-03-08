@@ -50,7 +50,7 @@
 - [[Universal Studios Japan]]
 ##### Sera: 
 - [[Umeda Sky Building]]
-## Giorno 4 ( 1° [[Hiroshima(広島)]])
+## Giorno 4 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Mattina:
 - [[Nagarekawa]]

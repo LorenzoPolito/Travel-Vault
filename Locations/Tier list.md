@@ -46,7 +46,7 @@
 4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
 5. Quartiere di [[Akihabara]] 4/5
 6. Quartiere di [[Shinjuku]] 4/5
-7. [[Santuario Meiji]] 3/5
+7. [[Santuario Meiji]] ( 10:00 - 16:30 ) 3/5
 8. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
 9. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
 10. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
@@ -59,7 +59,6 @@
 17. [[Odaiba]] e [[Rainbow Bridge]] 2/5
 18. Quartiere [[Nakano]] e [[Nakano Broadway]] 5/5
 19. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] 3/5 ( Lontano )
-20. 
 
 ### [[Kamakura(鎌倉市)]] ( Lontano )
 1. [[Tempio Kutoku-in]] Grande Buddha 3/5

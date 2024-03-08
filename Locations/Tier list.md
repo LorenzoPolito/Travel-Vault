@@ -10,7 +10,12 @@
 8. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) 3/5
 9. [[Kayuka aquarium]] 1/5
 
-## Hiroshima/Miyajima
+## Hiroshima
 
 1. [[Memorial Park Hiroshima]] 3.5/5
-2. 
+2. Quartiere [[Nagarekawa]] [[Hondori street]] 3/5
+### Miyajima
+
+1. [[Itsukushima shrine]] 5/5
+2. [[Monte Misen]] 2/5
+3. [[Tempio Daisho-in]] 

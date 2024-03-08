@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Tier list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Tier list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
+                "file": "Locations/Tier list.md"
               }
             }
           },
@@ -235,11 +235,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be4f9be14b9d4b21",
+  "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Tier list.md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Ginkakuji temple.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",

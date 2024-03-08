@@ -41,4 +41,7 @@
 ## Tokyo
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) 5/5
-2. Quartier di [[Shibuya]] 
+2. Quartiere di [[Shibuya]] 5/5
+3. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
+4. Quartiere di [[Akihabara]] 4/5
+5. Quartiere di [[Ueno]] e [[Parco di Ueno]]

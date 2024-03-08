@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
-                "mode": "preview",
+                "file": "Locations/Cities/Tokyo(東京).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md"
+                "file": "Locations/Cities/Tokyo(東京).md"
               }
             }
           },
@@ -192,6 +192,8 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+    "Slides/Slide Viaggio in Giappone.md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Osaka(大阪市).md",
@@ -202,7 +204,6 @@
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Ginkakuji temple.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Slides/Slide Viaggio in Giappone.md",
     "Slides",
     "Itinerari/Itinerario Ossama Valentina.md",
     "conflict-files-obsidian-git.md",
@@ -219,7 +220,6 @@
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "torre Tsutenkaku.md",
     "Locations/Cities/Tokyo(東京).md",
-    "Itinerari/Itinerario Osaka to Kyoto.md",
     "Locations/Parks",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",

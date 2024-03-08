@@ -19,7 +19,7 @@ darkMode: true
 marker: default,35.69039215333176,139.776763971895,Tokyo東京
 ```
 
-
+![[Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg]]
 ## Zone da visitare
 
 - [[Tokyo tower]]

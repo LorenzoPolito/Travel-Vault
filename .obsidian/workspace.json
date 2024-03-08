@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,6 +86,7 @@
       {
         "id": "be0c566cc90023a2",
         "type": "tabs",
+        "dimension": 64.25742574257426,
         "children": [
           {
             "id": "bb8d7d74a57d298a",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md"
               }
             }
           },
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,12 +146,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "6fb3ca181d141cfc",
         "type": "tabs",
+        "dimension": 35.742574257425744,
         "children": [
           {
             "id": "c4103d0aeec749df",
@@ -193,16 +194,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb8d7d74a57d298a",
+  "active": "6a5fa835e94c4439",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Locations/Lista dei Luoghi.md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Slides/Slide Viaggio in Giappone.md",
     "Calendar",
-    "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Stores/Senza nome.md",
     "Locations/Restaurants/Senza nome.md",
@@ -214,7 +216,6 @@
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Itinerario Ossama Valentina.md",
-    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itenerario v1.md",
     "Info/Voli/Test per riferimento.md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",

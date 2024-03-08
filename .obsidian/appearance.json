@@ -1,4 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "Minimal"
+  "accentColor": "#66f55c",
+  "cssTheme": "Dune",
+  "translucency": false,
+  "baseFontSizeAction": true,
+  "theme": "system"
 }

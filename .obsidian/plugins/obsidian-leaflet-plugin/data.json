@@ -75,15 +75,12 @@
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [
-      "default,35.69039215333176,139.776763971895,Tokyo東京"
-    ],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
     "markerTag": [],
     "maxZoom": 18,
-    "minZoom": 11,
+    "minZoom": 1,
     "osmLayer": true,
     "overlay": [],
     "overlayColor": "blue",

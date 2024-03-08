@@ -45,13 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be4f9be14b9d4b21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tier list.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tier list.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tier list.md"
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
               }
             }
           },
@@ -222,12 +235,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "93d0b9edd8b2a903",
+  "active": "be4f9be14b9d4b21",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Tier list.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/Osaka(大阪市).md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Slides/Slide Viaggio in Giappone.md",
     "Slides",
     "Itinerari/Itinerario Ossama Valentina.md",
@@ -236,7 +250,6 @@
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka to Tokyo.rst",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",

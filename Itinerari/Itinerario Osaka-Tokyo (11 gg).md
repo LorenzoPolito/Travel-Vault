@@ -1,14 +1,12 @@
-> Creato da @Damiano/@Lorenzo
+> Creato da @Lorenzo
 
-|       città        | giorni | notti | € a notte *(provvisorio)* |         note         |
-| :----------------: | :----: | :---: | :-----------------------: | :------------------: |
-|    Volo andata     |   1    |   1   |         300/400 €         |                      |
-|       Osaka        |   2    |   2   |           25 €            |                      |
-| Miyajima/Horoshima |   1    |   1   |        25 € circa         |                      |
-|       Kyoto        |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|       Tokyo        |   6    |   6   |           23 €            |                      |
-|    Volo ritorno    |   1    |   1   |         300/400 €         |                      |
-|     **TOTALE**     |   14   |  13   |                           |                      |
+|    città     | giorni | notti | € a notte *(provvisorio)* |        note         |
+|:------------:|:------:|:-----:|:-------------------------:|:-------------------:|
+| Volo andata  |   1    |   1   |         300/400 €         |                     |
+|    Osaka     |   3    |   3   |           25 €            |  1/2 giorno a nara  |
+|    Tokyo     |   6    |   6   |           23 €            | 1 giorno a Kamakura |
+| Volo ritorno |   1    |   1   |         300/400 €         |                     |
+|  **TOTALE**  |   11   |  11   |                           |                     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -36,8 +34,8 @@
 ##### Pomeriggio: 
 - [[Castello di Osaka]] #discutere 
 - [[Tempio Hozen-ji]]
-- Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
-- [[Tempio Shinteno-ji]]
+- Quartiere[[ Minami-sakai]] (Namba)
+- [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
 - [[Shinsekai]]
 - [[Torre Tsutenkaku]]
@@ -48,48 +46,24 @@
 - [[Universal Studios Japan]]
 ##### Sera: 
 - [[Umeda Sky Building]]
-## Giorno 4 ( 1° [[Hiroshima(広島)]])
-*(2h per arrivare a Hiroshima)*
-*Partenza per [[Miyajima]]*
-##### Mattina: 
-- [[Itsushima Shrine]]
-##### Pomeriggio: 
-- [[Monte Misen]],
-- [[Tempio Daisho-in]]
-- [[Spiaggia Mikasa]]
-##### Sera: 
-- Rientro a Hiroshima
-## Giorno 5 ( 1° [[Kyoto(京都)]])
-(2h per arrivare a Kyoto)
-##### Mattina: 
-- [[Santuario Yasaka]]
-- [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
-##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
-## Giorno 6 ( 2° Kyoto)
-##### Mattina: 
-- Lavaggio vestiti
-- [[Arashiyama]] (quartiere e foresta bambu)
-##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
-##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
-## Giorno 7 ( 3° Kyoto/Tokyo)
-##### Mattina: 
-- [[Sentiero del filosofo]] e [[Ginkakuji]]
-
+## Giorno 4 ( 3° Osaka)
+##### Mattina:
+- quartiere [[Dotonbori]]
+##### Pomeriggio:
+*Viaggio verso Nara di 1h*
+- [[Nara]] *(fino alle 18:00 quindi ritorno alle 19:00)*
+ ###### Sera:
+- libera
+## Giorno 5 ( 1° [[Tokyo(東京)]])
 *Partenza per Tokyo (circa 2h)*
+##### Mattina: 
+- check-in all'hotel
+- [[kodokan dojo judo]]
 ##### Pomeriggio/sera: 
-- [[kodokan dojo judo]], 
-- [[Santuario Kanda]], 
+- [[Santuario Kanda]],
 - [[Parco di Ueno ]]
 - [[Akihabara]] (in generale)
-## Giorno 8 ( 1° [[Tokyo(東京)]])
+## Giorno 6 ( 1° Tokyo)
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] 
 - [[Ginza]]
@@ -100,14 +74,16 @@
 - [[Roppongi]]
 - [[Azanudai]]
 - [[Tokyo tower]]
-## Giorno 9 ( 2° Tokyo)
+## Giorno 7 ( 2° Tokyo)
 ##### Mattina: 
 - #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
-## Giorno 10 ( 3° Tokyo/Esterna)
+- [[Asakusa(浅草)]] 
+- [[Tempio Senso-Ji]]
+- [[Tokyo skytree]]
+## Giorno 8 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
 - [[Fujiyoshida]]
@@ -118,14 +94,14 @@
 ##### Sera: 
 - [[Shinjuku]]
 - [[Santuario Meiji]]
-## Giorno 11 ( 4° Tokyo/Esterna)
+## Giorno 9 ( 4° Tokyo/Esterna)
 ##### Mattina/Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 
 - libera
-## Giorno 12 (5° Tokyo)
+## Giorno 10 (5° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
+- quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
 - [[Shibuya]] 
@@ -134,13 +110,13 @@
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya]] (incrocio dall’alto)
-## Giorno 13 ( 6° Tokyo)
+## Giorno 11 ( 6° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway]] *solo se necessario*
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)
-## Giorno 14 (viaggio)
+## Giorno 12 (viaggio)
 ##### Mattina
 - rientro a casa

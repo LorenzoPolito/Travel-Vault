@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "c1b9ab1ef947b821",
+            "id": "914f1f05c029f58b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -172,13 +172,21 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "6f62312d5a2c831d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,10 +204,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c1b9ab1ef947b821",
+  "active": "914f1f05c029f58b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
+    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka to Tokyo.rst",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Temples/Santuario Meiji.md",
@@ -218,13 +234,6 @@
     "zs.md",
     "Locations/Parks",
     "2024-02-25.md",
-    "2024-02-24.md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Osaka(大阪市).md",
-    "Locations/Cities/Kobe(神戸).md",
-    "Itinerari/Itinerario v2.md",
-    "Locations/Temples/Fabrica dei Gundam.md",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
@@ -238,7 +247,6 @@
     "Locations/Cities/blocks",
     "Locations/Cities/Tokyo東京.docx",
     "Locations/Hotels",
-    "Locations/Stores",
-    "Locations/Restaurants"
+    "Locations/Stores"
   ]
 }

@@ -29,4 +29,8 @@
 5. [[Quartiere Gion]] 1/5
 6. [[Tempio Kodai-ji]] 3/5
 7. [[Kiyomizu-dera]] 5/5
-8. 
+8. [[Kinkaku-ji]] 3/5
+9. [[Fushimi Inari]] 3/5
+10. [[Ryoan-ji]] 2/5
+11. [[Sentiero del filosofo]] 1/5
+12. [[Ginkakuji temple]] 2/5

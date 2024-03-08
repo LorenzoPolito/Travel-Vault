@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md"
+                "file": "Locations/Cities/Osaka(大阪市).md"
               }
             }
           },
@@ -192,6 +192,9 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Locations/Cities/Kyoto(京都).md",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
+    "Locations/Cities/Tokyo(東京).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "Slides/Slide Viaggio in Giappone.md",
     "Info/Voli/Test per riferimento.md",
@@ -219,7 +222,6 @@
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "torre Tsutenkaku.md",
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Parks",
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiTransferVertical",
+      "RiSlideshowFill",
       "TiRollercoaster",
       "FasStreetView",
-      "LiHotel",
-      "🛕",
-      "IbStore"
+      "LiHotel"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -43,5 +43,7 @@
   "Locations/Hotels": "LiHotel",
   "Locations/Cities/blocks": "FasStreetView",
   "Locations Interactive Map": "LiLocateFixed",
-  "Locations/Parks": "TiRollercoaster"
+  "Locations/Parks": "TiRollercoaster",
+  "Slides": "RiSlideshowFill",
+  "Itinerari": "TiTransferVertical"
 }

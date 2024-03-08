@@ -11,12 +11,12 @@
   "obsidian-dictionary-plugin",
   "quick-latex",
   "obsidian-map-view",
-  "obsidian-leaflet-plugin",
   "calendar",
   "obsidian-day-planner",
   "obsidian-pandoc",
   "url-into-selection",
   "oz-image-plugin",
   "obsidian-git",
-  "convert-url-to-iframe"
+  "convert-url-to-iframe",
+  "obsidian-leaflet-plugin"
 ]

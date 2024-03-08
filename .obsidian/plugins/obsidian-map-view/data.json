@@ -18,7 +18,7 @@
         "prefix": "fas",
         "icon": "fa-circle",
         "markerColor": "blue",
-        "innerHTML": "<svg class=\"map-view-icon\"><use xlink:href=\"#icon-1804148836\"></use></svg>"
+        "innerHTML": "<svg aria-hidden=\"true\" focusable=\"false\" data-prefix=\"fas\" data-icon=\"circle\" class=\"svg-inline--fa fa-circle\" role=\"img\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 512 512\" style=\"color: white;\"><path fill=\"currentColor\" d=\"M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512z\"></path></svg>"
       }
     },
     {
@@ -89,7 +89,7 @@
   ],
   "mapControls": {
     "filtersDisplayed": false,
-    "viewDisplayed": false,
+    "viewDisplayed": true,
     "presetsDisplayed": false
   },
   "maxClusterRadiusPixels": 20,

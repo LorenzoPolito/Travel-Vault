@@ -185,18 +185,18 @@
       "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
-    "Location added on 2024-03-08T17-02.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Slides/Slide Viaggio in Giappone.md",
+    "Location added on 2024-03-08T17-02.md",
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/Tokyo(東京).md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Kobe(神戸).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",

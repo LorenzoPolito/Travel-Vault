@@ -106,7 +106,9 @@
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+- [[Asakusa(浅草)]] 
+- [[Tempio Senso-Ji]]
+- [[Tokyo skytree]]
 ## Giorno 10 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
@@ -125,7 +127,7 @@
 - libera
 ## Giorno 12 (5° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
+- quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
 - [[Shibuya]] 

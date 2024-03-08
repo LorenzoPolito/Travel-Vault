@@ -22,4 +22,7 @@
 
 ## Kyoto
 
-1. [[Santuario Yasaka]] 
+1. [[Santuario Yasaka]] 4/5
+2. [[Nishiki Market]] 4/5
+3. [[Quartiere Gion]] 1/5
+4. [[Tempio Kodai-ji]]

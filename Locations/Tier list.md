@@ -40,4 +40,4 @@
 
 ## Kobe
 
-1. 
+1. [Mercato del pesce di Kobe]

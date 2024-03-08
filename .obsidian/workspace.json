@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -236,9 +237,9 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Tier list.md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Slides/Slide Viaggio in Giappone.md",

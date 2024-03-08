@@ -69,7 +69,7 @@
 - [[Tempio Kodai-ji]]
 - [[Sannenzaka]]
 - [[Ninenzaka street]]
-- [[Kyojizu-dera]]
+- [[Kiyomizu-dera]]
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
 - Lavaggio vestiti

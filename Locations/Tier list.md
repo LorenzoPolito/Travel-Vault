@@ -22,7 +22,11 @@
 
 ## Kyoto
 
-1. [[Santuario Yasaka]] 4/5
-2. [[Nishiki Market]] 4/5
-3. [[Quartiere Gion]] 1/5
-4. [[Tempio Kodai-ji]]
+1. [[Arashiyama]] 5/5
+2. [[Santuario Yasaka]] 4/5
+3. [[Nishiki Market]] 4/5
+4. zona [[Sannenzaka]] strada [[Ninenzaka]] 4/5
+5. [[Quartiere Gion]] 1/5
+6. [[Tempio Kodai-ji]] 3/5
+7. [[Kiyomizu-dera]] 5/5
+8. 

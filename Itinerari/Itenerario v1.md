@@ -12,6 +12,7 @@ scale: 1
 darkMode: true
 ```
 
+
 |   |   |
 |---|---|
 |**Itinerari di 14 giorni**|   |

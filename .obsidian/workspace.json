@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
-                "mode": "source",
+                "file": "Locations/Cities/Hiroshima(広島).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Cities/Hiroshima(広島).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Cities/Hiroshima(広島).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Locations/Cities/Hiroshima(広島).md"
               }
             }
           },
@@ -192,14 +192,17 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "Itinerari/Itenerario v1.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Itinerario Ossama Valentina.md",
     "Slides/Slide Viaggio in Giappone.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Fabrica dei Gundam.md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "Locations/Cities/Kyoto(京都).md",
@@ -211,16 +214,13 @@
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Ginkakuji temple.md",
     "Slides",
-    "Itinerari/Itinerario Ossama Valentina.md",
     "conflict-files-obsidian-git.md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo.md",
-    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Itinerario Osaka to Tokyo.rst",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo.md",
     "Itinerari/Itinerario Osaka to Tokyo.md",
     "Locations/Temples/Santuario Meiji.md",
     "Itinerari/Itinerario Tokyo-Kyoto-Hiroshima.md",
-    "Itinerari/Itenerario v1.md",
     "Itinerari/Itinerario Kyoto to Osaka.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Parks",

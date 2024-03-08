@@ -38,7 +38,7 @@
 ##### Pomeriggio: 
 - [[Castello di Osaka]] #discutere 
 - [[Tempio Hozen-ji]]
-- Quartiere[[ Minami-sakai]] (Namba) / quartiere [[Dotonbori]] #discutere 
+- Quartiere[[ Minami-sakai]] (Namba)  [[Dotonbori]] #
 - [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
 - [[Shinsekai]]

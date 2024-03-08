@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
-                "mode": "preview",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
               }
             }
           },
@@ -192,6 +192,9 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
@@ -203,12 +206,9 @@
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "Slides/Slide Viaggio in Giappone.md",
     "Info/Voli/Test per riferimento.md",
-    "Locations/Lista dei Luoghi.md",
     "Palazzo Imperiale di tokyo.md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Ginkakuji temple.md",
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Slides",
     "Itinerari/Itinerario Ossama Valentina.md",
     "conflict-files-obsidian-git.md",

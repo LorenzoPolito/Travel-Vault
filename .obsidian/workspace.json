@@ -6,7 +6,7 @@
       {
         "id": "154fc408ab0579de",
         "type": "tabs",
-        "dimension": 51.65876777251185,
+        "dimension": 60.90047393364929,
         "children": [
           {
             "id": "93d0b9edd8b2a903",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Tier list.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "mode": "preview",
                 "source": false
               }
@@ -37,7 +37,7 @@
       {
         "id": "1d69c443fdbaca72",
         "type": "tabs",
-        "dimension": 48.34123222748815,
+        "dimension": 39.09952606635071,
         "children": [
           {
             "id": "c1f8863339a7bc7b",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Tier list.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Tier list.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Tier list.md"
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md"
               }
             }
           },
@@ -237,8 +237,8 @@
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
+    "Locations/Lista dei Luoghi.md",
     "Palazzo Imperiale di tokyo.md",
-    "Locations/Tier list.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Parks/TOEI Kyoto studio park.md",

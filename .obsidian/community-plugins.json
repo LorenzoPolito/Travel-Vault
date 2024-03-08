@@ -19,5 +19,7 @@
   "obsidian-git",
   "convert-url-to-iframe",
   "obsidian-leaflet-plugin",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-hover-editor",
+  "obsidian-full-calendar"
 ]

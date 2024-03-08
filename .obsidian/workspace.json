@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md"
+                "file": "Locations/Cities/Osaka(大阪市).md"
               }
             }
           },
@@ -187,21 +187,22 @@
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "93d0b9edd8b2a903",
   "lastOpenFiles": [
-    "Locations/Cities/Kyoto(京都).md",
-    "Slides/Slide Viaggio in Giappone.md",
-    "Location added on 2024-03-08T17-02.md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Slides/Slide Viaggio in Giappone.md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Location added on 2024-03-08T17-02.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Kobe(神戸).md",
-    "Locations/Cities/Hiroshima(広島).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itenerario v1.md",
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",

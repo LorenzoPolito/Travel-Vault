@@ -49,4 +49,6 @@
 7. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
 8. [[Santuario Kanda]] ( 24H ) 3/5
 9. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
-10. [[Ginza]] 1/5
+10. Quartiere di [[Ginza]] 1/5
+11. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) 4/5
+12. [[]]

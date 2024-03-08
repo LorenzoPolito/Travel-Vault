@@ -3,7 +3,7 @@
 ```
 
 
-
+![[Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg]]
 ## Cibo tipico
 
 ## Posti da visitare

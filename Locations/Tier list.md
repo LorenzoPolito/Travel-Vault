@@ -37,4 +37,7 @@
 13. [[Quartiere Gion]] 1/5
 14. [[Ginkakuji temple]] ( 8:30-17:00 ) 1/5
 15. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) 1/5
-16. [[Reigenji temple]] ( 9:00-17:00 ) 1/5
+
+## Kobe
+
+1. 

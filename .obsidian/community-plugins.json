@@ -8,7 +8,6 @@
   "obsidian-icon-folder",
   "obsidian-emoji-toolbar",
   "nldates-obsidian",
-  "obsidian-dictionary-plugin",
   "quick-latex",
   "obsidian-map-view",
   "calendar",
@@ -21,5 +20,7 @@
   "obsidian-leaflet-plugin",
   "obsidian-advanced-slides",
   "obsidian-hover-editor",
-  "obsidian-full-calendar"
+  "obsidian-full-calendar",
+  "obsidian-latex-suite",
+  "multi-column-markdown"
 ]

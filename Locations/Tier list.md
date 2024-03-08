@@ -6,3 +6,5 @@
 4. [[Tempio Hozen-ji]] 4/5
 5. Quartiere [[Shinsekai]] 4/5
 6. [[Umeda Sky Building]] 3/5
+7. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) 3/5
+8. 

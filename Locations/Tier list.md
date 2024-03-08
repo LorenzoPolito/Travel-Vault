@@ -41,14 +41,18 @@
 ## Tokyo
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) 5/5
-2. Quartiere di [[Shibuya]] 5/5
-3. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
-4. Quartiere di [[Akihabara]] 4/5
-5. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
-6. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
-7. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
-8. [[Santuario Kanda]] ( 24H ) 3/5
-9. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
-10. Quartiere di [[Ginza]] 1/5
-11. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) 4/5
-12. [[]]
+2. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) 3/5
+3. Quartiere di [[Shibuya]] 5/5
+4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) 2/5
+5. Quartiere di [[Akihabara]] 4/5
+6. Quartiere di [[Ueno]] e [[Parco di Ueno]] 2/5
+7. [[Kodokan dojo judo]] ( 16:00-20:00 ) 1/5
+8. [[The making of harry potter]] ( 8:30 -18:30 ) 1/5
+9. [[Santuario Kanda]] ( 24H ) 3/5
+10. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) 4/5
+11. Quartiere di [[Ginza]] 1/5
+12. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) 4/5
+13. Quartiere [[Roppongi]] (notturno) 3/5
+14. [[Tokyo tower]] ( 9:00 - 22:30 ) 4/5
+15. [[Odaiba]] e [[Rainbow Bridge]] 2/5
+16. 

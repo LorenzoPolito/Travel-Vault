@@ -21,3 +21,10 @@
 - [[Hachiko]]
 
 ## Giorno 5 (4° Tokyo/Esterna)
+- [[Kamakura(鎌倉市)]]
+- [[Tempio Kutoku-in]] statua del grande Buddha
+- spiaggia
+- [[Shinjuku]] si notte
+
+## Giorno 6 (1° [[Osaka(大阪市)]])
+*Partenza da Tokyo verso Osaka con lo shinkansen (2h)*

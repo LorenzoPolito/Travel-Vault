@@ -123,7 +123,7 @@
 - [[Santuario Meiji]]
 ## Giorno 11 ( 4° Tokyo/Esterna)
 ##### Mattina/Pomeriggio: 
-- Partenza per [[Kamakura]] (1h da Tokyo)
+- Partenza per [[Kamakura(鎌倉市)]] (1h da Tokyo)
 ##### Sera: 
 - libera
 ## Giorno 12 (5° Tokyo)

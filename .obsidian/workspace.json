@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,11 +205,12 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
+    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Slides/Slide Viaggio in Giappone.md",
-    "Locations/Lista dei Luoghi.md",
     "allegati/Pasted image 20240309113236.png",
     "Locations/Cities/Tokyo(東京).md",
     "Info/Voli/Test per riferimento.md",
@@ -220,7 +221,6 @@
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Calendar",
-    "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/Osaka(大阪市).md",

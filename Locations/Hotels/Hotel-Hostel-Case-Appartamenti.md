@@ -1,4 +1,3 @@
-
 ### Hiroshima
 ##### Case vacanza/appartamenti:
 - https://www.booking.com/Share-aqbctd

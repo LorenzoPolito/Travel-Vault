@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Locations/Temples/Fabrica dei Gundam.md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
+                "file": "Locations/Temples/Fabrica dei Gundam.md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Locations/Temples/Fabrica dei Gundam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Locations/Temples/Fabrica dei Gundam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,6 +205,7 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Temples/Fabrica dei Gundam.md",
     "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
@@ -219,7 +220,6 @@
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Calendar",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",

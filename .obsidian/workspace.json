@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb5c87a5139c3d25",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://www.klook.com/it/wifi-sim-card/?pickup=2657%2C2661&cardType=2&"
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Locations/Lista dei Luoghi.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +154,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +170,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,17 +223,17 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a17f7c8cc1b30dad",
+  "active": "cb5c87a5139c3d25",
   "lastOpenFiles": [
-    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
-    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Fabrica dei Gundam.md",
+    "Slides/Slide Viaggio in Giappone.md",
+    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Cities/Hiroshima(広島).md",
-    "Slides/Slide Viaggio in Giappone.md",
     "allegati/Pasted image 20240309113236.png",
     "Locations/Cities/Tokyo(東京).md",
     "Info/Voli/Test per riferimento.md",

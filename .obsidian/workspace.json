@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md"
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md"
               }
             }
           },
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Slides/Slide Viaggio in Giappone.md",
+                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +205,9 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Hiroshima(広島).md",
     "Slides/Slide Viaggio in Giappone.md",
+    "Locations/Lista dei Luoghi.md",
     "allegati/Pasted image 20240309113236.png",
     "Locations/Cities/Tokyo(東京).md",
     "Info/Voli/Test per riferimento.md",
@@ -224,7 +225,6 @@
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Itinerario Ossama Valentina.md",

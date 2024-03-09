@@ -9,7 +9,8 @@
 6. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 7. [[Umeda Sky Building]] #3/5
 8. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
-9. [[Kayuka aquarium]] #1/5
+9. [[Nara]] ( Lontano ) #2/5 
+10. [[Kayuka aquarium]] #1/5
 ## Hiroshima
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5

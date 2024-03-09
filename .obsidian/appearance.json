@@ -3,5 +3,6 @@
   "cssTheme": "Dune",
   "translucency": false,
   "baseFontSizeAction": true,
-  "theme": "system"
+  "theme": "system",
+  "baseFontSize": 10
 }

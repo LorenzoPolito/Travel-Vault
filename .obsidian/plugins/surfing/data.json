@@ -18,7 +18,7 @@
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
-  "openInSameTab": false,
+  "openInSameTab": true,
   "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
@@ -46,6 +46,18 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "5afcf83b71efef55",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true
 }

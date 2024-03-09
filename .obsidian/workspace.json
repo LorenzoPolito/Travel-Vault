@@ -6,13 +6,18 @@
       {
         "id": "a99b6f9094d49828",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "a17f7c8cc1b30dad",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Slides/Slide Viaggio in Giappone.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Slides/Slide Viaggio in Giappone.md"
+              }
             }
           },
           {
@@ -125,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Slides/Slide Viaggio in Giappone.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Slides/Slide Viaggio in Giappone.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,6 +205,9 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
+    "Locations/Cities/Tokyo(東京).md",
+    "Slides/Slide Viaggio in Giappone.md",
+    "Info/Voli/Test per riferimento.md",
     "Locations/Stores/Senza nome.md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
@@ -204,8 +216,6 @@
     "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Lista dei Luoghi.md",
-    "Slides/Slide Viaggio in Giappone.md",
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Calendar",
     "Locations/Temples/Fabrica dei Gundam.md",
@@ -218,7 +228,6 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itenerario v1.md",
-    "Info/Voli/Test per riferimento.md",
     "Location added on 2024-03-08T17-02.md",
     "Locations/Cities/Kobe(神戸).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",

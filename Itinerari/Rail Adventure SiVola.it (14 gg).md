@@ -65,4 +65,15 @@
 ## Giorno 11 (1° [[Kyoto(京都)]])
 - [[Fushimi Inari]]
 
-## Giorno 12 ()
+## Giorno 12 (2° Kyoto)
+- [[Castello di Nijo]]
+- [[Ginkakuji temple]]
+- [[Mercato di Nishiki]]
+- [[Daikaku-ji Temple]]
+
+## Giorno 13 ( ritorno)
+- Aeroporto di Osaka
+- partenza
+
+## Giorno 14 ( casa )
+- saluti

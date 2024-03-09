@@ -30,21 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb5c87a5139c3d25",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.klook.com/it/wifi-sim-card/?pickup=2657%2C2661&cardType=2&"
-              },
-              "pinned": true
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Lista dei Luoghi.md"
+              }
             }
           },
           {
@@ -154,6 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +215,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "cb5c87a5139c3d25",
+  "active": "e88868619f55c550",
   "lastOpenFiles": [
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Lista dei Luoghi.md",

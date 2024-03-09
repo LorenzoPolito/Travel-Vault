@@ -1,4 +1,3 @@
-
 ## Osaka
 
 1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5

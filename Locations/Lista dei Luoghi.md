@@ -57,7 +57,7 @@
 17. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
 18. Quartiere di [[Ginza]] #1/5
 19. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5
-### [[Kamakura(鎌倉市)]] 
+### Kamakura
 *( Lontano )*
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5
 2. [[Temio Kencho-ji]] #3/5

@@ -33,7 +33,18 @@
 - [[Dotonbori]]
 - Dormita in un capsule Hotel
 
-## Giorno 7 (1° Monte Koya)
+## Giorno 7 (1° Monte Koya/Hokone)
 *Preparate uno zaino per la notte perché lasceremo il bagaglio principale*
 - Monte Koya
-- 
+- Tempio Kobo Daishi
+- Notte nel monastero
+
+- [[Hokone]]
+
+## Giorno 8 (1° Osaka)
+*Sulla via del ritorno verso Osaka ci Fermeremo a [[Nara]]*
+- [[Nara]]
+- [[Tempio Todaji]] Buddha più grande del Giappone
+- [[Santuario Kasuga]] dove sono costudite le lanterne dei desideri
+
+## Giorno 9 (1)

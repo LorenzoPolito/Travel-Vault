@@ -47,4 +47,22 @@
 - [[Tempio Todaji]] Buddha più grande del Giappone
 - [[Santuario Kasuga]] dove sono costudite le lanterne dei desideri
 
-## Giorno 9 (1)
+## Giorno 9 (1° [[Miyajima]])
+- Tramonto dietro al Tori rosso
+- [[Spiaggia Mikasa]]
+
+## Giorno 10 (1° [[Hiroshima(広島)]])
+
+- [[Memorial Park Hiroshima]]
+- [[Genbaku Dome]]
+- Museo
+- Libero ad Hiroshima
+
+*Partenza verso Kyoto*
+
+- [[Pontocho]] geishe e maiko
+
+## Giorno 11 (1° [[Kyoto(京都)]])
+- [[Fushimi Inari]]
+
+## Giorno 12 ()

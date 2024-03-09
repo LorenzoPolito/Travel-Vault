@@ -1,19 +1,27 @@
 > Creato da @Lorenzo
 
 |    città     | giorni | notti | € a notte *(provvisorio)* |                                                                  note                                                                   |
-| :----------: | :----: | :---: | :-----------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+|:------------:|:------:|:-----:|:-------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
 |    Osaka     |   3    |   2   |           22 €            | 1 giorno all'Universal studios(50 €);<br>Osaka Amazing pass (2 giorni 22 €);<br>vedi [Klook.com](https://www.klook.com/it/) per sconti; |
 | Volo andata  |   1    |   1   |         400/500 €         |                                                                                                                                         |
 |    Kyoto     |   4    |   4   |           34 €            |                                                 1/2 giorno a Nara; TOEI park Eva(15 €)                                                  |
 |  Hiroshima   |   1    |   1   |        25 € circa         |                                                          *2 giorni è meglio?*                                                           |
 |    Tokyo     |   6    |   6   |           23 €            |                                                          *sono troppi giorni?*                                                          |
 | Volo ritorno |   1    |   1   |         400/500 €         |                                                                                                                                         |
-|  **TOTALE**  |   14   |  13   |                           |                                                                                                                                         |
+|  **TOTALE**  |   16   |  15   |                           |                                                                                                                                         |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
 #discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
 #discutere spirito di adattamento
+
+## Alcune Info
+- Il fuso orario è di 8 ore avanti rispetto a Roma
+- per Tokyo e Kyoto è utile una [[Suika card]] o [[Pasmo card]]
+- Ad Osaka si può fare la [[Icoca card]] non so se è valida anche nelle altre citta come Suika
+- [[Osaka Amazing pass]] ( 2 giorni 22 €)
+- Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
+- Su [Klook.com](https://www.klook.com/it/) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto
 ## Giorno 1 ( 1 - Osaka)
 1. arrivo a [[Osaka(大阪市)]] aeroporto *( mattina? )*
 2. check in all'hotel *( riposo post viaggio )*

@@ -11,12 +11,8 @@
             "id": "a17f7c8cc1b30dad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -109,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,18 +196,19 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
+    "Locations/Stores/Senza nome.md",
+    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Lista dei Luoghi.md",
     "Slides/Slide Viaggio in Giappone.md",
     "Locations/Cities/Tokyo(東京).md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Calendar",
     "Locations/Temples/Fabrica dei Gundam.md",
-    "Locations/Stores/Senza nome.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/Osaka(大阪市).md",
@@ -226,7 +219,6 @@
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itenerario v1.md",
     "Info/Voli/Test per riferimento.md",
-    "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Location added on 2024-03-08T17-02.md",
     "Locations/Cities/Kobe(神戸).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",

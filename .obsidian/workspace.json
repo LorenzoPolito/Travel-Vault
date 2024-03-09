@@ -6,7 +6,6 @@
       {
         "id": "a99b6f9094d49828",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "a17f7c8cc1b30dad",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md"
+                "file": "Locations/Lista dei Luoghi.md"
               }
             }
           },
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,8 +216,8 @@
   },
   "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",
     "Locations/Temples/Fabrica dei Gundam.md",

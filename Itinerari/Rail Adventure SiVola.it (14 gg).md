@@ -28,3 +28,12 @@
 
 ## Giorno 6 (1° [[Osaka(大阪市)]])
 *Partenza da Tokyo verso Osaka con lo shinkansen (2h)*
+- [[Castello di Osaka]]
+- Espolarzione di Osaka
+- [[Dotonbori]]
+- Dormita in un capsule Hotel
+
+## Giorno 7 (1° Monte Koya)
+*Preparate uno zaino per la notte perché lasceremo il bagaglio principale*
+- Monte Koya
+- 

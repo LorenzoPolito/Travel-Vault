@@ -3,5 +3,6 @@
 
 ---
 
-
+![](https://cdn.pixabay.com/photo/2014/09/25/19/36/question-mark-460864_960_720.png)
+## Ma prima di iniziare chiediamoci il perché 
 ---

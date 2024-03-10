@@ -46,18 +46,6 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "cb5c87a5139c3d25",
-      "parent": 0,
-      "droppable": true,
-      "text": "Discover Multi 4G/3G Portable WiFi Rental & Prepaid Sim Card - Klook",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true
 }

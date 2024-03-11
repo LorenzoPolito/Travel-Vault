@@ -46,18 +46,6 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "b7c7bdcb70148e93",
-      "parent": 0,
-      "droppable": true,
-      "text": "SUNDAY peace room 中島 #24, Hiroshima – Prezzi aggiornati per il 2024",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true
 }

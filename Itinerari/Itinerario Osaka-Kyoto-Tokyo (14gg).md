@@ -42,12 +42,18 @@ Creato da @Damiano/@Lorenzo
 - (Namba, Minami) [[Dotonbori]]
 - [[Torre Tsutenkaku]]
 
-## Giorno X ()
+## Giorno 2 (1 °[[Nara]]/[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka]] (9:00-17:00)
 
-*Partenza verso Kyoto (25 min)*
+*Partenza verso Nara (53min)*
+*lasciamo le valigie ai locker*
 ##### Pomeriggio
-- 
+- [[Nara]]
+
+*Partenza verso Kyoto (45min)*
+*Check-in all'hotel*
 ##### Sera
-- wd
+- Sera libera
+
+## Giorno 3 ()

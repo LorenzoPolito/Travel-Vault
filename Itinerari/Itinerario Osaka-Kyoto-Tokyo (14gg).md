@@ -42,7 +42,7 @@ Creato da @Damiano/@Lorenzo
 - (Namba, Minami) [[Dotonbori]]
 - [[Torre Tsutenkaku]]
 
-## Giorno 2 (1 °[[Nara]]/[[Kyoto(京都)]])
+## Giorno 2 ([[Nara]]/[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka]] (9:00-17:00)
 
@@ -56,4 +56,29 @@ Creato da @Damiano/@Lorenzo
 ##### Sera
 - Sera libera
 
-## Giorno 3 ()
+## Giorno 3 (1° Kyoto)
+
+##### Mattina: 
+- [[Santuario Yasaka]]
+- [[Quartiere Gion]]
+- [[Nishiki Market ]] (pranzo)
+##### Pomeriggio/sera: 
+- [[Tempio Kodai-ji]]
+- [[Sannenzaka]]
+- [[Ninenzaka street]]
+- [[Kiyomizu-dera]]
+
+## Giorno 4 ( 2° Kyoto)
+##### Mattina: 
+- [[Arashiyama]] (quartiere e foresta bambu)
+##### Pomeriggio: 
+- [[Ryoan-ji]]  
+- [[Kinkaku-ji]]
+
+##### Sera:
+- libera??
+
+
+## Giorno 5 (3° Kyoto)
+##### Mattina: 
+- [[Fushimi Inari]] (tramonto

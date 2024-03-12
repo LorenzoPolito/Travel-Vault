@@ -35,17 +35,19 @@ Creato da @Damiano/@Lorenzo
 
 ## Giorno 2 ([[Osaka(大阪市)]])
 ##### Pomeriggio: 
-- [[Tempio Shinteno-ji]] (9:000)
+- [[Tempio Shinteno-ji]] (9:00-16:30)
 - [[Tempio Hozen-ji]]
-- (Namba, Minami) [[Dotonbori]]
-##### Sera: 
 - [[Shinsekai]]
+##### Sera: 
+- (Namba, Minami) [[Dotonbori]]
 - [[Torre Tsutenkaku]]
 
 ## Giorno X ()
 ##### Mattina
-- kskd
+- [[Castello di Osaka]] (9:00-17:00)
+
+*Partenza verso Kyoto (25 min)*
 ##### Pomeriggio
-- efe
+- 
 ##### Sera
 - wd

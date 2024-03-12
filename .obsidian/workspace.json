@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "43dc9af0ea09eb3c",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md"
+                "file": "Locations/Cities/Kyoto(京都).md"
               }
             }
           }
@@ -185,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,12 +233,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88868619f55c550",
+  "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
-    "Dotonbori.md",
     "Locations/Cities/Kyoto(京都).md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Dotonbori.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Temples/Fabrica dei Gundam.md",

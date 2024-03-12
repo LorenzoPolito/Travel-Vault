@@ -81,4 +81,12 @@ Creato da @Damiano/@Lorenzo
 
 ## Giorno 5 (3° Kyoto)
 ##### Mattina: 
-- [[Fushimi Inari]] (tramonto
+- [[Fushimi Inari]] 
+
+*Anche dopo pranzo*
+##### Pomeriggio:
+- zona [[Sannenzaka]] strada [[Ninenzaka]]
+- [[Kiyomizu-dera]]
+
+##### Sera:
+- 

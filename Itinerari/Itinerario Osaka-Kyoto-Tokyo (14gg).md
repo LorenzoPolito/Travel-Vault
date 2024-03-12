@@ -85,8 +85,8 @@ Creato da @Damiano/@Lorenzo
 
 *Anche dopo pranzo*
 ##### Pomeriggio:
-- zona [[Sannenzaka]] strada [[Ninenzaka]]
+- [[Quartiere Gion]]
 - [[Kiyomizu-dera]]
 
 ##### Sera:
-- 
+- zona [[Sannenzaka]] strada [[Ninenzaka]]

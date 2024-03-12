@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-                "mode": "preview",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -123,47 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md"
-              }
-            }
-          },
-          {
-            "id": "408e844197925b38",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "b734b96c8a0be179",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "0d1d1591a9e850f1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md"
               }
             }
           }
@@ -189,12 +149,53 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "408e844197925b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b734b96c8a0be179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1d1591a9e850f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,6 +218,8 @@
   },
   "active": "e88868619f55c550",
   "lastOpenFiles": [
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Fabrica dei Gundam.md",
@@ -232,7 +235,6 @@
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itinerario Ossama Valentina.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Itinerari/Itenerario v1.md",
     "Info/Voli/Test per riferimento.md",

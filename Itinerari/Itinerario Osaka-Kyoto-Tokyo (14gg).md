@@ -34,6 +34,15 @@ Creato da @Damiano/@Lorenzo
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 
 ## Giorno 2 ([[Osaka(大阪市)]])
+##### Pomeriggio: 
+- [[Tempio Shinteno-ji]] (9:000)
+- [[Tempio Hozen-ji]]
+- (Namba, Minami) [[Dotonbori]]
+##### Sera: 
+- [[Shinsekai]]
+- [[Torre Tsutenkaku]]
+
+## Giorno X ()
 ##### Mattina
 - kskd
 ##### Pomeriggio

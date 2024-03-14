@@ -1,7 +1,9 @@
 ### Info sulla lista
 - Tutti luoghi hanno un voto che rappresenta l'interesse del gruppo e la loro priorità
 - dove possibile è segnato l'orario di apertura e chiusura
-- se necessario è segnato anche un cons 
+- se necessario è segnato anche un consiglio su quando è meglio vedere quel luogo 
+- **Per ogni città i luoghi sono separati in cluster**, tutti i luoghi nello stesso cluster sono relativamente vicini, raggiungibili *a piedi o in metro* in **circa massimo** 30min, per Tokyo è differente essendo la città più grande il tempo di percorrenza **medio** all'interno del cluster è di 30min solo in metro
+- in genere se due cluster sono sono uno dopo l'altro sono vicini rispetto agli altri cluste
 ## [[Osaka(大阪市)]]
 
 1. [[Castello di Osaka]] (9:00-17:00) #4/5
@@ -56,28 +58,30 @@
 2. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
 3. Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
 4. Quartiere di [[Akihabara]] #4/5
-5. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
 
-1. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
-2. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
-3. [[Santuario Meiji]] ( 10:00 - 16:30 ) #3/5
-4. Quartiere di [[Shinjuku]] #4/5
-5. Vicoli di [[Golden Gai]] #2/5
+1. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
+2. [[Santuario Kanda]] ( 24H ) #3/5
 
-1. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5
-2. Quartiere [[Nakano]] e [[Nakano Broadway]] #5/5
+3. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
+4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
+5. [[Santuario Meiji]] ( 10:00 - 16:30 ) #3/5
+6. Quartiere di [[Shinjuku]] #4/5
+7. Vicoli di [[Golden Gai]] #2/5
 
-1. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) #4/5
-2. [[Tokyo tower]] ( 9:00 - 22:30 ) #4/5
-3. Quartiere [[Roppongi]] (notturno) #3/5
-4. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) #4/5
-5. Quartiere di [[Ginza]] #1/5
+8. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5
+9. Quartiere [[Nakano]] e [[Nakano Broadway]] #5/5
 
-1. [[Santuario Kanda]] ( 24H ) #3/5
-2. [[Odaiba]] e [[Rainbow Bridge]] #2/5
+10. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) #4/5
+11. [[Tokyo tower]] ( 9:00 - 22:30 ) #4/5
+12. Quartiere [[Roppongi]] (notturno) #3/5
+13. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) #4/5
+14. Quartiere di [[Ginza]] #1/5
+
+15. 
+16. [[Odaiba]] e [[Rainbow Bridge]] #2/5
 
 
-1. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
+17. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5

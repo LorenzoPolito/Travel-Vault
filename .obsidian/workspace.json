@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md"
+                "file": "Locations/Lista dei Luoghi.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,10 +215,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77e5026406ff31ca",
+  "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Tokyo(東京).md",
+    "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/Kyoto(京都).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",

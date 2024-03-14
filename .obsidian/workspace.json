@@ -4,32 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2d8a57b05a015d89",
+        "id": "9ee28a0fbccbcbdc",
         "type": "split",
         "children": [
           {
-            "id": "c1a1260ef4b979f2",
-            "type": "tabs",
-            "dimension": 37.62376237623762,
-            "children": [
-              {
-                "id": "e88868619f55c550",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Locations/Lista dei Luoghi.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
             "id": "a99b6f9094d49828",
             "type": "tabs",
-            "dimension": 62.37623762376238,
             "children": [
               {
                 "id": "a17f7c8cc1b30dad",
@@ -38,6 +18,37 @@
                   "type": "markdown",
                   "state": {
                     "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e88868619f55c550",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Lista dei Luoghi.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "b562db08feb4548c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "77e5026406ff31ca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Cities/Osaka(大阪市).md",
                     "mode": "source",
                     "source": false
                   }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md"
+                "file": "Locations/Cities/Osaka(大阪市).md"
               }
             }
           },
@@ -158,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Osaka(大阪市).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +240,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a17f7c8cc1b30dad",
+  "active": "77e5026406ff31ca",
   "lastOpenFiles": [
     "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",

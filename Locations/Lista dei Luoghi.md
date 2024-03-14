@@ -1,4 +1,4 @@
-## Osaka
+## [[Osaka(大阪市)]]
 
 1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5
 2. [[Castello di Osaka]] (9:00-17:00) #4/5
@@ -10,16 +10,16 @@
 8. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
 9. [[Nara]] ( Lontano ) #2/5 
 10. [[Kayuka aquarium]] #1/5
-## Hiroshima
+## [[Hiroshima(広島)]]
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5
 2. Quartiere [[Nagarekawa]] [[Hondori street]] #3/5
-### Miyajima
+### [[Miyajima]]
 
 1. [[Itsukushima shrine]] ( [[Spiaggia Mikasa]] ) #5/5
 2. [[Tempio Daisho-in]] ( 8:00-17:00 ) #3/5
 3. [[Monte Misen]] ( 9:00-17:00 ) #2/5
-## Kyoto
+## [[Kyoto(京都)]]
 
 1. [[Arashiyama]] ( 24H ) #5/5
 2. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
@@ -36,7 +36,7 @@
 13. [[Quartiere Gion]] #1/5
 14. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
 15. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
-## Tokyo
+## [[Tokyo(東京)]]
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5
 2. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
@@ -57,7 +57,7 @@
 17. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
 18. Quartiere di [[Ginza]] #1/5
 19. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5
-### Kamakura
+### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5
 2. [[Temio Kencho-ji]] #3/5

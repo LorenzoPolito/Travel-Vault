@@ -93,7 +93,7 @@ Creato da @Lorenzo
 
 *Anche dopo pranzo*
 ##### Pomeriggio:
-- [[TOEI Kyoto studio park]]
+-  [[Adashino nenbutsuji]]
 ##### Sera:
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
 
@@ -102,3 +102,7 @@ Creato da @Lorenzo
 ##### Mattina:
 - [[Daikaku-ji Temple]]
 - [[Sentiero del filosofo]]
+
+##### Pomeriggio
+*Partenza per Tokyo (2h)*
+

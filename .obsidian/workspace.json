@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8c5005492c5f440b",
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md"
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md"
               }
             }
           },
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Tokyo(東京).md",
+                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,14 +233,14 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77e5026406ff31ca",
+  "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Tokyo(東京).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Itinerario Tokyo-Kyoto (10 gg).md",

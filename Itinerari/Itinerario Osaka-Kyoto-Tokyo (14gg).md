@@ -1,13 +1,13 @@
 Creato da @Lorenzo
 
-|    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
-|:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
-| Volo andata  |   1    |   1   |         300/400 €         |                      |
-|    Osaka     |   2    |   2   |           25 €            |                      |
-|    Kyoto     |   4    |   3   |         30€ circa         | TOEI park Eva(15 €)? |
-|    Tokyo     |   6    |   6   |           23 €            |                      |
-| Volo ritorno |   1    |   1   |         300/400 €         |                      |
-|  **TOTALE**  |   14   |  13   |                           |                      |
+|    città     | giorni | notti | € a notte *(provvisorio)* |                         note                          |
+|:------------:|:------:|:-----:|:-------------------------:|:-----------------------------------------------------:|
+| Volo andata  |   1    |   1   |         300/400 €         |                                                       |
+|    Osaka     |   2    |   2   |           25 €            | 1 giorno allo Universal studios;<br>1/2 giorno a Nara |
+|    Kyoto     |  4.5   |   3   |         30€ circa         |                 TOEI park Eva(15 €)?                  |
+|    Tokyo     |   6    |   6   |           23 €            |                                                       |
+| Volo ritorno |   1    |   1   |         300/400 €         |                                                       |
+|  **TOTALE**  |   14   |  13   |                           |                                                       |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -33,7 +33,7 @@ Creato da @Lorenzo
 
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 
-## Giorno 2 ([[Osaka(大阪市)]])
+## Giorno 2 (1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
 - [[Tempio Shinteno-ji]] (9:00-16:30)
 - [[Tempio Hozen-ji]]
@@ -55,6 +55,7 @@ Creato da @Lorenzo
 - [[Castello di Osaka]] (9:00-17:00)
 
 *Partenza verso Nara (53min)*
+*pranzo sul treno*
 *lasciamo le valigie ai locker*
 ##### Pomeriggio
 - [[Nara]]
@@ -64,7 +65,7 @@ Creato da @Lorenzo
 ##### Sera
 - Sera libera
 
-## Giorno 3 (1° Kyoto)
+## Giorno 5 (1° Kyoto)
 
 ##### Mattina: 
 - [[Santuario Yasaka]]
@@ -76,7 +77,7 @@ Creato da @Lorenzo
 - [[Ninenzaka street]]
 - [[Kiyomizu-dera]]
 
-## Giorno 4 ( 2° Kyoto)
+## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
 - [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
@@ -87,7 +88,7 @@ Creato da @Lorenzo
 - libera??
 
 
-## Giorno 5 (3° Kyoto)
+## Giorno 7 (3° Kyoto)
 ##### Mattina: 
 - [[Fushimi Inari]] 
 
@@ -98,3 +99,6 @@ Creato da @Lorenzo
 
 ##### Sera:
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
+
+## Giorno 8 (4° Kyoto)
+

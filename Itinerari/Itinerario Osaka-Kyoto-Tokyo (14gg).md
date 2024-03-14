@@ -1,10 +1,10 @@
-Creato da @Damiano/@Lorenzo
+Creato da @Lorenzo
 
 |    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
 | Volo andata  |   1    |   1   |         300/400 €         |                      |
-|    Osaka     |   1    |   1   |           25 €            |                      |
-|    Kyoto     |   5    |   4   |         30€ circa         | TOEI park Eva(15 €)? |
+|    Osaka     |   2    |   2   |           25 €            |                      |
+|    Kyoto     |   4    |   3   |         30€ circa         | TOEI park Eva(15 €)? |
 |    Tokyo     |   6    |   6   |           23 €            |                      |
 | Volo ritorno |   1    |   1   |         300/400 €         |                      |
 |  **TOTALE**  |   14   |  13   |                           |                      |
@@ -42,7 +42,15 @@ Creato da @Damiano/@Lorenzo
 - (Namba, Minami) [[Dotonbori]]
 - [[Torre Tsutenkaku]]
 
-## Giorno 2 ([[Nara]]/[[Kyoto(京都)]])
+## Giorno 3 ( 2° Osaka)
+##### Mattina: 
+- [[Nintendo World]]
+#### Pomeriggio: 
+- [[Universal Studios Japan]]
+##### Sera: 
+- [[Umeda Sky Building]]
+
+## Giorno 4 ([[Nara]]/[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka]] (9:00-17:00)
 

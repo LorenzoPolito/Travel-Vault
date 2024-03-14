@@ -2,14 +2,18 @@
 
 1. [[Castello di Osaka]] (9:00-17:00) #4/5
 2. [[Umeda Sky Building]] #3/5
-3. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5
-4. [[Tempio Shitenno-ji]] (9:00-16:30) #4/5
-5. [[Tempio Hozen-ji]] #4/5
-6. Quartiere [[Shinsekai]] #4/5
-7. [[Teamlab botanical garden]] (18:30-21:30) #4/5
-8. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
-9. [[Kayuka aquarium]] #1/5
-10. [[Nara]] ( Lontano ) #2/5 
+
+1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5
+2. [[Tempio Shitenno-ji]] (9:00-16:30) #4/5
+3. [[Tempio Hozen-ji]] #4/5
+4. Quartiere [[Shinsekai]] #4/5
+
+1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
+
+1. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
+2. [[Kayuka aquarium]] #1/5
+
+1. [[Nara]] ( Lontano ) #2/5 
 ## [[Hiroshima(広島)]]
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5

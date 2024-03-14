@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Osaka(大阪市).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Locations/Cities/Kyoto(京都).md"
               }
             }
           },
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,11 +226,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e88868619f55c550",
+  "active": "77e5026406ff31ca",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
-    "Locations/Cities/Osaka(大阪市).md",
     "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",
@@ -242,7 +242,6 @@
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/Tokyo(東京).md",
-    "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",

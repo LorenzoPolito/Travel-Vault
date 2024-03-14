@@ -25,21 +25,24 @@
 3. [[Monte Misen]] ( 9:00-17:00 ) #2/5
 ## [[Kyoto(京都)]]
 
-1. [[Arashiyama]] ( 24H ) #5/5
-2. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
-3. [[Santuario Yasaka]] ( 24H ) #4/5 
-4. [[Nishiki Market]] ( 9:00-17:30 chiuso domenica) #4/5
-5. zona [[Sannenzaka]] strada [[Ninenzaka]] #4/5
-6. [[Tempio Kodai-ji]] ( 9:00-17:00 ) #3/5
-7. [[Kinkaku-ji]] ( 9:00-17:00 ) #3/5
-8. [[Fushimi Inari]] ( 24H ) #3/5
-9. [[Ryoan-ji]] ( 8:00-17:00 ) #2/5
-10. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
-11. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
-12. [[Sentiero del filosofo]] ( 24H ) #1/5
-13. [[Quartiere Gion]] #1/5
-14. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
-15. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
+1. [[Quartiere Gion]] #1/5
+2. [[Tempio Kodai-ji]] ( 9:00-17:00 ) #3/5
+3. [[Nishiki Market]] ( 9:00-17:30 chiuso domenica) #4/5
+4. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
+5. [[Arashiyama]] ( 24H ) #5/5
+6. zona [[Sannenzaka]] strada [[Ninenzaka]] #4/5
+7. [[Santuario Yasaka]] ( 24H ) #4/5 
+8. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
+9. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
+10. [[Sentiero del filosofo]] ( 24H ) #1/5
+
+1. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
+
+2. [[Fushimi Inari]] ( 24H ) #3/5
+
+3. [[Kinkaku-ji]] ( 9:00-17:00 ) #3/5
+4. [[Ryoan-ji]] ( 8:00-17:00 ) #2/5
+5. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
 ## [[Tokyo(東京)]]
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5

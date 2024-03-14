@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "mode": "source",
                 "source": false
               }
@@ -30,7 +30,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8c5005492c5f440b",
+        "type": "tabs",
+        "children": [
           {
             "id": "e88868619f55c550",
             "type": "leaf",
@@ -134,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md"
+                "file": "Locations/Cities/Tokyo(東京).md"
               }
             }
           },
@@ -155,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,8 +234,9 @@
   },
   "active": "77e5026406ff31ca",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Kyoto(京都).md",
+    "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
@@ -241,7 +248,6 @@
     "Locations/Stores/Senza nome.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",

@@ -61,7 +61,7 @@ Creato da @Lorenzo
 - [[Nara]]
 
 *Partenza verso Kyoto (45min)*
-*Check-in all'hotel*
+*Check-in all'hotel e riposo*
 ##### Sera
 - Sera libera
 
@@ -78,6 +78,7 @@ Creato da @Lorenzo
 
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
+- pulizia vestiti
 - [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryoan-ji]]  
@@ -104,5 +105,11 @@ Creato da @Lorenzo
 - [[Sentiero del filosofo]]
 
 ##### Pomeriggio
-*Partenza per Tokyo (2h)*
+*Partenza per Tokyo ( 2h12min )*
+*pranzo sul treno con il Bento*
+*Check-in all'hotel e riposo*
+
+##### Sera
+- [[Asakusa(浅草)]] di notte
+
 

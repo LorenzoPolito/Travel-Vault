@@ -1,3 +1,7 @@
+### Info sulla lista
+- Tutti luoghi hanno un voto che rappresenta l'interesse del gruppo e la loro priorità
+- dove possibile è segnato l'orario di apertura e chiusura
+- se necessario è segnato anche un cons 
 ## [[Osaka(大阪市)]]
 
 1. [[Castello di Osaka]] (9:00-17:00) #4/5
@@ -52,6 +56,7 @@
 2. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
 3. Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
 4. Quartiere di [[Akihabara]] #4/5
+5. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
 
 1. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
 2. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
@@ -70,7 +75,7 @@
 
 1. [[Santuario Kanda]] ( 24H ) #3/5
 2. [[Odaiba]] e [[Rainbow Bridge]] #2/5
-3. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
+
 
 1. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]

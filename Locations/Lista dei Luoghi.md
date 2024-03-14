@@ -71,7 +71,8 @@
 1. [[Santuario Kanda]] ( 24H ) #3/5
 2. [[Odaiba]] e [[Rainbow Bridge]] #2/5
 3. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
-4. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
+
+1. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5

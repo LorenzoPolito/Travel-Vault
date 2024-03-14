@@ -112,4 +112,13 @@ Creato da @Lorenzo
 ##### Sera
 - [[Asakusa(浅草)]] di notte
 
+## Giorno 9 (1° [[Tokyo(東京)]])
+##### Mattina
+1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+2. [[Tokyo skytree]] e [[Pokemon center Asakusa]]
+##### Pomeriggio
+
+##### Sera
+- Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
+
 

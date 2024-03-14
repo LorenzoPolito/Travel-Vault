@@ -32,9 +32,8 @@
 4. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
 5. zona [[Sannenzaka]] strada [[Ninenzaka]] #4/5
 6. [[Santuario Yasaka]] ( 24H ) #4/5 
-7. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
-8. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
-9. [[Sentiero del filosofo]] ( 24H ) #1/5
+7. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
+8. [[Sentiero del filosofo]] ( 24H ) #1/5
 
 1. [[Arashiyama]] ( 24H ) #5/5
 
@@ -46,6 +45,7 @@
 2. [[Ryoan-ji]] ( 8:00-17:00 ) #2/5
 
 1. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
+2. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
 ## [[Tokyo(東京)]]
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5

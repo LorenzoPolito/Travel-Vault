@@ -73,8 +73,7 @@ Creato da @Lorenzo
 - [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
-- [[Ninenzaka street]]
+- [[Sannenzaka]] strada [[Ninenzaka]]
 - [[Kiyomizu-dera]]
 
 ## Giorno 6 ( 2° Kyoto)
@@ -94,11 +93,12 @@ Creato da @Lorenzo
 
 *Anche dopo pranzo*
 ##### Pomeriggio:
-- [[Quartiere Gion]]
-- [[Kiyomizu-dera]]
-
+- [[TOEI Kyoto studio park]]
 ##### Sera:
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
 
 ## Giorno 8 (4° Kyoto)
 
+##### Mattina:
+- [[Daikaku-ji Temple]]
+- [[Sentiero del filosofo]]

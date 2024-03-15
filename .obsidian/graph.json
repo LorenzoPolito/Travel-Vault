@@ -8,30 +8,30 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag: #city  ",
+      "query": "path:Itinerari ",
       "color": {
         "a": 1,
-        "rgb": 8323225
+        "rgb": 14701138
       }
     },
     {
-      "query": "tag: #block",
+      "query": "path:Locations  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 0.916666666666667,
   "lineSizeMultiplier": 0.686979166666667,
   "collapse-forces": false,
   "centerStrength": 0.713541666666667,
-  "repelStrength": 15.8333333333333,
-  "linkStrength": 1,
+  "repelStrength": 16.4583333333333,
+  "linkStrength": 0.645833333333333,
   "linkDistance": 223,
   "scale": 0.3844353626752638,
-  "close": true
+  "close": false
 }

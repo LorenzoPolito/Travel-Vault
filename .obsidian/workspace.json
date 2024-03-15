@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Castello di Osaka.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354,
-    "collapsed": true
+    "width": 354
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Castello di Osaka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Castello di Osaka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,10 +194,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2db576b2d9f4c8be",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Locations/Castles",
     "Locations/Lista dei Luoghi.md",
+    "Castello di Osaka.md",
+    "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi",
@@ -213,7 +214,7 @@
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Parks/Fabrica dei Gundam.md",
     "Locations/Stores/Senza nome.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
@@ -226,7 +227,6 @@
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
     "Location added on 2024-03-08T17-02.md",
-    "Locations/Cities/Kobe(神戸).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
     "Slides",

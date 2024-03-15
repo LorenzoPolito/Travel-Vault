@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,8 +194,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a434926354df672e",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
+    "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Itinerari/Solo con i luoghi/10 giorni",
+    "Itinerari/Solo con i luoghi/16 giorni",
+    "Itinerari/Solo con i luoghi/14 giorni",
+    "Itinerari/Solo con i luoghi/Basati sulle distanze",
+    "Locations/Lista dei Luoghi.md",
+    "Index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
     "Locations/Stores/Senza nome.md",
@@ -215,13 +223,8 @@
     "Locations/Castles/Castello di Osaka (大阪城).md",
     "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
-    "Info/Voli/Test per riferimento.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Solo con i luoghi/16 giorni/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "allegati/Pasted image 20240315132603.png",
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",
@@ -237,10 +240,6 @@
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
-    "Slides",
-    "Itinerari/Itinerario Osaka to Tokyo.rst",
-    "Locations/Parks",
-    "Itinerari",
-    "Info/Voli"
+    "Slides"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Parks/Memorial Park Hiroshima.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Parks/Memorial Park Hiroshima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Parks/Memorial Park Hiroshima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,12 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Itsukushima shrine (嚴島神社).md",
+    "Locations/Parks/Monte Misen.md",
     "Locations/Lista dei Luoghi.md",
+    "Locations/Temples/Tempio Daisho-in (大聖院).md",
+    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
+    "Locations/Parks/Spiaggia Mikasa.md",
+    "Locations/Temples/Itsukushima shrine (嚴島神社).md",
     "Locations/Cities/blocks/Nagarekawa (流川).md",
     "Locations/Cities/blocks/streets",
     "Locations/Cities/blocks/streets/Hondori street.md",
@@ -231,7 +235,6 @@
     "Itinerari/Solo con i luoghi/16 giorni",
     "Itinerari/Solo con i luoghi/14 giorni",
     "Itinerari/Solo con i luoghi/Basati sulle distanze",
-    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
     "Locations/Stores/Senza nome.md",
     "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
@@ -241,9 +244,6 @@
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/Nara (奈良市).md",
     "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
-    "Locations/Cities/blocks/Shibuya(渋谷).md",
     "allegati/Pasted image 20240315132603.png",
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",

@@ -29,8 +29,8 @@
 2. Quartiere [[Nagarekawa (流川)]] [[Hondori street]] #3/5
 ### [[Miyajima (宮島)]]
 
-1. [[Itsukushima shrine (嚴島神社)]] ( [[Spiaggia Mikasa]] ) #5/5
-2. [[Tempio Daisho-in]] ( 8:00-17:00 ) #3/5
+1. [[Itsukushima shrine (嚴島神社)]] ( Spiaggia Mikasa ) #5/5
+2. [[Tempio Daisho-in (大聖院)]] ( 8:00-17:00 ) #3/5
 3. [[Monte Misen]] ( 9:00-17:00 ) #2/5
 
 ## [[Kyoto(京都)]]

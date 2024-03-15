@@ -26,5 +26,5 @@ marker: default,34.391895696789646,132.4520301818848,Hiroshima(広島),,,
 ### [[Miyajima (宮島)]]
 
 1. [[Itsukushima shrine (嚴島神社)]] ( [[Spiaggia Mikasa]] ) #5/5
-2. [[Tempio Daisho-in]] ( 8:00-17:00 ) #3/5
+2. [[Tempio Daisho-in (大聖院)]] ( 8:00-17:00 ) #3/5
 3. [[Monte Misen]] ( 9:00-17:00 ) #2/5

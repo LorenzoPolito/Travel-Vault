@@ -56,7 +56,7 @@
 - [[Itsushima Shrine]]
 ##### Pomeriggio: 
 - [[Monte Misen]],
-- [[Tempio Daisho-in]]
+- [[Tempio Daisho-in (大聖院)]]
 - [[Spiaggia Mikasa]]
 ##### Sera: 
 - Rientro a Hiroshima

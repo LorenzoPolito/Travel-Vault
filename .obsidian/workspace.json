@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Pokemon center Shibuya.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Pokemon center Shibuya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Pokemon center Shibuya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,13 +208,16 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Kodokan dojo judo (講道館).md",
     "Locations/Lista dei Luoghi.md",
-    "Santuario Kanda (神田明神).md",
-    "Index.md",
-    "Parco di Ueno (上野恩賜公園).md",
+    "Pokemon center Shibuya.md",
+    "Pokemon center Asakusa.md",
+    "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
     "Parco di Ueno.md",
-    "Tokyo skytree (東京スカイツリー).md",
+    "Locations/Cities/blocks/Shibuya (渋谷区).md",
+    "Locations/Temples/Kodokan dojo judo (講道館).md",
+    "Locations/Temples/Santuario Kanda (神田明神).md",
+    "Index.md",
+    "Locations/Buildings/Tokyo skytree (東京スカイツリー).md",
     "Locations/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
@@ -232,9 +235,6 @@
     "Ninenzaka.md",
     "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
     "allegati/Pasted image 20240315151037.png",
-    "Locations/Stores/Nishiki Market (錦市場).md",
-    "Locations/Temples/Kiyomizu-dera (清水寺).md",
-    "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240315143551.png",

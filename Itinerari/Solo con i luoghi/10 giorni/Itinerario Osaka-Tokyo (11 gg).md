@@ -62,7 +62,7 @@
 - [[Kodokan dojo judo (講道館)]]
 ##### Pomeriggio/sera: 
 - [[Santuario Kanda (神田明神)]],
-- [[Parco di Ueno ]]
+- [[Parco di Ueno (上野恩賜公園)]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 1° Tokyo)
 ##### Mattina: 
@@ -105,12 +105,12 @@
 - quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
-- [[Shibuya]] 
+- [[Shibuya (渋谷区)]] 
 - [[nintendo store]]
 - [[Pokemon center shibuya]]
 ##### Sera: 
 - [[Mario kart shibuya ride]]
-- ancora [[Shibuya]] (incrocio dall’alto)
+- ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
 ## Giorno 11 ( 6° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)

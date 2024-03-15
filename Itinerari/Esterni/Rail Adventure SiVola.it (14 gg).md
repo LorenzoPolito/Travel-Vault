@@ -17,7 +17,7 @@
 - Zona di [[Harajuku]]
 - [[via Takeshita]]
 - Viale alberato di [[Omotesando]]
-- Quartiere di [[Shibuya]]
+- Quartiere di [[Shibuya (渋谷区)]]
 - [[Hachiko]]
 
 ## Giorno 5 (4° Tokyo/Esterna)

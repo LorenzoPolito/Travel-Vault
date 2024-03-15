@@ -151,7 +151,7 @@ number of columns: 2
 --- end-multi-column
 
 ##### Sera
-- Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno]]
+- Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno (上野恩賜公園)]]
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
 - Quartiere di [[Shibuya(渋谷)]] e [[Pokemon center Shibuya]] 

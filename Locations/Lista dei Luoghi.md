@@ -65,7 +65,7 @@
 1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5
 2. [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 ) #1/5
 //
-1. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
+1. Quartiere di [[Shibuya (渋谷区)]] e [[Pokemon center Shibuya]] #5/5
 2. Quartiere di [[Shinjuku]] #4/5
 3. [[Santuario Meiji]] ( 10:00 - 16:30 ) #3/5
 4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5

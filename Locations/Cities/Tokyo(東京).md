@@ -25,12 +25,12 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
 2. Quartiere di [[Akihabara (秋葉原)]] #4/5
 3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
-4. Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno]] #2/5
+4. Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno (上野恩賜公園)]] #2/5
 //
 1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5
 2. [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 ) #1/5
 //
-1. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5
+1. Quartiere di [[Shibuya (渋谷区)]] e [[Pokemon center Shibuya]] #5/5
 2. Quartiere di [[Shinjuku]] #4/5
 3. [[Santuario Meiji]] ( 10:00 - 16:30 ) #3/5
 4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5

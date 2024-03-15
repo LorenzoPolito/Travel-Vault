@@ -88,7 +88,7 @@
 ##### Pomeriggio/sera: 
 - [[Kodokan dojo judo (講道館)]], 
 - [[Santuario Kanda (神田明神)]], 
-- [[Parco di Ueno ]]
+- [[Parco di Ueno (上野恩賜公園)]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 8 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
@@ -131,12 +131,12 @@
 - quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
-- [[Shibuya]] 
+- [[Shibuya (渋谷区)]] 
 - [[nintendo store]]
 - [[Pokemon center shibuya]]
 ##### Sera: 
 - [[Mario kart shibuya ride]]
-- ancora [[Shibuya]] (incrocio dall’alto)
+- ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
 ## Giorno 13 ( 6° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)

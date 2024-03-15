@@ -82,7 +82,7 @@ Creato da @Lorenzo
 
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
-- pulizia vestiti
+- *Lavanderia*
 - [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryoan-ji]]  
@@ -106,11 +106,11 @@ Creato da @Lorenzo
 
 ##### Mattina:
 - [[Daikaku-ji Temple]]
-- [[Sentiero del filosofo]]
+- [[Sentiero del filosofo]] *(Se c'è tempo)*
 
 ##### Pomeriggio
 *Partenza per Tokyo ( 2h12min )*
-*pranzo sul treno con il Bento*
+*pranzo sullo Shinkansen con il Bento*
 *Check-in all'hotel e riposo*
 
 ##### Sera
@@ -118,6 +118,7 @@ Creato da @Lorenzo
 
 ## Giorno 9 (1° [[Tokyo(東京)]])
 ##### Mattina
+- *Lavanderia* ?
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 - [[Tokyo skytree]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
@@ -135,7 +136,7 @@ Creato da @Lorenzo
 - Vicoli di [[Golden Gai]] 
 
 ## Giorno 11 (3° Tokyo/->[[Kamakura(鎌倉市)]])
-##### Mattina/Pomeriggio
+##### Mattina/Pomeriggio (Kamakura)
 - [[Tempio Kutoku-in]] Grande Buddha
 - [[Temio Kencho-ji]]
 - [[Tempio Engaku-ji]] 
@@ -149,9 +150,12 @@ Creato da @Lorenzo
 ##### Mattina
 - [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
-##### Pomeriggio
+##### Pomeriggio A
 - [[Tokyo tower]]
 - [[Odaiba]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
+
+##### Pomeriggio B
+- 
 ##### Sera
 - Quartiere [[Roppongi]] (notturno)
 **Preparare le valigie**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pokemon center Shibuya.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pokemon center Shibuya.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pokemon center Shibuya.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +208,15 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Santuario Meiji (明治神宮).md",
     "Locations/Lista dei Luoghi.md",
-    "Pokemon center Shibuya.md",
-    "Pokemon center Asakusa.md",
+    "Locations/Cities/blocks/Shinjuku (新宿区).md",
+    "Locations/Cities/blocks/Shibuya (渋谷区).md",
+    "Locations/Cities/blocks/Shibuya(渋谷).md",
+    "Locations/Stores/Pokemon center Shibuya.md",
+    "Locations/Stores/Pokemon center Asakusa.md",
     "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
     "Parco di Ueno.md",
-    "Locations/Cities/blocks/Shibuya (渋谷区).md",
     "Locations/Temples/Kodokan dojo judo (講道館).md",
     "Locations/Temples/Santuario Kanda (神田明神).md",
     "Index.md",
@@ -231,9 +234,6 @@
     "Locations/Cities/blocks/Quartiere Gion (祇園).md",
     "Locations/Temples/Tempio Kodai-ji (高台寺).md",
     "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
-    "Locations/Temples/Santuario Yasaka (八坂神社).md",
-    "Ninenzaka.md",
-    "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

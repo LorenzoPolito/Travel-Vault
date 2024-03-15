@@ -24,7 +24,7 @@
 - [[Kamakura(鎌倉市)]]
 - [[Tempio Kutoku-in]] statua del grande Buddha
 - spiaggia
-- [[Shinjuku]] si notte
+- [[Shinjuku (新宿区)]] si notte
 
 ## Giorno 6 (1° [[Osaka(大阪市)]])
 *Partenza da Tokyo verso Osaka con lo shinkansen (2h)*

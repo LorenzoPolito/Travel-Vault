@@ -120,17 +120,17 @@
 1. [[Palazzo Imperiale di tokyo]]
 2. [[Hokusai museum]]
 3. pranzo
-4. [[Shinjuku]]
+4. [[Shinjuku (新宿区)]]
 5. [[Shinjuku Gyo-en]]
 6. cena
 ## Giorno 13 ( 5 - Tokyo )
-1. [[Santuario Meiji]] e parco
+1. [[Santuario Meiji (明治神宮)]] e parco
 2. pranzo
-3. visita al quartiere [[Shibuya(渋谷)]] incrocio più trafficato del Giappone
-4. [[Pokemon center shibuya]] e [[nintendo store]]
+3. visita al quartiere [[Shibuya (渋谷区)]] incrocio più trafficato del Giappone
+4. [[Pokemon center Shibuya]] e [[nintendo store]]
 5. Cena
-6. Mario kart ride per [[Shibuya(渋谷)]] ( informarsi sui permessi di guida internazionale #todo)
-7. un po' di vita notturna a [[Shibuya(渋谷)]].
+6. Mario kart ride per [[Shibuya (渋谷区)]] ( informarsi sui permessi di guida internazionale #todo)
+7. un po' di vita notturna a [[Shibuya (渋谷区)]].
 ## Giorno 14 ( 6 - Tokyo ) #discutere 
 1. ultime cose da fare come souvenir?
 2.  [[Nakano Broadway]] ?

@@ -20,7 +20,7 @@
 [[Asakusa(浅草)]]
 [[Dotonbori (道頓堀)]]
 [[Nagarekawa (流川)]]
-[[Shibuya(渋谷)]]
+[[Shibuya (渋谷区)]]
 [[Shinsekai (新世界と通天閣​)]]
 [[Hiroshima(広島)]]
 [[Kamakura(鎌倉市)]]

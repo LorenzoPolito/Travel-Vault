@@ -119,8 +119,8 @@
 ##### Pomeriggio: 
 - rientro a Tokyo (verso le 16, arrivo quindi alle 18:30)
 ##### Sera: 
-- [[Shinjuku]]
-- [[Santuario Meiji]]
+- [[Shinjuku (新宿区)]]
+- [[Santuario Meiji (明治神宮)]]
 ## Giorno 11 ( 4° Tokyo/Esterna)
 ##### Mattina/Pomeriggio: 
 - Partenza per [[Kamakura(鎌倉市)]] (1h da Tokyo)
@@ -133,7 +133,7 @@
 ##### Pomeriggio/sera: 
 - [[Shibuya (渋谷区)]] 
 - [[nintendo store]]
-- [[Pokemon center shibuya]]
+- [[Pokemon center Shibuya]]
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)

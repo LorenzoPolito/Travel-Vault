@@ -87,8 +87,8 @@
 ##### Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 
-- [[Shinjuku]]
-- [[Santuario Meiji]]
+- [[Shinjuku (新宿区)]]
+- [[Santuario Meiji (明治神宮)]]
 ## Giorno 8 (4° Tokyo)
 ##### Mattina:
 - [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
@@ -96,7 +96,7 @@
 ##### Pomeriggio/sera: 
 - [[Shibuya (渋谷区)]] 
 - [[nintendo store]]
-- [[Pokemon center shibuya]]
+- [[Pokemon center Shibuya]]
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)

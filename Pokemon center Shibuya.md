@@ -1,1 +1,0 @@
-https://www.pokemon.co.jp/shop/en/pokecen/shibuya/

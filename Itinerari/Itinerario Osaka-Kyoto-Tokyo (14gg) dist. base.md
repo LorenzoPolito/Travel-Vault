@@ -125,7 +125,10 @@ Creato da @Lorenzo
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
+- [[Santuario Meiji]] 
+- Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] 
 ##### Pomeriggio
+- 
 ##### Sera
 
 ## Giorno 11 (3° Tokyo)

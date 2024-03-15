@@ -123,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354,
-    "collapsed": true
+    "width": 354
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -234,10 +233,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77e5026406ff31ca",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
+    "Itinerari/Esterni",
+    "Itinerari/Itenerario v1.md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Hiroshima(広島).md",
@@ -256,7 +257,6 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Itinerario Ossama Valentina.md",
-    "Itinerari/Itenerario v1.md",
     "Info/Voli/Test per riferimento.md",
     "Slides/Slide Viaggio in Giappone.md",
     "allegati/Pasted image 20240309113236.png",

@@ -52,7 +52,7 @@ Creato da @Lorenzo
 #### Pomeriggio: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
-- [[Umeda Sky Building]]
+- [[Umeda Sky Building (梅田スカイビル)]]
 
 ## Giorno 4 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
 ##### Mattina

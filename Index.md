@@ -13,7 +13,7 @@
 
 ## Luoghi
 [[Lista dei Luoghi]]
-[[Umeda Sky Building]]
+[[Umeda Sky Building (梅田スカイビル)]]
 [[Castello di Osaka (大阪城)]]
 [[Asakusa(浅草)]]
 [[Dotonbori (道頓堀)]]
@@ -28,7 +28,7 @@
 [[Hotel-Hostel-Case-Appartamenti]]
 [[Kaiyukan aquarium (海遊館)]]
 [[Teamlab botanical garden]]
-[[TOEI Kyoto studio park]]
+[[TOEI Kyoto studio park (東映太秦映画村)]]
 [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 [[Locations/Restaurants/Senza nome]]
 [[Locations/Stores/Senza nome]]

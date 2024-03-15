@@ -46,7 +46,7 @@
 #### Pomeriggio: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
-- [[Umeda Sky Building]]
+- [[Umeda Sky Building (梅田スカイビル)]]
 ## Giorno 4 ( 3° Osaka)
 ##### Mattina:
 - quartiere [[Dotonbori (道頓堀)]]

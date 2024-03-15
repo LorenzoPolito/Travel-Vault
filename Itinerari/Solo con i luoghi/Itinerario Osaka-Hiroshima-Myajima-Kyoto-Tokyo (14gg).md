@@ -50,7 +50,7 @@
 #### Pomeriggio: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
-- [[Umeda Sky Building]]
+- [[Umeda Sky Building (梅田スカイビル)]]
 ## Giorno 4 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Mattina:
@@ -74,7 +74,7 @@
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 - [[Santuario Yasaka]]
-- [[Quartiere Gion]] / [[TOEI Kyoto studio park]]? #discutere 
+- [[Quartiere Gion]] / [[TOEI Kyoto studio park (東映太秦映画村)]]? #discutere 
 - [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]

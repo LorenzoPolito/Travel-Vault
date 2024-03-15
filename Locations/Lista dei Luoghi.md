@@ -9,7 +9,7 @@
 ## [[Osaka(大阪市)]]
 
 1. [[Castello di Osaka (大阪城)]] (9:00-17:00) #4/5
-2. [[Umeda Sky Building]] #3/5
+2. [[Umeda Sky Building (梅田スカイビル)]] #3/5
 //
 1. Quartiere Minami [[Dotonbori (道頓堀)]] (al meglio di sera) #5/5
 2. [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30) #4/5
@@ -53,7 +53,7 @@
 1. [[Arashiyama]] ( 24H ) #5/5
 //
 1. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
-2. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5
+2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
 ## [[Tokyo(東京)]]
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5

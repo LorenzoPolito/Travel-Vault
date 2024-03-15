@@ -19,4 +19,3 @@ darkMode: true
 marker: default,35.715010547316524,139.79574680328372,Asakusa(浅草),,,
 ```
 
-

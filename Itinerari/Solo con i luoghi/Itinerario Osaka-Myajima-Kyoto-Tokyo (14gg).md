@@ -48,7 +48,7 @@
 #### Pomeriggio: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
-- [[Umeda Sky Building]]
+- [[Umeda Sky Building (梅田スカイビル)]]
 ## Giorno 4 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 *Partenza per [[Miyajima]]*

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +147,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -206,8 +202,9 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Index.md",
     "Locations/Lista dei Luoghi.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Index.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Senza nome",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
@@ -232,7 +229,6 @@
     "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "Locations/Stores/Mercato del pesce di Tsukiji (築地場外市場).md",
     "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

@@ -46,6 +46,18 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "a36b2f34a492f486",
+      "parent": 0,
+      "droppable": true,
+      "text": "Wikiloc | Japan: Arashiyama Trail",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true
 }

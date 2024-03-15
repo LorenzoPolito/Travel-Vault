@@ -43,7 +43,7 @@
 4. [[Santuario Yasaka (八坂神社)]] ( 24H ) #4/5 
 5. [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 ) #3/5
 6. [[Daikaku-ji Temple (大覚寺)]] ( 9:00-16:30 ) #2/5
-7. [[Quartiere Gion (祇園)]] #1/5
+7. [[Quartiere Gion (祇園)]] #1/5 **(hanno vietato i turisti di entrare nei vicoli privati (multa 70€), la via principale è ancora aperta, niente foto o video alle Geisha )**
 8. [[Sentiero del filosofo (哲学の道)]] ( 24H ) #1/5
 //
 1. [[Fushimi Inari (伏見稲荷大社)]] ( 24H ) #3/5
@@ -51,7 +51,7 @@
 1. [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 ) #3/5
 2. [[Ryoan-ji (龍安寺方丈庭園)]] ( 8:00-17:00 ) #2/5
 //
-1. [[Arashiyama (嵐山)]] ( 24H ) (3 ore di scampagnata nella natura) [japan-arashiyama-trecking](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930) #5/5
+1. [[Arashiyama (嵐山)]] ( 24H ) [japan-arashiyama-trecking](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930)(3 ore di scampagnata nella natura?) #5/5
 //
 1. [[Adashino nenbutsuji (化野念仏寺)]] ( 9:00-16:30 ) #2/5
 2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
@@ -68,7 +68,7 @@
 1. Quartiere di [[Shibuya (渋谷区)]] e [[Pokemon center Shibuya]] #5/5
 2. Quartiere di [[Shinjuku (新宿区)]] #4/5
 3. [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 ) #3/5
-4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
+4. [[Mario kart ride]] (100€ circa) *(permesso di guida)* (10:00 - 22:00 ) #2/5
 5. Vicoli di [[Golden Gai (ゴールデン街 )]] #2/5
 //
 1. Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] #5/5

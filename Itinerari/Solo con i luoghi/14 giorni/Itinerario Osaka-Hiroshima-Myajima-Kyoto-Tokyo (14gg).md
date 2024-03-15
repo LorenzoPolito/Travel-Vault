@@ -65,7 +65,7 @@
 ##### Mattina: 
 - [[Itsushima Shrine]]
 ##### Pomeriggio: 
-- [[Monte Misen]],
+- [[Monte Misen (弥山)]],
 - [[Tempio Daisho-in (大聖院)]]
 - [[Spiaggia Mikasa]]
 ##### Sera: 

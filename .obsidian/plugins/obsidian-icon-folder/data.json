@@ -43,10 +43,10 @@
   "Locations/Hotels": "LiHotel",
   "Locations/Cities/blocks": "FasStreetView",
   "Locations Interactive Map": "LiLocateFixed",
-  "Locations/Parks": "TiRollercoaster",
   "Slides": "RiSlideshowFill",
   "Itinerari": "TiTransferVertical",
   "Locations/Castles": "BoBxsCastle",
   "Locations/Buildings": "RiBuildingFill",
-  "Locations/Cities/blocks/streets": "LiStretchVertical"
+  "Locations/Cities/blocks/streets": "LiStretchVertical",
+  "Locations/Parks-nature": "TiRollercoaster"
 }

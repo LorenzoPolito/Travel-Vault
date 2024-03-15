@@ -74,10 +74,10 @@
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 - [[Santuario Yasaka (八坂神社)]]
-- [[Quartiere Gion]] / [[TOEI Kyoto studio park (東映太秦映画村)]]? #discutere 
+- [[Quartiere Gion (祇園)]] / [[TOEI Kyoto studio park (東映太秦映画村)]]? #discutere 
 - [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
+- [[Tempio Kodai-ji (高台寺)]]
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 - [[Ninenzaka street]]
 - [[Kyojizu-dera]]
@@ -92,7 +92,7 @@
 - [[Fushimi Inari]] (tramonto) #discutere 
 ## Giorno 8 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
-- [[Sentiero del filosofo]] e [[Ginkakuji]]
+- [[Sentiero del filosofo (哲学の道)]] e [[Ginkakuji]]
 
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 

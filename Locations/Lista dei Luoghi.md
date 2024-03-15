@@ -41,10 +41,10 @@
 2. [[Nishiki Market (錦市場)]] ( 9:00-17:30 **chiuso domenica**) #4/5
 3. zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] #4/5
 4. [[Santuario Yasaka (八坂神社)]] ( 24H ) #4/5 
-5. [[Tempio Kodai-ji]] ( 9:00-17:00 ) #3/5
-6. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
-7. [[Quartiere Gion]] #1/5
-8. [[Sentiero del filosofo]] ( 24H ) #1/5
+5. [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 ) #3/5
+6. [[Daikaku-ji Temple (大覚寺)]] ( 9:00-16:30 ) #2/5
+7. [[Quartiere Gion (祇園)]] #1/5
+8. [[Sentiero del filosofo (哲学の道)]] ( 24H ) #1/5
 //
 1. [[Fushimi Inari]] ( 24H ) #3/5
 //

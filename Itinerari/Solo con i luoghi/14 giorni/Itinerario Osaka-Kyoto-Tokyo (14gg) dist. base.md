@@ -73,11 +73,11 @@ Creato da @Lorenzo
 ## Giorno 5 (1° Kyoto)
 
 ##### Mattina
-- [[Quartiere Gion]]
+- [[Quartiere Gion (祇園)]]
 - [[Santuario Yasaka (八坂神社)]]
 - [[Nishiki Market (錦市場)]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
 ##### Pomeriggio
-- [[Tempio Kodai-ji]]
+- [[Tempio Kodai-ji (高台寺)]]
 - [[Kiyomizu-dera (清水寺)]] (al tramonto)
 ##### Sera
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]]
@@ -110,7 +110,7 @@ Creato da @Lorenzo
 ```column-settings  
 number of columns: 2    
 ```
-- [[Quartiere Gion]] 
+- [[Quartiere Gion (祇園)]] 
 
 --- end-column ---
 
@@ -123,7 +123,7 @@ number of columns: 2
 ## Giorno 8 (4° Kyoto/->Tokyo)
 
 ##### Mattina
-- [[Daikaku-ji Temple]]
+- [[Daikaku-ji Temple (大覚寺)]]
 ##### Pomeriggio
 *Partenza per Tokyo ( 2h12min )*
 *pranzo sullo Shinkansen con il Bento*

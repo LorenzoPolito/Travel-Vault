@@ -64,10 +64,10 @@
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 - [[Santuario Yasaka (八坂神社)]]
-- [[Quartiere Gion]]
+- [[Quartiere Gion (祇園)]]
 - [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
+- [[Tempio Kodai-ji (高台寺)]]
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 - [[Ninenzaka street]]
 - [[Kiyomizu-dera (清水寺)]]
@@ -82,7 +82,7 @@
 - [[Fushimi Inari]] (tramonto) #discutere 
 ## Giorno 7 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
-- [[Sentiero del filosofo]] e [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
+- [[Sentiero del filosofo (哲学の道)]] e [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
 
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 

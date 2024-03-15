@@ -69,7 +69,7 @@
 - [[Castello di Nijo]]
 - [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
 - [[Mercato di Nishiki]]
-- [[Daikaku-ji Temple]]
+- [[Daikaku-ji Temple (大覚寺)]]
 
 ## Giorno 13 ( ritorno)
 - Aeroporto di Osaka

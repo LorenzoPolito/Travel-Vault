@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tempio Kodai-ji.md",
+                "file": "Sentiero del filosofo (哲学の道).md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tempio Kodai-ji.md",
+                "file": "Sentiero del filosofo (哲学の道).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tempio Kodai-ji.md",
+                "file": "Sentiero del filosofo (哲学の道).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,9 +208,12 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Locations/Cities/blocks/Quartiere Gion (祇園).md",
+    "Sentiero del filosofo (哲学の道).md",
     "Locations/Lista dei Luoghi.md",
-    "Tempio Kodai-ji.md",
-    "Santuario Yasaka (八坂神社).md",
+    "Locations/Temples/Tempio Kodai-ji (高台寺).md",
+    "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
+    "Locations/Temples/Santuario Yasaka (八坂神社).md",
     "Ninenzaka.md",
     "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
     "allegati/Pasted image 20240315151037.png",
@@ -232,9 +235,6 @@
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/Nara (奈良市).md",
     "Locations/Cities/Miyajima (宮島).md",
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Kamakura(鎌倉市).md",
-    "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240315143551.png",

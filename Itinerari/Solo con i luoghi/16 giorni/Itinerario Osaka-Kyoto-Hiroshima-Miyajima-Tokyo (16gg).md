@@ -81,7 +81,7 @@
 2. pranzo
 3. [[Reigenji]]
 4. [[Kinkaku-ji]]
-5. [[Daikaku-ji Temple]]
+5. [[Daikaku-ji Temple (大覚寺)]]
 6. cena
 7. ritorno all'hotel
 ## Giorno 8 ( 1 - Hiroshima) 

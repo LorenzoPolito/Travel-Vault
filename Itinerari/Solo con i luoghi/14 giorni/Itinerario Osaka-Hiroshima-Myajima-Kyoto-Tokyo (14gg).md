@@ -43,7 +43,7 @@
 - [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
 - [[Shinsekai (新世界と通天閣​)]]
-- [[Torre Tsutenkaku]]
+- [[Torre Tsutenkaku (通天閣)]]
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]

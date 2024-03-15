@@ -38,9 +38,9 @@ Creato da @Lorenzo
 ##### Mattina
 - ARRIVO
 ##### Pomeriggio: 
-- [[Tempio Shinteno-ji]] (9:00-16:30)
+- [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30)
 - [[Shinsekai (新世界と通天閣​)]]
-- [[Torre Tsutenkaku]]
+- [[Torre Tsutenkaku (通天閣)]]
 ##### Sera: 
 - [[Tempio Hozen-ji (法善寺)]]
 - (Namba, Minami) [[Dotonbori (道頓堀)]]

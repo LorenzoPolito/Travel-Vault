@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ef061d2f60135dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Lista dei Luoghi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,22 +207,24 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
+    "Locations/Parks/Teamlab botanical garden.md",
+    "Locations/Lista dei Luoghi.md",
+    "Locations/Buildings/Torre Tsutenkaku (通天閣).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Index.md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Solo con i luoghi/10 giorni",
     "Itinerari/Solo con i luoghi/16 giorni",
     "Itinerari/Solo con i luoghi/14 giorni",
     "Itinerari/Solo con i luoghi/Basati sulle distanze",
-    "Locations/Lista dei Luoghi.md",
-    "Index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
     "Locations/Stores/Senza nome.md",
     "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
     "Locations/Parks/TOEI Kyoto studio park (東映太秦映画村).md",
-    "Locations/Parks/Teamlab botanical garden.md",
     "Locations/Parks/Kaiyukan aquarium (海遊館).md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Osaka(大阪市).md",
@@ -222,9 +237,8 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Locations/Castles/Castello di Osaka (大阪城).md",
     "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
-    "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Solo con i luoghi/16 giorni/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "allegati/Pasted image 20240315132603.png",
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",

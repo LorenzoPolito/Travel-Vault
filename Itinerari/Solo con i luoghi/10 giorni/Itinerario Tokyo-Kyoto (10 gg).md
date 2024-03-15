@@ -73,7 +73,7 @@
 ##### Mattina: 
 - #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
-- [[Odaiba]]
+- [[Odaiba (お台場 )]]
 - [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] 

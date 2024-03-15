@@ -78,7 +78,7 @@
 2. [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 ) #4/5
 3. [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 ) #4/5
 4. Quartiere [[Roppongi (六本木)]] (notturno) #3/5
-5. [[Odaiba]] e [[Rainbow Bridge]] #2/5
+5. [[Odaiba (お台場 )]] e [[Rainbow Bridge]] #2/5
 6. Quartiere di [[Ginza]] #1/5
 //
 1. [[Fujiyoshida]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )

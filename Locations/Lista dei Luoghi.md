@@ -18,7 +18,7 @@
 //
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 //
-1. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]/[[Nintendo World]] (8:00-19:00) #3/5
+1. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]] (8:00-19:00) #3/5
 2. [[Kayuka aquarium]] #1/5
 //
 1. [[Nara]] ( Lontano ) #2/5 

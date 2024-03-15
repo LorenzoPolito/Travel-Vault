@@ -44,7 +44,7 @@
 - [[Torre Tsutenkaku]]
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
-- [[Nintendo World]]
+- [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 #### Pomeriggio: 
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 

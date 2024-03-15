@@ -1,3 +1,4 @@
+https://www.usj.co.jp/web/en/us
 ![Universal Studio Japan](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1624258028/osaka/Osaka1111-2064x1300_bg)
 
 2-1-33 Sakurajima, Konohana-ku, Osaka-shi, Osaka-fu
@@ -17,7 +18,7 @@ Accesso facile in treno, a soli 11 minuti dalla [stazione di Osaka](https://www
 
 ### SUPER NINTENDO WORLD™
 
-#### #WEAREMARIO!! Libera la tua passione per il gioco!
+#### WE ARE MARIO!! Libera la tua passione per il gioco!
 
 Immergiti con emozioni che coinvolgeranno tutta la famiglia nel primo* parco tematico al mondo SUPER NINTENDO WORLD™. Corri verso la vittoria con Mario Kart: nella Koopa' s Challenge, le corse del mitico Mario Kart prendono vita grazie alla più innovativa tecnologia. Le attrazioni del primo parco a tema interattivo Mario Kart ti daranno una scarica di adrenalina.
 
@@ -72,3 +73,4 @@ Pianifica un'intera giornata per visitare il parco e la limitrofa City Walk. Se 
 Per maggiore comodità e praticità, consigliamo di soggiornare in uno degli hotel in zona. L'[area della baia di Osaka](https://www.japan.travel/destinations/kansai/osaka/osaka-bay-area) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg) ospita anche l'[Acquario Kaiyukan di Osaka](https://www.japan.travel/spot/1113) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg), perfetto per una gita di mezza giornata o di una giornata intera.
 
 © Nintendo WIZARDING WORLD and all related trademarks, characters, names, and indicia are © & ™ Warner Bros. Entertainment Inc. Publishing Rights © JKR. (s21) Minions and all related elements and indicia TM & © 2021 Universal Studios. All rights reserved. TM & © Universal Studios & Amblin Entertainment TM & © 2021 Sesame Workshop ©2021 Peanuts Worldwide LLC © 1976, 2021 SANRIO CO., LTD.APPROVAL NO. EJ4120301 TM & © Universal Studios. All rights reserved.
+

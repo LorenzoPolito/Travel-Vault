@@ -65,12 +65,12 @@
 ##### Mattina: 
 - [[Santuario Yasaka]]
 - [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
+- [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
+- [[Sannenzaka e Ninezaka (三年坂)]]
 - [[Ninenzaka street]]
-- [[Kiyomizu-dera]]
+- [[Kiyomizu-dera (清水寺)]]
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
 - Lavaggio vestiti

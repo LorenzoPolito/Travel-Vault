@@ -75,10 +75,10 @@
 ##### Mattina: 
 - [[Santuario Yasaka]]
 - [[Quartiere Gion]] / [[TOEI Kyoto studio park (東映太秦映画村)]]? #discutere 
-- [[Nishiki Market ]] (pranzo)
+- [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
+- [[Sannenzaka e Ninezaka (三年坂)]]
 - [[Ninenzaka street]]
 - [[Kyojizu-dera]]
 ## Giorno 7 ( 2° Kyoto)

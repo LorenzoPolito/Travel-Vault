@@ -24,9 +24,9 @@ marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 ## Posti da visitare
 1. [[Tempio Ginkakuji (慈照寺（銀閣寺))]] ( 8:30-17:00 ) #1/5
 //
-1. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
-2. [[Nishiki Market]] ( 9:00-17:30 chiuso domenica) #4/5
-3. zona [[Sannenzaka]] strada [[Ninenzaka]] #4/5
+1. [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 ) #5/5
+2. [[Nishiki Market (錦市場)]] ( 9:00-17:30 chiuso domenica) #4/5
+3. zona [[Sannenzaka e Ninezaka (三年坂)]] strada [[Ninenzaka]] #4/5
 4. [[Santuario Yasaka]] ( 24H ) #4/5 
 5. [[Tempio Kodai-ji]] ( 9:00-17:00 ) #3/5
 6. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5

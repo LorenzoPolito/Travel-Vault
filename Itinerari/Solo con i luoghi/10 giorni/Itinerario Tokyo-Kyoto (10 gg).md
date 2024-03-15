@@ -45,10 +45,10 @@
 ##### Mattina: 
 - [[Santuario Yasaka]]
 - [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
+- [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka]]
+- [[Sannenzaka e Ninezaka (三年坂)]]
 - [[Ninenzaka street]]
 - [[Kyojizu-dera]]
 ## Giorno 4 ( 2° Kyoto)

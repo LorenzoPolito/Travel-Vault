@@ -49,10 +49,10 @@
 1. [[Kenninji]]
 2. [[Ninenzaka]]
 3. pranzo 
-4. [[Sannenzaka]]
-5. [[Kiyomizu-dera]]
+4. [[Sannenzaka e Ninezaka (三年坂)]]
+5. [[Kiyomizu-dera (清水寺)]]
 6. cena
-7. [[Sannenzaka]] ( da vedere anche di notte )
+7. [[Sannenzaka e Ninezaka (三年坂)]] ( da vedere anche di notte )
 8. ritorno all'hotel
 ## Giorno 5 ( 2 - Kyoto) 
 1. [[Hokan-ji]]

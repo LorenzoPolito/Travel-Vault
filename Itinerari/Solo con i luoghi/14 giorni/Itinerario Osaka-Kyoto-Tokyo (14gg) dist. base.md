@@ -75,12 +75,12 @@ Creato da @Lorenzo
 ##### Mattina
 - [[Quartiere Gion]]
 - [[Santuario Yasaka]]
-- [[Nishiki Market ]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
+- [[Nishiki Market (錦市場)]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
 ##### Pomeriggio
 - [[Tempio Kodai-ji]]
-- [[Kiyomizu-dera]] (al tramonto)
+- [[Kiyomizu-dera (清水寺)]] (al tramonto)
 ##### Sera
-- [[Sannenzaka]] strada [[Ninenzaka]]
+- [[Sannenzaka e Ninezaka (三年坂)]] strada [[Ninenzaka]]
 
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina
@@ -118,7 +118,7 @@ number of columns: 2
 
 --- end-multi-column
 ##### Sera
-- zona [[Sannenzaka]] strada [[Ninenzaka]]
+- zona [[Sannenzaka e Ninezaka (三年坂)]] strada [[Ninenzaka]]
 
 ## Giorno 8 (4° Kyoto/->Tokyo)
 

@@ -73,12 +73,12 @@
 ## Giorno 6 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
-- [[Santuario Yasaka]]
+- [[Santuario Yasaka (八坂神社)]]
 - [[Quartiere Gion]] / [[TOEI Kyoto studio park (東映太秦映画村)]]? #discutere 
 - [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka e Ninezaka (三年坂)]]
+- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 - [[Ninenzaka street]]
 - [[Kyojizu-dera]]
 ## Giorno 7 ( 2° Kyoto)

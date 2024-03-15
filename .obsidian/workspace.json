@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sannenzaka e Ninezaka (三年坂).md",
+                "file": "Tempio Kodai-ji.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sannenzaka e Ninezaka (三年坂).md",
+                "file": "Tempio Kodai-ji.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sannenzaka e Ninezaka (三年坂).md",
+                "file": "Tempio Kodai-ji.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,12 +208,15 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "allegati/Pasted image 20240315151037.png",
     "Locations/Lista dei Luoghi.md",
-    "Sannenzaka e Ninezaka (三年坂).md",
-    "Nishiki Market (錦市場).md",
-    "Kiyomizu-dera (清水寺).md",
-    "Tempio Ginkakuji (慈照寺（銀閣寺)).md",
+    "Tempio Kodai-ji.md",
+    "Santuario Yasaka (八坂神社).md",
+    "Ninenzaka.md",
+    "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
+    "allegati/Pasted image 20240315151037.png",
+    "Locations/Stores/Nishiki Market (錦市場).md",
+    "Locations/Temples/Kiyomizu-dera (清水寺).md",
+    "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
     "Index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
@@ -232,8 +235,6 @@
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Kamakura(鎌倉市).md",
     "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
-    "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240315143551.png",
@@ -248,7 +249,6 @@
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",
     "allegati/Pasted image 20240315132537.png",
-    "allegati/Pasted image 20240315132517.png",
     "Locations/Buildings",
     "Locations/Castles",
     "Itinerari/Solo con i luoghi",

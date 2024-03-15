@@ -63,12 +63,12 @@
 ## Giorno 5 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
-- [[Santuario Yasaka]]
+- [[Santuario Yasaka (八坂神社)]]
 - [[Quartiere Gion]]
 - [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji]]
-- [[Sannenzaka e Ninezaka (三年坂)]]
+- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 - [[Ninenzaka street]]
 - [[Kiyomizu-dera (清水寺)]]
 ## Giorno 6 ( 2° Kyoto)

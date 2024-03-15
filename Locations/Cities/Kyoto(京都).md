@@ -26,8 +26,8 @@ marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 //
 1. [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 ) #5/5
 2. [[Nishiki Market (錦市場)]] ( 9:00-17:30 chiuso domenica) #4/5
-3. zona [[Sannenzaka e Ninezaka (三年坂)]] strada [[Ninenzaka]] #4/5
-4. [[Santuario Yasaka]] ( 24H ) #4/5 
+3. zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]] #4/5
+4. [[Santuario Yasaka (八坂神社)]] ( 24H ) #4/5 
 5. [[Tempio Kodai-ji]] ( 9:00-17:00 ) #3/5
 6. [[Daikaku-ji Temple]] ( 9:00-16:30 ) #2/5
 7. [[Quartiere Gion]] #1/5

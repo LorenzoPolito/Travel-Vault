@@ -121,8 +121,7 @@ Creato da @Lorenzo
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 - [[Tokyo skytree]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
-- [[Kodokan dojo judo]] 
-- [[Santuario Kanda]]
+- #gruppoA Quartiere di [[Akihabara]] / #gruppoB [[The making of harry potter]]
 ##### Sera
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
@@ -159,7 +158,7 @@ Creato da @Lorenzo
 
 ## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
-- #gruppoA Quartiere [[Nakano]] e [[Nakano Broadway]] / #gruppoB [[The making of harry potter]]
+- #gruppoA Quartiere [[Nakano]] e [[Nakano Broadway]] / #gruppoB ???
 - Ultimi acquisti
 ##### Pomeriggio
 - Arrivo all'aeroporto e partenza

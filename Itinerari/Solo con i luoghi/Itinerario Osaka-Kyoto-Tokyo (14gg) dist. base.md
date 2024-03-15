@@ -1,13 +1,13 @@
 Creato da @Lorenzo
 
-|    città     | giorni | notti | € a notte *(provvisorio)* |                         note                          |
-|:------------:|:------:|:-----:|:-------------------------:|:-----------------------------------------------------:|
-| Volo andata  |   1    |   1   |         300/400 €         |                        12h/20h                        |
-|    Osaka     |  2.5   |   2   |           25 €            | 1 giorno allo Universal studios;<br>1/2 giorno a Nara |
-|    Kyoto     |  3.5   |   3   |         30€ circa         |                 TOEI park Eva(15 €)?                  |
-|    Tokyo     |   6    |   6   |           23 €            |                                                       |
-| Volo ritorno |   1    |   1   |         300/400 €         |                        12h/20h                        |
-|  **TOTALE**  |   14   |  13   |       1078 € circa        |               2 circa giorni di viaggio               |
+|    città     | giorni | notti | € a notte *(provvisorio)* |                          note                          |
+| :----------: | :----: | :---: | :-----------------------: | :----------------------------------------------------: |
+| Volo andata  |   1    |   1   |         300/400 €         |                        12h/20h                         |
+|    Osaka     |  2.5   |   2   |           25 €            | 1 giorno allo Universal studios;<br>1/2 giorno a Nara  |
+|    Kyoto     |  3.5   |   3   |         30€ circa         |                  TOEI park Eva(15 €)?                  |
+|    Tokyo     |   6    |   6   |           23 €            | 1 divisione del gruppo;<br>Mario Kart ride (100€)?<br> |
+| Volo ritorno |   1    |   1   |         300/400 €         |                        12h/20h                         |
+|  **TOTALE**  |   14   |  13   |       1078 € circa        |               2 circa giorni di viaggio                |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

@@ -55,19 +55,19 @@
 *(2h per arrivare a Hiroshima)*
 ##### Mattina:
 - [[Nagarekawa (流川)]]
-- [[Hondori street]]
+- [[Hondori street]] 
 ##### Pomeriggio: 
-- [[Memorial Park]]
+- [[Memorial Park Hiroshima]]
 ##### Sera: 
 - a piacere
 ## Giorno 5 ( 2° Hiroshima)
 *Partenza per [[Miyajima (宮島)]]*
 ##### Mattina: 
-- [[Itsushima Shrine]]
+- [[Itsukushima shrine (嚴島神社)]]
 ##### Pomeriggio: 
 - [[Monte Misen (弥山)]],
 - [[Tempio Daisho-in (大聖院)]]
-- [[Spiaggia Mikasa]]
+- Spiaggia Mikasa
 ##### Sera: 
 - Rientro a Hiroshima
 ## Giorno 6 ( 1° [[Kyoto(京都)]])
@@ -79,15 +79,14 @@
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji (高台寺)]]
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
+- [[Kiyomizu-dera (清水寺)]]
 ## Giorno 7 ( 2° Kyoto)
 ##### Mattina: 
 - Lavaggio vestiti
 - [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
+- [[Ryoan-ji (龍安寺方丈庭園)]]
+- [[Kinkaku-ji (金閣寺)]]
 ##### Sera: 
 - [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
 ## Giorno 8 ( 3° Kyoto/Tokyo)
@@ -109,7 +108,7 @@
 - rientro albergo
 ##### Sera: 
 - [[Roppongi (六本木)]]
-- [[Azanudai]]
+- Azanudai
 - [[Tokyo tower (東京タワー)]]
 ## Giorno 10 ( 2° Tokyo)
 ##### Mattina: 
@@ -134,10 +133,10 @@
 - Partenza per [[Kamakura]] (1h) e rientro dopo pranzo
 ##### Pomeriggio/sera: 
 - [[Shibuya (渋谷区)]]
-- [[nintendo store]]
+- nintendo store
 - [[Pokemon center Shibuya]]
 ##### Sera: 
-- [[Mario kart shibuya ride]]
+- [[Mario kart ride]]
 - ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
 ## Giorno 13 ( 4° Tokyo)
 ##### Mattina: 

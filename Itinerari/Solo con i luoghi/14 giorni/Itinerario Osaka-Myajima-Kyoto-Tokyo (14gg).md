@@ -53,11 +53,11 @@
 *(2h per arrivare a Hiroshima)*
 *Partenza per [[Miyajima (宮島)]]*
 ##### Mattina: 
-- [[Itsushima Shrine]]
+- [[Itsukushima shrine (嚴島神社)]]
 ##### Pomeriggio: 
 - [[Monte Misen (弥山)]],
 - [[Tempio Daisho-in (大聖院)]]
-- [[Spiaggia Mikasa]]
+- Spiaggia Mikasa
 ##### Sera: 
 - Rientro a Hiroshima
 ## Giorno 5 ( 1° [[Kyoto(京都)]])
@@ -69,7 +69,6 @@
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji (高台寺)]]
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
-- [[Ninenzaka street]]
 - [[Kiyomizu-dera (清水寺)]]
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
@@ -99,7 +98,7 @@
 - rientro albergo
 ##### Sera: 
 - [[Roppongi (六本木)]]
-- [[Azanudai]]
+- Azanudai
 - [[Tokyo tower (東京タワー)]]
 ## Giorno 9 ( 2° Tokyo)
 ##### Mattina: 
@@ -132,10 +131,10 @@
 - [[Nakano Broadway (中野ブロードウェイ)]]
 ##### Pomeriggio/sera: 
 - [[Shibuya (渋谷区)]] 
-- [[nintendo store]]
+- nintendo store
 - [[Pokemon center Shibuya]]
 ##### Sera: 
-- [[Mario kart shibuya ride]]
+- [[Mario kart ride]]
 - ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
 ## Giorno 13 ( 6° Tokyo)
 ##### Mattina: 

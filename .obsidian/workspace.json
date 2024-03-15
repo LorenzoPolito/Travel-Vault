@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md"
               }
             }
           }
@@ -206,6 +206,8 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
     "Locations/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
@@ -220,7 +222,6 @@
     "Locations/Buildings/Rainbow Bridge (レインボーブリッジ).md",
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Locations/Cities/blocks/Roppongi (六本木).md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Index.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Senza nome",
@@ -232,7 +233,6 @@
     "Locations/Temples/Tempio Daisho-in (大聖院).md",
     "Locations/Temples/Santuario Yasaka (八坂神社).md",
     "Locations/Temples/Santuario Meiji (明治神宮).md",
-    "Locations/Temples/Santuario Kanda (神田明神).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

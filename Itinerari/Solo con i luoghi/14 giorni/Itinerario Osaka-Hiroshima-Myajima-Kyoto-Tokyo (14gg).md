@@ -122,8 +122,8 @@
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
 - [[Fujiyoshida (富士吉田市)]], 
-- [[Kanandorii]] 
-- [[Chureito Pagoda]]
+- [[Kanandorii (金鳥居)]] 
+- [[Chureito Pagoda (忠霊塔)]]
 ##### Pomeriggio: 
 - rientro a Tokyo (verso le 16, arrivo quindi alle 18.30)
 ##### Sera: 

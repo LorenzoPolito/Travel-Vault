@@ -81,7 +81,7 @@
 5. [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]] #2/5
 6. Quartiere di [[Ginza (銀座)]] #1/5
 //
-1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii]] e [[Chureito Pagoda]] #3/5 ( Lontano )
+1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in]] Grande Buddha #3/5

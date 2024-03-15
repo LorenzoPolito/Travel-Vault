@@ -22,8 +22,8 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 ![[Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg]]
 ## Posti da visitare
 
-1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5
-2. Quartiere di [[Akihabara]] #4/5
+1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
+2. Quartiere di [[Akihabara (秋葉原)]] #4/5
 3. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
 4. Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
 //

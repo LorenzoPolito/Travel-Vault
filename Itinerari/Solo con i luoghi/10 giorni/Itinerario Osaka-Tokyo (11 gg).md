@@ -63,7 +63,7 @@
 ##### Pomeriggio/sera: 
 - [[Santuario Kanda]],
 - [[Parco di Ueno ]]
-- [[Akihabara]] (in generale)
+- [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 1° Tokyo)
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] 
@@ -77,12 +77,12 @@
 - [[Tokyo tower]]
 ## Giorno 7 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
+- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] 
-- [[Tempio Senso-Ji]]
+- [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree]]
 ## Giorno 8 ( 3° Tokyo/Esterna)
 ##### Mattina: 

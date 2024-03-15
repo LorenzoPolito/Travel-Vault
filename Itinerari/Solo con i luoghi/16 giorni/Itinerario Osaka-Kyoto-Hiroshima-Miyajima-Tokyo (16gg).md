@@ -98,7 +98,7 @@
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
-4. [[Tempio Senso-Ji]]
+4. [[Tempio Senso-Ji (浅草寺)]]
 5. pranzo
 6. [[Ueno]]
 7. [[Ueno park]]
@@ -109,7 +109,7 @@
 3. [[Hokone]] metà giornata (1h30 di viaggio)
 4. Ritorno a Tokyo ( Hotel ) (1h30 di viaggio)
 ## Giorno 11 ( 3 - Tokyo )
-1. [[Akihabara]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
+1. [[Akihabara (秋葉原)]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
 2. [[Nakano Broadway]]
 3. pranzo
 4. [[kodokan dojo judo]]

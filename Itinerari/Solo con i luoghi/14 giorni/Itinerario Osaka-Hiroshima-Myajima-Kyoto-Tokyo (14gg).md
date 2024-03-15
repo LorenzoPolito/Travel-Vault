@@ -99,7 +99,7 @@
 - [[kodokan dojo judo]], 
 - [[Santuario Kanda]], 
 - [[Parco di Ueno ]]
-- [[Akihabara]] (in generale)
+- [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji]] 
@@ -113,11 +113,11 @@
 - [[Tokyo tower]]
 ## Giorno 10 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
+- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+- [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
 ## Giorno 11 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*

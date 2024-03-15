@@ -4,14 +4,14 @@
 ## Giorno 2 (1° [[Tokyo(東京)]])
 *in base all'orario di arrivo del volo*
 - Quartiere di [[Asakusa(浅草)]]
-- [[Tempio Senso-Ji]]
+- [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree]]
 
 ## Giorno 3 (2° Tokyo)
 - Quartiere di [[Ueno]]
 - [[Ueno park]]
 - Quartiere di [[Yanaka]]
-- Quartiere di [[Akihabara]]
+- Quartiere di [[Akihabara (秋葉原)]]
 
 ## Giorno 4 (3° Tokyo)
 - Zona di [[Harajuku]]

@@ -134,7 +134,7 @@ number of columns: 2
 ## Giorno 9 (1° [[Tokyo(東京)]])
 ##### Mattina
 - *Lavanderia* ?
-- Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
+- Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
 --- start-multi-column: scelte per il pomeriggio 
@@ -142,7 +142,7 @@ number of columns: 2
 ```column-settings  
 number of columns: 2    
 ```
-- #gruppoA Quartiere di [[Akihabara]]  
+- #gruppoA Quartiere di [[Akihabara (秋葉原)]]  
 
 --- end-column ---
 

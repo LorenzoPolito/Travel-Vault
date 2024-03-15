@@ -68,16 +68,16 @@
 - [[kodokan dojo judo]], 
 - [[Santuario Kanda]], 
 - [[Parco di Ueno ]]
-- [[Akihabara]] (in generale)
+- [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara]]  (x acquisti)
+- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]]
 - [[Rainbow Bridge]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] 
-- [[Tempio Senso-Ji]]
+- [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree]]
 
 ## Giorno 7 ( 3° Tokyo/Esterna)

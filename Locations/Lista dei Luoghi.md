@@ -57,8 +57,8 @@
 2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
 ## [[Tokyo(東京)]]
 
-1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]] ( 6:30-17:00 ) #5/5
-2. Quartiere di [[Akihabara]] #4/5
+1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
+2. Quartiere di [[Akihabara (秋葉原)]] #4/5
 3. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
 4. Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
 //

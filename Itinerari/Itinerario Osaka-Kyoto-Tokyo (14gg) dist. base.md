@@ -51,7 +51,7 @@ Creato da @Lorenzo
 ##### Sera: 
 - [[Umeda Sky Building]]
 
-## Giorno 4 ([[Nara]]/[[Kyoto(京都)]])
+## Giorno 4 (->[[Nara]]/->[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka]] (9:00-17:00)
 
@@ -72,10 +72,11 @@ Creato da @Lorenzo
 - [[Santuario Yasaka]]
 - [[Quartiere Gion]]
 - [[Nishiki Market ]] (pranzo)
-##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji]]
-- [[Sannenzaka]] strada [[Ninenzaka]]
+##### Pomeriggio: 
+
 - [[Kiyomizu-dera]]
+##### Sera
+- [[Sannenzaka]] strada [[Ninenzaka]]
 
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
@@ -99,7 +100,7 @@ Creato da @Lorenzo
 ##### Sera:
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
 
-## Giorno 8 (4° Kyoto)
+## Giorno 8 (4° Kyoto/->Tokyo)
 
 ##### Mattina:
 - [[Daikaku-ji Temple]]
@@ -122,5 +123,27 @@ Creato da @Lorenzo
 ##### Sera
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
+##### Mattina
+##### Pomeriggio
+##### Sera
 
+## Giorno 11 (3° Tokyo)
+##### Mattina
+##### Pomeriggio
+##### Sera
+
+## Giorno 12 (4° Tokyo)
+##### Mattina
+##### Pomeriggio
+##### Sera
+
+## Giorno 13 (5° Tokyo)
+##### Mattina
+##### Pomeriggio
+##### Sera
+
+## Giorno 14 (Viaggio)
+##### Mattina
+##### Pomeriggio
+##### Sera
 

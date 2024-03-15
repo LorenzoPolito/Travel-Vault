@@ -52,6 +52,14 @@ kanban-plugin: basic
 
 
 
+## Giorno 13
+
+
+
+## Giorno 14
+
+
+
 
 
 %% kanban:settings

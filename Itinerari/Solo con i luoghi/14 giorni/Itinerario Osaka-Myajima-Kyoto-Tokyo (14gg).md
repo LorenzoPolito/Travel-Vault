@@ -38,7 +38,7 @@
 - [[Castello di Osaka (大阪城)]] #discutere 
 - [[Tempio Hozen-ji (法善寺)]]
 - (Namba, Minami) [[Dotonbori (道頓堀)]]
-- [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
+- [[Tempio Shitenno-ji (四天王寺)]]/Tenmagu shrine
 ##### Sera: 
 - [[Shinsekai (新世界と通天閣​)]]
 - [[Torre Tsutenkaku (通天閣)]]

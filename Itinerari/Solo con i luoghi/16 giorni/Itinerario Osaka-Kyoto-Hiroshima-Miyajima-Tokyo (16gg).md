@@ -110,7 +110,7 @@
 4. Ritorno a Tokyo ( Hotel ) (1h30 di viaggio)
 ## Giorno 11 ( 3 - Tokyo )
 1. [[Akihabara (秋葉原)]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
-2. [[Nakano Broadway]]
+2. [[Nakano Broadway (中野ブロードウェイ)]]
 3. pranzo
 4. [[Kodokan dojo judo (講道館)]]
 5. [[Ginza]]
@@ -133,5 +133,5 @@
 7. un po' di vita notturna a [[Shibuya (渋谷区)]].
 ## Giorno 14 ( 6 - Tokyo ) #discutere 
 1. ultime cose da fare come souvenir?
-2.  [[Nakano Broadway]] ?
+2.  [[Nakano Broadway (中野ブロードウェイ)]] ?
 3. ripartenza

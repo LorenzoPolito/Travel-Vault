@@ -142,7 +142,7 @@
 ## Giorno 13 ( 4° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
-- [[Nakano Broadway]]
+- [[Nakano Broadway (中野ブロードウェイ)]]
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)

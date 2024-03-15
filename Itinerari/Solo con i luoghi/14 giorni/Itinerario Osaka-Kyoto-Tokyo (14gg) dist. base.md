@@ -202,7 +202,7 @@ number of columns: 2
 
 ## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
-- #gruppoA Quartiere [[Nakano]] e [[Nakano Broadway]] / #gruppoB ???
+- #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] / #gruppoB ???
 - Ultimi acquisti
 ##### Pomeriggio
 - Arrivo all'aeroporto e partenza

@@ -91,8 +91,8 @@
 - [[Santuario Meiji (明治神宮)]]
 ## Giorno 8 (4° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
-- [[Nakano Broadway]]
+- [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano (中野市)]]
+- [[Nakano Broadway (中野ブロードウェイ)]]
 ##### Pomeriggio/sera: 
 - [[Shibuya (渋谷区)]] 
 - [[nintendo store]]
@@ -103,7 +103,7 @@
 ## Giorno 9 ( 5° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
-- [[Nakano Broadway]] *solo se necessario*
+- [[Nakano Broadway (中野ブロードウェイ)]] *solo se necessario*
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)

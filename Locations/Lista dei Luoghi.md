@@ -69,7 +69,7 @@
 2. Quartiere di [[Shinjuku (新宿区)]] #4/5
 3. [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 ) #3/5
 4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
-5. Vicoli di [[Golden Gai]] #2/5
+5. Vicoli di [[Golden Gai (ゴールデン街 )]] #2/5
 //
 1. Quartiere [[Nakano]] e [[Nakano Broadway]] #5/5
 2. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5

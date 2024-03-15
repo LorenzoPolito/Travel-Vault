@@ -160,7 +160,7 @@ number of columns: 2
 - [[Santuario Meiji (明治神宮)]] 
 - Quartiere di [[Shinjuku (新宿区)]] 
 ##### Sera
-- Vicoli di [[Golden Gai]] 
+- Vicoli di [[Golden Gai (ゴールデン街 )]] 
 
 ## Giorno 11 (3° Tokyo/->[[Kamakura(鎌倉市)]])
 ##### Mattina/Pomeriggio (Kamakura)

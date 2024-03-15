@@ -95,15 +95,15 @@
 - [[Mercato del pesce di Tsukiji]] 
 - [[Ginza]]
 ##### Pomeriggio: 
-- [[Palazzo Imperiale di tokyo]] 
+- [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo
 ##### Sera: 
 - [[Roppongi]]
 - [[Azanudai]]
-- [[Tokyo tower]]
+- [[Tokyo tower (東京タワー)]]
 ## Giorno 9 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
+- #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]] e [[Rainbow Bridge]] (tramonto)
 ##### Sera: 

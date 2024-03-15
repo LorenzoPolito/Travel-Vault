@@ -34,12 +34,12 @@
 
 ## Giorno 2( 1° [[Tokyo(東京)]])
 ##### Pomeriggio: 
-- [[Palazzo Imperiale di tokyo]] 
+- [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo
 ##### Sera: 
 - [[Roppongi]]
 - [[Azanudai]]
-- [[Tokyo tower]]
+- [[Tokyo tower (東京タワー)]]
 ## Giorno 3 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
@@ -71,7 +71,7 @@
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[the making of harry potter]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
+- #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba]]
 - [[Rainbow Bridge]] (tramonto)

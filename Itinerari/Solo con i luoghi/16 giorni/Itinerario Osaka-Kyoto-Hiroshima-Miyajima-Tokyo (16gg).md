@@ -97,7 +97,7 @@
 ## Giorno 9 ( 1 - Tokyo)
 1. arrivo a [[Tokyo(東京)]] (da Hiroshima sono 3h50min di viaggio)
 2. check-in all'hotel per lasciare le valige.
-3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
+3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower (東京タワー)]] (2/3 ore)
 4. [[Tempio Senso-Ji (浅草寺)]]
 5. pranzo
 6. [[Parco di Ueno (上野恩賜公園)]]
@@ -109,7 +109,7 @@
 3. [[Hokone]] metà giornata (1h30 di viaggio)
 4. Ritorno a Tokyo ( Hotel ) (1h30 di viaggio)
 ## Giorno 11 ( 3 - Tokyo )
-1. [[Akihabara (秋葉原)]] #gruppoA / [[the making of harry potter]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
+1. [[Akihabara (秋葉原)]] #gruppoA / [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] (49m da akiba) #gruppoB ( due attività parallele #discutere )
 2. [[Nakano Broadway (中野ブロードウェイ)]]
 3. pranzo
 4. [[Kodokan dojo judo (講道館)]]
@@ -117,7 +117,7 @@
 6. cena
 7. ritorno ad [[Asakusa(浅草)]] per vita notturna
 ## Giorno 12 ( 4 - Tokyo )
-1. [[Palazzo Imperiale di tokyo]]
+1. [[Palazzo Imperiale di Tokyo (皇居)]]
 2. [[Hokusai museum]]
 3. pranzo
 4. [[Shinjuku (新宿区)]]

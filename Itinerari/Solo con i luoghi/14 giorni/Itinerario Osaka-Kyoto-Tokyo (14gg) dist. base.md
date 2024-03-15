@@ -146,7 +146,7 @@ number of columns: 2
 
 --- end-column ---
 
-- #gruppoB [[The making of harry potter]]
+- #gruppoB [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
 
 --- end-multi-column
 
@@ -176,7 +176,7 @@ number of columns: 2
 ## Giorno 12 (4° Tokyo)
 ##### Mattina
 - [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 )
-- [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
+- [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 
 --- start-multi-column: scelte per il pomeriggio 
 
@@ -185,7 +185,7 @@ number of columns: 2
 ```
 
 ##### Pomeriggio A
-- [[Tokyo tower]]
+- [[Tokyo tower (東京タワー)]]
 - [[Odaiba]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
 
 --- end-column ---

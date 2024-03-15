@@ -37,10 +37,10 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 5. Vicoli di [[Golden Gai (ゴールデン街 )]] #2/5
 //
 1. Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] #5/5
-2. [[The making of harry potter]] ( 8:30 -18:30 ) #1/5
+2. [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 ) #1/5
 //
-1. [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) #4/5
-2. [[Tokyo tower]] ( 9:00 - 22:30 ) #4/5
+1. [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) ) #4/5
+2. [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 ) #4/5
 3. [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 ) #4/5
 4. Quartiere [[Roppongi]] (notturno) #3/5
 5. [[Odaiba]] e [[Rainbow Bridge]] #2/5

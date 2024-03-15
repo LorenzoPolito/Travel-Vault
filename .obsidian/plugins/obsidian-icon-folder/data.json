@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBuildingChurch",
       "RiBuildingFill",
       "BoBxsCastle",
       "TiTransferVertical",
-      "RiSlideshowFill",
-      "TiRollercoaster"
+      "RiSlideshowFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -39,7 +39,7 @@
   "Locations/Cities": "FasCity",
   "Locations/Restaurants": "RiRestaurantFill",
   "Locations/Stores": "IbStore",
-  "Locations/Temples": "🛕",
+  "Locations/Temples": "TiBuildingChurch",
   "Locations/Hotels": "LiHotel",
   "Locations/Cities/blocks": "FasStreetView",
   "Locations Interactive Map": "LiLocateFixed",

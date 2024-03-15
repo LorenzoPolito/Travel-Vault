@@ -20,7 +20,7 @@
   "onlyExportModified": true,
   "deleteOldFiles": true,
   "addThemeToggle": true,
-  "addOutline": true,
+  "addOutline": false,
   "addFileNav": true,
   "addSearchBar": false,
   "addGraphView": false,

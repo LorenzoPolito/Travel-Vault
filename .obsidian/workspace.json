@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Cities/Kyoto(京都).md",
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "78a567a0463e2ea7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg"
               }
             }
           },
@@ -26,7 +36,7 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Lista dei Luoghi.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg"
               }
             }
           },
@@ -144,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,12 +225,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2db576b2d9f4c8be",
+  "active": "78a567a0463e2ea7",
   "lastOpenFiles": [
+    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Lista dei Luoghi.md",
     "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
-    "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",

@@ -48,10 +48,12 @@ Creato da @Lorenzo
 
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
+*13 minuti con metro*
 - [[Nintendo World]]
 #### Pomeriggio: 
 - [[Universal Studios Japan]]
 ##### Sera: 
+*(31 mi)*
 - [[Umeda Sky Building]]
 
 ## Giorno 4 (->[[Nara]]/->[[Kyoto(京都)]])

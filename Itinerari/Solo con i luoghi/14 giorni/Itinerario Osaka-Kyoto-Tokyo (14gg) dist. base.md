@@ -104,9 +104,7 @@ Creato da @Lorenzo
 - [[Fushimi Inari (伏見稲荷大社)]] 
 
 *Anche dopo pranzo*
-##### Pomeriggio A
-- [[Quartiere Gion (祇園)]] 
-##### Pomeriggio B
+##### Pomeriggio
 - *Riposo*
 ##### Sera
 - zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]]
@@ -164,6 +162,7 @@ Creato da @Lorenzo
 - [[Santuario Kanda (神田明神)]] 
 - [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
 ##### Sera
+*18min dalla Tokyo tower -- *
 - Quartiere [[Roppongi (六本木)]] (notturno)
 
 **Preparare le valigie**

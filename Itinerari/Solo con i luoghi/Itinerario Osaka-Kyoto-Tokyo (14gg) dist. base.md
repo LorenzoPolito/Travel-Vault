@@ -35,6 +35,8 @@ Creato da @Lorenzo
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 
 ## Giorno 2 (1° [[Osaka(大阪市)]])
+##### Mattina
+- ARRIVO
 ##### Pomeriggio: 
 - [[Tempio Shinteno-ji]] (9:00-16:30)
 - [[Tempio Hozen-ji]]
@@ -152,15 +154,23 @@ Creato da @Lorenzo
 - [[Tokyo tower]]
 - [[Odaiba]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
 ##### Sera
-- Quartiere [[Roppongi]] (notturno) 
+- Quartiere [[Roppongi]] (notturno)
+**Preparare le valigie**
 
 ## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
+- #gruppoA Quartiere [[Nakano]] e [[Nakano Broadway]] / #gruppoB [[The making of harry potter]]
+- Ultimi acquisti
 ##### Pomeriggio
+- Arrivo all'aeroporto e partenza
 ##### Sera
+- volo
 
 ## Giorno 14 (Viaggio)
 ##### Mattina
+- volo
 ##### Pomeriggio
+- volo
 ##### Sera
+- RITORNO
 

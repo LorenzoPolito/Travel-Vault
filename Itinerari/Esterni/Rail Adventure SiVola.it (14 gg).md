@@ -67,7 +67,7 @@
 
 ## Giorno 12 (2° Kyoto)
 - [[Castello di Nijo]]
-- [[Ginkakuji temple]]
+- [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
 - [[Mercato di Nishiki]]
 - [[Daikaku-ji Temple]]
 

@@ -82,7 +82,7 @@
 - [[Fushimi Inari]] (tramonto) #discutere 
 ## Giorno 7 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
-- [[Sentiero del filosofo]] e [[Ginkakuji temple]]
+- [[Sentiero del filosofo]] e [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
 
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 

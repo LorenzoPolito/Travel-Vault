@@ -22,7 +22,7 @@ marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 ![[Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg]]
 
 ## Posti da visitare
-1. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
+1. [[Tempio Ginkakuji (慈照寺（銀閣寺))]] ( 8:30-17:00 ) #1/5
 //
 1. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
 2. [[Nishiki Market]] ( 9:00-17:30 chiuso domenica) #4/5

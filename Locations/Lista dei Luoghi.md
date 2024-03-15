@@ -35,7 +35,7 @@
 
 ## [[Kyoto(京都)]]
 
-1. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
+1. [[Tempio Ginkakuji (慈照寺（銀閣寺))]] ( 8:30-17:00 ) #1/5
 //
 1. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
 2. [[Nishiki Market]] ( 9:00-17:30 **chiuso domenica**) #4/5

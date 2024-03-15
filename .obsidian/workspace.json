@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,39 +194,77 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a434926354df672e",
+  "floating": {
+    "id": "d38af9d51e4f832d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3cc87945d35c2bc1",
+        "type": "window",
+        "children": [
+          {
+            "id": "d319705772bcecaf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c92b8d4efac77b75",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 510,
+        "y": 540,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c92b8d4efac77b75",
   "lastOpenFiles": [
-    "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
-    "Index.md",
-    "Locations/Lista dei Luoghi.md",
-    "Locations/Parks/TOEI Kyoto studio park (東映太秦映画村).md",
-    "allegati/Pasted image 20240315132603.png",
-    "allegati/Pasted image 20240315132557.png",
-    "allegati/Pasted image 20240315132546.png",
-    "allegati/Pasted image 20240315132537.png",
-    "allegati/Pasted image 20240315132517.png",
+    "Locations/Stores/Senza nome.md",
     "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Locations/Parks/TOEI Kyoto studio park (東映太秦映画村).md",
+    "Locations/Parks/Teamlab botanical garden.md",
+    "Locations/Parks/Kaiyukan aquarium (海遊館).md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Nara (奈良市).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Dotonbori (道頓堀).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
+    "Locations/Castles/Castello di Osaka (大阪城).md",
+    "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
+    "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Solo con i luoghi/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
-    "Locations/Cities/Kobe(神戸).md",
+    "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
     "Info/Voli/Test per riferimento.md",
-    "Locations/Cities/Nara (奈良市).md",
-    "Locations/Parks/Kaiyukan aquarium (海遊館).md",
-    "Locations/Parks/Fabrica dei Gundam.md",
-    "Locations/Parks/Teamlab botanical garden.md",
-    "Locations/Parks/Nintendo World.md",
-    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
-    "Locations/Temples/Tempio Hozen-ji (法善寺).md",
+    "Index.md",
+    "Locations/Lista dei Luoghi.md",
+    "allegati/Pasted image 20240315132603.png",
+    "allegati/Pasted image 20240315132557.png",
+    "allegati/Pasted image 20240315132546.png",
+    "allegati/Pasted image 20240315132537.png",
+    "allegati/Pasted image 20240315132517.png",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "allegati/Pasted image 20240315125222.png",
-    "Locations/Stores/Senza nome.md",
     "Locations/Buildings",
     "allegati/Pasted image 20240315124351.png",
     "allegati/Pasted image 20240315124253.png",
@@ -241,5 +279,4 @@
     "Locations/Parks",
     "Itinerari",
     "Info/Voli"
-  ]
-}
+ 

@@ -2,7 +2,7 @@
   "settingsVersion": "1.8.01",
   "makeOfflineCompatible": false,
   "inlineAssets": true,
-  "includePluginCSS": "tag-wrangler\nquick-latex\nobsidian-map-view\nconvert-url-to-iframe\nobsidian-day-planner\nobsidian-leaflet-plugin\nobsidian-advanced-slides\nobsidian-timelines\nmulti-column-markdown\nobsidian-hover-editor\ndataview\noz-image-plugin",
+  "includePluginCSS": "dataview\ntag-wrangler\nquick-latex\nobsidian-map-view\nobsidian-day-planner\noz-image-plugin\nconvert-url-to-iframe\nobsidian-leaflet-plugin\nobsidian-advanced-slides\nobsidian-hover-editor\nmulti-column-markdown\nobsidian-timelines\nobsidian-emoji-toolbar\ntheme-picker\nobsidian-outliner",
   "includeSvelteCSS": true,
   "titleProperty": "title",
   "customHeadContentPath": "",

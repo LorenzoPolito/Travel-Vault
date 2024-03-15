@@ -150,14 +150,27 @@ Creato da @Lorenzo
 ##### Mattina
 - [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
+
+--- start-multi-column: scelte per il pomeriggio 
+
+```column-settings  
+number of columns: 2    
+```
+
 ##### Pomeriggio A
 - [[Tokyo tower]]
 - [[Odaiba]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
 
+--- end-column ---
+
 ##### Pomeriggio B
-- 
+- [[Santuario Kanda]] 
+- [[Kodokan dojo judo]] ( 16:00-20:00 )
+
+--- end-multi-column
 ##### Sera
 - Quartiere [[Roppongi]] (notturno)
+
 **Preparare le valigie**
 
 ## Giorno 13 (5° Tokyo/->Viaggio)

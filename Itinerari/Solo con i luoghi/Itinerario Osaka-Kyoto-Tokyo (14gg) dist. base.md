@@ -122,7 +122,19 @@ Creato da @Lorenzo
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji]]
 - [[Tokyo skytree]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
-- #gruppoA Quartiere di [[Akihabara]] / #gruppoB [[The making of harry potter]]
+--- start-multi-column: scelte per il pomeriggio 
+
+```column-settings  
+number of columns: 2    
+```
+- #gruppoA Quartiere di [[Akihabara]]  
+
+--- end-column ---
+
+- #gruppoB [[The making of harry potter]]
+
+--- end-multi-column
+
 ##### Sera
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
@@ -168,6 +180,7 @@ number of columns: 2
 - [[Kodokan dojo judo]] ( 16:00-20:00 )
 
 --- end-multi-column
+
 ##### Sera
 - Quartiere [[Roppongi]] (notturno)
 

@@ -38,7 +38,7 @@
 ## Giorno 2 ( 1° [[Osaka(大阪市)]])
 ##### Pomeriggio: 
 - [[Castello di Osaka (大阪城)]] #discutere 
-- [[Tempio Hozen-ji]]
+- [[Tempio Hozen-ji (法善寺)]]
 - Quartiere[[ Minami-sakai]] (Namba)  [[Dotonbori (道頓堀)]] #
 - [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 

@@ -42,7 +42,7 @@ Creato da @Lorenzo
 - [[Shinsekai]]
 - [[Torre Tsutenkaku]]
 ##### Sera: 
-- [[Tempio Hozen-ji]]
+- [[Tempio Hozen-ji (法善寺)]]
 - (Namba, Minami) [[Dotonbori (道頓堀)]]
 
 

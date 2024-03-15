@@ -12,7 +12,7 @@
 //
 1. Quartiere Minami [[Dotonbori (道頓堀)]] (al meglio di sera) #5/5
 2. [[Tempio Shitenno-ji]] (9:00-16:30) #4/5
-3. [[Tempio Hozen-ji]] #4/5
+3. [[Tempio Hozen-ji (法善寺)]] #4/5
 4. Quartiere [[Shinsekai]] #4/5
 //
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5

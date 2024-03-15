@@ -80,7 +80,7 @@ Creato da @Lorenzo
 - [[Tempio Kodai-ji (高台寺)]]
 - [[Kiyomizu-dera (清水寺)]] (al tramonto)
 ##### Sera
-- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]]
+- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina

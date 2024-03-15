@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md"
               }
             }
           }
@@ -206,9 +206,9 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Index.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Hiroshima(広島).md",
-    "Index.md",
     "Locations/Cities/Senza nome",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",

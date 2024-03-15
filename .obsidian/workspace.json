@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kodokan dojo judo.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kodokan dojo judo.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kodokan dojo judo.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,8 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Kodokan dojo judo (講道館).md",
     "Locations/Lista dei Luoghi.md",
-    "Kodokan dojo judo.md",
     "Santuario Kanda (神田明神).md",
     "Index.md",
     "Parco di Ueno (上野恩賜公園).md",

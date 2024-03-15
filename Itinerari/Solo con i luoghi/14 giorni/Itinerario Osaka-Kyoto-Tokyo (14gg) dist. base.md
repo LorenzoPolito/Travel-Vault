@@ -192,7 +192,7 @@ number of columns: 2
 
 ##### Pomeriggio B
 - [[Santuario Kanda (神田明神)]] 
-- [[Kodokan dojo judo]] ( 16:00-20:00 )
+- [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
 
 --- end-multi-column
 ##### Sera

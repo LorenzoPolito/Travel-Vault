@@ -59,7 +59,7 @@
 *Partenza per Tokyo (circa 2h)*
 ##### Mattina: 
 - check-in all'hotel
-- [[kodokan dojo judo]]
+- [[Kodokan dojo judo (講道館)]]
 ##### Pomeriggio/sera: 
 - [[Santuario Kanda (神田明神)]],
 - [[Parco di Ueno ]]

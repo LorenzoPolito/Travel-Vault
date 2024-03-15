@@ -186,7 +186,7 @@ number of columns: 2
 
 ##### Pomeriggio A
 - [[Tokyo tower (東京タワー)]]
-- [[Odaiba (お台場 )]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
+- [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]]  *(Se c'è tempo)*
 
 --- end-column ---
 

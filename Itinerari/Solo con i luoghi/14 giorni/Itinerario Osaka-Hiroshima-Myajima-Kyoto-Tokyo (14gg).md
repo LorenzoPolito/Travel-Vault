@@ -103,7 +103,7 @@
 ## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] 
-- [[Ginza]]
+- [[Ginza (銀座)]]
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo
@@ -115,13 +115,13 @@
 ##### Mattina: 
 - #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
-- [[Odaiba (お台場 )]] e [[Rainbow Bridge]] (tramonto)
+- [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
 ## Giorno 11 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*
-- [[Fujiyoshida]], 
+- [[Fujiyoshida (富士吉田市)]], 
 - [[Kanandorii]] 
 - [[Chureito Pagoda]]
 ##### Pomeriggio: 

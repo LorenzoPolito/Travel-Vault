@@ -74,7 +74,7 @@
 - #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba (お台場 )]]
-- [[Rainbow Bridge]] (tramonto)
+- [[Rainbow Bridge (レインボーブリッジ)]] (tramonto)
 ##### Sera: 
 - [[Asakusa(浅草)]] 
 - [[Tempio Senso-Ji (浅草寺)]]
@@ -83,7 +83,7 @@
 ## Giorno 7 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] 
-- [[Ginza]] ? #discutere *se c'è tempo*
+- [[Ginza (銀座)]] ? #discutere *se c'è tempo*
 ##### Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)
 ##### Sera: 

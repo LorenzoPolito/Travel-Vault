@@ -113,7 +113,7 @@
 2. [[Nakano Broadway (中野ブロードウェイ)]]
 3. pranzo
 4. [[Kodokan dojo judo (講道館)]]
-5. [[Ginza]]
+5. [[Ginza (銀座)]]
 6. cena
 7. ritorno ad [[Asakusa(浅草)]] per vita notturna
 ## Giorno 12 ( 4 - Tokyo )

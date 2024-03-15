@@ -124,13 +124,10 @@ number of columns: 2
 
 ##### Mattina:
 - [[Daikaku-ji Temple]]
-- [[Sentiero del filosofo]] *(Se c'è tempo)*
-
 ##### Pomeriggio
 *Partenza per Tokyo ( 2h12min )*
 *pranzo sullo Shinkansen con il Bento*
 *Check-in all'hotel e riposo*
-
 ##### Sera
 - [[Asakusa(浅草)]] di notte
 
@@ -157,11 +154,11 @@ number of columns: 2
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
-- [[Santuario Meiji]] 
-- Quartiere di [[Shinjuku]] 
-##### Pomeriggio
 - Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] 
 - [[Mario kart ride]] (100€ circa) (10:00 - 22:00 )
+##### Pomeriggio
+- [[Santuario Meiji]] 
+- Quartiere di [[Shinjuku]] 
 ##### Sera
 - Vicoli di [[Golden Gai]] 
 

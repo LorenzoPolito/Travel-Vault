@@ -73,8 +73,8 @@ Creato da @Lorenzo
 - [[Quartiere Gion]]
 - [[Nishiki Market ]] (pranzo)
 ##### Pomeriggio: 
-
-- [[Kiyomizu-dera]]
+- [[Tempio Kodai-ji]]
+- [[Kiyomizu-dera]] (al tramonto)
 ##### Sera
 - [[Sannenzaka]] strada [[Ninenzaka]]
 
@@ -120,6 +120,7 @@ Creato da @Lorenzo
 - [[Tokyo skytree]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
 - [[Kodokan dojo judo]] 
+- [[Santuario Kanda]]
 ##### Sera
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)

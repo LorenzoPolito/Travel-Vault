@@ -18,7 +18,13 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1506cd7c2e6b21b7",
+        "type": "tabs",
+        "children": [
           {
             "id": "2db576b2d9f4c8be",
             "type": "leaf",
@@ -26,6 +32,18 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Lista dei Luoghi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "29e2cef60f42ac7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Cities/Tokyo(東京).md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 354,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -193,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,13 +236,13 @@
   },
   "active": "77e5026406ff31ca",
   "lastOpenFiles": [
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Lista dei Luoghi.md",
+    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Osaka(大阪市).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
-    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Itinerario Osaka-Tokyo (11 gg).md",

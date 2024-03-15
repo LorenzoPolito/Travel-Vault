@@ -39,11 +39,12 @@ Creato da @Lorenzo
 - ARRIVO
 ##### Pomeriggio: 
 - [[Tempio Shinteno-ji]] (9:00-16:30)
-- [[Tempio Hozen-ji]]
 - [[Shinsekai]]
-##### Sera: 
-- (Namba, Minami) [[Dotonbori]]
 - [[Torre Tsutenkaku]]
+##### Sera: 
+- [[Tempio Hozen-ji]]
+- (Namba, Minami) [[Dotonbori]]
+
 
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 

@@ -40,7 +40,7 @@ Dopo aver visitato il tempio, percorri lo stretto vicolo di Hozenji Yokocho. Qui
 
 ![](https://res.cloudinary.com/jnto/image/upload/w_670,h_450,fl_lossy,f_auto/v1514373629/osaka/Osaka795_1)
 
-### Una serata in giro sulla Dotonbori
+### Una serata in giro sulla [[Dotonbori (道頓堀)]]
 
 Il Tempio di Hozenji è situato in posizione centrale ed è un ottimo punto di partenza per la scoperta di Osaka. Pianifica una giornata di shopping nei negozi della zona, o trascorri la serata a visitare attrazioni come il ponte di Dotonbori e [Ura Namba](https://www.japan.travel/spot/2342) ![](https://res.cloudinary.com/jnto/image/upload/fl_lossy,f_auto/v1515582005/static/svg/common/external_link.svg) ](/spot/2343).
 

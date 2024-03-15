@@ -39,7 +39,7 @@ Creato da @Lorenzo
 - ARRIVO
 ##### Pomeriggio: 
 - [[Tempio Shinteno-ji]] (9:00-16:30)
-- [[Shinsekai]]
+- [[Shinsekai (新世界と通天閣​)]]
 - [[Torre Tsutenkaku]]
 ##### Sera: 
 - [[Tempio Hozen-ji (法善寺)]]
@@ -50,7 +50,7 @@ Creato da @Lorenzo
 ##### Mattina: 
 - [[Nintendo World]]
 #### Pomeriggio: 
-- [[Universal Studios Japan]]
+- [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
 - [[Umeda Sky Building]]
 

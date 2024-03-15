@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
+                "file": "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#WEAREMARIO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -121,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
+                "file": "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Temples/Tempio Hozen-ji (法善寺).md",
+                "file": "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +195,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2db576b2d9f4c8be",
+  "active": "23723419d0798a64",
   "lastOpenFiles": [
     "Locations/Lista dei Luoghi.md",
+    "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
+    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
+    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Temples/Tempio Shitenno-ji.md",
     "allegati/Pasted image 20240315125222.png",
     "Locations/Cities/blocks/Dotonbori (道頓堀).md",
     "Locations/Buildings/Umeda Sky Building.md",
@@ -228,8 +231,6 @@
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
-    "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
-    "Itinerari/Esterni/Itinerario Ossama Valentina.md",
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",

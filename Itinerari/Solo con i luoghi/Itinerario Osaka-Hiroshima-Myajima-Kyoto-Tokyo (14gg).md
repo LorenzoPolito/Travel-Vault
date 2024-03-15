@@ -42,13 +42,13 @@
 - Quartiere[[ Minami-sakai]] (Namba)  [[Dotonbori (道頓堀)]] #
 - [[Tempio Shinteno-ji]]/[[Tenmagu shrine]]
 ##### Sera: 
-- [[Shinsekai]]
+- [[Shinsekai (新世界と通天閣​)]]
 - [[Torre Tsutenkaku]]
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
 - [[Nintendo World]]
 #### Pomeriggio: 
-- [[Universal Studios Japan]]
+- [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 ##### Sera: 
 - [[Umeda Sky Building]]
 ## Giorno 4 (1° [[Hiroshima(広島)]])

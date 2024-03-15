@@ -12,13 +12,13 @@
 2. [[Umeda Sky Building]] #3/5
 //
 1. Quartiere Minami [[Dotonbori (道頓堀)]] (al meglio di sera) #5/5
-2. [[Tempio Shitenno-ji]] (9:00-16:30) #4/5
+2. [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30) #4/5
 3. [[Tempio Hozen-ji (法善寺)]] #4/5
-4. Quartiere [[Shinsekai]] #4/5
+4. Quartiere [[Shinsekai (新世界と通天閣​)]] #4/5
 //
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 //
-1. [[Universal Studios Japan]]/[[Nintendo World]] (8:00-19:00) #3/5
+1. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]/[[Nintendo World]] (8:00-19:00) #3/5
 2. [[Kayuka aquarium]] #1/5
 //
 1. [[Nara]] ( Lontano ) #2/5 

@@ -35,13 +35,13 @@
 1. visita del [[Castello di Osaka (大阪城)]]  e parco *( al mattino presto )* ( 3 ore)
 2. pranzo
 3. [[Shintenogi temple]]/[[Tenmagu shrine]] (2 ore)
-4. quartiere [[Shinsekai]]
+4. quartiere [[Shinsekai (新世界と通天閣​)]]
 5. cena
 6. [[Teamlab botanical garden]] *( solo di sera )* *( opzionale )*
 7. ritorno all'hotel
 ## Giorno 3 ( 3 - Osaka)
 1. check-out hotel
-2. [[Universal Studios Japan]] (pranzo)
+2. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]] (pranzo)
 3. [[Kayuka aquarium]] *(opzionale)*
 4. partenza per [[Kyoto(京都)]] ( 1h circa)
 5. check-in all'hotel

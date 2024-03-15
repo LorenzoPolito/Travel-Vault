@@ -142,13 +142,19 @@ Creato da @Lorenzo
 - [[Santuario Tsurugaoka Hachimangu]] 
 - [[Tempio Hase-dera]] 
 ##### Sera
+- **Riposo**
 
 ## Giorno 12 (4° Tokyo)
 ##### Mattina
+- [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 )
+- [[Palazzo Imperiale di Tokyo]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio
+- [[Tokyo tower]]
+- [[Odaiba]] e [[Rainbow Bridge]]  *(Se c'è tempo)*
 ##### Sera
+- Quartiere [[Roppongi]] (notturno) 
 
-## Giorno 13 (5° Tokyo)
+## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
 ##### Pomeriggio
 ##### Sera

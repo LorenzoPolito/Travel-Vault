@@ -86,11 +86,11 @@ Creato da @Lorenzo
 ##### Mattina: 
 - *Lavanderia*
 - [[Arashiyama]] (quartiere e foresta bambu)
-
+- [[Adashino nenbutsuji]]
 *Arashiyama è lontana dal centro 50min*
 *per andare alle tappe successive ci vogliono 50min*
 ##### Pomeriggio: 
-- [[Ryoan-ji]]  
+- [[Ryoan-ji]] 
 - [[Kinkaku-ji]]
 
 *per tornare al centro 40min*
@@ -104,7 +104,7 @@ Creato da @Lorenzo
 
 *Anche dopo pranzo*
 ##### Pomeriggio:
--  [[Adashino nenbutsuji]]
+- [[Quartiere Gion]] 
 ##### Sera:
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
 

@@ -18,9 +18,9 @@
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 //
 1. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]/[[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]] (8:00-19:00) #3/5
-2. [[Kayuka aquarium]] #1/5
+2. [[Kaiyukan aquarium (海遊館)]] #1/5
 //
-1. [[Nara]] ( Lontano ) #2/5 
+1. [[Nara (奈良市)]] ( Lontano ) #2/5 
 ## Hotels
 - [Astil Hotel Shin-Osaka](https://www.magictravel.ai/trip/34f47051-685d-417f-8af1-95125cea6e2b/hotels/Osaka/Astil%20Hotel%20Shin-Osaka?source=trip)
 - [Hotel Shiki Utsubo Park](https://www.magictravel.ai/trip/34f47051-685d-417f-8af1-95125cea6e2b/hotels/Osaka/Hotel%20Shiki%20Utsubo%20Park?source=trip)

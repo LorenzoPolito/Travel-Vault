@@ -61,7 +61,7 @@
 - [[Fushimi Inari]] (tramonto) #discutere 
 ## Giorno 5 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
-- [[Nara]] #discutere 
+- [[Nara (奈良市)]] #discutere 
 
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 

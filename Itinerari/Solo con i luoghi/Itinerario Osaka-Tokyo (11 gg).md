@@ -52,7 +52,7 @@
 - quartiere [[Dotonbori (道頓堀)]]
 ##### Pomeriggio:
 *Viaggio verso Nara di 1h*
-- [[Nara]] *(fino alle 18:00 quindi ritorno alle 19:00)*
+- [[Nara (奈良市)]] *(fino alle 18:00 quindi ritorno alle 19:00)*
  ###### Sera:
 - libera
 ## Giorno 5 ( 1° [[Tokyo(東京)]])

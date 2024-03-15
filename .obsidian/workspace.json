@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Parks/Teamlab botanical garden.md",
+                "file": "Info/Voli/Test per riferimento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a434926354df672e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Parks/Teamlab botanical garden.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Parks/Teamlab botanical garden.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,12 +209,18 @@
   },
   "active": "e89a79a745e1164b",
   "lastOpenFiles": [
+    "Info/Voli/Test per riferimento.md",
+    "Index.md",
+    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Nara (奈良市).md",
+    "Locations/Parks/TOEI Kyoto studio park.md",
+    "Locations/Parks/Kaiyukan aquarium (海遊館).md",
+    "Locations/Parks/Fabrica dei Gundam.md",
     "Locations/Parks/Teamlab botanical garden.md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Locations/Parks/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
     "Locations/Parks/Nintendo World.md",
-    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
     "allegati/Pasted image 20240315125222.png",
@@ -224,12 +243,6 @@
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
-    "Itinerari/Solo con i luoghi/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Locations/Parks/Fabrica dei Gundam.md",
-    "Locations/Restaurants/Senza nome.md",
-    "Locations/Parks/TOEI Kyoto studio park.md",
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",

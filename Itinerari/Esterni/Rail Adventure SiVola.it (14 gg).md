@@ -42,8 +42,8 @@
 - [[Hokone]]
 
 ## Giorno 8 (1° Osaka)
-*Sulla via del ritorno verso Osaka ci Fermeremo a [[Nara]]*
-- [[Nara]]
+*Sulla via del ritorno verso Osaka ci Fermeremo a [[Nara (奈良市)]]*
+- [[Nara (奈良市)]]
 - [[Tempio Todaji]] Buddha più grande del Giappone
 - [[Santuario Kasuga]] dove sono costudite le lanterne dei desideri
 

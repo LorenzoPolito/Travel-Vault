@@ -19,9 +19,9 @@
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 //
 1. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]] (8:00-19:00) #3/5
-2. [[Kayuka aquarium]] #1/5
+2. [[Kaiyukan aquarium (海遊館)]] #1/5
 //
-1. [[Nara]] ( Lontano ) #2/5 
+1. [[Nara (奈良市)]] ( Lontano ) #2/5 
 ## [[Hiroshima(広島)]]
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5

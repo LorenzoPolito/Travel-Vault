@@ -42,7 +42,7 @@
 ## Giorno 3 ( 3 - Osaka)
 1. check-out hotel
 2. [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]] (pranzo)
-3. [[Kayuka aquarium]] *(opzionale)*
+3. [[Kaiyukan aquarium (海遊館)]] *(opzionale)*
 4. partenza per [[Kyoto(京都)]] ( 1h circa)
 5. check-in all'hotel
 ## Giorno 4 ( 1 - Kyoto)

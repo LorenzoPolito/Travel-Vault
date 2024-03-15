@@ -54,7 +54,7 @@ Creato da @Lorenzo
 ##### Sera: 
 - [[Umeda Sky Building]]
 
-## Giorno 4 (->[[Nara]]/->[[Kyoto(京都)]])
+## Giorno 4 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka (大阪城)]] (9:00-17:00)
 
@@ -62,7 +62,7 @@ Creato da @Lorenzo
 *pranzo sul treno*
 *lasciamo le valigie ai locker*
 ##### Pomeriggio
-- [[Nara]]
+- [[Nara (奈良市)]]
 
 *Partenza verso Kyoto (45min o 1h con la D Nara Line)*
 *Ci sono treni anche alle 21:00*

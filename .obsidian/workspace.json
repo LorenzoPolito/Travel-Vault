@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+                "file": "Locations/Cities/Kyoto(京都).md",
                 "mode": "source",
                 "source": false
               }
@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Lista dei Luoghi.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -217,10 +217,10 @@
   },
   "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
-    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
-    "Locations/Lista dei Luoghi.md",
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Kyoto(京都).md",
+    "Locations/Lista dei Luoghi.md",
+    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+    "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",

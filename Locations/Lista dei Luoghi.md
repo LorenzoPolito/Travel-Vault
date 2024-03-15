@@ -4,7 +4,7 @@
 - se necessario è segnato anche un consiglio su quando è meglio vedere quel luogo 
 - **Per ogni città i luoghi sono separati in cluster**, tutti i luoghi nello stesso cluster sono relativamente vicini, raggiungibili *a piedi o in metro* in **circa massimo** 30min, per Tokyo è differente essendo la città più grande il tempo di percorrenza **medio** all'interno del cluster è di 30min solo in metro
 - **In genere se due cluster sono sono uno dopo l'altro sono vicini rispetto agli altri cluster**
-> **La numerazione non è significante per la distanza ma per il punteggio**
+> **La numerazione non è significante per la distanza ma per il punteggio nel cluster locale**
 
 ## [[Osaka(大阪市)]]
 
@@ -34,6 +34,8 @@
 
 ## [[Kyoto(京都)]]
 
+1. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
+//
 1. [[Kiyomizu-dera]] ( 6:00-18:00 ) #5/5
 2. [[Nishiki Market]] ( 9:00-17:30 chiuso domenica) #4/5
 3. zona [[Sannenzaka]] strada [[Ninenzaka]] #4/5
@@ -43,14 +45,12 @@
 7. [[Quartiere Gion]] #1/5
 8. [[Sentiero del filosofo]] ( 24H ) #1/5
 //
-1. [[Arashiyama]] ( 24H ) #5/5
-//
-1. [[Ginkakuji temple]] ( 8:30-17:00 ) #1/5
-//
 1. [[Fushimi Inari]] ( 24H ) #3/5
 //
 1. [[Kinkaku-ji]] ( 9:00-17:00 ) #3/5
 2. [[Ryoan-ji]] ( 8:00-17:00 ) #2/5
+//
+1. [[Arashiyama]] ( 24H ) #5/5
 //
 1. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
 2. [[TOEI Kyoto studio park]] ( 9:00-17:00 ) #1/5

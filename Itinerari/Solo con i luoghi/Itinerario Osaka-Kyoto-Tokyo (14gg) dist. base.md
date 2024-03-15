@@ -126,14 +126,16 @@ Creato da @Lorenzo
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
 - [[Santuario Meiji]] 
+- Quartiere di [[Shinjuku]] 
+##### Pomeriggio
 - Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] 
-##### Pomeriggio
-- 
+- [[Mario kart ride]] (100€ circa) (10:00 - 22:00 )
 ##### Sera
+- Vicoli di [[Golden Gai]] 
 
-## Giorno 11 (3° Tokyo)
-##### Mattina
-##### Pomeriggio
+## Giorno 11 (3° Tokyo/->[[Kamakura(鎌倉市)]])
+##### Mattina/Pomeriggio
+
 ##### Sera
 
 ## Giorno 12 (4° Tokyo)

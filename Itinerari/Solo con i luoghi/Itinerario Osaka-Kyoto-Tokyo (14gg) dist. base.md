@@ -86,10 +86,14 @@ Creato da @Lorenzo
 ##### Mattina: 
 - *Lavanderia*
 - [[Arashiyama]] (quartiere e foresta bambu)
+
+*Arashiyama è lontana dal centro 50min*
+*per andare alle tappe successive ci vogliono 50min*
 ##### Pomeriggio: 
 - [[Ryoan-ji]]  
 - [[Kinkaku-ji]]
 
+*per tornare al centro 40min*
 ##### Sera:
 - libera??
 

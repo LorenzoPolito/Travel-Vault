@@ -23,11 +23,11 @@ Creato da @Lorenzo
 - Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
 - Su [Klook.com](https://www.klook.com/it/) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto
 ## Giorno 1 (viaggio)
-#### Mattina:
+##### Mattina
 - preparazione valige
 - inventario e controllo documenti
 - controllo biglietti e pass
-##### Pomeriggio/Sera:
+##### Pomeriggio/Sera
 - PARTENZA per aeroporto
 - cena
 - si vola (15h/16h con scalo)
@@ -37,21 +37,21 @@ Creato da @Lorenzo
 ## Giorno 2 (1° [[Osaka(大阪市)]])
 ##### Mattina
 - ARRIVO
-##### Pomeriggio: 
+##### Pomeriggio
 - [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30)
 - [[Shinsekai (新世界と通天閣​)]]
 - [[Torre Tsutenkaku (通天閣)]]
-##### Sera: 
+##### Sera
 - [[Tempio Hozen-ji (法善寺)]]
 - (Namba, Minami) [[Dotonbori (道頓堀)]]
 
 
 ## Giorno 3 ( 2° Osaka)
-##### Mattina: 
+##### Mattina
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
-#### Pomeriggio: 
+#### Pomeriggio
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
-##### Sera: 
+##### Sera
 - [[Umeda Sky Building (梅田スカイビル)]]
 
 ## Giorno 4 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
@@ -72,39 +72,39 @@ Creato da @Lorenzo
 
 ## Giorno 5 (1° Kyoto)
 
-##### Mattina: 
+##### Mattina
 - [[Quartiere Gion]]
 - [[Santuario Yasaka]]
 - [[Nishiki Market ]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
-##### Pomeriggio: 
+##### Pomeriggio
 - [[Tempio Kodai-ji]]
 - [[Kiyomizu-dera]] (al tramonto)
 ##### Sera
 - [[Sannenzaka]] strada [[Ninenzaka]]
 
 ## Giorno 6 ( 2° Kyoto)
-##### Mattina: 
+##### Mattina
 - *Lavanderia*
 - [[Arashiyama]] (quartiere e foresta bambu)
 - [[Adashino nenbutsuji]] *(se c'è tempo)*
 
 *Arashiyama è lontana dal centro 50min*
 *per andare alle tappe successive ci vogliono altri 50min*
-##### Pomeriggio: 
+##### Pomeriggio
 - [[Ryoan-ji]] 
 - [[Kinkaku-ji]]
 
 *per tornare al centro 40min*
-##### Sera:
+##### Sera
 - libera??
 
 
 ## Giorno 7 (3° Kyoto)
-##### Mattina: 
+##### Mattina
 - [[Fushimi Inari]] 
 
 *Anche dopo pranzo*
-##### Pomeriggio:
+##### Pomeriggio
 --- start-multi-column: scelte per il pomeriggio 
 
 ```column-settings  
@@ -117,12 +117,12 @@ number of columns: 2
 - *Riposo*
 
 --- end-multi-column
-##### Sera:
+##### Sera
 - zona [[Sannenzaka]] strada [[Ninenzaka]]
 
 ## Giorno 8 (4° Kyoto/->Tokyo)
 
-##### Mattina:
+##### Mattina
 - [[Daikaku-ji Temple]]
 ##### Pomeriggio
 *Partenza per Tokyo ( 2h12min )*

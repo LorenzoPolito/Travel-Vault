@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Memorial Park Hiroshima.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Memorial Park Hiroshima.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Memorial Park Hiroshima.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +209,11 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Locations/Cities/Miyajima (宮島).md",
     "Locations/Lista dei Luoghi.md",
+    "Memorial Park Hiroshima.md",
+    "Locations/Cities/Kamakura(鎌倉市).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Locations/Cities/Miyajima (宮島).md",
     "allegati/Pasted image 20240315141212.png",
     "Locations/Parks/Teamlab botanical garden.md",
     "Locations/Buildings/Torre Tsutenkaku (通天閣).md",
@@ -238,7 +240,6 @@
     "Locations/Cities/blocks/Dotonbori (道頓堀).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Locations/Castles/Castello di Osaka (大阪城).md",
-    "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "allegati/Pasted image 20240315132603.png",
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",

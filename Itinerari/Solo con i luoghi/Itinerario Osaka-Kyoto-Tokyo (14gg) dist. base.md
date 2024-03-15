@@ -135,7 +135,12 @@ Creato da @Lorenzo
 
 ## Giorno 11 (3° Tokyo/->[[Kamakura(鎌倉市)]])
 ##### Mattina/Pomeriggio
-
+- [[Tempio Kutoku-in]] Grande Buddha
+- [[Temio Kencho-ji]]
+- [[Tempio Engaku-ji]] 
+- [[Tempio Hokoku-ji]] 
+- [[Santuario Tsurugaoka Hachimangu]] 
+- [[Tempio Hase-dera]] 
 ##### Sera
 
 ## Giorno 12 (4° Tokyo)

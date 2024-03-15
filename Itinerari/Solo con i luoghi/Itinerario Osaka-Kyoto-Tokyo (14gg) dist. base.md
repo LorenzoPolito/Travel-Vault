@@ -7,7 +7,7 @@ Creato da @Lorenzo
 |    Kyoto     |  3.5   |   3   |         30€ circa         |                 TOEI park Eva(15 €)?                  |
 |    Tokyo     |   6    |   6   |           23 €            |                                                       |
 | Volo ritorno |   1    |   1   |         300/400 €         |                        12h/20h                        |
-|  **TOTALE**  |   14   |  13   |                           |                                                       |
+|  **TOTALE**  |   14   |  13   |       1078 € circa        |               2 circa giorni di viaggio               |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -180,7 +180,6 @@ number of columns: 2
 - [[Kodokan dojo judo]] ( 16:00-20:00 )
 
 --- end-multi-column
-
 ##### Sera
 - Quartiere [[Roppongi]] (notturno)
 

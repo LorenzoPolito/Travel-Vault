@@ -11,11 +11,9 @@
             "id": "ef061d2f60135dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
+                "file": "Kanban senza titolo.md"
               }
             }
           }
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Kanban senza titolo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Kanban senza titolo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,8 +148,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Kanban senza titolo.md"
               }
+            }
+          },
+          {
+            "id": "3402956b2d8599bf",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ],
@@ -195,18 +201,20 @@
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-map-view:Open map view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-day-planner:Timeline": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Kanban senza titolo.md",
+    "Index.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Lista dei Luoghi.md",
@@ -223,7 +231,6 @@
     "Locations/Buildings/Rainbow Bridge (レインボーブリッジ).md",
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Locations/Cities/blocks/Roppongi (六本木).md",
-    "Index.md",
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/Senza nome",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
@@ -232,7 +239,6 @@
     "Locations/Temples/Tempio Hozen-ji (法善寺).md",
     "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
     "Locations/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Temples/Santuario Yasaka (八坂神社).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

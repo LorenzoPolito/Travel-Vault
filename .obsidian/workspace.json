@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Index.md"
               }
             }
           }
@@ -206,8 +206,10 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Locations/Buildings/Tokyo tower (東京タワー).md",
     "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/blocks/Roppongi (六本木).md",
+    "Locations/Stores/Mercato del pesce di Tsukiji (築地場外市場).md",
+    "Locations/Buildings/Tokyo tower (東京タワー).md",
     "Locations/Castles/Palazzo Imperiale di Tokyo (皇居).md",
     "Locations/Parks-nature/The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター).md",
     "Index.md",
@@ -230,8 +232,6 @@
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
-    "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
-    "Locations/Parks-nature/Arashiyama (嵐山).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

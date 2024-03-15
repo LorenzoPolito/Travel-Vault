@@ -102,13 +102,13 @@
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 9 ( 1° [[Tokyo(東京)]])
 ##### Mattina: 
-- [[Mercato del pesce di Tsukiji]] 
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] 
 - [[Ginza]]
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo
 ##### Sera: 
-- [[Roppongi]]
+- [[Roppongi (六本木)]]
 - [[Azanudai]]
 - [[Tokyo tower (東京タワー)]]
 ## Giorno 10 ( 2° Tokyo)

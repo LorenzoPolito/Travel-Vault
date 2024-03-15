@@ -175,7 +175,7 @@ number of columns: 2
 
 ## Giorno 12 (4° Tokyo)
 ##### Mattina
-- [[Mercato del pesce di Tsukiji]] ( apertura 5:00/6:15 )
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 
 --- start-multi-column: scelte per il pomeriggio 
@@ -196,7 +196,7 @@ number of columns: 2
 
 --- end-multi-column
 ##### Sera
-- Quartiere [[Roppongi]] (notturno)
+- Quartiere [[Roppongi (六本木)]] (notturno)
 
 **Preparare le valigie**
 

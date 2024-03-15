@@ -37,7 +37,7 @@
 - [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo
 ##### Sera: 
-- [[Roppongi]]
+- [[Roppongi (六本木)]]
 - [[Azanudai]]
 - [[Tokyo tower (東京タワー)]]
 ## Giorno 3 ( 1° [[Kyoto(京都)]])
@@ -82,7 +82,7 @@
 
 ## Giorno 7 ( 3° Tokyo/Esterna)
 ##### Mattina: 
-- [[Mercato del pesce di Tsukiji]] 
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] 
 - [[Ginza]] ? #discutere *se c'è tempo*
 ##### Pomeriggio: 
 - Partenza per [[Kamakura]] (1h da Tokyo)

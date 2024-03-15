@@ -164,10 +164,10 @@ number of columns: 2
 
 ## Giorno 11 (3° Tokyo/->[[Kamakura(鎌倉市)]])
 ##### Mattina/Pomeriggio (Kamakura)
-- [[Tempio Kutoku-in]] Grande Buddha
-- [[Temio Kencho-ji]]
-- [[Tempio Engaku-ji]] 
-- [[Tempio Hokoku-ji]] 
+- [[Tempio Kutoku-in  (高徳院)]] Grande Buddha
+- [[Tempio Kencho-ji (建長寺)]]
+- [[Tempio Engaku-ji (円覚寺)]] 
+- [[Tempio Hokoku-ji (報国寺)]] 
 - [[Santuario Tsurugaoka Hachimangu]] 
 - [[Tempio Hase-dera]] 
 ##### Sera

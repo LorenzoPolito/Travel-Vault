@@ -22,7 +22,7 @@
 
 ## Giorno 5 (4° Tokyo/Esterna)
 - [[Kamakura(鎌倉市)]]
-- [[Tempio Kutoku-in]] statua del grande Buddha
+- [[Tempio Kutoku-in  (高徳院)]] statua del grande Buddha
 - spiaggia
 - [[Shinjuku (新宿区)]] si notte
 

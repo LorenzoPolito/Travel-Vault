@@ -86,9 +86,9 @@ Visitare la regione di Kamakura può facilmente richiedere un'intera giornata a 
 - [Kamakura Info](http://en.kamakura-info.jp/)
 
 ### Luoghi da visitare
-1. [[Tempio Kutoku-in]] Grande Buddha #3/5
-2. [[Temio Kencho-ji]] #3/5
-3. [[Tempio Engaku-ji]] #2/5
-4. [[Tempio Hokoku-ji]] #1/5
+1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5
+2. [[Tempio Kencho-ji (建長寺)]] #3/5
+3. [[Tempio Engaku-ji (円覚寺)]] #2/5
+4. [[Tempio Hokoku-ji (報国寺)]] #1/5
 5. [[Santuario Tsurugaoka Hachimangu]] #1/5
 6. [[Tempio Hase-dera]] #1/5

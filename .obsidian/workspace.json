@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Santuario Tsurugaoka Hachimangu.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Santuario Tsurugaoka Hachimangu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Santuario Tsurugaoka Hachimangu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md"
+                "file": "Santuario Tsurugaoka Hachimangu.md"
               }
             }
           }
@@ -204,10 +204,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Locations/Temples/Chureito Pagoda (忠霊塔).md",
     "Locations/Lista dei Luoghi.md",
+    "Santuario Tsurugaoka Hachimangu.md",
+    "Tempio Hokoku-ji (報国寺).md",
+    "Tempio Engaku-ji (円覚寺).md",
+    "Tempio Kencho-ji (建長寺).md",
+    "Tempio Kutoku-in  (高徳院).md",
+    "Locations/Temples/Chureito Pagoda (忠霊塔).md",
     "Locations/Temples/Kanandorii (金鳥居).md",
     "Locations/Cities/Fujiyoshida (富士吉田市).md",
     "Locations/Cities/blocks/Ginza (銀座).md",
@@ -228,11 +233,6 @@
     "Locations/Temples/Santuario Meiji (明治神宮).md",
     "Locations/Temples/Santuario Kanda (神田明神).md",
     "Locations/Temples/Ryoan-ji (龍安寺方丈庭園).md",
-    "Locations/Temples/Kodokan dojo judo (講道館).md",
-    "Locations/Temples/Kiyomizu-dera (清水寺).md",
-    "Locations/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Temples/Itsukushima shrine (嚴島神社).md",
-    "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",

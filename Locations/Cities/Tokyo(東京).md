@@ -49,9 +49,9 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
-1. [[Tempio Kutoku-in]] Grande Buddha #3/5
-2. [[Temio Kencho-ji]] #3/5
-3. [[Tempio Engaku-ji]] #2/5
-4. [[Tempio Hokoku-ji]] #1/5
+1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5
+2. [[Tempio Kencho-ji (建長寺)]] #3/5
+3. [[Tempio Engaku-ji (円覚寺)]] #2/5
+4. [[Tempio Hokoku-ji (報国寺)]] #1/5
 5. [[Santuario Tsurugaoka Hachimangu]] #1/5
 6. [[Tempio Hase-dera]] #1/5

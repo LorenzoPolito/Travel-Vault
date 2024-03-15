@@ -1,10 +1,10 @@
 ### Info sulla lista
-- Tutti luoghi hanno un voto che rappresenta l'interesse del gruppo e la loro priorità
-- dove possibile è segnato l'orario di apertura e chiusura
-- se necessario è segnato anche un consiglio su quando è meglio vedere quel luogo 
-- **Per ogni città i luoghi sono separati in cluster**, tutti i luoghi nello stesso cluster sono relativamente vicini, raggiungibili *a piedi o in metro* in **circa massimo** 30min, per Tokyo è differente essendo la città più grande il tempo di percorrenza **medio** all'interno del cluster è di 30min solo in metro
-- **In genere se due cluster sono sono uno dopo l'altro sono vicini rispetto agli altri cluster**
-> **La numerazione non è significante per la distanza ma per il punteggio nel cluster locale**
+- Tutti luoghi hanno un voto che rappresenta l'interesse del gruppo e la loro priorità.
+- dove possibile è segnato l'orario di apertura e chiusura.
+- se necessario è segnato anche un consiglio su quando è meglio vedere quel luogo.
+- **Per ogni città i luoghi sono separati in cluster**, tutti i luoghi nello stesso cluster sono relativamente vicini, raggiungibili *a piedi o in metro* in **circa massimo** 30min, per Tokyo è differente essendo la città più grande il tempo di percorrenza **medio** all'interno del cluster è di 30min __solo in metro__.
+- **In genere se due cluster sono sono uno dopo l'altro sono vicini rispetto agli altri cluster**.
+> **La numerazione non è significante per la distanza ma per il punteggio nel cluster locale**.
 
 ## [[Osaka(大阪市)]]
 

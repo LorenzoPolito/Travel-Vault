@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nagarekawa.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nagarekawa.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nagarekawa.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +208,13 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Itsukushima shrine (嚴島神社).md",
     "Locations/Lista dei Luoghi.md",
-    "Nagarekawa.md",
+    "Locations/Cities/blocks/Nagarekawa (流川).md",
+    "Locations/Cities/blocks/streets",
+    "Locations/Cities/blocks/streets/Hondori street.md",
+    "allegati/Pasted image 20240315143605.png",
+    "allegati/Pasted image 20240315143551.png",
     "Locations/Parks/Memorial Park Hiroshima.md",
     "allegati/Pasted image 20240315143301.png",
     "allegati/Pasted image 20240315143254.png",
@@ -239,20 +244,15 @@
     "Locations/Cities/Hiroshima(広島).md",
     "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
-    "Locations/Cities/blocks/Dotonbori (道頓堀).md",
-    "Locations/Cities/blocks/Asakusa(浅草).md",
     "allegati/Pasted image 20240315132603.png",
     "allegati/Pasted image 20240315132557.png",
     "allegati/Pasted image 20240315132546.png",
     "allegati/Pasted image 20240315132537.png",
     "allegati/Pasted image 20240315132517.png",
-    "allegati/Pasted image 20240315125222.png",
     "Locations/Buildings",
-    "allegati/Pasted image 20240315124351.png",
     "Locations/Castles",
     "Itinerari/Solo con i luoghi",
     "Itinerari/Esterni",
-    "Calendar",
-    "Slides"
+    "Calendar"
   ]
 }

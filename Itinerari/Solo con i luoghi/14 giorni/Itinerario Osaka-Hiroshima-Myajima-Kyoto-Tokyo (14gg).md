@@ -54,7 +54,7 @@
 ## Giorno 4 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Mattina:
-- [[Nagarekawa]]
+- [[Nagarekawa (流川)]]
 - [[Hondori street]]
 ##### Pomeriggio: 
 - [[Memorial Park]]

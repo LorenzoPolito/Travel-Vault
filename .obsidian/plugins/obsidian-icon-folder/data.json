@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStretchVertical",
       "TiBuildingChurch",
       "RiBuildingFill",
       "BoBxsCastle",
-      "TiTransferVertical",
-      "RiSlideshowFill"
+      "TiTransferVertical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -47,5 +47,6 @@
   "Slides": "RiSlideshowFill",
   "Itinerari": "TiTransferVertical",
   "Locations/Castles": "BoBxsCastle",
-  "Locations/Buildings": "RiBuildingFill"
+  "Locations/Buildings": "RiBuildingFill",
+  "Locations/Cities/blocks/streets": "LiStretchVertical"
 }

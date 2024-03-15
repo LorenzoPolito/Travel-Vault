@@ -48,12 +48,10 @@ Creato da @Lorenzo
 
 ## Giorno 3 ( 2° Osaka)
 ##### Mattina: 
-*13 minuti con metro*
 - [[Nintendo World]]
 #### Pomeriggio: 
 - [[Universal Studios Japan]]
 ##### Sera: 
-*(31 mi)*
 - [[Umeda Sky Building]]
 
 ## Giorno 4 (->[[Nara]]/->[[Kyoto(京都)]])
@@ -75,8 +73,8 @@ Creato da @Lorenzo
 ## Giorno 5 (1° Kyoto)
 
 ##### Mattina: 
-- [[Santuario Yasaka]]
 - [[Quartiere Gion]]
+- [[Santuario Yasaka]]
 - [[Nishiki Market ]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
 ##### Pomeriggio: 
 - [[Tempio Kodai-ji]]

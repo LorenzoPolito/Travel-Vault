@@ -64,7 +64,8 @@ Creato da @Lorenzo
 ##### Pomeriggio
 - [[Nara]]
 
-*Partenza verso Kyoto (45min)*
+*Partenza verso Kyoto (45min o 1h con la D Nara Line)*
+*Ci sono treni anche alle 21:00*
 *Check-in all'hotel e riposo*
 ##### Sera
 - Sera libera
@@ -74,7 +75,7 @@ Creato da @Lorenzo
 ##### Mattina: 
 - [[Santuario Yasaka]]
 - [[Quartiere Gion]]
-- [[Nishiki Market ]] (pranzo)
+- [[Nishiki Market ]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
 ##### Pomeriggio: 
 - [[Tempio Kodai-ji]]
 - [[Kiyomizu-dera]] (al tramonto)

@@ -168,8 +168,8 @@ number of columns: 2
 - [[Tempio Kencho-ji (建長寺)]]
 - [[Tempio Engaku-ji (円覚寺)]] 
 - [[Tempio Hokoku-ji (報国寺)]] 
-- [[Santuario Tsurugaoka Hachimangu]] 
-- [[Tempio Hase-dera]] 
+- [[Santuario Tsurugaoka Hachimangu (鶴岡八幡宮)]] 
+- [[Tempio Hasedera (Kanagawa) (長谷寺（神奈川))]] 
 ##### Sera
 - **Riposo**
 

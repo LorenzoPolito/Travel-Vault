@@ -90,5 +90,5 @@ Visitare la regione di Kamakura può facilmente richiedere un'intera giornata a 
 2. [[Tempio Kencho-ji (建長寺)]] #3/5
 3. [[Tempio Engaku-ji (円覚寺)]] #2/5
 4. [[Tempio Hokoku-ji (報国寺)]] #1/5
-5. [[Santuario Tsurugaoka Hachimangu]] #1/5
-6. [[Tempio Hase-dera]] #1/5
+5. [[Santuario Tsurugaoka Hachimangu (鶴岡八幡宮)]] #1/5
+6. [[Tempio Hasedera (Kanagawa) (長谷寺（神奈川))]] #1/5

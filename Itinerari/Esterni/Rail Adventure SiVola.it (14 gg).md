@@ -47,7 +47,7 @@
 - [[Tempio Todaji]] Buddha più grande del Giappone
 - [[Santuario Kasuga]] dove sono costudite le lanterne dei desideri
 
-## Giorno 9 (1° [[Miyajima]])
+## Giorno 9 (1° [[Miyajima (宮島)]])
 - Tramonto dietro al Tori rosso
 - [[Spiaggia Mikasa]]
 

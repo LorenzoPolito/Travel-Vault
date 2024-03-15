@@ -61,7 +61,7 @@
 ##### Sera: 
 - a piacere
 ## Giorno 5 ( 2° Hiroshima)
-*Partenza per [[Miyajima]]*
+*Partenza per [[Miyajima (宮島)]]*
 ##### Mattina: 
 - [[Itsushima Shrine]]
 ##### Pomeriggio: 

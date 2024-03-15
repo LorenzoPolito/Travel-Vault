@@ -88,7 +88,7 @@
 1. partenza da [[Kyoto(京都)]] verso [[Hiroshima(広島)]] ( sveglia presto )
 2. arrivo e check-in all'hotel
 3. lavaggio vestiti( #discutere )
-4. traghetto per l'isola di [[Miyajima]]
+4. traghetto per l'isola di [[Miyajima (宮島)]]
 5. pranzo
 6. museo e Bomb-dom (2/3 ore)
 7. memorial

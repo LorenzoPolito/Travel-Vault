@@ -27,7 +27,7 @@
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5
 2. Quartiere [[Nagarekawa]] [[Hondori street]] #3/5
-### [[Miyajima]]
+### [[Miyajima (宮島)]]
 
 1. [[Itsukushima shrine]] ( [[Spiaggia Mikasa]] ) #5/5
 2. [[Tempio Daisho-in]] ( 8:00-17:00 ) #3/5

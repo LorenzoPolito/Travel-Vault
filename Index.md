@@ -1,18 +1,6 @@
-## Itinerari
-[[Itinerario Ossama Valentina]]
-[[Rail Adventure SiVola.it (14 gg)]]
-[[Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)]]
-[[Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg)]]
-[[Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base]]
-[[Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg)]]
-[[Itinerario Osaka-Tokyo (11 gg)]]
-[[Itinerario Tokyo-Kyoto (10 gg)]]
-
-## Info
-[[Test per riferimento]]
-
+#### [[Lista dei Luoghi]]
 ## Luoghi
-[[Lista dei Luoghi]]
+
 [[Torre Tsutenkaku (通天閣)]]
 [[Umeda Sky Building (梅田スカイビル)]]
 [[Castello di Osaka (大阪城)]]
@@ -38,8 +26,20 @@
 [[TOEI Kyoto studio park (東映太秦映画村)]]
 [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 [[Locations/Restaurants/Senza nome]]
-[[Locations/Stores/Senza nome]]
 [[Itsukushima shrine (嚴島神社)]]
 [[Tempio Daisho-in (大聖院)]]
 [[Tempio Hozen-ji (法善寺)]]
 [[Tempio Shitenno-ji (四天王寺)]]
+
+## Itinerari
+[[Itinerario Ossama Valentina]]
+[[Rail Adventure SiVola.it (14 gg)]]
+[[Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)]]
+[[Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg)]]
+[[Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base]]
+[[Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg)]]
+[[Itinerario Osaka-Tokyo (11 gg)]]
+[[Itinerario Tokyo-Kyoto (10 gg)]]
+
+## Info
+[[Test per riferimento]]

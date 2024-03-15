@@ -104,19 +104,10 @@ Creato da @Lorenzo
 - [[Fushimi Inari (伏見稲荷大社)]] 
 
 *Anche dopo pranzo*
-##### Pomeriggio
---- start-multi-column: scelte per il pomeriggio 
-
-```column-settings  
-number of columns: 2    
-```
+##### Pomeriggio A
 - [[Quartiere Gion (祇園)]] 
-
---- end-column ---
-
+##### Pomeriggio B
 - *Riposo*
-
---- end-multi-column
 ##### Sera
 - zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]]
 
@@ -137,19 +128,8 @@ number of columns: 2
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
---- start-multi-column: scelte per il pomeriggio 
-
-```column-settings  
-number of columns: 2    
-```
 - #gruppoA Quartiere di [[Akihabara (秋葉原)]]  
-
---- end-column ---
-
 - #gruppoB [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
-
---- end-multi-column
-
 ##### Sera
 - Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno (上野恩賜公園)]]
 ## Giorno 10 (2° Tokyo)
@@ -177,24 +157,12 @@ number of columns: 2
 ##### Mattina
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
-
---- start-multi-column: scelte per il pomeriggio 
-
-```column-settings  
-number of columns: 2    
-```
-
 ##### Pomeriggio A
 - [[Tokyo tower (東京タワー)]]
 - [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]]  *(Se c'è tempo)*
-
---- end-column ---
-
 ##### Pomeriggio B
 - [[Santuario Kanda (神田明神)]] 
 - [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
-
---- end-multi-column
 ##### Sera
 - Quartiere [[Roppongi (六本木)]] (notturno)
 
@@ -202,7 +170,7 @@ number of columns: 2
 
 ## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
-- #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] / #gruppoB ???
+- #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] / #gruppoB ??? #chiedere
 - Ultimi acquisti
 ##### Pomeriggio
 - Arrivo all'aeroporto e partenza

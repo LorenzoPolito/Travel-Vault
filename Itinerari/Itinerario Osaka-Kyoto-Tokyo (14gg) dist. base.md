@@ -13,6 +13,7 @@ Creato da @Lorenzo
 
 #discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
 #discutere spirito di adattamento
+#discutere Stanno aprendo dei voli ITA airways per Tokyo
 
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma
@@ -120,5 +121,6 @@ Creato da @Lorenzo
 - [[Kodokan dojo judo]] 
 ##### Sera
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
+## Giorno 10 (2° Tokyo)
 
 

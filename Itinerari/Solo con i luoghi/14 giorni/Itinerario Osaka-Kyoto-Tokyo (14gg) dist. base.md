@@ -170,7 +170,8 @@ Creato da @Lorenzo
 
 ## Giorno 13 (5° Tokyo/->Viaggio)
 ##### Mattina
-- #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] / #gruppoB ??? #chiedere
+- #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] 
+- #gruppoB ??? #chiedere a @Damiano@Federico@Scova dove vorrebbero fare i loro ultimi acquisti 
 - Ultimi acquisti
 ##### Pomeriggio
 - Arrivo all'aeroporto e partenza

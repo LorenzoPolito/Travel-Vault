@@ -9,6 +9,7 @@
 [[Castello di Osaka (大阪城)]]
 [[Palazzo Imperiale di Tokyo (皇居)]]
 [[Golden Gai (ゴールデン街 )]]
+[[Harajuku (原宿)]]
 [[Hondori street]]
 [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 [[Akihabara (秋葉原)]]

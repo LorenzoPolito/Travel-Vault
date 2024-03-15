@@ -14,7 +14,7 @@
 - Quartiere di [[Akihabara (秋葉原)]]
 
 ## Giorno 4 (3° Tokyo)
-- Zona di [[Harajuku]]
+- Zona di [[Harajuku (原宿)]]
 - [[via Takeshita]]
 - Viale alberato di [[Omotesando]]
 - Quartiere di [[Shibuya (渋谷区)]]

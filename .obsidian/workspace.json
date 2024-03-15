@@ -23,8 +23,12 @@
             "id": "a434926354df672e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -130,6 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

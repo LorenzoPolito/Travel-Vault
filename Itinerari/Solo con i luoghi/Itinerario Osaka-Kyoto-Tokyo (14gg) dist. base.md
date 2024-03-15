@@ -154,7 +154,7 @@ number of columns: 2
 - Quartiere di [[Ueno]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
-- Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] 
+- Quartiere di [[Shibuya(渋谷)]] e [[Pokemon center Shibuya]] 
 - [[Mario kart ride]] (100€ circa) (10:00 - 22:00 )
 ##### Pomeriggio
 - [[Santuario Meiji]] 

@@ -5,10 +5,10 @@
 *in base all'orario di arrivo del volo*
 - Quartiere di [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree]]
+- [[Tokyo skytree (東京スカイツリー)]]
 
 ## Giorno 3 (2° Tokyo)
-- Quartiere di [[Ueno]]
+- Quartiere di [[Parco di Ueno (上野恩賜公園)]]
 - [[Ueno park]]
 - Quartiere di [[Yanaka]]
 - Quartiere di [[Akihabara (秋葉原)]]

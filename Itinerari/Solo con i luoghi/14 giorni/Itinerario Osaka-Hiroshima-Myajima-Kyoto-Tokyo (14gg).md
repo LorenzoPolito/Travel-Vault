@@ -97,7 +97,7 @@
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 
 - [[kodokan dojo judo]], 
-- [[Santuario Kanda]], 
+- [[Santuario Kanda (神田明神)]], 
 - [[Parco di Ueno ]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 9 ( 1° [[Tokyo(東京)]])

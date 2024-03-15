@@ -66,7 +66,7 @@
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 
 - [[kodokan dojo judo]], 
-- [[Santuario Kanda]], 
+- [[Santuario Kanda (神田明神)]], 
 - [[Parco di Ueno ]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 2° Tokyo)
@@ -78,7 +78,7 @@
 ##### Sera: 
 - [[Asakusa(浅草)]] 
 - [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree]]
+- [[Tokyo skytree (東京スカイツリー)]]
 
 ## Giorno 7 ( 3° Tokyo/Esterna)
 ##### Mattina: 
@@ -91,7 +91,7 @@
 - [[Santuario Meiji]]
 ## Giorno 8 (4° Tokyo)
 ##### Mattina:
-- [[Tokyo skytree]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
+- [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano]]
 - [[Nakano Broadway]]
 ##### Pomeriggio/sera: 
 - [[Shibuya]] 

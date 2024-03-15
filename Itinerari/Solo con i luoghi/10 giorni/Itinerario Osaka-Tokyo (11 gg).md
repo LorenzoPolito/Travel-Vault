@@ -61,7 +61,7 @@
 - check-in all'hotel
 - [[kodokan dojo judo]]
 ##### Pomeriggio/sera: 
-- [[Santuario Kanda]],
+- [[Santuario Kanda (神田明神)]],
 - [[Parco di Ueno ]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 6 ( 1° Tokyo)
@@ -83,7 +83,7 @@
 ##### Sera: 
 - [[Asakusa(浅草)]] 
 - [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree]]
+- [[Tokyo skytree (東京スカイツリー)]]
 ## Giorno 8 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*

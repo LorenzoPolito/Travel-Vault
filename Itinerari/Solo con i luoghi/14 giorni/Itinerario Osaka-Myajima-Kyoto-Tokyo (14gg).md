@@ -87,7 +87,7 @@
 *Partenza per Tokyo (circa 2h)*
 ##### Pomeriggio/sera: 
 - [[kodokan dojo judo]], 
-- [[Santuario Kanda]], 
+- [[Santuario Kanda (神田明神)]], 
 - [[Parco di Ueno ]]
 - [[Akihabara (秋葉原)]] (in generale)
 ## Giorno 8 ( 1° [[Tokyo(東京)]])
@@ -109,7 +109,7 @@
 ##### Sera: 
 - [[Asakusa(浅草)]] 
 - [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree]]
+- [[Tokyo skytree (東京スカイツリー)]]
 ## Giorno 10 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 *Partenza per Mt.Fuji Station (2h30m)*

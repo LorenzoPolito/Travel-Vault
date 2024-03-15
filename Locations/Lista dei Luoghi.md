@@ -59,10 +59,10 @@
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
 2. Quartiere di [[Akihabara (秋葉原)]] #4/5
-3. [[Tokyo skytree]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
-4. Quartiere di [[Ueno]] e [[Parco di Ueno]] #2/5
+3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
+4. Quartiere Ueno e [[Parco di Ueno (上野恩賜公園)]] #2/5
 //
-1. [[Santuario Kanda]] ( 24H ) #3/5
+1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5
 2. [[Kodokan dojo judo]] ( 16:00-20:00 ) #1/5
 //
 1. Quartiere di [[Shibuya]] e [[Pokemon center Shibuya]] #5/5

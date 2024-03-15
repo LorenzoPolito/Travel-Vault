@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Kodokan dojo judo.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Kodokan dojo judo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Kodokan dojo judo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,10 +206,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Locations/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Lista dei Luoghi.md",
+    "Kodokan dojo judo.md",
+    "Santuario Kanda (神田明神).md",
+    "Index.md",
+    "Parco di Ueno (上野恩賜公園).md",
+    "Parco di Ueno.md",
+    "Tokyo skytree (東京スカイツリー).md",
+    "Locations/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Cities/blocks/Asakusa(浅草).md",
@@ -229,12 +235,6 @@
     "Locations/Stores/Nishiki Market (錦市場).md",
     "Locations/Temples/Kiyomizu-dera (清水寺).md",
     "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Index.md",
-    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
-    "Locations/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Temples/Itsukushima shrine (嚴島神社).md",
-    "Locations/Stores/Senza nome.md",
-    "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240315143551.png",

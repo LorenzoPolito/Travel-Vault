@@ -135,7 +135,7 @@ number of columns: 2
 ##### Mattina
 - *Lavanderia* ?
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree]] e [[Pokemon center Asakusa]]
+- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
 ##### Pomeriggio
 --- start-multi-column: scelte per il pomeriggio 
 
@@ -151,7 +151,7 @@ number of columns: 2
 --- end-multi-column
 
 ##### Sera
-- Quartiere di [[Ueno]] e [[Parco di Ueno]]
+- Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno]]
 ## Giorno 10 (2° Tokyo)
 ##### Mattina
 - Quartiere di [[Shibuya(渋谷)]] e [[Pokemon center Shibuya]] 
@@ -191,7 +191,7 @@ number of columns: 2
 --- end-column ---
 
 ##### Pomeriggio B
-- [[Santuario Kanda]] 
+- [[Santuario Kanda (神田明神)]] 
 - [[Kodokan dojo judo]] ( 16:00-20:00 )
 
 --- end-multi-column

@@ -100,7 +100,7 @@
 3. visita al quartiere [[Asakusa(浅草)]] e [[Tokyo tower]] (2/3 ore)
 4. [[Tempio Senso-Ji (浅草寺)]]
 5. pranzo
-6. [[Ueno]]
+6. [[Parco di Ueno (上野恩賜公園)]]
 7. [[Ueno park]]
 8. [[Ameyoko street]]
 ## Giorno 10 ( 2 - Tokyo)

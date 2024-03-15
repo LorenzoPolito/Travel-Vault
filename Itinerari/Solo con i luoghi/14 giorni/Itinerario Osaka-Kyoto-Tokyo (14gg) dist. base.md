@@ -162,7 +162,7 @@ Creato da @Lorenzo
 - [[Santuario Kanda (神田明神)]] 
 - [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
 ##### Sera
-*18min dalla Tokyo tower -- *
+*18min dalla Tokyo tower -- 31min dal Kodokan Dojo Judo*
 - Quartiere [[Roppongi (六本木)]] (notturno)
 
 **Preparare le valigie**

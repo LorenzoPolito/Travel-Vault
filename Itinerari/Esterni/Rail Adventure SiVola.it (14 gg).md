@@ -30,7 +30,7 @@
 *Partenza da Tokyo verso Osaka con lo shinkansen (2h)*
 - [[Castello di Osaka (大阪城)]]
 - Espolarzione di Osaka
-- [[Dotonbori]]
+- [[Dotonbori (道頓堀)]]
 - Dormita in un capsule Hotel
 
 ## Giorno 7 (1° Monte Koya/Hokone)

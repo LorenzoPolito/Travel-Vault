@@ -11,7 +11,7 @@
 1. [[Castello di Osaka (大阪城)]] (9:00-17:00) #4/5
 2. [[Umeda Sky Building]] #3/5
 //
-1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5
+1. Quartiere Minami [[Dotonbori (道頓堀)]] (al meglio di sera) #5/5
 2. [[Tempio Shitenno-ji]] (9:00-16:30) #4/5
 3. [[Tempio Hozen-ji]] #4/5
 4. Quartiere [[Shinsekai]] #4/5

@@ -49,7 +49,7 @@
 - [[Umeda Sky Building]]
 ## Giorno 4 ( 3° Osaka)
 ##### Mattina:
-- quartiere [[Dotonbori]]
+- quartiere [[Dotonbori (道頓堀)]]
 ##### Pomeriggio:
 *Viaggio verso Nara di 1h*
 - [[Nara]] *(fino alle 18:00 quindi ritorno alle 19:00)*

@@ -43,7 +43,7 @@ Creato da @Lorenzo
 - [[Torre Tsutenkaku]]
 ##### Sera: 
 - [[Tempio Hozen-ji]]
-- (Namba, Minami) [[Dotonbori]]
+- (Namba, Minami) [[Dotonbori (道頓堀)]]
 
 
 ## Giorno 3 ( 2° Osaka)

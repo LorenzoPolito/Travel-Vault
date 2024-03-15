@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Umeda Sky Building.md",
+                "file": "Locations/Cities/blocks/Dotonbori (道頓堀).md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Umeda Sky Building.md",
+                "file": "Locations/Cities/blocks/Dotonbori (道頓堀).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Umeda Sky Building.md",
+                "file": "Locations/Cities/blocks/Dotonbori (道頓堀).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,12 @@
   "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
     "Locations/Lista dei Luoghi.md",
-    "Umeda Sky Building.md",
+    "Locations/Cities/blocks/Dotonbori (道頓堀).md",
+    "Locations/Buildings/Umeda Sky Building.md",
+    "Locations/Stores/Senza nome.md",
+    "Locations/Buildings",
+    "allegati/Pasted image 20240315124351.png",
+    "allegati/Pasted image 20240315124253.png",
     "Locations/Castles/Castello di Osaka (大阪城).md",
     "Locations/Castles",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
@@ -216,7 +221,6 @@
     "Itinerari/Solo con i luoghi/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Parks/Fabrica dei Gundam.md",
-    "Locations/Stores/Senza nome.md",
     "Locations/Restaurants/Senza nome.md",
     "Locations/Parks/TOEI Kyoto studio park.md",
     "Locations/Cities/blocks/Shibuya(渋谷).md",
@@ -227,7 +231,6 @@
     "Slides/Slide Viaggio in Giappone.md",
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
-    "Location added on 2024-03-08T17-02.md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
     "Slides",
@@ -237,10 +240,7 @@
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
     "allegati/Pasted image 20240109154335.png",
-    "allegati/Pasted image 20240109154118.png",
     "Itinerari",
-    "Info/Voli",
-    "Info",
-    "allegati/Pasted image 20231108100023.png"
+    "Info/Voli"
   ]
 }

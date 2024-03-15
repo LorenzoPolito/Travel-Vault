@@ -1,5 +1,4 @@
-## Umeda Sky Building
-
+![[Pasted image 20240315124351.png]]
 ## Guida
 
 **Lo Umeda Sky Building è un grattacielo di Osaka**, composto da due torri separate alte 173 metri, congiunte tra loro sulla cima, su cui è presente una enorme osservatorio panoramico, chiamato _Kuchu-Teien_ o **Floating Garden Observatory**, di forma circolare la cui peculiarità è di essere all’aperto (ovviamente sono presenti dei vetri verticali per impedire cadute “accidentali”, ma il soffitto non è coperto). Da qui, ovvero al 39 piano, è possibile osservare la città a 360 gradi, sia di giorno che di notte (io, ovviamente, amo le luci notturne delle grandi città, ed Osaka dà il meglio di se proprio nelle ore serali).

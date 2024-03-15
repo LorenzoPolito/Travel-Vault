@@ -33,10 +33,10 @@ marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 7. [[Quartiere Gion (祇園)]] #1/5
 8. [[Sentiero del filosofo (哲学の道)]] ( 24H ) #1/5
 //
-1. [[Fushimi Inari]] ( 24H ) #3/5
+1. [[Fushimi Inari (伏見稲荷大社)]] ( 24H ) #3/5
 //
-1. [[Kinkaku-ji]] ( 9:00-17:00 ) #3/5
-2. [[Ryoan-ji]] ( 8:00-17:00 ) #2/5
+1. [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 ) #3/5
+2. [[Ryoan-ji (龍安寺方丈庭園)]] ( 8:00-17:00 ) #2/5
 //
 1. [[Arashiyama]] ( 24H ) #5/5
 //

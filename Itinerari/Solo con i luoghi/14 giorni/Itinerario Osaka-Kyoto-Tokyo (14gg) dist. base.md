@@ -91,8 +91,8 @@ Creato da @Lorenzo
 *Arashiyama è lontana dal centro 50min*
 *per andare alle tappe successive ci vogliono altri 50min*
 ##### Pomeriggio
-- [[Ryoan-ji]] 
-- [[Kinkaku-ji]]
+- [[Ryoan-ji (龍安寺方丈庭園)]] 
+- [[Kinkaku-ji (金閣寺)]]
 
 *per tornare al centro 40min*
 ##### Sera
@@ -101,7 +101,7 @@ Creato da @Lorenzo
 
 ## Giorno 7 (3° Kyoto)
 ##### Mattina
-- [[Fushimi Inari]] 
+- [[Fushimi Inari (伏見稲荷大社)]] 
 
 *Anche dopo pranzo*
 ##### Pomeriggio

@@ -77,10 +77,10 @@
 7. cena
 8. ritorno all'hotel
 ## Giorno 7 ( 4 - Kyoto) 
-1. [[Fushimi Inari]]
+1. [[Fushimi Inari (伏見稲荷大社)]]
 2. pranzo
 3. [[Reigenji]]
-4. [[Kinkaku-ji]]
+4. [[Kinkaku-ji (金閣寺)]]
 5. [[Daikaku-ji Temple (大覚寺)]]
 6. cena
 7. ritorno all'hotel

@@ -58,7 +58,7 @@
 - [[Ryon-ji]]  
 - [[Kikaku-ji]]
 ##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
+- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
 ## Giorno 5 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
 - [[Nara (奈良市)]] #discutere 

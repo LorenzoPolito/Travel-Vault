@@ -89,7 +89,7 @@
 - [[Ryon-ji]]  
 - [[Kikaku-ji]]
 ##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
+- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
 ## Giorno 8 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
 - [[Sentiero del filosofo (哲学の道)]] e [[Ginkakuji]]

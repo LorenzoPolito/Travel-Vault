@@ -1,13 +1,9 @@
 ![central kyoto](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514375397/kyoto/Kyoto1084_1)
 
-Kyoto-shi, Kyoto-fu
+> Kyoto-shi, Kyoto-fu
 
 - [Visualizzare su Google Maps](https://maps.google.com/?q=Tetsugaku-no-michi,+Saky%C5%8D-ku,+Ky%C5%8Dto-shi,+Ky%C5%8Dto-fu,+Japan&ftid=0x6001091b7897f3ef:0xf3f4f65c0a1a41b7) 
 - [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Sentiero%20del%20Filosofo) 
-
-- [PAROLE CHIAVE](https://www.japan.travel/it/#anchor_2)
- - [MAPPA](https://www.japan.travel/it/#map)
-
 ## Camminare lungo la via più scenografica di Kyoto e riflettere sulla vita
 
 Il Sentiero del Filosofo (in giapponese Tetsugaku no Michi) deve il suo nome al professore di filosofia dell'Università di Kyoto Nishida Kitaro che percorreva questa via come forma di meditazione quotidiana. Un sentiero tortuoso in un quartiere ricco di vegetazione affacciato su un canale: il luogo perfetto per una passeggiata contemplativa nel pomeriggio.

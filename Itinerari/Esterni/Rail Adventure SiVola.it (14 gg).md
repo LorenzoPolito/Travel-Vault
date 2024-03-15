@@ -63,7 +63,7 @@
 - [[Pontocho]] geishe e maiko
 
 ## Giorno 11 (1° [[Kyoto(京都)]])
-- [[Fushimi Inari]]
+- [[Fushimi Inari (伏見稲荷大社)]]
 
 ## Giorno 12 (2° Kyoto)
 - [[Castello di Nijo]]

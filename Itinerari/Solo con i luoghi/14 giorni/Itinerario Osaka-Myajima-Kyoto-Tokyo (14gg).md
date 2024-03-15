@@ -76,10 +76,10 @@
 - Lavaggio vestiti
 - [[Arashiyama]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
-- [[Ryoan-ji]]  
-- [[Kinkaku-ji]]
+- [[Ryoan-ji (龍安寺方丈庭園)]]  
+- [[Kinkaku-ji (金閣寺)]]
 ##### Sera: 
-- [[Fushimi Inari]] (tramonto) #discutere 
+- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
 ## Giorno 7 ( 3° Kyoto/Tokyo)
 ##### Mattina: 
 - [[Sentiero del filosofo (哲学の道)]] e [[Tempio Ginkakuji (慈照寺（銀閣寺))]]

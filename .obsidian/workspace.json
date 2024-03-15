@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentiero del filosofo (哲学の道).md",
+                "file": "Arashiyama.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentiero del filosofo (哲学の道).md",
+                "file": "Arashiyama.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentiero del filosofo (哲学の道).md",
+                "file": "Arashiyama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,11 +206,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef061d2f60135dfb",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
-    "Locations/Cities/blocks/Quartiere Gion (祇園).md",
-    "Sentiero del filosofo (哲学の道).md",
     "Locations/Lista dei Luoghi.md",
+    "Arashiyama.md",
+    "Locations/Temples/Ryoan-ji (龍安寺方丈庭園).md",
+    "Locations/Temples/Kinkaku-ji (金閣寺).md",
+    "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
+    "Locations/Parks-nature/Sentiero del filosofo (哲学の道).md",
+    "Locations/Cities/blocks/Quartiere Gion (祇園).md",
     "Locations/Temples/Tempio Kodai-ji (高台寺).md",
     "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
     "Locations/Temples/Santuario Yasaka (八坂神社).md",
@@ -231,10 +235,6 @@
     "Locations/Parks-nature/Monte Misen (弥山).md",
     "Locations/Parks-nature/Memorial Park Hiroshima.md",
     "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
-    "Locations/Cities/Tokyo(東京).md",
-    "Locations/Cities/Osaka(大阪市).md",
-    "Locations/Cities/Nara (奈良市).md",
-    "Locations/Cities/Miyajima (宮島).md",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240315143551.png",

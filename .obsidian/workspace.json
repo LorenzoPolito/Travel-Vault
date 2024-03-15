@@ -18,13 +18,7 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "cac86be6bd7246a6",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "2db576b2d9f4c8be",
             "type": "leaf",
@@ -32,12 +26,13 @@
               "type": "markdown",
               "state": {
                 "file": "Locations/Lista dei Luoghi.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"

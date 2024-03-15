@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
+                "file": "Locations/Lista dei Luoghi.md"
               }
             }
           },
@@ -206,14 +206,19 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-map-view:Open map view": false
+      "obsidian-map-view:Open map view": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
+    "Info/Voli/Test per riferimento.md",
     "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
     "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Stores/Pokemon center Shibuya.md",
@@ -235,11 +240,6 @@
     "Locations/Cities/Osaka(大阪市).md",
     "Locations/Cities/Nara (奈良市).md",
     "Locations/Cities/Miyajima (宮島).md",
-    "Locations/Cities/Kyoto(京都).md",
-    "Locations/Cities/Kamakura(鎌倉市).md",
-    "Locations/Cities/Hiroshima(広島).md",
-    "Locations/Cities/Fujiyoshida (富士吉田市).md",
-    "Locations/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Cities/Senza nome",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",

@@ -74,7 +74,7 @@
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 
 - Lavaggio vestiti
-- [[Arashiyama]] (quartiere e foresta bambu)
+- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryoan-ji (龍安寺方丈庭園)]]  
 - [[Kinkaku-ji (金閣寺)]]

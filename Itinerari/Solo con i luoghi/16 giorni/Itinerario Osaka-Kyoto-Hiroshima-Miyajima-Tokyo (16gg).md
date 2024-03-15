@@ -72,7 +72,7 @@
 2. [[Tenryuji]]
 3. pranzo
 4. [[Foresta di bambù di Sagano]]
-5. [[Arashiyama]]
+5. [[Arashiyama (嵐山)]]
 6. [[Parco Kameyama]]
 7. cena
 8. ritorno all'hotel

@@ -51,9 +51,9 @@
 1. [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 ) #3/5
 2. [[Ryoan-ji (龍安寺方丈庭園)]] ( 8:00-17:00 ) #2/5
 //
-1. [[Arashiyama]] ( 24H ) (3 ore di scampagnata nella natura) [japan-arashiyama-trecking](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930) #5/5
+1. [[Arashiyama (嵐山)]] ( 24H ) (3 ore di scampagnata nella natura) [japan-arashiyama-trecking](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930) #5/5
 //
-1. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
+1. [[Adashino nenbutsuji (化野念仏寺)]] ( 9:00-16:30 ) #2/5
 2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
 ## [[Tokyo(東京)]]
 

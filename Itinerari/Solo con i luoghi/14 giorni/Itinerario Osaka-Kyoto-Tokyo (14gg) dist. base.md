@@ -85,8 +85,8 @@ Creato da @Lorenzo
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina
 - *Lavanderia*
-- [[Arashiyama]] (quartiere e foresta bambu)
-- [[Adashino nenbutsuji]] *(se c'è tempo)*
+- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
+- [[Adashino nenbutsuji (化野念仏寺)]] *(se c'è tempo)*
 
 *Arashiyama è lontana dal centro 50min*
 *per andare alle tappe successive ci vogliono altri 50min*

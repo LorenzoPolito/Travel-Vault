@@ -84,7 +84,7 @@
 ## Giorno 7 ( 2° Kyoto)
 ##### Mattina: 
 - Lavaggio vestiti
-- [[Arashiyama]] (quartiere e foresta bambu)
+- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryon-ji]]  
 - [[Kikaku-ji]]

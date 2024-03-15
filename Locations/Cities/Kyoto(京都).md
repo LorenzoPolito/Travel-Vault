@@ -38,9 +38,9 @@ marker: default,35.02142144204034,135.75565338134768,Kyoto(京都),,,
 1. [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 ) #3/5
 2. [[Ryoan-ji (龍安寺方丈庭園)]] ( 8:00-17:00 ) #2/5
 //
-1. [[Arashiyama]] ( 24H ) #5/5
+1. [[Arashiyama (嵐山)]] ( 24H ) #5/5
 //
-1. [[Adashino nenbutsuji]] ( 9:00-16:30 ) #2/5
+1. [[Adashino nenbutsuji (化野念仏寺)]] ( 9:00-16:30 ) #2/5
 2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
 ## Hotels
 - [Karasuma Rokujo Hotel / Vacation STAY 3038](https://www.magictravel.ai/trip/71398be1-0eb9-4de2-9aab-28ddf826099c/hotels/Kyoto/Karasuma%20Rokujo%20Hotel%20%2F%20Vacation%20STAY%203038)

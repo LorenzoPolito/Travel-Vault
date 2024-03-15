@@ -53,7 +53,7 @@
 - [[Kyojizu-dera]]
 ## Giorno 4 ( 2° Kyoto)
 ##### Mattina: 
-- [[Arashiyama]] (quartiere e foresta bambu)
+- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
 ##### Pomeriggio: 
 - [[Ryon-ji]]  
 - [[Kikaku-ji]]

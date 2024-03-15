@@ -28,7 +28,7 @@ Creato da @Lorenzo
 - inventario e controllo documenti
 - controllo biglietti e pass
 ##### Pomeriggio/Sera:
-- partenza per aeroporto
+- PARTENZA per aeroporto
 - cena
 - si vola (15h/16h con scalo)
 

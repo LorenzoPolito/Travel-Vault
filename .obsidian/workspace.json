@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77e5026406ff31ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2db576b2d9f4c8be",
             "type": "leaf",
             "state": {
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +195,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "77e5026406ff31ca",
+  "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
+    "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi",

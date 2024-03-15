@@ -32,7 +32,7 @@
 7. quartiere centrale di Osaka [[Dotonbori]] *( bar e negozi )*
 8. ritorno all'Hotel
 ## Giorno 2 ( 2 - Osaka)
-1. visita del [[Castello di Osaka]]  e parco *( al mattino presto )* ( 3 ore)
+1. visita del [[Castello di Osaka (大阪城)]]  e parco *( al mattino presto )* ( 3 ore)
 2. pranzo
 3. [[Shintenogi temple]]/[[Tenmagu shrine]] (2 ore)
 4. quartiere [[Shinsekai]]

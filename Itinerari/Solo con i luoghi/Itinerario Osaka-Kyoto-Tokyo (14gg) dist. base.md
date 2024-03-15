@@ -56,7 +56,7 @@ Creato da @Lorenzo
 
 ## Giorno 4 (->[[Nara]]/->[[Kyoto(京都)]])
 ##### Mattina
-- [[Castello di Osaka]] (9:00-17:00)
+- [[Castello di Osaka (大阪城)]] (9:00-17:00)
 
 *Partenza verso Nara (53min)*
 *pranzo sul treno*

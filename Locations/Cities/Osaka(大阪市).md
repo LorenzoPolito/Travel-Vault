@@ -7,7 +7,7 @@
 ## Cibo tipico
 
 ## Posti da visitare
-1. [[Castello di Osaka]] (9:00-17:00) #4/5
+1. [[Castello di Osaka (大阪城)]] (9:00-17:00) #4/5
 2. [[Umeda Sky Building]] #3/5
 //
 1. Quartiere Minami [[Dotonbori]] (al meglio di sera) #5/5

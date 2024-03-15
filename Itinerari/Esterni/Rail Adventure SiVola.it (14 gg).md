@@ -28,7 +28,7 @@
 
 ## Giorno 6 (1° [[Osaka(大阪市)]])
 *Partenza da Tokyo verso Osaka con lo shinkansen (2h)*
-- [[Castello di Osaka]]
+- [[Castello di Osaka (大阪城)]]
 - Espolarzione di Osaka
 - [[Dotonbori]]
 - Dormita in un capsule Hotel

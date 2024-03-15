@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Castello di Osaka.md",
+                "file": "Umeda Sky Building.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Castello di Osaka.md",
+                "file": "Umeda Sky Building.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Castello di Osaka.md",
+                "file": "Umeda Sky Building.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,11 +194,12 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
-    "Locations/Castles",
     "Locations/Lista dei Luoghi.md",
-    "Castello di Osaka.md",
+    "Umeda Sky Building.md",
+    "Locations/Castles/Castello di Osaka (大阪城).md",
+    "Locations/Castles",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. base.md",
     "Locations/Cities/Tokyo(東京).md",
     "Itinerari/Solo con i luoghi/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
@@ -240,7 +241,6 @@
     "Itinerari",
     "Info/Voli",
     "Info",
-    "allegati/Pasted image 20231108100023.png",
-    "allegati"
+    "allegati/Pasted image 20231108100023.png"
   ]
 }

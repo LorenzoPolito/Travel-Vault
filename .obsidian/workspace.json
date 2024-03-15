@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Temples/Tempio Shitenno-ji.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Temples/Tempio Shitenno-ji.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Temples/Tempio Shitenno-ji.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,10 +194,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "2db576b2d9f4c8be",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
     "Locations/Temples/Tempio Shitenno-ji.md",
+    "allegati/Pasted image 20240315125222.png",
+    "Locations/Lista dei Luoghi.md",
     "Locations/Cities/blocks/Dotonbori (道頓堀).md",
     "Locations/Buildings/Umeda Sky Building.md",
     "Locations/Stores/Senza nome.md",
@@ -228,7 +229,6 @@
     "Locations/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Esterni/Itinerario Ossama Valentina.md",
-    "Info/Voli/Test per riferimento.md",
     "allegati/Pasted image 20240309113236.png",
     "Calendar",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
@@ -239,7 +239,6 @@
     "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240109154659.png",
     "allegati/Pasted image 20240109154532.png",
-    "allegati/Pasted image 20240109154335.png",
     "Itinerari",
     "Info/Voli"
   ]

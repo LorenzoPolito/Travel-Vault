@@ -1,4 +1,4 @@
-## Itininerari
+## Itinerari
 [[Itinerario Ossama Valentina]]
 [[Rail Adventure SiVola.it (14 gg)]]
 [[Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)]]

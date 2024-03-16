@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Locations/Lista dei Luoghi.md"
               }
             }
           },
@@ -214,6 +214,7 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Index.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Cities/blocks/streets/Harajuku (原宿).md",
     "Locations/Lista dei Luoghi.md",
@@ -239,7 +240,6 @@
     "Locations/Parks-nature/Mario kart ride.md",
     "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
     "Locations/Parks-nature/Arashiyama (嵐山).md",
-    "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/Senza nome",
     "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",

@@ -11,9 +11,11 @@
             "id": "ef061d2f60135dfb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           },
@@ -212,15 +214,17 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
-    "allegati/Pasted image 20240109154335.png",
-    "allegati/Pasted image 20240109155043.png",
     "allegati/Pasted image 20240315124351.png",
+    "allegati/Pasted image 20240309113236.png",
+    "allegati/Pasted image 20240315125222.png",
     "allegati/Pasted image 20240315132517.png",
     "allegati/Pasted image 20240315132546.png",
-    "allegati/Pasted image 20240315124253.png",
-    "allegati/Pasted image 20240109154532.png",
-    "allegati/Pasted image 20231108100023.png",
+    "allegati/Pasted image 20240315132537.png",
+    "allegati/Pasted image 20240315132557.png",
+    "allegati/Pasted image 20240315132603.png",
+    "allegati/Pasted image 20240315141212.png",
+    "allegati/Pasted image 20240315143254.png",
+    "allegati/Pasted image 20240315143301.png",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
@@ -247,9 +251,7 @@
     "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
     "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
     "Locations/Cities/Senza nome",
-    "allegati/Pasted image 20240315151037.png",
     "Locations/Cities/blocks/streets",
-    "allegati/Pasted image 20240315143605.png",
     "Itinerari/Solo con i luoghi/10 giorni",
     "Itinerari/Solo con i luoghi/16 giorni",
     "Itinerari/Solo con i luoghi/14 giorni",

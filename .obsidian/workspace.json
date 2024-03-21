@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "1506cd7c2e6b21b7",
+        "id": "a99b6f9094d49828",
         "type": "tabs",
         "children": [
           {
-            "id": "ef061d2f60135dfb",
+            "id": "a17f7c8cc1b30dad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Locations/Cities/Kyoto(京都).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "43dc9af0ea09eb3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdbe06c6a8d01bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WEAREMARIO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,65 +123,16 @@
         "dimension": 64.25742574257426,
         "children": [
           {
-            "id": "408e844197925b38",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2c1926446ce45207",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f3a441df08bc32d0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "01b02e4c004bc4c9",
+            "id": "bb8d7d74a57d298a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
+                "file": "Locations/Cities/Kyoto(京都).md"
               }
             }
-          },
-          {
-            "id": "3402956b2d8599bf",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -185,6 +154,46 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "408e844197925b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b734b96c8a0be179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Cities/Kyoto(京都).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1d1591a9e850f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Cities/Kyoto(京都).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ]
       }
@@ -203,62 +212,62 @@
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef061d2f60135dfb",
+  "active": "a17f7c8cc1b30dad",
   "lastOpenFiles": [
-    "allegati/Pasted image 20240315124351.png",
-    "allegati/Pasted image 20240309113236.png",
-    "allegati/Pasted image 20240315125222.png",
-    "allegati/Pasted image 20240315132517.png",
-    "allegati/Pasted image 20240315132546.png",
-    "allegati/Pasted image 20240315132537.png",
-    "allegati/Pasted image 20240315132557.png",
-    "allegati/Pasted image 20240315132603.png",
-    "allegati/Pasted image 20240315141212.png",
-    "allegati/Pasted image 20240315143254.png",
-    "allegati/Pasted image 20240315143301.png",
+    "allegati/Pasted image 20240315151037.png",
+    "allegati/Pasted image 20240315143605.png",
+    "Itinerari/Solo con i luoghi/16 giorni/Itinerario Osaka-Kyoto-Hiroshima-Miyajima-Tokyo (16gg).md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "index.md",
-    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
-    "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
-    "Locations/Temples/Tempio Kutoku-in  (高徳院).md",
-    "Locations/Temples/Tempio Kodai-ji (高台寺).md",
-    "Locations/Temples/Tempio Kencho-ji (建長寺).md",
-    "Locations/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Temples/Tempio Hokoku-ji (報国寺).md",
-    "Locations/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
-    "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Locations/Temples/Tempio Engaku-ji (円覚寺).md",
-    "Locations/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Temples/Santuario Yasaka (八坂神社).md",
-    "Locations/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
-    "Locations/Temples/Santuario Meiji (明治神宮).md",
-    "Locations/Temples/Santuario Kanda (神田明神).md",
-    "Locations/Temples/Ryoan-ji (龍安寺方丈庭園).md",
-    "Locations/Temples/Kodokan dojo judo (講道館).md",
-    "Locations/Temples/Kiyomizu-dera (清水寺).md",
-    "Locations/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Temples/Kanandorii (金鳥居).md",
-    "Locations/Temples/Itsukushima shrine (嚴島神社).md",
-    "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
-    "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
-    "Locations/Cities/Senza nome",
-    "Locations/Cities/blocks/streets",
-    "Itinerari/Solo con i luoghi/10 giorni",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
     "Itinerari/Solo con i luoghi/16 giorni",
+    "Itinerari/Esterni/Rail Adventure SiVola.it (14 gg).md",
     "Itinerari/Solo con i luoghi/14 giorni",
-    "Itinerari/Solo con i luoghi/Basati sulle distanze",
-    "Locations/Buildings",
-    "Locations/Castles",
+    "Itinerari/Esterni/Itinerario Ossama Valentina.md",
+    "Itinerari/Solo con i luoghi/10 giorni",
+    "Itinerari/Esterni",
     "Itinerari/Solo con i luoghi",
-    "Itinerari/Esterni"
+    "Itinerari",
+    "Itinerari/Itinerario Osaka-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Itinerari/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Dotonbori.md",
+    "Locations/Lista dei Luoghi.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Locations/Temples/Fabrica dei Gundam.md",
+    "Locations/Stores/Senza nome.md",
+    "Locations/Restaurants/Senza nome.md",
+    "Locations/Parks/TOEI Kyoto studio park.md",
+    "Locations/Cities/Tokyo(東京).md",
+    "Locations/Cities/Osaka(大阪市).md",
+    "Locations/Cities/Hiroshima(広島).md",
+    "Locations/Cities/blocks/Shibuya(渋谷).md",
+    "Locations/Cities/blocks/Asakusa(浅草).md",
+    "Itinerari/Rail Adventure SiVola.it (14 gg).md",
+    "allegati/Pasted image 20240309113236.png",
+    "Calendar",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+    "Slides",
+    "Itinerari/Itinerario Osaka to Tokyo.rst",
+    "Locations/Parks",
+    "allegati/Pasted image 20240109155043.png",
+    "allegati/Pasted image 20240109154659.png",
+    "allegati/Pasted image 20240109154532.png",
+    "allegati/Pasted image 20240109154335.png",
+    "allegati/Pasted image 20240109154118.png"
   ]
 }

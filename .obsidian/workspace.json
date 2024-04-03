@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Pass/Osaka Amazing pass.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Pass/Osaka Amazing pass.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Pass/Osaka Amazing pass.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Pass/Osaka Amazing pass.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Pass/Osaka Amazing pass.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,21 +247,21 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Info/IC Cards/IC Cards.md",
+    "Info/IC Cards/Icoca.md",
+    "Info/IC Cards/Pasmo.md",
+    "Info/IC Cards/Suica.md",
+    "Info/Pass/Osaka Amazing pass.md",
     "Info/Pass",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Info/Pass/Osaka Amazing pass.md",
     "index.md",
     "Locations/Parks-nature/Monte Misen (弥山).md",
     "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
     "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
-    "Info/IC Cards/Pasmo.md",
     "Itinerari/Esterni/Itinerario Ossama Valentina.md",
     "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Info/IC Cards/Icoca.md",
-    "Info/IC Cards/Suica.md",
-    "Info/IC Cards/IC Cards.md",
     "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "Itinerario Kanban Prova.md",
     "Info/Voli/Test per riferimento.md",
@@ -293,7 +293,6 @@
     "Itinerari/Solo con i luoghi/14 giorni",
     "Itinerari/Solo con i luoghi/Basati sulle distanze",
     "Locations/Buildings",
-    "Locations/Castles",
-    "Itinerari/Solo con i luoghi"
+    "Locations/Castles"
   ]
 }

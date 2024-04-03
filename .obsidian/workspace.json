@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/IC Cards/IC Cards.md",
                 "mode": "preview",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/IC Cards/IC Cards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/IC Cards/IC Cards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/IC Cards/Suica.md"
+                "file": "Info/IC Cards/IC Cards.md"
               }
             }
           },
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/IC Cards/IC Cards.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,11 +249,11 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Info/IC Cards/Icoca.md",
-    "Info/IC Cards/IC Cards.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Info/IC Cards/Pasmo.md",
     "Info/IC Cards/Suica.md",
+    "Info/IC Cards/IC Cards.md",
+    "Info/IC Cards/Pasmo.md",
+    "Info/IC Cards/Icoca.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Pass/Osaka Amazing pass.md",
     "Info/Pass",
     "index.md",

@@ -4,13 +4,6 @@
 
 In un precedente articolo: “**[Come pagare in Giappone: guida all’uso dello yen giapponese](https://viaggiareingiappone.it/come-pagare-in-giappone/)**” abbiamo visto che in Giappone esistono moltissime alternative ai soldi contanti, per effettuare tutti i pagamenti. **[Viaggiare in Giappone,](https://viaggiareingiappone.it/)** si sa, è una continua scoperta di usi, costumi, tradizioni, ma anche di fenomenali innovazioni pratiche e tecnologiche. Una di queste, a cui vogliamo dedicare un articolo intero, è la **Suica card**. Si tratta di una carta prepagata che è possibile utilizzare per pagare i trasporti pubblici, oppure per fare shopping. È un sistema molto pratico e comodo per spostarsi a tokyo e in altre città del sol Levante, perché semplifica l’acquisto del biglietto della metropolitana e velocizza, di conseguenza i tempi di trasferimento nelle stazioni.
 
-Contenuti [[Nascondi](https://viaggiareingiappone.it/suica-card/#)]
-
-- [1 Suica Card: dove comprarla, costo e ricariche](https://viaggiareingiappone.it/suica-card/#Suica_Card_dove_comprarla_costo_e_ricariche)
-- [2 Suica card: dove usarla e dove non usarla](https://viaggiareingiappone.it/suica-card/#Suica_card_dove_usarla_e_dove_non_usarla)
-- [3 Suica card: Tokyo e shopping](https://viaggiareingiappone.it/suica-card/#Suica_card_Tokyo_e_shopping)
-- [4 Pasmo, Suica e Icoca](https://viaggiareingiappone.it/suica-card/#Pasmo_Suica_e_Icoca)
-
 ## **Suica Card: dove comprarla, costo e ricariche**
 
 La carta prepagata e ricaricabile **Suica Card** consente di pagare i mezzi di trasporto e di fare shopping in moltissimi negozi di **[[Tokyo(東京)]]**. La carta non è nominale, ma ognuno deve avere la propria, perché non è possibile passare da uno stesso tornello per due volte consecutive. Acquistarla è molto semplice. Infatti la si può acquistare nelle principali stazioni della **JR East**, presso i comodi distributori automatici sparsi un po’ in tutte le stazioni. I distributori si distinguono dagli altri, perché riportano impresso sopra, il marchio della **Suica**. Inoltre è possibile comprare la carta prepagata anche presso le **biglietterie JR** (Midori-no-madoguchi) e ai Travel Service Center delle seguenti stazioni

@@ -11,11 +11,9 @@
             "id": "ef061d2f60135dfb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
-                "mode": "source",
-                "source": false
+                "file": "Itinerario Kanban Prova.md"
               }
             }
           }
@@ -121,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerario Kanban Prova.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerario Kanban Prova.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md"
+                "file": "Itinerario Kanban Prova.md"
               }
             }
           },
@@ -192,7 +190,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerario Kanban Prova.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,11 +247,11 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Info/IC Cards/IC Cards.md",
     "Info/IC Cards/Icoca.md",
     "Info/IC Cards/Pasmo.md",
     "Info/IC Cards/Suica.md",
     "Info/Voli/Test per riferimento.md",
-    "Info/IC Cards/IC Cards.md",
     "index.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/blocks/Akihabara (秋葉原).md",

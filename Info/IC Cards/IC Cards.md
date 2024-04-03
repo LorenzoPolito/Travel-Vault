@@ -1,10 +1,10 @@
 ![](https://www.japan-guide.com/g24/2359_map_2403b.png)
 
-AVVISO IMPORTANTE:
-
-A causa della carenza di chip IC, la vendita delle carte Suica e Pasmo è attualmente sospesa fino a nuovo avviso. Un'eccezione è fatta all'aeroporto di Narita, alla stazione di Tokyo, alla stazione di Shinagawa, alla stazione di Shibuya, alla stazione di Shinjuku, alla stazione di Ikebukuro e alla stazione di Ueno, dove le carte Suica possono essere acquistate presso i centri di servizio JR East Travel. Inoltre, le carte "Welcome Suica" possono essere acquistate presso l'aeroporto di Haneda, mentre le carte "Pasmo Passport" rimangono in vendita presso le sedi di Tokyo. Altre schede IC, come Icoca e Toica, sono in vendita come di consueto.
-
-Suica, Pasmo, Icoca e altre sette delle schede IC più popolari del Giappone sono state rese compatibili tra loro nel 2013, rendendo possibile viaggiare su quasi tutti i [treni](https://www.japan-guide.com/e/e2019.html), le metropolitane e [gli autobus](https://www.japan-guide.com/e/e2015.html) nella maggior parte delle [più grandi città del Giappone](https://www.japan-guide.com/list/e1004.html) con una sola di queste schede.
+>###### AVVISO IMPORTANTE:
+> 
+> A causa della carenza di chip IC, la vendita delle carte Suica e Pasmo è attualmente sospesa fino a nuovo avviso. Un'eccezione è fatta all'aeroporto di Narita, alla stazione di Tokyo, alla stazione di Shinagawa, alla stazione di Shibuya, alla stazione di Shinjuku, alla stazione di Ikebukuro e alla stazione di Ueno, dove le carte Suica possono essere acquistate presso i centri di servizio JR East Travel. Inoltre, le carte "Welcome Suica" possono essere acquistate presso l'aeroporto di Haneda, mentre le carte "Pasmo Passport" rimangono in vendita presso le sedi di Tokyo. Altre schede IC, come Icoca e Toica, sono in vendita come di consueto.
+> 
+> Suica, Pasmo, Icoca e altre sette delle schede IC più popolari del Giappone sono state rese compatibili tra loro nel 2013, rendendo possibile viaggiare su quasi tutti i [treni](https://www.japan-guide.com/e/e2019.html), le metropolitane e [gli autobus](https://www.japan-guide.com/e/e2015.html) nella maggior parte delle [più grandi città del Giappone](https://www.japan-guide.com/list/e1004.html) con una sola di queste schede.
 
 ### Che cos'è una scheda IC?
 
@@ -161,6 +161,8 @@ Oltre alle carte normali, ci sono carte personalizzate che possono essere sostit
 
 ## Link e risorse
 
+### Inglese
+
 #### Suica
 
 Sito ufficiale.](https://www.jreast.co.jp/e/pass/suica.html)[
@@ -186,8 +188,6 @@ Sito ufficiale.](https://www.meitetsu.co.jp/eng/train/Ticket/manaca/)[
 Sito ufficiale.](https://www.nimoca.jp/language/en.html)
 
 ### Giapponese
-
-[
 
 #### Suica
 

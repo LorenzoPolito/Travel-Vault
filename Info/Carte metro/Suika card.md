@@ -66,3 +66,25 @@ La Suica Card non è l’unica prepagata esistente a tokyo da poter utilizzare p
 La Suica card e la Pasmo, inoltre, danno la possibilità di accumulare dei punti se utilizzate su specifiche compagnie di autobus. I punti accumulati consentono di entrare poi in possesso di biglietti speciali per i bus. I punti si azzerano ogni mese.
 
 
+> [La **Suica Card** è una carta prepagata molto popolare in Giappone, utilizzata per una varietà di scopi](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/)[2](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/suica-pasmo/). Ecco alcuni dettagli chiave:
+> 
+> ## Acquisto e Ricarica
+> 
+> - [La Suica Card può essere acquistata nelle principali stazioni della JR East, presso distributori automatici o biglietterie](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - [Il costo della card è di ¥1000, di cui ¥500 vanno in deposito e ¥500 come credito](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - [La ricarica è possibile solo in contanti (Yen)](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - Al termine del viaggio in Giappone, la card può essere restituita presso una biglietteria JR East. [Alla restituzione verrà rimborsato il costo del deposito e l’eventuale credito residuo](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> 
+> ## Utilizzo
+> 
+> - [La Suica Card può essere utilizzata per pagare i trasporti pubblici e fare shopping](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - [È utilizzabile su linee JR East della zona metropolitana di Tokyo, linee metropolitane (Tokyo metro, Toei), autobus, Tokyo Monorail e taxi che riportano il marchio della prepagata](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - [Oltre a Tokyo, la Suica può essere usata per pagare il trasporto su alcune linee delle aree di Sendai e Niigata, Hokkaido, Tokai, Giappone occidentale e Kyushu](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> 
+> ## Altre Informazioni
+> 
+> - [La Suica Card non è nominale, ma ognuno deve avere la propria, perché non è possibile passare da uno stesso tornello per due volte consecutive](https://viaggiareingiappone.it/suica-card/)[1](https://viaggiareingiappone.it/suica-card/).
+> - [La validità della Suica Card è di 10 anni](https://viaggiareingiappone.it/suica-card/)[3](https://www.japan-experience.com/it/trasporti/carte%20prepagate/suica).
+> - [Esistono anche altre carte simili alla Suica, come Pasmo, Icoca, Toica, Manaca, Kitaca, Nimoca, Sugoca](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/suica-pasmo/)[2](https://www.giapponepertutti.it/organizza-viaggio-in-giappone/le-citta-giapponesi/tokyo/suica-pasmo/).
+> 
+> Spero che queste informazioni ti siano state utili! Se hai altre domande, non esitare a chiedere.

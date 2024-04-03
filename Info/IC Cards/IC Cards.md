@@ -79,18 +79,20 @@ Le dieci carte sono valide praticamente su tutti i treni, le metropolitane e gli
         le carte IC possono essere utilizzate sullo Shinkansen [Tokaido](https://www.japan-guide.com/e/e2018_tokaido.html)/[Sanyo](https://www.japan-guide.com/e/e2018_sanyo.html)/[Kyushu](https://www.japan-guide.com/e/e2018_kyushu.html) tramite il [servizio di prenotazione online dello shinkansen Tokaido Sanyo Kyushu](https://smart-ex.jp/en/). A tal fine, è necessario registrare una o più carte IC e una carta di credito sul sito web o sull'app (si noti che l'app è disponibile solo in un numero limitato di paesi ed è nota come smart EX). Successivamente, è possibile acquistare i biglietti [per gli shinkansen](https://www.japan-guide.com/e/e2018.html) online e utilizzare le carte IC registrate per passare attraverso le biglietterie degli shinkansen. Le tariffe vengono addebitate sulla carta di credito registrata anziché sottratte dal saldo delle carte IC.
     - **Sugli shinkansen nel Giappone**  
         orientale e settentrionale è possibile utilizzare le normali carte IC su tutti i treni shinkansen nel Giappone orientale e settentrionale acquistando biglietti elettronici tramite [il sito web di prenotazione di JR East](https://www.jreast.co.jp/e/ticket/reservation.html). Le tariffe vengono addebitate sulla carta di credito registrata anziché sottratte dal saldo delle carte IC.
-    - **On shinkansen operated by JR East**  
-        Regular IC cards can be used on non-reserved seats along the [Tohoku, Akita, Yamagata](https://www.japan-guide.com/e/e2018_tohoku.html), [Joetsu](https://www.japan-guide.com/e/e2018_joetsu.html) and [Hokuriku](https://www.japan-guide.com/e/e2018_nagano.html) Shinkansen trains (Hokuriku Shinkansen only between Tokyo and Joetsu-Myoko stations). Before you can use an IC card for this service, which is known as "Touch de Go", a one-time set-up procedure is required at a ticket machine. Fares will be subtracted from the IC card's balance.
-- **Other trains requiring a supplement fee**
+    - Ecco la traduzione in italiano del tuo testo:
+
+**Sui treni Shinkansen gestiti da JR East** Le carte IC regolari possono essere utilizzate sui posti non riservati lungo i treni Shinkansen Tohoku, Akita, Yamagata, Joetsu e Hokuriku (Shinkansen Hokuriku solo tra le stazioni di Tokyo e Joetsu-Myoko). Prima di poter utilizzare una carta IC per questo servizio, noto come “Touch de Go”, è necessaria una procedura di configurazione una tantum presso una macchina per biglietti. Le tariffe saranno sottratte dal saldo della carta IC.
+
+- **Altri treni che richiedono un supplemento**
     
-    When riding other trains that require a supplement fee, e.g. [limited express](https://www.japan-guide.com/e/e2016.html) trains, travelers can use the IC card to pay the [base fare](https://www.japan-guide.com/e/e2359_001.html) when passing through the ticket gates, but the supplement ticket needs to be purchased separately at a ticket machine, office or online.
+    Quando si viaggia su altri treni che richiedono un supplemento, ad esempio treni espressi limitati, i viaggiatori possono utilizzare la carta IC per pagare la tariffa base quando passano attraverso i cancelli dei biglietti, ma il biglietto supplementare deve essere acquistato separatamente presso una macchina per biglietti, ufficio o online.
     
-- **Highway buses**
+- **Autobus extraurbani**
     
-    Many [highway buses](https://www.japan-guide.com/e/e2366.html) cannot be paid by IC card.
+    Molti autobus extraurbani non possono essere pagati con la carta IC.
     
 
-The table below shows in more detail the coverage of the IC cards:
+La tabella sottostante mostra in modo più dettagliato la copertura delle carte IC:
 
 ![](https://www.japan-guide.com/g8/ok.gif) = can be used  
 ![](https://www.japan-guide.com/g8/ng.gif) = cannot be used

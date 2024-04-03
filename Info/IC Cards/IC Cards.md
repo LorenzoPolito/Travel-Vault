@@ -113,30 +113,29 @@ When passing automatic ticket gates, touch the card onto the card reader for abo
 ![](https://www.japan-guide.com/g5/2359_002_03.jpg)
 
 Ticket gate with IC card reader
+#### C’è uno sconto rispetto ai biglietti regolari?
 
-#### Is there a discount over regular tickets?
+Le carte IC generalmente non offrono alcuno sconto rispetto ai biglietti regolari. Ma nella Grande Tokyo, Niigata e Sendai, le tariffe dei treni possono differire di qualche yen a seconda se si utilizza una carta IC o un biglietto di carta. Questo perché le tariffe sono arrotondate al decimo di yen più vicino nel caso dei biglietti di carta, ma non arrotondate nel caso delle carte IC. Nel centro di Tokyo, il pagamento con carta IC è sempre più economico del pagamento con biglietto di carta (fino a nove yen), ma fuori dal centro di Tokyo, entrambi i tipi di biglietti possono essere fino a cinque yen più economici dell’altro.
 
-IC cards generally do not provide any discounts over regular tickets. But in Greater [Tokyo](https://www.japan-guide.com/e/e2164.html), Niigata and [Sendai](https://www.japan-guide.com/e/e5150.html), train fares can differ by a few yen depending on whether an IC card or a paper ticket is used. This is because fares are rounded to the nearest ten yen in case of paper tickets, but not rounded in case of IC cards. Around central Tokyo, payment by IC card is always cheaper than payment by paper ticket (by up to nine yen), but outside of central Tokyo, either ticket type can be up to five yen cheaper than the other.
+#### Dove ottenere una carta IC?
 
-#### Where to get an IC card?
+Le carte IC possono essere acquistate presso le macchine per biglietti e i banconi dei biglietti delle compagnie ferroviarie emittenti. Il costo iniziale consiste in un deposito rimborsabile di 500 yen più un importo iniziale (tipicamente 1500 yen) da caricare sulla carta. Con un sovrapprezzo, le carte Suica e Pasmo possono anche essere acquistate e inviate a te prima dell’inizio del tuo viaggio attraverso Japan Experience. Infine, gli utenti iPhone possono aggiungere le carte Suica, Pasmo e Icoca ad Apple Pay.
 
-IC cards can be purchased at ticket machines and ticket counters of the issuing railway companies. The initial cost consists of a refundable deposit of 500 yen plus an initial amount (typically 1500 yen) to be charged onto the card. For a surcharge, [Suica](https://affiliate.japan-experience.com/click?o=4&a=31&link_id=802) and [Pasmo](https://affiliate.japan-experience.com/click?o=4&a=31&link_id=801) cards can also be purchased and sent to you before the start of your trip through [Japan Experience](https://affiliate.japan-experience.com/click?o=4&a=31&link_id=802). Last but not least, [Iphone users can add Suica, Pasmo and Icoca cards to Apple Pay](https://www.japan-guide.com/e/e2359_003.html#digital).
+#### Esistono versioni digitali delle carte IC?
 
-#### Are there digital versions of the IC cards?
+I modelli di iPhone 8 e successivi possono essere configurati per fungere da carte Suica, Pasmo e Icoca aggiungendo le carte ad Apple Pay, ma nota che alcune carte di credito emesse al di fuori del Giappone non possono essere utilizzate per caricare la tua carta.
 
-Iphone 8 and later models can be set up to serve as Suica, Pasmo and Icoca cards by adding the cards to Apple Pay, but note that some credit cards issued outside of Japan cannot be used to charge your card.
+I telefoni Android possono essere utilizzati come carte IC attraverso le app “Mobile Suica”, “Mobile Pasmo” e “Mobile Icoca”; tuttavia, le app sono rivolte ai residenti del Giappone e difficili o impossibili da utilizzare per i visitatori del Giappone. In particolare, richiedono la compatibilità Osaifu Keitai, che non è fornita dalla maggior parte dei telefoni venduti al di fuori del Giappone, sono disponibili solo in giapponese e richiedono un indirizzo in Giappone e possibilmente una carta di credito emessa in Giappone.
 
-Android phones can be used as IC cards through the "Mobile Suica", "Mobile Pasmo" and "Mobile Icoca" apps; however, the apps are targeted at residents of Japan and difficult or impossible to use for visitors to Japan. Specifically, they require Osaifu Keitai compatibility, which is not provided by most phones sold outside of Japan, come in Japanese only, and require an address in Japan and possibly a credit card that has been issued in Japan.
+#### Quale carta IC dovrei ottenere?
 
-#### Which IC card shall I get?
-
-The IC cards are virtually identical to each other in terms of coverage. The cards differ mainly on where they can be purchased and refunded. Therefore, most people will want to purchase the card available in the first city they visit, e.g. Suica or Pasmo in [Tokyo](https://www.japan-guide.com/e/e2164.html) or Icoca in [Osaka](https://www.japan-guide.com/e/e2157.html). If you load a [digital card](https://www.japan-guide.com/e/e2359_003.html#digital) onto your [mobile phone](https://www.japan-guide.com/e/e2223.html), then you have the choice of Suica, Pasmo or Icoca regardless of your geographical location.
+Le carte IC sono praticamente identiche l’una all’altra in termini di copertura. Le carte differiscono principalmente su dove possono essere acquistate e rimborsate. Pertanto, la maggior parte delle persone vorrà acquistare la carta disponibile nella prima città che visitano, ad esempio Suica o Pasmo a Tokyo o Icoca a Osaka. Se carichi una carta digitale sul tuo telefono cellulare, allora hai la scelta tra Suica, Pasmo o Icoca indipendentemente dalla tua posizione geografica.
 
 ![](https://www.japan-guide.com/g5/2359_002_04.jpg)
 
 Biglietteria automatica
 
-#### How to recharge IC cards?
+#### Come ricaricare le IC cards?
 
 Le carte IC possono essere ricaricate presso le biglietterie automatiche e le speciali macchine di ricarica che si trovano in luoghi strategicamente significativi. Possono essere ricaricati anche presso stazioni di aziende diverse dalla società emittente, ad esempio Suica può essere ricaricata anche a [Osaka](https://www.japan-guide.com/e/e2157.html). Inoltre, molti [minimarket](https://www.japan-guide.com/e/e2071.html) consentono di ricaricare le carte IC alla cassa. L'importo massimo da addebitare su una carta è di 20.000 yen.
 
@@ -159,10 +158,6 @@ Oltre alle carte normali, ci sono carte personalizzate che possono essere sostit
 **Domande?** Chiedi nel nostro [forum](https://www.japan-guide.com/forum/quedisplay.html).
 
 ## Link e risorse
-
-### Inglese
-
-[
 
 #### Suica
 

@@ -119,7 +119,7 @@ Per ulteriori informazioni, consulta questa pagina [Cose da tenere a mente](htt
 
 A seconda dell'aeroporto che utilizzi, vai a trovare queste posizioni in ogni terminal
 
-Nel caso di Tokyo:
+Nel caso di [[Tokyo(東京)]]:
 
 - Terminal 1・2・3 dell'aeroporto di Narita presso "SKYLINER & KEISEI INFORMATION CENTER"
 - Terminal 3 dell'aeroporto di Haneda all'ingresso al secondo piano OPPURE presso il Centro informazioni turistiche di Keikyu (Terminal 3 dell'aeroporto di Haneda)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "mode": "preview",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           },
@@ -187,12 +187,12 @@
             }
           },
           {
-            "id": "42596c168f9bee21",
+            "id": "45d7c040859d2df1",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/IC Cards/IC Cards.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.1846232741569868,
+                  "scale": 0.324233311860125,
                   "close": true
                 }
               }
@@ -249,6 +249,11 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Info/IC Cards/Pasmo.md",
+    "Info/Voli/Test per riferimento.md",
+    "Info/Pass/Osaka Amazing pass.md",
+    "Info/IC Cards/Icoca.md",
+    "Info/IC Cards/IC Cards.md",
     "index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
@@ -270,11 +275,6 @@
     "Locations/Temples/Kiyomizu-dera (清水寺).md",
     "Locations/Temples/Kinkaku-ji (金閣寺).md",
     "Locations/Temples/Kanandorii (金鳥居).md",
-    "Locations/Temples/Itsukushima shrine (嚴島神社).md",
-    "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
-    "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
-    "Locations/Temples/Chureito Pagoda (忠霊塔).md",
-    "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",
     "New folder",

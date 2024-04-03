@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#WEAREMARIO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "index.md",
+                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,15 +247,15 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef061d2f60135dfb",
+  "active": "625e5510b4c3e985",
   "lastOpenFiles": [
+    "index.md",
     "Itinerario Kanban Prova.md",
     "Info/IC Cards/IC Cards.md",
     "Info/IC Cards/Icoca.md",
     "Info/IC Cards/Pasmo.md",
     "Info/IC Cards/Suica.md",
     "Info/Voli/Test per riferimento.md",
-    "index.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Cities/Miyajima (宮島).md",

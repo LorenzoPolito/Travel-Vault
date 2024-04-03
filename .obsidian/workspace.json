@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Info/Pass/Osaka Amazing pass.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
+                "file": "Info/Pass/Osaka Amazing pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
+                "file": "Info/Pass/Osaka Amazing pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md"
+                "file": "Info/Pass/Osaka Amazing pass.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -192,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
+                "file": "Info/Pass/Osaka Amazing pass.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2066334778401081,
+                  "scale": 0.1846232741569868,
                   "close": true
                 }
               }
@@ -247,21 +247,29 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "625e5510b4c3e985",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
+    "Info/Pass",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Info/Pass/Osaka Amazing pass.md",
     "index.md",
-    "Itinerario Kanban Prova.md",
-    "Info/IC Cards/IC Cards.md",
-    "Info/IC Cards/Icoca.md",
+    "Locations/Parks-nature/Monte Misen (弥山).md",
+    "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
+    "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
     "Info/IC Cards/Pasmo.md",
+    "Itinerari/Esterni/Itinerario Ossama Valentina.md",
+    "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
+    "Info/IC Cards/Icoca.md",
     "Info/IC Cards/Suica.md",
+    "Info/IC Cards/IC Cards.md",
+    "Locations/Stores/Nakano Broadway (中野ブロードウェイ).md",
+    "Itinerario Kanban Prova.md",
     "Info/Voli/Test per riferimento.md",
     "Locations/Cities/Tokyo(東京).md",
     "Locations/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Cities/Miyajima (宮島).md",
     "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Lista dei Luoghi.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/IC Cards",
     "allegati/Pasted image 20240315124351.png",
     "allegati/Pasted image 20240309113236.png",
@@ -278,14 +286,6 @@
     "Locations/Temples/Tempio Kutoku-in  (高徳院).md",
     "Locations/Temples/Tempio Kodai-ji (高台寺).md",
     "Locations/Temples/Tempio Kencho-ji (建長寺).md",
-    "Locations/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Temples/Tempio Hokoku-ji (報国寺).md",
-    "Locations/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
-    "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Locations/Temples/Tempio Engaku-ji (円覚寺).md",
-    "Locations/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Temples/Santuario Yasaka (八坂神社).md",
-    "Locations/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
     "Locations/Cities/Senza nome",
     "Locations/Cities/blocks/streets",
     "Itinerari/Solo con i luoghi/10 giorni",

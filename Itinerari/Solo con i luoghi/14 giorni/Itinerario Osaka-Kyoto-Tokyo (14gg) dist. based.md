@@ -107,7 +107,7 @@
 ##### Pomeriggio
 - *Riposo*
 ##### Sera
-- zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]] strada [[Ninenzaka]]
+- zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 
 ## Giorno 8 (4° Kyoto/->Tokyo)
 

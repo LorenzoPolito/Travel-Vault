@@ -11,9 +11,11 @@
             "id": "ef061d2f60135dfb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Itinerario Kanban Prova.md"
+                "file": "index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Kanban Prova.md"
+                "file": "index.md"
               }
             }
           },
@@ -190,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,6 +249,7 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Itinerario Kanban Prova.md",
     "Info/IC Cards/IC Cards.md",
     "Info/IC Cards/Icoca.md",
     "Info/IC Cards/Pasmo.md",
@@ -283,7 +286,6 @@
     "Locations/Temples/Tempio Daisho-in (大聖院).md",
     "Locations/Temples/Santuario Yasaka (八坂神社).md",
     "Locations/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
-    "Locations/Temples/Santuario Meiji (明治神宮).md",
     "Locations/Cities/Senza nome",
     "Locations/Cities/blocks/streets",
     "Itinerari/Solo con i luoghi/10 giorni",

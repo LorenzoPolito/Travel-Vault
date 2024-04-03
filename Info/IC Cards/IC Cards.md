@@ -12,11 +12,11 @@ Le carte IC sono carte ricaricabili che possono essere utilizzate per pagare com
 
 Al posto delle schede IC fisiche, è possibile utilizzare [versioni digitali](https://www.japan-guide.com/e/e2359_003.html#digital) di alcune delle schede sui [telefoni cellulari](https://www.japan-guide.com/e/e2223.html); tuttavia, al momento, i turisti d'oltremare possono farlo solo se possiedono un [Iphone](https://www.japan-guide.com/e/e2359_003.html#digital).
 
-|Carta|Costo Iniziale|Ricarica Minima|Ricarica Massima|Validità|Utilizzo|
-|---|---|---|---|---|---|
-|Suica|¥1000 (¥500 deposito + ¥500 credito)|¥10|¥20.000|10 anni|Trasporti pubblici e shopping a Tokyo e altre aree selezionate|
-|Pasmo|¥1000 - ¥10000 (incluso deposito di ¥500)|¥10|¥20.000|10 anni|Trasporti pubblici e shopping a Tokyo e altre aree selezionate|
-|Icoca|¥1000 - ¥10000 (incluso deposito di ¥500)|¥10|¥20.000|10 anni|Trasporti pubblici e shopping a Osaka e altre aree selezionate|
+| Carta | Costo Iniziale                            | Ricarica Minima | Ricarica Massima | Validità | Utilizzo                                                       |
+| ----- | ----------------------------------------- | --------------- | ---------------- | -------- | -------------------------------------------------------------- |
+| Suica | ¥1000 (¥500 deposito + ¥500 credito)      | ¥10             | ¥20.000          | 10 anni  | Trasporti pubblici e shopping a Tokyo e altre aree selezionate |
+| Pasmo | ¥1000 - ¥10000 (incluso deposito di ¥500) | ¥10             | ¥20.000          | 10 anni  | Trasporti pubblici e shopping a Tokyo e altre aree selezionate |
+| Icoca | ¥2000(incluso deposito di ¥500)           | ¥10             | ¥20.000          | 10 anni  | Trasporti pubblici e shopping a Osaka e altre aree selezionate |
 ### Validità
 
 #### Quali sono le dieci principali schede IC?

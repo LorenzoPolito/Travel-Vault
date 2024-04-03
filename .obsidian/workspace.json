@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Carte metro/Pasmo card.md",
-                "mode": "source",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Carte metro/Pasmo card.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Carte metro/Pasmo card.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Carte metro/Pasmo card.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           },
@@ -212,11 +212,11 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Info/Carte metro/Pasmo card.md",
     "Info/Carte metro/Suika card.md",
+    "Info/Carte metro/Pasmo card.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Carte metro",
     "allegati/Pasted image 20240315124351.png",
     "allegati/Pasted image 20240309113236.png",

@@ -1,5 +1,7 @@
 ## Guida alle carte PASMO
 
+> [PASMO PASSPORT, the IC card with special benefits you can use while in Japan | PASMO](https://www.pasmo.co.jp/visitors/en/)
+
 ![](https://a3.cdn.japantravel.com/photo/70396-237179/840x560!/guide-to-pasmo-cards-237179.jpg)Foto: [Marumotto](https://www.shutterstock.com/image-photo/moscow-russia-october-4-2019-pasmo-1521894476) / Shutterstock.com
 
 ### Sommario

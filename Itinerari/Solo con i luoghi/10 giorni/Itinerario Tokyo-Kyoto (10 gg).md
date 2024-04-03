@@ -15,8 +15,8 @@
 
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma
-- per Tokyo e Kyoto è utile una [[Suika card]] o [[Pasmo card]]
-- Ad Osaka si può fare la [[Icoca card]] non so se è valida anche nelle altre citta come Suika
+- per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
+- Ad Osaka si può fare la [[Icoca]] non so se è valida anche nelle altre citta come Suika
 - [[Osaka Amazing pass]] ( 2 giorni 22 €)
 - Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
 - Su [Klook.com](https://www.klook.com/it/) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto

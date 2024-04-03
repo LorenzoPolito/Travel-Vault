@@ -1,4 +1,4 @@
-# Suica card: ecco come funziona la famosa carta prepagata giapponese
+## Suica card: ecco come funziona la famosa carta prepagata giapponese
 
 Ott 29, 2021 | [Viaggio](https://viaggiareingiappone.it/category/viaggio/)
 

@@ -11,8 +11,12 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 265
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -98,14 +102,58 @@
       {
         "id": "be0c566cc90023a2",
         "type": "tabs",
-        "dimension": 64.25742574257426,
+        "dimension": 32.12871287128713,
         "children": [
           {
             "id": "bb8d7d74a57d298a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2a0e1031d728c2f0",
+        "type": "tabs",
+        "dimension": 32.12871287128713,
+        "children": [
+          {
+            "id": "d918d63c46608ac8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5843581180567529,
+                  "close": true
+                }
+              }
             }
           }
         ]
@@ -148,6 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 229
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +246,18 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Slides/Viaggio in Giappone.pptx",
-    "Slides",
+    "Locations/Cities/Nara (奈良市).md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
+    "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Info/Pass/Osaka Amazing pass.md",
-    "Info/Pass",
     "Info/IC Cards/Suica.md",
-    "Info/IC Cards/Pasmo.md",
     "Info/IC Cards/Icoca.md",
     "Info/IC Cards/IC Cards.md",
+    "Slides/Viaggio in Giappone.pptx",
+    "Slides",
+    "Info/Pass",
+    "Info/IC Cards/Pasmo.md",
     "Info/IC Cards",
     "Locations/Lista dei Luoghi.md",
     "Locations/Cities/Kyoto(京都).md",
@@ -225,16 +278,12 @@
     "Locations/Cities/blocks/streets/Harajuku (原宿).md",
     "Locations/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md",
     "Locations/Cities/blocks/streets",
-    "Locations/Castles/Palazzo Imperiale di Tokyo (皇居).md",
-    "Locations/Castles/Castello di Osaka (大阪城).md",
     "Locations/Castles",
-    "Locations/Buildings/Tokyo tower (東京タワー).md",
     "Locations/Buildings",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
     "Itinerari/Solo con i luoghi/16 giorni",
     "Itinerari/Solo con i luoghi/14 giorni",
-    "Itinerari/Solo con i luoghi/10 giorni",
     "allegati/Pasted image 20240309113236.png",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",

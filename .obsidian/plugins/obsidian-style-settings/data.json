@@ -4,5 +4,14 @@
   "obsidian-joval-theme@@show-tab-name": false,
   "obsidian-joval-theme@@stacked-tabs-focused": false,
   "obsidian-joval-theme@@show-title-parent": false,
-  "obsidian-joval-theme@@slim-bars": true
+  "obsidian-joval-theme@@slim-bars": true,
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-default-rainbow",
+  "anuppuccin-theme-settings@@anp-rainbow-file-toggle": false,
+  "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
+  "anuppuccin-theme-settings@@anp-alt-tab-style": "anp-default-tab",
+  "anuppuccin-theme-settings@@anp-layout-select": "anp-card-layout",
+  "anuppuccin-theme-settings@@anp-custom-vault-toggle": false,
+  "anuppuccin-theme-settings@@anp-file-icons": true,
+  "anuppuccin-theme-settings@@anp-collapse-folders": false,
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false
 }

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1506cd7c2e6b21b7",
+        "id": "91fe52aa3f5a8fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "ef061d2f60135dfb",
+            "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -105,65 +101,14 @@
         "dimension": 64.25742574257426,
         "children": [
           {
-            "id": "408e844197925b38",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2c1926446ce45207",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f3a441df08bc32d0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "01b02e4c004bc4c9",
+            "id": "bb8d7d74a57d298a",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
-              }
-            }
-          },
-          {
-            "id": "3402956b2d8599bf",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "6fb3ca181d141cfc",
@@ -187,46 +132,49 @@
             }
           },
           {
-            "id": "45d7c040859d2df1",
+            "id": "408e844197925b38",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
+              "type": "tag",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.324233311860125,
-                  "close": true
-                }
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b734b96c8a0be179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d1d1591a9e850f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,62 +186,62 @@
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ef061d2f60135dfb",
+  "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Info/IC Cards/Pasmo.md",
-    "Info/Voli/Test per riferimento.md",
-    "Info/Pass/Osaka Amazing pass.md",
-    "Info/IC Cards/Icoca.md",
-    "Info/IC Cards/IC Cards.md",
-    "index.md",
-    "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
-    "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
-    "Locations/Temples/Tempio Kutoku-in  (高徳院).md",
-    "Locations/Temples/Tempio Kodai-ji (高台寺).md",
-    "Locations/Temples/Tempio Kencho-ji (建長寺).md",
-    "Locations/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Temples/Tempio Hokoku-ji (報国寺).md",
-    "Locations/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
-    "Locations/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Locations/Temples/Tempio Engaku-ji (円覚寺).md",
-    "Locations/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Temples/Santuario Yasaka (八坂神社).md",
-    "Locations/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
-    "Locations/Temples/Santuario Meiji (明治神宮).md",
-    "Locations/Temples/Santuario Kanda (神田明神).md",
-    "Locations/Temples/Ryoan-ji (龍安寺方丈庭園).md",
-    "Locations/Temples/Kodokan dojo judo (講道館).md",
-    "Locations/Temples/Kiyomizu-dera (清水寺).md",
-    "Locations/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Temples/Kanandorii (金鳥居).md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",
-    "New folder",
-    "ppt710B.tmp",
-    "ppt66D8.tmp",
-    "Viaggio in Giappone.pptx",
-    "~$Viaggio in Giappone.pptx",
+    "Info/Pass/Osaka Amazing pass.md",
     "Info/Pass",
+    "Info/IC Cards/Suica.md",
+    "Info/IC Cards/Pasmo.md",
+    "Info/IC Cards/Icoca.md",
+    "Info/IC Cards/IC Cards.md",
     "Info/IC Cards",
-    "allegati/Pasted image 20240315124351.png",
+    "Locations/Lista dei Luoghi.md",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
+    "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
+    "Locations/Parks-nature/Teamlab botanical garden.md",
+    "Locations/Parks-nature/The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター).md",
+    "Locations/Parks-nature/Sentiero del filosofo (哲学の道).md",
+    "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
+    "Locations/Parks-nature/Monte Misen (弥山).md",
+    "Locations/Parks-nature/Memorial Park Hiroshima.md",
+    "Locations/Parks-nature/Mario kart ride.md",
+    "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
+    "Locations/Parks-nature/Arashiyama (嵐山).md",
+    "Locations/Parks-nature",
+    "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
+    "Locations/Cities/blocks/streets/Hondori street.md",
+    "Locations/Cities/blocks/streets/Harajuku (原宿).md",
+    "Locations/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md",
+    "Locations/Cities/blocks/streets",
+    "Locations/Castles/Palazzo Imperiale di Tokyo (皇居).md",
+    "Locations/Castles/Castello di Osaka (大阪城).md",
+    "Locations/Castles",
+    "Locations/Buildings/Tokyo tower (東京タワー).md",
+    "Locations/Buildings",
+    "allegati/Pasted image 20240315151037.png",
+    "allegati/Pasted image 20240315143605.png",
+    "Itinerari/Solo con i luoghi/16 giorni",
+    "Itinerari/Solo con i luoghi/14 giorni",
+    "Itinerari/Solo con i luoghi/10 giorni",
     "allegati/Pasted image 20240309113236.png",
-    "allegati/Pasted image 20240315125222.png",
-    "allegati/Pasted image 20240315132517.png",
-    "allegati/Pasted image 20240315132546.png",
-    "allegati/Pasted image 20240315132537.png",
-    "allegati/Pasted image 20240315132557.png",
-    "allegati/Pasted image 20240315132603.png",
-    "allegati/Pasted image 20240315141212.png",
-    "allegati/Pasted image 20240315143254.png",
-    "Locations/Cities/Senza nome"
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+    "allegati/Pasted image 20240109155043.png",
+    "allegati/Pasted image 20240109154659.png",
+    "allegati/Pasted image 20240109154532.png",
+    "allegati/Pasted image 20240109154335.png"
   ]
 }

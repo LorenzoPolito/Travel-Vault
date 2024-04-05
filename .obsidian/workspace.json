@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
       {
         "id": "be0c566cc90023a2",
         "type": "tabs",
-        "dimension": 64.25742574257426,
+        "dimension": 40.553907022749755,
         "children": [
           {
             "id": "408e844197925b38",
@@ -163,29 +163,13 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
-        "id": "6fb3ca181d141cfc",
+        "id": "aa276ee1082c411d",
         "type": "tabs",
-        "dimension": 35.742574257425744,
+        "dimension": 28.387734915924828,
         "children": [
-          {
-            "id": "c4103d0aeec749df",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "6f62312d5a2c831d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
           {
             "id": "45d7c040859d2df1",
             "type": "leaf",
@@ -215,14 +199,36 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.324233311860125,
+                  "scale": 0.2066334778401081,
                   "close": true
                 }
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "6fb3ca181d141cfc",
+        "type": "tabs",
+        "dimension": 31.05835806132542,
+        "children": [
+          {
+            "id": "c4103d0aeec749df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6f62312d5a2c831d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,11 +255,11 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "conflict-files-obsidian-git.md",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Info/Pass/JR pass.md",
     "Info/E-Sim/E-SIM panoramica delle disponibili.md",
     "Info/E-Sim",

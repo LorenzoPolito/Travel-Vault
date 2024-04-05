@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/IC Cards/Suica.md"
+                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/IC Cards/Suica.md",
+                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,6 +246,9 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
+    "Info/IC Cards/Suica.md",
+    "Info/E-Sim/E-SIM panoramica delle disponibili.md",
+    "Info/E-Sim",
     "Info/IC Cards/IC Cards.md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
@@ -264,7 +267,6 @@
     "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Info/Pass/Osaka Amazing pass.md",
-    "Info/IC Cards/Suica.md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",
     "Info/Pass",
@@ -282,7 +284,6 @@
     "Locations/Parks-nature/Memorial Park Hiroshima.md",
     "Locations/Parks-nature/Mario kart ride.md",
     "Locations/Parks-nature",
-    "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240309113236.png",

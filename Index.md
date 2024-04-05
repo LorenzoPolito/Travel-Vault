@@ -45,7 +45,7 @@
 [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
 [[TOEI Kyoto studio park (東映太秦映画村)]]
 [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
-[[Senza nome]]
+[[E-SIM panoramica delle disponibili]]
 [[Mercato del pesce di Tsukiji (築地場外市場)]]
 [[Nakano Broadway (中野ブロードウェイ)]]
 [[Nishiki Market (錦市場)]]

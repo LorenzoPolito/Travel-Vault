@@ -58,7 +58,7 @@
 - (Namba, Minami) [[Dotonbori (道頓堀)]]
 
 
-## Giorno 3 ( 2° Osaka)
+## Giorno 4 ( 2° Osaka)
 ##### Mattina
 - [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
 #### Pomeriggio
@@ -66,7 +66,7 @@
 ##### Sera
 - [[Umeda Sky Building (梅田スカイビル)]]
 
-## Giorno 4 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
+## Giorno 5 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
 ##### Mattina
 - [[Castello di Osaka (大阪城)]] (9:00-17:00)
 
@@ -82,7 +82,7 @@
 ##### Sera
 - Sera libera
 
-## Giorno 5 (1° Kyoto)
+## Giorno 6 (1° Kyoto)
 
 ##### Mattina
 - [[Quartiere Gion (祇園)]]
@@ -94,7 +94,7 @@
 ##### Sera
 - [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 
-## Giorno 6 ( 2° Kyoto)
+## Giorno 7 ( 2° Kyoto)
 ##### Mattina
 - *Lavanderia*
 - [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
@@ -111,7 +111,7 @@
 - libera??
 
 
-## Giorno 7 (3° Kyoto)
+## Giorno 8 (3° Kyoto)
 ##### Mattina
 - [[Fushimi Inari (伏見稲荷大社)]] 
 
@@ -152,7 +152,7 @@
 ##### Sera
 - **Riposo**
 
-## Giorno 12 (4° Tokyo)
+## Giorno 12 (5° Tokyo)
 ##### Mattina
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
@@ -168,7 +168,7 @@
 
 **Preparare le valigie**
 
-## Giorno 13 (5° Tokyo/->Viaggio)
+## Giorno 13 (6° Tokyo/->Viaggio)
 ##### Mattina
 - #gruppoA Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] 
 - #gruppoB ??? #chiedere a @Damiano@Federico@Scova dove vorrebbero fare i loro ultimi acquisti 

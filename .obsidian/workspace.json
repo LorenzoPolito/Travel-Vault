@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/IC Cards/Icoca.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/IC Cards/Icoca.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/IC Cards/Icoca.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,7 +150,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2728283795880725,
+                  "scale": 0.09379562063741041,
                   "close": true
                 }
               }
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/IC Cards/Icoca.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/IC Cards/Icoca.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +244,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8dba358edee933ec",
+  "active": "d918d63c46608ac8",
   "lastOpenFiles": [
+    "Info/IC Cards/Icoca.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Voli/Test per riferimento.md",
     "allegati/Pasted image 20240405125139.png",
@@ -255,7 +256,6 @@
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Info/Pass/Osaka Amazing pass.md",
     "Info/IC Cards/Suica.md",
-    "Info/IC Cards/Icoca.md",
     "Info/IC Cards/IC Cards.md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",

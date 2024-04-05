@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "mode": "preview",
+                "file": "Info/Voli/Test per riferimento.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
+                "file": "Info/Voli/Test per riferimento.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +246,9 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Locations/Cities/Nara (奈良市).md",
+    "allegati/Pasted image 20240405124412.png",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Locations/Cities/Nara (奈良市).md",
     "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Info/Pass/Osaka Amazing pass.md",
@@ -276,7 +277,6 @@
     "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
     "Locations/Cities/blocks/streets/Hondori street.md",
     "Locations/Cities/blocks/streets/Harajuku (原宿).md",
-    "Locations/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md",
     "Locations/Cities/blocks/streets",
     "Locations/Castles",
     "Locations/Buildings",

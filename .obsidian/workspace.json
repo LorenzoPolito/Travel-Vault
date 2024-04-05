@@ -11,9 +11,11 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
+                "file": "Info/Pass/JR pass.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
+                "file": "Info/Pass/JR pass.md"
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/Pass/JR pass.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/Pass/JR pass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/Pass/JR pass.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,9 +244,10 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8dba358edee933ec",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Info/Pass/JR pass.md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Info/Assicurazione viaggi",
     "Info/Nuova cartella",

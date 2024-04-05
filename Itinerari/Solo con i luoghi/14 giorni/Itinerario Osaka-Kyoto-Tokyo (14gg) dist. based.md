@@ -17,6 +17,7 @@
 
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma
+- Il [[JR pass]] ci permette di andare gratis su Shinkansen e molte metro/bus
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
 - Ad Osaka si può fare la [[Icoca]] non so se è valida anche nelle altre citta come Suika
 - [[Osaka Amazing pass]] ( 2 giorni 22 €)

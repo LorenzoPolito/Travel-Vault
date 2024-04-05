@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Pass/JR pass.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "mode": "preview",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Pass/JR pass.md"
+                "file": "Info/Voli/Test per riferimento.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Pass/JR pass.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Pass/JR pass.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Pass/JR pass.md",
+                "file": "Info/Voli/Test per riferimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,8 +246,8 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Pass/JR pass.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Info/Assicurazione viaggi",
     "Info/Nuova cartella",

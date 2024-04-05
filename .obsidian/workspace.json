@@ -11,8 +11,12 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md"
+              }
             }
           },
           {
@@ -129,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }

@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Itinerario Kanban Prova.md"
+                "file": "Itinerario Kanban Template.md"
               }
             }
           }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "Itinerario Kanban Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "Itinerario Kanban Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Kanban Prova.md"
+                "file": "Itinerario Kanban Template.md"
               }
             }
           },
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerario Kanban Prova.md",
+                "file": "Itinerario Kanban Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

@@ -113,6 +113,14 @@
                 "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md"
               }
             }
+          },
+          {
+            "id": "f66283b84150e4d5",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
         ]
       },
@@ -235,13 +243,13 @@
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-map-view:Open map view": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-day-planner:Timeline": false
     }
   },
   "active": "8dba358edee933ec",

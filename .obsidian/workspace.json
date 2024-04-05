@@ -11,11 +11,9 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "mode": "source",
-                "source": false
+                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
+                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
               }
             }
           }
@@ -127,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +242,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "d918d63c46608ac8",
+  "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Info/IC Cards/Icoca.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+    "Info/Assicurazione viaggi",
+    "Info/Nuova cartella",
+    "Info/IC Cards/Icoca.md",
     "Info/Voli/Test per riferimento.md",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
@@ -278,14 +279,10 @@
     "Locations/Parks-nature",
     "Locations/Cities/blocks/streets/Sannenzaka e Ninezaka (三年坂)(二年坂).md",
     "Locations/Cities/blocks/streets/Hondori street.md",
-    "Locations/Cities/blocks/streets/Harajuku (原宿).md",
     "Locations/Cities/blocks/streets",
     "Locations/Castles",
-    "Locations/Buildings",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
-    "Itinerari/Solo con i luoghi/16 giorni",
-    "Itinerari/Solo con i luoghi/14 giorni",
     "allegati/Pasted image 20240309113236.png",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",

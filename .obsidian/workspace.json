@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md"
               }
             }
           }
@@ -127,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Voli/Test per riferimento.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,6 +246,8 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
+    "Info/Voli/Test per riferimento.md",
+    "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Locations/Cities/Nara (奈良市).md",
@@ -289,8 +291,6 @@
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "allegati/Pasted image 20240109155043.png",
-    "allegati/Pasted image 20240109154659.png",
-    "allegati/Pasted image 20240109154532.png",
-    "allegati/Pasted image 20240109154335.png"
+    "allegati/Pasted image 20240109154659.png"
   ]
 }

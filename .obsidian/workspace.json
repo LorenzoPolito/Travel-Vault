@@ -11,9 +11,11 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
+                "file": "Info/IC Cards/Suica.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf"
+                "file": "Info/IC Cards/Suica.md"
               }
             }
           }
@@ -125,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/IC Cards/Suica.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/IC Cards/Suica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
+                "file": "Info/IC Cards/Suica.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,6 +246,8 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
+    "Info/IC Cards/IC Cards.md",
+    "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Senza nome",
@@ -251,7 +255,6 @@
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Info/Voli/Test per riferimento.md",
     "Info/Pass/JR pass.md",
-    "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Info/Assicurazione viaggi",
     "Info/Nuova cartella",
     "Info/IC Cards/Icoca.md",
@@ -262,7 +265,6 @@
     "Locations/Cities/blocks/Odaiba (お台場 ).md",
     "Info/Pass/Osaka Amazing pass.md",
     "Info/IC Cards/Suica.md",
-    "Info/IC Cards/IC Cards.md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",
     "Info/Pass",
@@ -279,7 +281,6 @@
     "Locations/Parks-nature/Monte Misen (弥山).md",
     "Locations/Parks-nature/Memorial Park Hiroshima.md",
     "Locations/Parks-nature/Mario kart ride.md",
-    "Locations/Parks-nature/Kaiyukan aquarium (海遊館).md",
     "Locations/Parks-nature",
     "Locations/Cities/blocks/streets",
     "allegati/Pasted image 20240315151037.png",

@@ -11,9 +11,11 @@
             "id": "ef061d2f60135dfb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Itinerario Kanban Template.md"
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -119,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Kanban Template.md"
+                "file": "Index.md"
               }
             }
           },
@@ -174,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -254,6 +256,8 @@
   },
   "active": "ef061d2f60135dfb",
   "lastOpenFiles": [
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+    "Itinerario Kanban Template.md",
     "Index.md",
     "Locations/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Temples/Tempio Senso-Ji (浅草寺).md",
@@ -278,8 +282,6 @@
     "Locations/Temples/Itsukushima shrine (嚴島神社).md",
     "Locations/Temples/Fushimi Inari (伏見稲荷大社).md",
     "Locations/Temples/Daikaku-ji Temple (大覚寺).md",
-    "Locations/Temples/Chureito Pagoda (忠霊塔).md",
-    "Locations/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
     "Info/E-Sim",

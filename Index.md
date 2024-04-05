@@ -87,9 +87,15 @@
 [[Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg)]]
 [[Itinerario Osaka-Tokyo (11 gg)]]
 [[Itinerario Tokyo-Kyoto (10 gg)]]
-
+[[Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based]]
 ## Info
 [[Test per riferimento]]
 [[Suica]]
 [[Icoca]]
 [[Pasmo]]
+[[202007-travel_care(PREVENTIVO).pdf]]
+[[E-SIM panoramica delle disponibili]]
+[[IC Cards]]
+[[JR pass]]
+[[Osaka Amazing pass]]
+

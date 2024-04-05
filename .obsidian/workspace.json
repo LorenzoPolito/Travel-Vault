@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Info/Pass/JR pass.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -244,7 +244,7 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "8dba358edee933ec",
   "lastOpenFiles": [
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Info/Pass/JR pass.md",

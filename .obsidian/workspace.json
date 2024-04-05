@@ -13,8 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
-                "mode": "preview",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea81a7ed08d003b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md"
               }
             }
           },
@@ -135,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/E-Sim/E-SIM panoramica delle disponibili.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,13 +266,14 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Info/IC Cards/Suica.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+    "Locations/Cities/blocks/Asakusa(浅草).md",
     "Info/E-Sim/E-SIM panoramica delle disponibili.md",
+    "Info/IC Cards/Suica.md",
     "Info/E-Sim",
     "Info/IC Cards/IC Cards.md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Senza nome",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
@@ -290,7 +303,6 @@
     "Locations/Parks-nature/Parco di Ueno (上野恩賜公園).md",
     "Locations/Parks-nature/Monte Misen (弥山).md",
     "Locations/Parks-nature/Memorial Park Hiroshima.md",
-    "Locations/Parks-nature/Mario kart ride.md",
     "Locations/Parks-nature",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",

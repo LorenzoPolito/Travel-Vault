@@ -23,3 +23,11 @@
 - [[Osaka Amazing pass]] ( 2 giorni 22 €)
 - Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
 - Su [Klook.com](https://www.klook.com/it/) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto
+
+## Giorno 8 (4° Kyoto/->Tokyo)
+
+##### Pomeriggio
+- Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
+- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
+##### Sera
+- [[Asakusa(浅草)]] di notte

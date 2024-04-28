@@ -95,18 +95,21 @@
 ##### Sera
 - z
 
-## Giorno 4 (1° [[Hiroshima(広島)]])
+## Giorno 7 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
-##### Mattina:
+##### Mattina
 - [[Nagarekawa (流川)]]
-##### Pomeriggio: 
+##### Pomeriggio
 - [[Hondori street]] 
 ##### Sera: 
 - a piacere
-## Giorno 5 ( 2° Hiroshima)
+## Giorno 8 ( 2° Hiroshima)
 
-##### Mattina: 
+##### Mattina
 - [[Memorial Park Hiroshima]](24H 7:30-19:00 )
+
+##### Pomeriggio
+- *(partenza per Tokyo 3h30min)*
 
 
 ## Giorno 9 (2° [[Tokyo(東京)]])

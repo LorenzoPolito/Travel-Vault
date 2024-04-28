@@ -84,6 +84,31 @@
 ##### Sera
 - zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
 
+## Giorno 6 (4° Kyoto)
+
+##### Mattina
+- F 
+
+*Anche dopo pranzo*
+##### Pomeriggio
+- R
+##### Sera
+- z
+
+## Giorno 4 (1° [[Hiroshima(広島)]])
+*(2h per arrivare a Hiroshima)*
+##### Mattina:
+- [[Nagarekawa (流川)]]
+##### Pomeriggio: 
+- [[Hondori street]] 
+##### Sera: 
+- a piacere
+## Giorno 5 ( 2° Hiroshima)
+
+##### Mattina: 
+- [[Memorial Park Hiroshima]](24H 7:30-19:00 )
+
+
 ## Giorno 9 (2° [[Tokyo(東京)]])
 ##### Mattina
 - *Lavanderia* ?

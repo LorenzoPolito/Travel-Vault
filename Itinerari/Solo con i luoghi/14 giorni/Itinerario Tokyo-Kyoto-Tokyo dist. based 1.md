@@ -73,7 +73,7 @@
 
 ## Giorno 8 (3° Kyoto)
 ##### Mattina
-
+- Zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 ##### Pomeriggio
 ##### Sera
 

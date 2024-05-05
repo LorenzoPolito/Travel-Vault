@@ -80,6 +80,17 @@
 ##### Sera
 - [[Sentiero del filosofo (哲学の道)]]
 
+## Giorno 6 ([[Nara (奈良市)]]/[[Kyoto(京都)]])
+##### Mattina
+- [[Castello di Osaka (大阪城)]] (9:00-17:00)
+
+*Partenza verso Nara (53min)*
+*pranzo sul treno*
+##### Pomeriggio
+- [[Nara (奈良市)]]
+##### Sera
+- Sera libera
+
 ## Giorno 6 (2° [[Tokyo(東京)]])
 ##### Mattina
 - *Lavanderia* ?

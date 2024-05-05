@@ -13,28 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e92f68b7401d99da",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3793f29564e3de63",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "surfing-view",
-              "state": {
-                "url": "https://www.booking.com/Share-RljAO5"
-              },
-              "pinned": true
             }
           }
         ]
@@ -127,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md"
+              }
             }
           },
           {
@@ -151,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -219,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,10 +252,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3793f29564e3de63",
+  "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
+    "Locations/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
@@ -303,7 +291,6 @@
     "Locations/Cities/Kyoto(京都).md",
     "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
     "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
-    "Locations/Parks-nature/Teamlab botanical garden.md",
     "Locations/Parks-nature",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",

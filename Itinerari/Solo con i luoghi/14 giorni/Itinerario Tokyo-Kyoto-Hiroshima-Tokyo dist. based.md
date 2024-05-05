@@ -55,7 +55,7 @@
 - [[Tempio Kodai-ji (高台寺)]]
 - [[Kiyomizu-dera (清水寺)]] (al tramonto)
 ##### Sera
-- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 
 ## Giorno 4 ( 2° Kyoto)
 ##### Mattina
@@ -82,7 +82,7 @@
 ##### Pomeriggio
 - *Riposo*
 ##### Sera
-- zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+- zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 
 ## Giorno 6 (4° Kyoto)
 

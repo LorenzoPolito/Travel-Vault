@@ -45,59 +45,19 @@
 - [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
 ##### Sera
 - [[Asakusa(浅草)]] di notte
-
-## Giorno 3 (1° [[Osaka(大阪市)]])
-##### Mattina
-- Partenza da Tokyo verso Osaka con lo Shinkansen
-  *(2h12min)*
-##### Pomeriggio
-- [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30)
-- [[Shinsekai (新世界と通天閣​)]]
-- [[Torre Tsutenkaku (通天閣)]]
-##### Sera
-- [[Tempio Hozen-ji (法善寺)]]
-- (Namba, Minami) [[Dotonbori (道頓堀)]]
-
-
-## Giorno 4 ( 2° Osaka)
-##### Mattina
-- [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
-#### Pomeriggio
-- [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]
-##### Sera
-- [[Umeda Sky Building (梅田スカイビル)]]
-
-## Giorno 5 (->[[Nara (奈良市)]]/->[[Kyoto(京都)]])
-##### Mattina
-- [[Castello di Osaka (大阪城)]] (9:00-17:00)
-
-*Partenza verso Nara (53min)*
-*pranzo sul treno*
-*lasciamo le valigie ai locker*
-##### Pomeriggio
-- [[Nara (奈良市)]]
-
-*Partenza verso Kyoto (45min o 1h con la D Nara Line)*
-*Ci sono treni anche alle 21:00*
-*Check-in all'hotel e riposo*
-##### Sera
-- Sera libera
-
-## Giorno 6 (1° Kyoto)
+## Giorno 3 (1° Kyoto)
 
 ##### Mattina
-- [[Quartiere Gion (祇園)]]
-- [[Santuario Yasaka (八坂神社)]]
+*(viaggio da Tokyo a Kyoto 2h30min)*
 - [[Nishiki Market (錦市場)]] (pranzo) ( 9:00-17:30 **chiuso domenica**)
 ##### Pomeriggio
 - [[Tempio Kodai-ji (高台寺)]]
 - [[Kiyomizu-dera (清水寺)]] (al tramonto)
 ##### Sera
-- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 
-## Giorno 7 ( 2° Kyoto)
+## Giorno 4 ( 2° Kyoto)
 ##### Mattina
-- *Lavanderia*
 - [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
 - [[Adashino nenbutsuji (化野念仏寺)]] *(se c'è tempo)*
 
@@ -120,7 +80,7 @@
 ##### Pomeriggio
 - *Riposo*
 ##### Sera
-- zona [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+- zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 
 ## Giorno 9 (2° [[Tokyo(東京)]])
 ##### Mattina

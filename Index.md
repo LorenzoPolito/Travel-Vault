@@ -11,7 +11,7 @@
 [[Golden Gai (ゴールデン街 )]]
 [[Harajuku (原宿)]]
 [[Hondori street]]
-[[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+[[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 [[Akihabara (秋葉原)]]
 [[Asakusa(浅草)]]
 [[Dotonbori (道頓堀)]]

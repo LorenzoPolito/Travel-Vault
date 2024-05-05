@@ -68,7 +68,7 @@
 - [[Nishiki Market (錦市場)]] (pranzo)
 ##### Pomeriggio/sera: 
 - [[Tempio Kodai-ji (高台寺)]]
-- [[Sannenzaka e Ninezaka (三年坂)(二年坂)]]
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 - [[Kiyomizu-dera (清水寺)]]
 ## Giorno 6 ( 2° Kyoto)
 ##### Mattina: 

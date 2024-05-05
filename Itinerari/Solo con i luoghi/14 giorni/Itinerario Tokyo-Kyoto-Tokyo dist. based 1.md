@@ -93,17 +93,15 @@
 
 ## Giorno 7 (2° [[Tokyo(東京)]])
 ##### Mattina
+*(Viaggio da Kyoto a Tokyo 2h30min)*
 - *Lavanderia* ?
-- 
 ##### Pomeriggio
-- #gruppoA Quartiere di [[Akihabara (秋葉原)]]  
-- #gruppoB [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
+- Quartiere di [[Akihabara (秋葉原)]]  
 ##### Sera
 - Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno (上野恩賜公園)]]
 ## Giorno 10 (3° Tokyo)
 ##### Mattina
 - Quartiere di [[Shibuya (渋谷区)]] e [[Pokemon center Shibuya]] 
-- [[Mario kart ride]] (100€ circa) (10:00 - 22:00 )
 ##### Pomeriggio
 - [[Santuario Meiji (明治神宮)]] 
 - Quartiere di [[Shinjuku (新宿区)]] 

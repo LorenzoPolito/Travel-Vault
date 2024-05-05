@@ -71,13 +71,16 @@
 - [[Fushimi Inari (伏見稲荷大社)]]
 
 
-## Giorno 8 (3° Kyoto)
+## Giorno 5 (3° Kyoto)
 ##### Mattina
+- *Lavanderia*
 - Zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 ##### Pomeriggio
+- [[Santuario Yasaka (八坂神社)]]
 ##### Sera
+- [[Sentiero del filosofo (哲学の道)]]
 
-## Giorno 9 (2° [[Tokyo(東京)]])
+## Giorno 6 (2° [[Tokyo(東京)]])
 ##### Mattina
 - *Lavanderia* ?
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]

@@ -64,23 +64,18 @@
 *Arashiyama è lontana dal centro 50min*
 *per andare alle tappe successive ci vogliono altri 50min*
 ##### Pomeriggio
-- [[Ryoan-ji (龍安寺方丈庭園)]] 
 - [[Kinkaku-ji (金閣寺)]]
 
 *per tornare al centro 40min*
 ##### Sera
-- libera??
+- [[Fushimi Inari (伏見稲荷大社)]]
 
 
 ## Giorno 8 (3° Kyoto)
 ##### Mattina
-- [[Fushimi Inari (伏見稲荷大社)]] 
 
-*Anche dopo pranzo*
 ##### Pomeriggio
-- *Riposo*
 ##### Sera
-- zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 
 ## Giorno 9 (2° [[Tokyo(東京)]])
 ##### Mattina

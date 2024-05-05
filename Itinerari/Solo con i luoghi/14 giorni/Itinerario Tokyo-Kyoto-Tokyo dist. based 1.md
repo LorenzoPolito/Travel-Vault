@@ -1,14 +1,14 @@
 
 |    città     | giorni | notti | € a notte _(provvisorio)_ |                         note                         |
-| :----------: | :----: | :---: | :-----------------------: | :--------------------------------------------------: |
+|:------------:|:------:|:-----:|:-------------------------:|:----------------------------------------------------:|
 | Volo andata  |   1    |   1   |         300/400 €         |                       12h/20h                        |
 |    Tokyo     |   1    |   1   |           23 €            |                                                      |
-|    Kyoto     |  3.5   |   3   |         30€ circa         |                 TOEI park Eva(15 €)?                 |
-|     Nara     |  0.5   |   0   |                           |                                                      |
-|    Kyoto     |        |       |                           |                                                      |
-|    Tokyo     |   5    |   5   |            23             | 1 divisione del gruppo;  <br>Mario Kart ride (100€)? |
+|    Kyoto     |   4    |   3   |         30€ circa         |                 TOEI park Eva(15 €)?                 |
+|     Nara     |   1    |   0   |                           |                                                      |
+|    Kyoto     |   3    |   3   |                           |                                                      |
+|    Tokyo     |   7    |   7   |            23             | 1 divisione del gruppo;  <br>Mario Kart ride (100€)? |
 | Volo ritorno |   1    |   1   |         300/400 €         |                       12h/20h                        |
-|  **TOTALE**  |   14   |  13   |       1078 € circa        |              2 circa giorni di viaggio               |
+|  **TOTALE**  |   18   |  16   |       1078 € circa        |              2 circa giorni di viaggio               |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

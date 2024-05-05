@@ -46,6 +46,18 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "3793f29564e3de63",
+      "parent": 0,
+      "droppable": true,
+      "text": "Surfing",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true
 }

@@ -91,11 +91,10 @@
 ##### Sera
 - Sera libera
 
-## Giorno 6 (2° [[Tokyo(東京)]])
+## Giorno 7 (2° [[Tokyo(東京)]])
 ##### Mattina
 - *Lavanderia* ?
-- Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
+- 
 ##### Pomeriggio
 - #gruppoA Quartiere di [[Akihabara (秋葉原)]]  
 - #gruppoB [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]

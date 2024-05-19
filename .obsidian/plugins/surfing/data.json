@@ -46,7 +46,18 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
-  "enableHtmlPreview": true,
-  "supportLivePreviewInlineUrl": false
+  "treeData": [
+    {
+      "id": "0701f02a8295d4a3",
+      "parent": 0,
+      "droppable": true,
+      "text": "Prima di continuare su Google Maps",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true
 }

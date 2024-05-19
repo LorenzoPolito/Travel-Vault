@@ -94,17 +94,23 @@
     "linksDisplayed": false
   },
   "maxClusterRadiusPixels": 20,
-  "searchProvider": "google",
+  "searchProvider": "osm",
   "useGooglePlaces": false,
   "mapSources": [
     {
       "name": "CartoDB",
       "urlLight": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
       "preset": true
+    },
+    {
+      "name": "GoogleMaps",
+      "urlLight": "https://www.google.com/maps",
+      "maxZoom": 19,
+      "currentMode": "auto"
     }
   ],
   "frontMatterKey": "location",
-  "chosenMapMode": "dark",
+  "chosenMapMode": "auto",
   "saveHistory": true,
   "letZoomBeyondMax": false,
   "queryForFollowActiveNote": "path:\"$PATH$\"",

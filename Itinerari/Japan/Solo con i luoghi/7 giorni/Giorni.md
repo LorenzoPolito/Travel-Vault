@@ -17,13 +17,17 @@ kanban-plugin: basic
 
 - [ ] [[Tempio Senso-Ji (浅草寺)]]
 - [ ] [[Pokemon center Asakusa]]
-- [ ] Pranzo
 - [ ] [[Tokyo skytree (東京スカイツリー)]]
+- [ ] Pranzo
+- [ ] [[Santuario Kanda (神田明神)]]
+- [ ] [[Kodokan dojo judo (講道館)]]
 - [ ] Cena
+- [ ] [[Parco di Ueno (上野恩賜公園)]]
 
 
 ## Giorno 3
 
+- [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
 - [ ] [[Akihabara (秋葉原)]]
 - [ ] Pranzo
 - [ ] [[Shibuya (渋谷区)]]
@@ -45,8 +49,6 @@ kanban-plugin: basic
 
 ## Giorno 5
 
-- [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
-- [ ] [[Tokyo tower (東京タワー)]]
 - [ ] Pranzo
 - [ ] [[Odaiba (お台場 )]]
 - [ ] Cena

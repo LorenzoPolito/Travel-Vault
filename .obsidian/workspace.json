@@ -13,26 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8a47f721b53579c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10763676dffa3297",
+            "id": "42840d358c59db7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md"
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+                "file": "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,16 +266,14 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Locations/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
     "Locations/Lista dei Luoghi.md",
-    "Locations/Parks-nature/Sentiero del filosofo (哲学の道).md",
-    "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
-    "Locations/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
-    "Locations/Hotels/Hotel-Hostel-Case-Appartamenti.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
+    "Locations/Parks-nature/Memorial Park Hiroshima.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Info/E-Sim/E-SIM panoramica delle disponibili.md",
     "Info/Pass/JR pass.md",
@@ -299,7 +285,6 @@
     "Info/E-Sim",
     "Info/IC Cards/IC Cards.md",
     "Itinerari/Solo con i luoghi/14 giorni/Senza nome",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Info/Voli/Test per riferimento.md",
     "Info/Assicurazione viaggi",
     "Info/Nuova cartella",
@@ -315,6 +300,9 @@
     "Info/Pass",
     "Info/IC Cards/Pasmo.md",
     "Info/IC Cards",
+    "Locations/Cities/Kyoto(京都).md",
+    "Locations/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
+    "Locations/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
     "Locations/Parks-nature",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",

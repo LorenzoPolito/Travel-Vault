@@ -48,16 +48,18 @@ kanban-plugin: basic
 - [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
 - [ ] [[Tokyo tower (東京タワー)]]
 - [ ] Pranzo
-- [ ] [[Roppongi (六本木)]]
-- [ ] [[Rainbow Bridge (レインボーブリッジ)]]
+- [ ] [[Odaiba (お台場 )]]
 - [ ] Cena
+- [ ] [[Rainbow Bridge (レインボーブリッジ)]]
 
 
 ## Giorno 6
 
 - [ ] [[Palazzo Imperiale di Tokyo (皇居)]]
 - [ ] Pranzo
+- [ ] [[Roppongi (六本木)]]
 - [ ] Cena
+- [ ] [[Ginza (銀座)]]
 
 
 ## Giorno 7

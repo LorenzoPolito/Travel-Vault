@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -36,13 +36,12 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://consent.google.com/m?continue=https://www.google.com/maps/@35.6976246,139.7784823,13.35z?authuser%3D0%26entry%3Dttu&gl=IT&m=0&pc=m&uxe=eomtm&cm=2&hl=it&src=1"
+                "url": "https://www.google.com/maps/@35.6834735,139.7584838,14z?authuser=0&entry=ttu"
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md"
+              }
             }
           },
           {
@@ -156,6 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -224,6 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,6 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,6 +258,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "surfing:surfing-bookmark-manager": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -271,7 +276,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0701f02a8295d4a3",
+  "active": "8dba358edee933ec",
   "lastOpenFiles": [
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",

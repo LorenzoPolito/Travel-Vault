@@ -8,6 +8,6 @@
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
-
+<iframe src="https://www.google.com/maps/@35.6976246,139.7784823,13.35z?authuser=0&amp;entry=ttu" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>
 
 ![[Kanban view]]

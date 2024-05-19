@@ -22,13 +22,13 @@
   "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
-  "useWebview": false,
+  "useWebview": true,
   "useIconList": true,
   "darkMode": true,
   "randomBackground": false,
   "lastOpenedFiles": false,
   "bookmarkManager": {
-    "openBookMark": false,
+    "openBookMark": true,
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
@@ -51,7 +51,7 @@
       "id": "0701f02a8295d4a3",
       "parent": 0,
       "droppable": true,
-      "text": "Prima di continuare su Google Maps",
+      "text": "Google Maps",
       "data": {
         "fileType": "site",
         "fileSize": "",
@@ -59,5 +59,6 @@
       }
     }
   ],
-  "enableHtmlPreview": true
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": true
 }

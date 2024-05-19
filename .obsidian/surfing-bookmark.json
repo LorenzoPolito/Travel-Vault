@@ -1,0 +1,36 @@
+{
+  "bookmarks": [
+    {
+      "id": "818312239",
+      "name": "Google Maps",
+      "url": "https://www.google.com/maps/@35.6834735,139.7584838,14z?authuser=0&entry=ttu",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1716118633404,
+      "modified": 1716118633404
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

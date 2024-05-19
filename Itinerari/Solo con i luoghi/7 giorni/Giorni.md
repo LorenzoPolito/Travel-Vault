@@ -34,12 +34,16 @@ kanban-plugin: basic
 - [ ] [[Shibuya (渋谷区)]]
 - [ ] [[Pokemon center Shibuya]]
 - [ ] Pranzo
+- [ ] [[Santuario Meiji (明治神宮)]]
 - [ ] [[Shinjuku (新宿区)]]
 - [ ] Cena
+- [ ] [[Golden Gai (ゴールデン街 )]]
 
 
 ## Giorno 5
 
+- [ ] [[Nakano (中野市)]]
+- [ ] [[Nakano Broadway (中野ブロードウェイ)]]
 - [ ] Pranzo
 - [ ] Cena
 

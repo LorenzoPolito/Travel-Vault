@@ -36,12 +36,13 @@
             "state": {
               "type": "surfing-view",
               "state": {
-                "url": "https://www.google.com/maps/@35.6834735,139.7584838,14z?authuser=0&entry=ttu"
+                "url": "https://www.google.com/maps/@35.7136418,139.7977969,17z?authuser=0&entry=ttu"
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,9 +132,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,7 +156,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +224,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +240,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,10 +272,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dba358edee933ec",
+  "active": "0701f02a8295d4a3",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Kanban view.md",
     "Locations/Japan/Cities/blocks/Nakano (中野市).md",
     "Locations/Japan/Lista dei Luoghi.md",
     "Locations/Japan/Cities/blocks/Ginza (銀座).md",

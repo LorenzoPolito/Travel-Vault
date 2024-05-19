@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9118aedcfbcbdf84",
+        "id": "91fe52aa3f5a8fb8",
         "type": "tabs",
         "children": [
           {
-            "id": "a00e9399ff5e3aa8",
+            "id": "10763676dffa3297",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -40,7 +42,7 @@
             }
           },
           {
-            "id": "cc0d796580c96572",
+            "id": "f70bef912827cf68",
             "type": "leaf",
             "state": {
               "type": "surfing-tab-tree",
@@ -91,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 473
+    "width": 265
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -108,12 +110,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
           {
-            "id": "2233b04c323066b3",
+            "id": "f66283b84150e4d5",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -133,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +158,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2240214594750684,
+                  "scale": 0.17883855360660644,
                   "close": true
                 }
               }
@@ -202,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +235,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "surfing:surfing-bookmark-manager": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -246,49 +247,49 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-day-planner:Timeline": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a00e9399ff5e3aa8",
+  "active": "10763676dffa3297",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Kanban view.md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo",
-    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
-    "Locations/Japan/Cities/blocks/Nakano (中野市).md",
-    "Locations/Japan/Lista dei Luoghi.md",
-    "Locations/Japan/Cities/blocks/Ginza (銀座).md",
-    "Index.md",
-    "Locations/Japan/Buildings/Rainbow Bridge (レインボーブリッジ).md",
-    "Itinerario Kanban Template.md",
-    "Info/Japan",
-    "Itinerari/Japan",
-    "Locations/Japan",
-    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
-    "Kanban senza titolo.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni",
+    "conflict-files-obsidian-git.md",
+    "Locations/Lista dei Luoghi.md",
     "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
-    "Locations/Japan/Parks-nature/Memorial Park Hiroshima.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
-    "Info/Japan/Pass/JR pass.md",
-    "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
-    "Locations/Japan/Restaurants/Senza nome.md",
+    "Locations/Japan/Cities/blocks/streets/Hondori street.md",
+    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
+    "Locations/Japan/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md",
+    "Locations/Japan/Cities/blocks/streets",
+    "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).md",
+    "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
+    "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
+    "Locations/Japan/Cities/blocks/Roppongi (六本木).md",
+    "Locations/Japan/Cities/blocks/Quartiere Gion (祇園).md",
+    "Locations/Japan/Cities/blocks/Odaiba (お台場 ).md",
+    "Locations/Japan/Cities/blocks/Nagarekawa (流川).md",
+    "Locations/Japan/Cities/blocks/Nakano (中野市).md",
     "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
-    "Info/Japan/IC Cards/Suica.md",
-    "Info/Japan/E-Sim",
-    "Itinerari/Solo con i luoghi/14 giorni/Senza nome",
-    "Info/Assicurazione viaggi",
-    "Info/Nuova cartella",
+    "Locations/Japan/Cities/blocks/Ginza (銀座).md",
+    "Locations/Japan/Cities/blocks/Dotonbori (道頓堀).md",
+    "Locations/Japan/Cities/blocks/Akihabara (秋葉原).md",
+    "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
+    "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
+    "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
+    "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md",
+    "Locations/Japan/Temples/Tempio Kencho-ji (建長寺).md",
+    "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).md",
+    "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).md",
+    "Locations/Japan/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
+    "Locations/Japan/Cities/blocks",
+    "Locations/Japan/Temples",
+    "Locations/Japan/Stores",
+    "Locations/Japan/Restaurants",
+    "Locations/Japan/Parks-nature",
+    "Locations/Japan/Hotels",
+    "Locations/Japan/Cities",
+    "Locations/Japan/Castles",
+    "Locations/Japan/Buildings",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
     "allegati/Pasted image 20240315151037.png",

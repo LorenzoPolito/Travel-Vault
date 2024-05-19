@@ -3,10 +3,10 @@
 |    città     | giorni | notti | € a notte *(provvisorio)* |        note         |
 |:------------:|:------:|:-----:|:-------------------------:|:-------------------:|
 | Volo andata  |   1    |   1   |         300/400 €         |                     |
-|    Osaka     |   3    |   3   |           25 €            |  1/2 giorno a nara  |
+|    Osaka     |   2    |   2   |           25 €            |  1/2 giorno a nara  |
 |    Tokyo     |   6    |   6   |           23 €            | 1 giorno a Kamakura |
 | Volo ritorno |   1    |   1   |         300/400 €         |                     |
-|  **TOTALE**  |   11   |  11   |                           |                     |
+|  **TOTALE**  |   10   |  10   |                           |                     |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

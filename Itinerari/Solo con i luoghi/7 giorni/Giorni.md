@@ -16,18 +16,25 @@ kanban-plugin: basic
 - [ ] Arrivo e check-in
 - [ ] [[Asakusa(浅草)]]
 - [ ] Pranzo
+- [ ] [[Tempio Senso-Ji (浅草寺)]]
 - [ ] Cena
 
 
 ## Giorno 3
 
+- [ ] [[Pokemon center Asakusa]]
+- [ ] [[Tokyo skytree (東京スカイツリー)]]
 - [ ] Pranzo
+- [ ] [[Akihabara (秋葉原)]]
 - [ ] Cena
 
 
 ## Giorno 4
 
+- [ ] [[Shibuya (渋谷区)]]
+- [ ] [[Pokemon center Shibuya]]
 - [ ] Pranzo
+- [ ] [[Shinjuku (新宿区)]]
 - [ ] Cena
 
 
@@ -44,48 +51,6 @@ kanban-plugin: basic
 
 
 ## Giorno 7
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 8
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 9
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 10
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 11
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 12
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 13
-
-- [ ] Pranzo
-- [ ] Cena
-
-
-## Giorno 14
 
 - [ ] Pranzo
 - [ ] Cena

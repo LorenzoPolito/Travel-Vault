@@ -8,4 +8,6 @@
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
-![[Giorni]]
+
+
+![[Kanban view]]

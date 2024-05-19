@@ -9,7 +9,7 @@
 [[Test per riferimento]]
 [[Itinerario Ossama Valentina]]
 [[Rail Adventure SiVola.it (14 gg)]]
-[[Giorni]]
+[[Kanban view]]
 [[Itinerario Tokyo (7 gg.)]]
 [[Itinerario Osaka-Tokyo (11 gg)]]
 [[Itinerario Tokyo-Kyoto (10 gg)]]

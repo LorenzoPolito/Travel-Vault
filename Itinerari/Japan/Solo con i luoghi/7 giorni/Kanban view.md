@@ -42,26 +42,28 @@ kanban-plugin: basic
 - [ ] [[Shinjuku (新宿区)]]
 - [ ] Pranzo
 - [ ] [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
-- [ ] [[Nakano (中野市)]]
-- [ ] Cena
 - [ ] [[Nakano Broadway (中野ブロードウェイ)]]
+- [ ] Cena
+- [ ] [[Nakano (中野市)]]
 
 
 ## Giorno 5
 
+- [ ] [[Fujiyoshida (富士吉田市)]]
+- [ ] [[Chureito Pagoda (忠霊塔)]]
 - [ ] Pranzo
-- [ ] [[Odaiba (お台場 )]]
+- [ ] [[Kanandorii (金鳥居)]]
 - [ ] Cena
-- [ ] [[Rainbow Bridge (レインボーブリッジ)]]
 
 
 ## Giorno 6
 
 - [ ] [[Palazzo Imperiale di Tokyo (皇居)]]
 - [ ] Pranzo
-- [ ] [[Roppongi (六本木)]]
+- [ ] [[Odaiba (お台場 )]]
+- [ ] [[Rainbow Bridge (レインボーブリッジ)]]
 - [ ] Cena
-- [ ] [[Ginza (銀座)]]
+- [ ] [[Roppongi (六本木)]]
 
 
 ## Giorno 7

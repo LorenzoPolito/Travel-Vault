@@ -12,9 +12,11 @@
             "id": "8dba358edee933ec",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -22,12 +24,8 @@
             "id": "8f678bb139801907",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ]
@@ -140,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md"
               }
             }
           },
@@ -165,7 +163,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +249,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,8 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 229
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,9 +282,11 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Locations/Japan/Lista dei Luoghi.md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+    "Locations/Japan/Cities/blocks/Nakano (中野市).md",
+    "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Cities/blocks/Ginza (銀座).md",
     "Index.md",
     "Locations/Japan/Buildings/Rainbow Bridge (レインボーブリッジ).md",
     "Itinerario Kanban Template.md",
@@ -320,8 +319,6 @@
     "Info/Japan/IC Cards/Icoca.md",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
-    "Locations/Japan/Cities/Nara (奈良市).md",
-    "Locations/Japan/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "Slides/Viaggio in Giappone.pptx",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",

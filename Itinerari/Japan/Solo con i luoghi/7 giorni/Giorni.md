@@ -45,18 +45,24 @@ kanban-plugin: basic
 - [ ] [[Nakano (中野市)]]
 - [ ] [[Nakano Broadway (中野ブロードウェイ)]]
 - [ ] Pranzo
+- [ ] [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]
 - [ ] Cena
 
 
 ## Giorno 6
 
+- [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
+- [ ] [[Palazzo Imperiale di Tokyo (皇居)]]
 - [ ] Pranzo
+- [ ] [[Tokyo tower (東京タワー)]]
 - [ ] Cena
+- [ ] [[Roppongi (六本木)]]
 
 
 ## Giorno 7
 
 - [ ] Pranzo
+- [ ] Volo
 - [ ] Cena
 
 

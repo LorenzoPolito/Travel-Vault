@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md"
               }
             }
           },
@@ -24,13 +24,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d97f7a58f08d0b65",
@@ -43,7 +44,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Lista dei Luoghi.md",
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md"
               }
             }
           },
@@ -165,7 +166,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +252,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,46 +284,46 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8dba358edee933ec",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
-    "Locations/Lista dei Luoghi.md",
-    "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
-    "Locations/Cities/blocks/streets/Harajuku (原宿).md",
-    "Itinerari/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+    "Info/Japan",
+    "Itinerari/Japan",
+    "Locations/Japan",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Giorni.md",
+    "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
     "Itinerario Kanban Template.md",
     "Kanban senza titolo.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
-    "Itinerari/Solo con i luoghi/7 giorni",
-    "Locations/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
-    "Locations/Parks-nature/Memorial Park Hiroshima.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Itinerari/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Info/E-Sim/E-SIM panoramica delle disponibili.md",
-    "Info/Pass/JR pass.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni",
+    "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",
+    "Locations/Japan/Parks-nature/Memorial Park Hiroshima.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
+    "Info/Japan/Pass/JR pass.md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
-    "Locations/Restaurants/Senza nome.md",
-    "Locations/Cities/blocks/Asakusa(浅草).md",
-    "Info/IC Cards/Suica.md",
-    "Info/E-Sim",
-    "Info/IC Cards/IC Cards.md",
+    "Locations/Japan/Restaurants/Senza nome.md",
+    "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
+    "Info/Japan/IC Cards/Suica.md",
+    "Info/Japan/E-Sim",
+    "Info/Japan/IC Cards/IC Cards.md",
     "Itinerari/Solo con i luoghi/14 giorni/Senza nome",
-    "Info/Voli/Test per riferimento.md",
+    "Info/Japan/Voli/Test per riferimento.md",
     "Info/Assicurazione viaggi",
     "Info/Nuova cartella",
-    "Info/IC Cards/Icoca.md",
+    "Info/Japan/IC Cards/Icoca.md",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
-    "Locations/Cities/Nara (奈良市).md",
-    "Locations/Buildings/Umeda Sky Building (梅田スカイビル).md",
-    "Locations/Cities/blocks/Odaiba (お台場 ).md",
-    "Info/Pass/Osaka Amazing pass.md",
+    "Locations/Japan/Cities/Nara (奈良市).md",
+    "Locations/Japan/Buildings/Umeda Sky Building (梅田スカイビル).md",
+    "Locations/Japan/Cities/blocks/Odaiba (お台場 ).md",
     "Slides/Viaggio in Giappone.pptx",
     "Slides",
-    "Info/Pass",
-    "Info/IC Cards",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240309113236.png",

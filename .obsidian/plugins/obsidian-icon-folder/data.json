@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiJapaneseYen",
       "LiStretchVertical",
       "TiBuildingChurch",
       "RiBuildingFill",
-      "BoBxsCastle",
-      "TiTransferVertical"
+      "BoBxsCastle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -37,8 +37,9 @@
     "iconsInLinksEnabled": true
   },
   "Locations": "FasLocationDot",
-  "Locations/Temples": "TiBuildingChurch",
   "Locations Interactive Map": "LiLocateFixed",
-  "Slides": "RiSlideshowFill",
-  "Itinerari": "TiTransferVertical"
+  "Itinerari": "TiTransferVertical",
+  "Info/Japan": "LiJapaneseYen",
+  "Locations/Japan": "LiJapaneseYen",
+  "Itinerari/Japan": "LiJapaneseYen"
 }

@@ -94,7 +94,7 @@
     "linksDisplayed": false
   },
   "maxClusterRadiusPixels": 20,
-  "searchProvider": "osm",
+  "searchProvider": "google",
   "useGooglePlaces": false,
   "mapSources": [
     {

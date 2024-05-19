@@ -46,18 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "3793f29564e3de63",
-      "parent": 0,
-      "droppable": true,
-      "text": "Konoha house【Japanese-style guest house near Asakusa & Skytree】, Tokyo – Prezzi aggiornati per il 2024",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
-  "enableHtmlPreview": true
+  "treeData": [],
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": false
 }

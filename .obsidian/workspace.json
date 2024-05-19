@@ -14,7 +14,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Itinerario Kanban Template.md"
+                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerario Kanban Template.md"
+                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md"
               }
             }
           },
@@ -165,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Kanban Template.md",
+                "file": "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,12 +285,12 @@
   },
   "active": "8dba358edee933ec",
   "lastOpenFiles": [
-    "Itinerari/Solo con i luoghi/7 giorni/Kanban view.md",
-    "Itinerario Kanban Template.md",
+    "Locations/Lista dei Luoghi.md",
+    "Itinerari/Solo con i luoghi/7 giorni/Giorni.md",
     "Itinerari/Solo con i luoghi/7 giorni/Itinerario Tokyo (7 gg.).md",
+    "Itinerario Kanban Template.md",
     "Kanban senza titolo.md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
-    "Locations/Lista dei Luoghi.md",
     "Itinerari/Solo con i luoghi/7 giorni",
     "Locations/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
     "Itinerari/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Tokyo dist. based 1.md",

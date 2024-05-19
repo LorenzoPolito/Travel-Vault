@@ -1,7 +1,0 @@
-![](https://fujiyoshida.net/image/rendering/attraction_image/104/trim.900/3/2?v=409b27d21eaa77dbd17ff4dff7179cbb3fd7ec16)
-![](https://fujiyoshida.net/image/rendering/attraction_image/105/trim.900/3/2?v=54c538e72f9ba49f10c5f66897bb2fdfaadf2c64](https://fujiyoshida.net/en/see-and-do/24#)![](https://fujiyoshida.net/image/rendering/attraction_image/107/trim.900/3/2?v=cb4f2dad352e5f8abfdff3ac51235f24fd3b61d4)
-![](https://fujiyoshida.net/image/rendering/attraction_image/108/trim.900/3/2?v=0d8ea21cbfee69abf7d4702b6f69dbc3c16c2b86)
-
-A historic bronze torii gate leading into the sacred realm of Mt. Fuji worship
-
-## The Kana-dorii Gate was built to invite Mt. Fuji worshippers to the city, and to mark the "border" between earthly life and the spiritual world of Mt. Fuji. It was regarded a sacred object and passing under it was said to transport you. According to records, it was originally built in 1788, but it was repeatedly damaged by natural disasters over the years, and was thus reconstructed many times. The present gate is built in 1957, and is a beloved as a landmark of Fujiyoshida City. The gate is 9.88 meters in height, 7.9m wide (inside pillars), the width of the top beam is 13.4m, and the pillar diameter is 0.88m. The tablet at the center of the torii reads "Fuji-san."

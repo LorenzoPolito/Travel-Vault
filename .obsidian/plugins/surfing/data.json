@@ -22,13 +22,13 @@
   "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
-  "useWebview": false,
+  "useWebview": true,
   "useIconList": true,
   "darkMode": true,
   "randomBackground": false,
   "lastOpenedFiles": false,
   "bookmarkManager": {
-    "openBookMark": false,
+    "openBookMark": true,
     "saveBookMark": false,
     "sendToReadWise": false,
     "pagination": "12",
@@ -46,6 +46,19 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
-  "enableHtmlPreview": true
+  "treeData": [
+    {
+      "id": "0701f02a8295d4a3",
+      "parent": 0,
+      "droppable": true,
+      "text": "Google Maps",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
+  "enableHtmlPreview": true,
+  "supportLivePreviewInlineUrl": true
 }

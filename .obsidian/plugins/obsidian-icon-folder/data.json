@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 4,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiJapaneseYen",
       "LiStretchVertical",
       "TiBuildingChurch",
       "RiBuildingFill",
-      "BoBxsCastle",
-      "TiTransferVertical"
+      "BoBxsCastle"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -34,20 +34,26 @@
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":",
-    "iconsInLinksEnabled": true
+    "iconsInLinksEnabled": true,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "debugMode": false
   },
   "Locations": "FasLocationDot",
-  "Locations/Cities": "FasCity",
-  "Locations/Restaurants": "RiRestaurantFill",
-  "Locations/Stores": "IbStore",
-  "Locations/Temples": "TiBuildingChurch",
-  "Locations/Hotels": "LiHotel",
-  "Locations/Cities/blocks": "FasStreetView",
   "Locations Interactive Map": "LiLocateFixed",
-  "Slides": "RiSlideshowFill",
   "Itinerari": "TiTransferVertical",
-  "Locations/Castles": "BoBxsCastle",
-  "Locations/Buildings": "RiBuildingFill",
-  "Locations/Cities/blocks/streets": "LiStretchVertical",
-  "Locations/Parks-nature": "TiRollercoaster"
+  "Locations/Japan/Hotels": "LiHotel",
+  "Locations/Japan/Cities": "FasCity",
+  "Locations/Japan/Cities/blocks": "FasStreetView",
+  "Locations/Japan/Cities/blocks/streets": "LiStretchVertical",
+  "Locations/Japan/Castles": "BoBxsCastle",
+  "Locations/Japan/Buildings": "RiBuildingFill",
+  "Locations/Japan/Parks-nature": "TiRollercoaster",
+  "Locations/Japan/Restaurants": "RiRestaurantFill",
+  "Locations/Japan/Stores": "IbStore",
+  "Locations/Japan/Temples": "TiBuildingChurch",
+  "Locations/Japan": "LiJapaneseYen",
+  "Itinerari/Japan": "LiJapaneseYen",
+  "Info/Japan": "LiJapaneseYen"
 }

@@ -11,11 +11,11 @@ kanban-plugin: basic
 - [ ] Arrivo e check-in
 - [ ] [[Asakusa(浅草)]]
 - [ ] Cena
+- [ ] [[Tempio Senso-Ji (浅草寺)]]
 
 
 ## Giorno 2
 
-- [ ] [[Tempio Senso-Ji (浅草寺)]]
 - [ ] [[Pokemon center Asakusa]]
 - [ ] [[Tokyo skytree (東京スカイツリー)]]
 - [ ] Pranzo

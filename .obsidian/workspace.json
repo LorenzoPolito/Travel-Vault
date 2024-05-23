@@ -29,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md"
               }
             }
           },
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,10 +265,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d2b5284fd6d40b8",
+  "active": "9fefc71e1af4f252",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Locations/Japan/Castles/Palazzo Imperiale di Tokyo (皇居).md",
     "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",

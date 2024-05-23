@@ -19,10 +19,10 @@ kanban-plugin: basic
 - [ ] [[Asakusa(浅草)]]
 - [ ] [[Tokyo skytree (東京スカイツリー)]]
 - [ ] Pranzo
-- [ ] [[Santuario Kanda (神田明神)]]
-- [ ] [[Kodokan dojo judo (講道館)]]
+- [ ] [[Santuario Kanda (神田明神)]]* (32min Ginza line)*
+- [ ] [[Kodokan dojo judo (講道館)]]<br>*(17min Marunoichi line/26min cammino)*
 - [ ] Cena
-- [ ] [[Parco di Ueno (上野恩賜公園)]]
+- [ ] [[Parco di Ueno (上野恩賜公園)]]<br>*(17min Oedo line)*
 
 
 ## Giorno 3

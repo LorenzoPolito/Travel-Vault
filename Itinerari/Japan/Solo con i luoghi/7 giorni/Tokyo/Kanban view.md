@@ -30,10 +30,10 @@ kanban-plugin: basic
 - [ ] **Alzarsi molto presto**<br>[[Mercato del pesce di Tsukiji (築地場外市場)]]<br>*(50min Ginza line da [[Asakusa(浅草)]])*
 - [ ] [[Akihabara (秋葉原)]]<br>*(25min Hibiya line)*
 - [ ] Pranzo
-- [ ] [[Shibuya (渋谷区)]]
+- [ ] [[Shibuya (渋谷区)]]<br>*(40min Ginza line)*
 - [ ] [[Pokemon center Shibuya]]
 - [ ] Cena
-- [ ] [[Golden Gai (ゴールデン街 )]]
+- [ ] [[Golden Gai (ゴールデン街 )]]<br>*(25min Fukutoshin line)*
 
 
 ## Giorno 4

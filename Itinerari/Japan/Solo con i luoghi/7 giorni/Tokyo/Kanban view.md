@@ -6,17 +6,17 @@ kanban-plugin: basic
 
 ## Giorno 1
 
-- [ ] Pranzo
+- [ ] Inventario, controllo biglietti e pass
 - [ ] Volo
+- [ ] Pranzo
 - [ ] Arrivo e check-in
-- [ ] [[Asakusa(浅草)]]
 - [ ] Cena
 - [ ] [[Tempio Senso-Ji (浅草寺)]]
 
 
 ## Giorno 2
 
-- [ ] [[Pokemon center Asakusa]]
+- [ ] [[Asakusa(浅草)]]
 - [ ] [[Tokyo skytree (東京スカイツリー)]]
 - [ ] Pranzo
 - [ ] [[Santuario Kanda (神田明神)]]

@@ -11,8 +11,10 @@
             "id": "5d2b5284fd6d40b8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
+              }
             }
           }
         ]
@@ -105,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
+              }
             }
           },
           {
@@ -129,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,6 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,11 +254,11 @@
   },
   "active": "5d2b5284fd6d40b8",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Locations/Japan/Castles/Palazzo Imperiale di Tokyo (皇居).md",
     "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "conflict-files-obsidian-git.md",
     "Locations/Lista dei Luoghi.md",
     "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",

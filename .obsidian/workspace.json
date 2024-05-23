@@ -16,6 +16,18 @@
                 "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md"
               }
             }
+          },
+          {
+            "id": "9fefc71e1af4f252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -254,9 +266,9 @@
   },
   "active": "5d2b5284fd6d40b8",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
+    "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
     "Locations/Japan/Castles/Palazzo Imperiale di Tokyo (皇居).md",
     "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "conflict-files-obsidian-git.md",

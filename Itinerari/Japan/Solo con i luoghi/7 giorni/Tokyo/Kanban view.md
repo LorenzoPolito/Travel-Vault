@@ -27,8 +27,8 @@ kanban-plugin: basic
 
 ## Giorno 3
 
-- [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
-- [ ] [[Akihabara (秋葉原)]]
+- [ ] **Alzarsi molto presto**<br>[[Mercato del pesce di Tsukiji (築地場外市場)]]<br>*(50min Ginza line da [[Asakusa(浅草)]])*
+- [ ] [[Akihabara (秋葉原)]]<br>*(25min Hibiya line)*
 - [ ] Pranzo
 - [ ] [[Shibuya (渋谷区)]]
 - [ ] [[Pokemon center Shibuya]]

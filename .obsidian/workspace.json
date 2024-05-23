@@ -11,8 +11,12 @@
             "id": "b149a9a606aa2060",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -105,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md"
+              }
             }
           },
           {
@@ -129,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -197,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,6 +256,7 @@
   },
   "active": "b149a9a606aa2060",
   "lastOpenFiles": [
+    "allegati/Pasted image 20240523103142.png",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Osaka-Kyoto-Tokyo dist. based.md",
@@ -273,7 +283,6 @@
     "Locations/Japan/Cities/blocks/Akihabara (秋葉原).md",
     "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
-    "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",

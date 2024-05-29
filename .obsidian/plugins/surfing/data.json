@@ -46,19 +46,7 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "0701f02a8295d4a3",
-      "parent": 0,
-      "droppable": true,
-      "text": "Google Maps",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ],
+  "treeData": [],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": true
 }

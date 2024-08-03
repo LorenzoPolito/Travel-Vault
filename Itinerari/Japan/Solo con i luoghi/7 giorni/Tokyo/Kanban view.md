@@ -6,34 +6,34 @@ kanban-plugin: basic
 
 ## Giorno 1
 
-- [ ] Pranzo
+- [ ] Inventario, controllo biglietti e pass
 - [ ] Volo
+- [ ] Pranzo
 - [ ] Arrivo e check-in
-- [ ] [[Asakusa(浅草)]]
 - [ ] Cena
+- [ ] [[Tempio Senso-Ji (浅草寺)]]
 
 
 ## Giorno 2
 
-- [ ] [[Tempio Senso-Ji (浅草寺)]]
-- [ ] [[Pokemon center Asakusa]]
+- [ ] [[Asakusa(浅草)]]
 - [ ] [[Tokyo skytree (東京スカイツリー)]]
 - [ ] Pranzo
-- [ ] [[Santuario Kanda (神田明神)]]
-- [ ] [[Kodokan dojo judo (講道館)]]
+- [ ] [[Santuario Kanda (神田明神)]]* (32min Ginza line)*
+- [ ] [[Kodokan dojo judo (講道館)]]<br>*(17min Marunoichi line/26min cammino)*
 - [ ] Cena
-- [ ] [[Parco di Ueno (上野恩賜公園)]]
+- [ ] [[Parco di Ueno (上野恩賜公園)]]<br>*(17min Oedo line)*
 
 
 ## Giorno 3
 
-- [ ] [[Mercato del pesce di Tsukiji (築地場外市場)]]
-- [ ] [[Akihabara (秋葉原)]]
+- [ ] **Alzarsi molto presto**<br>[[Mercato del pesce di Tsukiji (築地場外市場)]]<br>*(50min Ginza line da [[Asakusa(浅草)]])*
+- [ ] [[Akihabara (秋葉原)]]<br>*(25min Hibiya line)*
 - [ ] Pranzo
-- [ ] [[Shibuya (渋谷区)]]
+- [ ] [[Shibuya (渋谷区)]]<br>*(40min Ginza line)*
 - [ ] [[Pokemon center Shibuya]]
 - [ ] Cena
-- [ ] [[Golden Gai (ゴールデン街 )]]
+- [ ] [[Golden Gai (ゴールデン街 )]]<br>*(25min Fukutoshin line)*
 
 
 ## Giorno 4

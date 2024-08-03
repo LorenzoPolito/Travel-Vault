@@ -15,37 +15,30 @@
       }
     },
     {
-      "query": "path:Locations/Cities/blocks  ",
-      "color": {
-        "a": 1,
-        "rgb": 220675
-      }
-    },
-    {
-      "query": "path:Locations/Cities  ",
-      "color": {
-        "a": 1,
-        "rgb": 11064077
-      }
-    },
-    {
       "query": "path:Locations  ",
       "color": {
         "a": 1,
         "rgb": 4524977
       }
+    },
+    {
+      "query": "path:Info ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 0.916666666666667,
-  "lineSizeMultiplier": 0.686979166666667,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.03252595155709,
+  "lineSizeMultiplier": 0.422145328719723,
   "collapse-forces": true,
   "centerStrength": 1,
   "repelStrength": 20,
   "linkStrength": 0.730103806228374,
   "linkDistance": 339,
   "scale": 0.287108206797149,
-  "close": true
+  "close": false
 }

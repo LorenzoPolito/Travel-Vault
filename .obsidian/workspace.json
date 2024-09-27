@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md"
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -265,10 +265,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b149a9a606aa2060",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/12 giorni",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
@@ -294,7 +295,6 @@
     "Locations/Japan/Cities/blocks/Nakano (中野市).md",
     "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
     "Locations/Japan/Cities/blocks/Ginza (銀座).md",
-    "Locations/Japan/Cities/blocks/Dotonbori (道頓堀).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",

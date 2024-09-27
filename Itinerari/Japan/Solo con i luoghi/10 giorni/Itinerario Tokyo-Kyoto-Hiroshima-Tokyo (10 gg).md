@@ -3,12 +3,12 @@
 |    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
 | Volo andata  |   0    |   0   |         300/400 €         |                      |
-|    Tokyo     |  3,5   |   3   |           23 €            |                      |
+|    Tokyo     |   3    |   3   |           23 €            |                      |
 |    Kyoto     |   3    |   3   |         30€ circa         | TOEI park Eva(15 €)? |
-|  Hiroshima   |        |   2   |                           |                      |
-|    Tokyo     |        |   3   |                           |                      |
+|  Hiroshima   |   2    |   2   |                           |                      |
+|    Tokyo     |  2.5   |   3   |                           |                      |
 | Volo ritorno |   0    |   0   |         300/400 €         |                      |
-|  **TOTALE**  |   0    |  11   |                           |                      |
+|  **TOTALE**  |  10.5  |  11   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

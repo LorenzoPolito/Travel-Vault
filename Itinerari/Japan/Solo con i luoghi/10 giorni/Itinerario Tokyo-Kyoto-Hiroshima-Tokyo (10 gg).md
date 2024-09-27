@@ -42,36 +42,8 @@
 - [[Roppongi (六本木)]]
 - [[Azanudai]]
 - [[Tokyo tower (東京タワー)]]
-## Giorno 3 ( 1° [[Kyoto(京都)]])
-(2h per arrivare a Kyoto)
-##### Mattina: 
-- [[Santuario Yasaka (八坂神社)]]
-- [[Quartiere Gion (祇園)]]
-- [[Nishiki Market (錦市場)]] (pranzo)
-##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji (高台寺)]]
-- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
-## Giorno 4 ( 2° Kyoto)
-##### Mattina: 
-- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
-##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
-##### Sera: 
-- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
-## Giorno 5 ( 3° Kyoto/Tokyo)
-##### Mattina: 
-- [[Nara (奈良市)]] #discutere 
 
-*Partenza per Tokyo (circa 2h)*
-##### Pomeriggio/sera: 
-- [[Kodokan dojo judo (講道館)]], 
-- [[Santuario Kanda (神田明神)]], 
-- [[Parco di Ueno (上野恩賜公園)]]
-- [[Akihabara (秋葉原)]] (in generale)
-## Giorno 6 ( 2° Tokyo)
+## Giorno 2 ( 2° Tokyo)
 ##### Mattina: 
 - #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
@@ -82,7 +54,7 @@
 - [[Tempio Senso-Ji (浅草寺)]]
 - [[Tokyo skytree (東京スカイツリー)]]
 
-## Giorno 7 ( 3° Tokyo/Esterna)
+## Giorno 3 ( 3° Tokyo/Esterna)
 ##### Mattina: 
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] 
 - [[Ginza (銀座)]] ? #discutere *se c'è tempo*
@@ -91,7 +63,46 @@
 ##### Sera: 
 - [[Shinjuku (新宿区)]]
 - [[Santuario Meiji (明治神宮)]]
-## Giorno 8 (4° Tokyo)
+
+## Giorno 4 ( 1° [[Kyoto(京都)]])
+(2h per arrivare a Kyoto)
+##### Mattina: 
+- [[Santuario Yasaka (八坂神社)]]
+- [[Quartiere Gion (祇園)]]
+- [[Nishiki Market (錦市場)]] (pranzo)
+##### Pomeriggio/sera: 
+- [[Tempio Kodai-ji (高台寺)]]
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
+- [[Ninenzaka street]]
+- [[Kyojizu-dera]]
+## Giorno 5 ( 2° Kyoto)
+##### Mattina: 
+- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
+##### Pomeriggio: 
+- [[Ryon-ji]]  
+- [[Kikaku-ji]]
+##### Sera: 
+- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
+## Giorno 6 ( 3° Kyoto)
+##### Mattina: 
+- [[Nara (奈良市)]] #discutere 
+
+## Giorno 7 (1° [[Hiroshima(広島)]])
+*(2h per arrivare a Hiroshima)*
+##### Mattina
+- [[Nagarekawa (流川)]]
+##### Pomeriggio
+- [[Hondori street]] 
+##### Sera: 
+- a piacere
+## Giorno 8 ( 2° Hiroshima)
+
+##### Mattina
+- [[Memorial Park Hiroshima]](24H 7:30-19:00 )
+
+##### Pomeriggio
+- *(partenza per Tokyo 3h30min)*
+## Giorno 9 (4° Tokyo)
 ##### Mattina:
 - [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano (中野市)]]
 - [[Nakano Broadway (中野ブロードウェイ)]]
@@ -102,13 +113,10 @@
 ##### Sera: 
 - [[Mario kart shibuya ride]]
 - ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
-## Giorno 9 ( 5° Tokyo)
+## Giorno 10 ( 5° Tokyo)
 ##### Mattina: 
 - libera (ultimi acquisti)
 - [[Nakano Broadway (中野ブロードウェイ)]] *solo se necessario*
 ##### Pomeriggio: 
 - preparazione per la partenza
 - volo di rientro (12h/14h diretto)
-## Giorno 10 (viaggio)
-##### Mattina
-- rientro a casa

@@ -11,97 +11,67 @@
 |  **TOTALE**  |  10.5  |  11   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
-
-#discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
-#discutere spirito di adattamento
-
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
-- Ad Osaka si può fare la [[Icoca]] non so se è valida anche nelle altre citta come Suika
-- [[Osaka Amazing pass]] ( 2 giorni 22 €)
-- Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
-- Su [Klook.com](https://www.klook.com/it/) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto
-## Giorno 1 (viaggio)
-#### Mattina:
-- preparazione valige
-- inventario e controllo documenti
-- controllo biglietti e pass
-##### Pomeriggio/Sera:
-- partenza per aeroporto
-- cena
-- si vola (15h/16h con scalo)
 
-> A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
+## Giorno 1( 1° [[Tokyo(東京)]])
 
-## Giorno 2( 1° [[Tokyo(東京)]])
+##### Mattina: 
+
 ##### Pomeriggio: 
-- [[Palazzo Imperiale di Tokyo (皇居)]] 
-- rientro albergo
+
 ##### Sera: 
-- [[Roppongi (六本木)]]
-- [[Azanudai]]
-- [[Tokyo tower (東京タワー)]]
 
 ## Giorno 2 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
+
 ##### Pomeriggio: 
-- [[Odaiba (お台場 )]]
-- [[Rainbow Bridge (レインボーブリッジ)]] (tramonto)
 ##### Sera: 
-- [[Asakusa(浅草)]] 
-- [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree (東京スカイツリー)]]
 
 ## Giorno 3 ( 3° Tokyo/Esterna)
 ##### Mattina: 
-- [[Mercato del pesce di Tsukiji (築地場外市場)]] 
-- [[Ginza (銀座)]] ? #discutere *se c'è tempo*
-##### Pomeriggio: 
-- Partenza per [[Kamakura]] (1h da Tokyo)
-##### Sera: 
-- [[Shinjuku (新宿区)]]
-- [[Santuario Meiji (明治神宮)]]
+
+##### Pomeriggio:
+
+##### Sera:
 
 ## Giorno 4 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Mattina: 
-- [[Santuario Yasaka (八坂神社)]]
-- [[Quartiere Gion (祇園)]]
-- [[Nishiki Market (錦市場)]] (pranzo)
+
 ##### Pomeriggio/sera: 
-- [[Tempio Kodai-ji (高台寺)]]
-- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
-- [[Ninenzaka street]]
-- [[Kyojizu-dera]]
+
 ## Giorno 5 ( 2° Kyoto)
 ##### Mattina: 
-- [[Arashiyama (嵐山)]] (quartiere e foresta bambu)
+
 ##### Pomeriggio: 
-- [[Ryon-ji]]  
-- [[Kikaku-ji]]
+
 ##### Sera: 
-- [[Fushimi Inari (伏見稲荷大社)]] (tramonto) #discutere 
+
 ## Giorno 6 ( 3° Kyoto)
 ##### Mattina: 
-- [[Nara (奈良市)]] #discutere 
+
+##### Pomeriggio:
+
+##### Sera:
 
 ## Giorno 7 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
-##### Mattina
-- [[Nagarekawa (流川)]]
-##### Pomeriggio
-- [[Hondori street]] 
-##### Sera: 
-- a piacere
+##### Mattina: 
+
+##### Pomeriggio:
+
+##### Sera:
 ## Giorno 8 ( 2° Hiroshima)
 
-##### Mattina
-- [[Memorial Park Hiroshima]](24H 7:30-19:00 )
+##### Mattina: 
 
-##### Pomeriggio
-- *(partenza per Tokyo 3h30min)*
+##### Pomeriggio:
+
+##### Sera:
+
+(partenza per Tokyo 3h30min)*
 ## Giorno 9 (4° Tokyo)
 ##### Mattina:
 - [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano (中野市)]]

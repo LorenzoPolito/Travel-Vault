@@ -300,3 +300,47 @@ L’aumento dei contagi, registrato anche a livello globale, è comunque limitat
 Le Autorità giapponesi attribuiscono tale aumento all’allentamento delle misure di prevenzione instaurate in occasione della pandemia di Covid-19 e consigliano di continuare ad osservare i normali accorgimenti igienici, come lavarsi spesso le mani e disinfettare le ferite ([Avviso ai viaggiatori – Ambasciata d'Italia a Tokyo (esteri.it)](https://ambtokyo.esteri.it/it/news/dall_ambasciata/2024/03/avviso-ai-viaggiatori/)
 
 Si rammenta altresì che le misure di contenimento del **Covid-19** sono state rimosse il 29 aprile 2023.
+
+## Avvertenze
+
+Si raccomanda di stipulare, prima della partenza, una polizza assicurativa, che preveda la copertura delle spese mediche e l’eventuale rimpatrio aereo sanitario (o il trasferimento in altro Paese) del paziente.
+
+## Vaccinazioni
+
+Nessuna. Per ulteriori indicazioni in merito a vaccinazioni consigliate, tuttavia non obbligatorie, si raccomanda di consultare il sito [https://wwwnc.cdc.gov/travel](https://wwwnc.cdc.gov/travel), nonché il proprio medico.
+
+# Mobilità
+
+**Patente**  
+A partire dal 1 dicembre 2013, per poter guidare in Giappone - per un periodo di un anno a partire dal primo giorno di ingresso nel Paese – i connazionali non residenti nel Paese devono essere in possesso di patente internazionale rilasciata dall'Italia ai sensi della Convenzione di Ginevra del 1949.  
+I connazionali residenti (nonché gli altri possessori di visti di lunga durata) devono effettuare la conversione della patente di guida italiana in quella giapponese, ai sensi dello Scambio di Note sul riconoscimento reciproco in materia di conversione di patenti di guida del 2003. Per ulteriori informazioni si rimanda al sito della ["Japan automobile federation"](https://english.jaf.or.jp/driving-in-japan/drive-in-japan/about-dltas).
+
+**Assicurazione auto**  
+Non viene accettata nessuna assicurazione estera. Al suo arrivo in Giappone il visitatore deve stipulare un'assicurazione a breve termine ("Jibaiseki Hoken") ed è ugualmente prudente sottoscrivere un’assicurazione facoltativa ("Ninni Hoken") che copra eventuali rimborsi superiori ai massimali stabiliti.
+
+****Veicoli importati temporaneamente con documento doganale****  
+I Carnet di passaggio in dogana FIA sono riconosciuti in Giappone. JAF, la Federazione Automobilistica Giapponese, li garantisce presso le autorità doganali.
+
+**Norme di guida**  
+Circolazione a sinistra.  L'autostop non è consentito.
+
+**Equipaggiamento obbligatorio**  
+Cinture di sicurezza: uso obbligatorio per i sedili anteriori dell'autovettura.  
+Il seggiolino e i sistemi di ritenuta per bambini sono obbligatori fino ai sei anni.
+
+**Casco di protezione per motociclisti**  
+Obbligatorio per conducente e passeggero.
+
+****Triangolo****  
+Obbligatorio in caso di guasto in autostrada, non sulle altre strade. Le norme giapponesi precisano che il triangolo deve avere ogni lato di 50 cm e deve essere di colore rosso e catarifrangente.  
+Di notte è obbligatorio accendere i lampeggiatori d'emergenza.
+
+**Anabbaglianti**  
+E’ obbligatorio accenderli di notte.
+
+**Tasso alcolemico nel sangue**: il limite consentito è di 0,3 g per litro di sangue/di 0,15 mg per litro d'aria espirata.
+
+**Guida in stato di ebbrezza**  
+E’ considerata un reato. Il conducente sospettato di non essere sobrio, qualora dovesse risultare positivo dopo gli accertamenti, è passibile di un’ammenda elevata e, nella maggior parte dei casi, di una pena detentiva.  
+
+Per informazioni di carattere generale sulla sicurezza dei voli e sulle compagnie aeree dei Paesi cui è vietato operare nello spazio aereo UE in quanto non in regola con gli standard di sicurezza dell’Agenzia Europea per la Sicurezza Aerea, si consiglia di consultare la sezione  Sicurezza aerea curata in collaborazione con l’Enac ed il sito della [Commissione Europea](https://ec.europa.eu/transport/modes/air/safety/air-ban/search_en).

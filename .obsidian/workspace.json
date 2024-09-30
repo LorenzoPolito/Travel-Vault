@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "328418de33504736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb9e83c30df127df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265
+    "width": 265,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -231,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 229,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,8 +275,10 @@
   },
   "active": "b149a9a606aa2060",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
+    "Locations/Japan/Lista dei Luoghi.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+    "Info/Japan/IC Cards/IC Cards.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni",
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
@@ -282,7 +304,6 @@
     "Locations/Japan/Cities/blocks/Nagarekawa (流川).md",
     "Locations/Japan/Cities/blocks/Nakano (中野市).md",
     "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
-    "Locations/Japan/Cities/blocks/Ginza (銀座).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",

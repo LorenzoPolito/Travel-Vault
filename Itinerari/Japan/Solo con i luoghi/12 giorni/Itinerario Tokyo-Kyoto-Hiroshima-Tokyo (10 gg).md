@@ -17,10 +17,13 @@
 
 ## Giorno 1( 1° [[Tokyo(東京)]])
 
+> La mattina potrebbe essere tolta per via dell'orario di arrivo del volo
 ##### Mattina: 
-
+- Arrivo, Ritiro bagagli
+- Ritiro [[IC Cards]]
+- Check-in hotel
 ##### Pomeriggio: 
-
+- 
 ##### Sera: 
 
 ## Giorno 2 ( 2° Tokyo)
@@ -29,7 +32,7 @@
 ##### Pomeriggio: 
 ##### Sera: 
 
-## Giorno 3 ( 3° Tokyo/Esterna)
+## Giorno 3 ( 3° Tokyo)
 ##### Mattina: 
 
 ##### Pomeriggio:
@@ -71,22 +74,16 @@
 
 ##### Sera:
 
-(partenza per Tokyo 3h30min)*
 ## Giorno 9 (4° Tokyo)
-##### Mattina:
-- [[Tokyo skytree (東京スカイツリー)]] di [[Asakusa(浅草)]] / quartiere [[Nakano (中野市)]]
-- [[Nakano Broadway (中野ブロードウェイ)]]
-##### Pomeriggio/sera: 
-- [[Shibuya (渋谷区)]] 
-- [[nintendo store]]
-- [[Pokemon center Shibuya]]
-##### Sera: 
-- [[Mario kart shibuya ride]]
-- ancora [[Shibuya (渋谷区)]] (incrocio dall’alto)
+(3h30min per arrivare a Tokyo)
+##### Mattina: 
+
+##### Pomeriggio:
+
+##### Sera:
 ## Giorno 10 ( 5° Tokyo)
 ##### Mattina: 
-- libera (ultimi acquisti)
-- [[Nakano Broadway (中野ブロードウェイ)]] *solo se necessario*
-##### Pomeriggio: 
-- preparazione per la partenza
-- volo di rientro (12h/14h diretto)
+
+##### Pomeriggio:
+
+##### Sera:

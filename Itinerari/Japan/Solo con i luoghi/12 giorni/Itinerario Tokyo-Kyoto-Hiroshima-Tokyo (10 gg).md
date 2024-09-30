@@ -32,7 +32,7 @@
 - [[Mercato del pesce di Tsukiji (築地場外市場)]]( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]]( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio: 
-- [[Ginza (銀座)]]
+- [[Ginza (銀座)]] (vorrei mettere Odaiba ma è troppo lontana)
 ##### Sera: 
 - [[Roppongi (六本木)]]
 
@@ -47,7 +47,9 @@
 (2h per arrivare a Kyoto)
 ##### Mattina: 
 
-##### Pomeriggio/sera: 
+##### Pomeriggio:
+
+##### Sera: 
 
 ## Giorno 5 ( 2° Kyoto)
 ##### Mattina: 

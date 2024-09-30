@@ -23,14 +23,18 @@
 - Ritiro [[IC Cards]]
 - Check-in hotel
 ##### Pomeriggio: 
-- 
+- [[Asakusa(浅草)]]
 ##### Sera: 
+- **Libera** / [[Parco di Ueno (上野恩賜公園)]]
 
 ## Giorno 2 ( 2° Tokyo)
-##### Mattina: 
-
+##### Mattina:
+- [[Mercato del pesce di Tsukiji (築地場外市場)]]( apertura 5:00/6:15 )
+- [[Palazzo Imperiale di Tokyo (皇居)]]( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio: 
+- [[Odaiba (お台場 )]]
 ##### Sera: 
+- [[Roppongi (六本木)]]
 
 ## Giorno 3 ( 3° Tokyo)
 ##### Mattina: 

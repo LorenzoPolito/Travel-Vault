@@ -58,18 +58,15 @@
 - [[Santuario Yasaka (八坂神社)]]
 - [[Daikaku-ji Temple (大覚寺)]]
 ##### Sera: 
+- [[Fushimi Inari (伏見稲荷大社)]]
 
 ## Giorno 6 ( 3° Kyoto)
 ##### Mattina: 
-
-##### Pomeriggio:
-
-##### Sera:
+- [[Kinkaku-ji (金閣寺)]]
+- [[Ryoan-ji (龍安寺方丈庭園)]]
 
 ## Giorno 7 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
-##### Mattina: 
-
 ##### Pomeriggio:
 
 ##### Sera:

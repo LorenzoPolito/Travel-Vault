@@ -23,9 +23,9 @@
 - Ritiro [[IC Cards]]
 - Check-in hotel
 ##### Pomeriggio: 
-> il primo quartiere che si visità è il quartiere in cui si alloggia sto supponendo un allogio ad Asakusa per semplicità
+> il primo quartiere che si visita è il quartiere in cui si alloggia sto supponendo un allogio ad Asakusa per semplicità
 - [[Asakusa(浅草)]]
-- [[ten]]
+- [[Tempio Senso-Ji (浅草寺)]]
 ##### Sera: 
 - **Libera** / [[Parco di Ueno (上野恩賜公園)]]
 

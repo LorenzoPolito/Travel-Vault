@@ -14,37 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "328418de33504736",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bb9e83c30df127df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "973407fd97e764b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -123,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265,
-    "collapsed": true
+    "width": 265
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -287,6 +256,7 @@
   },
   "active": "b149a9a606aa2060",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).rst",
     "Locations/Japan/Lista dei Luoghi.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Locations/Japan/Stores/Pokemon center Shibuya.md",
@@ -315,7 +285,6 @@
     "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
     "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
-    "Locations/Japan/Cities/blocks/Roppongi (六本木).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",

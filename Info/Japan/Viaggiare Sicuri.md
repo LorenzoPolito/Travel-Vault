@@ -207,4 +207,96 @@ Laddove le Autorità di Immigrazione rifiutino l’ingresso, il turista è chiam
 
 Si prega di consultare l’approfondimento [Documenti di viaggio](https://www.viaggiaresicuri.it/approfondimenti-insights/documentidiviaggio) [- Documenti per viaggi all’estero di minori](https://www.viaggiaresicuri.it/approfondimenti-insights/documentidiviaggio) sulla home page di questo sito.
 
-## Formalita 
+## Formalitò doganali e valutarie
+
+Nessuna in particolare.   
+Per velocizzare le procedure di ingresso nel Paese, é possibile precompilare i moduli degli uffici dell'Immigrazione e della Dogana - sul sito [www.vjw.digital.go.jp](https://www.vjw.digital.go.jp/)  - e mostrare i relativi codici QR, quando viene richiesto.
+
+**Valuta**  
+Non vi é limite all'importazione e all'esportazione di valuta, tuttavia é obbligatorio dichiarare alla dogana la somma superiore a un milione di Yen.
+
+**Divieto di importazione.**  
+E' vietata l'importazione di armi da fuoco e munizioni, insaccati e carni, merci alimentari facilmente deperibili (quali ad esempio frutta fresca). Si precisa che, al momento, non é possibile importare in Giappone alcun tipo di carne suina italiana e prodotti derivati.  
+E' severamente vietato importare siringhe, nonchè medicinali che contengano sostanze o principi attivi non ammessi dalle Autorità sanitarie locali. Prima di effettuare ogni viaggio con medicinali, si consiglia di contattare (in lingua inglese) l'Ente giapponese che si occupa dell'importazione di medicinali, all'indirizzo e-mail [kiyakuji@mhlw.go.jp](mailto:kiyakuji@mhlw.go.jp) Si raccomanda, inoltre, la consultazione del seguente sito (sempre in lingua inglese): [www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals.](http://www.mhlw.go.jp/english/policy/health-medical/pharmaceuticals/01.html)
+
+**Carte di credito**  
+Le principali Carte di Credito sono accettate, mentre alcune tipologie di Carte di Debito o Carte Prepagate potrebbero non essere utilizzabili; tuttavia, é di norma possibile pagare o ritirare denaro contante tramite i principali circuiti di pagamento internazionali. Si suggerisce di contattare la propria banca prima della partenza, al fine di eliminare eventuali limiti di utilizzo all'estero del proprio conto.  
+Benchè il pagamento tramite POS sia spesso garantito, in alcune attivitá (specie di ristorazione), si accetta solo il pagamento in contanti. Inoltre, in alcuni esercizi commerciali abilitati al pagamento POS non é consentito l'utilizzo del "Sistema Contactless". Si raccomanda, comunque, di portare con sé una congrua quantità di contante da cambiare in loco e da utilizzare in caso di necessità.
+
+**Limitazione di esportazione**  
+E' vietata l'esportazione di piante in generale.
+
+# Sicurezza
+
+## Indicazioni generali, ordine pubblico e criminalità
+
+Sebbene il Giappone sia ritenuto un Paese sicuro, è sempre opportuno usare le normali precauzioni, a salvaguardia della propria sicurezza.  
+In alcuni locali notturni a Tokyo, si sono registrati casi di rapina ai danni di stranieri, dopo che questi avevano assunto bevande alcoliche presumibilmente alterate con sonniferi. Si registra, inoltre, un aumento degli scippi nell’area metropolitana della capitale.  
+Va infine tenuto presente l’accresciuto “rischio politico” legato alle tensioni internazionali che coinvolgono i principali attori della regione.
+
+## Rischio terrorismo
+
+Il terrorismo rappresenta una minaccia globale. Nessun Paese può essere considerato completamente esente dal rischio di episodi ricollegabili a tale fenomeno.
+
+## Rischi ambientali e calamità naturali
+
+Per le sue caratteristiche morfologiche e geologiche, il Giappone è considerato un Paese a rischio di calamitá naturali. Per ulteriori informazioni, é possibile oconsultare [la pagina dedicata](https://ambtokyo.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/emergenze-in-giappone/) sul sito dell'Ambasciata.
+
+**Vulcani**  
+Per quanto riguarda l’attività vulcanica: si consiglia di consultare il sito della "[Japan Meteorological Agency](http://www.jma.go.jp/en/volcano/)" , che pubblica regolarmente bollettini riguardanti le attività vulcaniche in atto.
+
+**Terremoti e tsunami**  
+Il Giappone è considerato un Paese ad alto rischio sismico. Le Autoritá monitorano costantemente i movimenti tellurici e informano la popolazione tramite Avvisi inviati sui cellulari, nell'imminenza di una forte scossa. Esistono anche diverse app che permettono di ricevere notifiche sulle calamitá naturali. Tra queste [Safety Tips](https://www.jnto.go.jp/safety-tips/eng/app.html) e [NHK World](https://www3.nhk.or.jp/nhkworld/en/app/).  
+Sulla [pagina dedicata](https://ambtokyo.esteri.it/it/servizi-consolari-e-visti/servizi-per-il-cittadino-italiano/emergenze-in-giappone/) del sito dell'Ambasciata é possibile scaricare la versione in italiano del manuale di preparazione ai terremoti del Governo Metropolitano di Tokyo ([https://www.metro.tokyo.lg.jp/english/guide/bosai/index.html](https://www.metro.tokyo.lg.jp/english/guide/bosai/index.html)).
+
+**Tifoni**  
+Da settembre a novembre, i tifoni interessano frequentemente in Giappone, specialmente nell'area sud-occidentale del Paese. Non di rado i tifoni raggiungono, con minore intensitá, anche l'area di Tokyo. I tifoni sono spesso accompagnati da frane e alluvioni: si consiglia di attenersi alle indicaizoni delle Autoritá locali, di accumulare scorte e di non uscire di casa. E' possibile verificare il tragitto e l'intensitá dei tifoni sul sito della [Japan Meteorological Agency](https://www.jma.go.jp/jma/indexe.html). 
+
+**Rischio nucleare**  
+Per quanto riguarda la situazione della centrale Fukushima-I, sita nell’omonima Prefettura a oltre 200 km a nord di Tokyo, tutti i reattori interessati dall’incidente dell’11 marzo 2011 sono in stato di arresto a freddo ("cold shutdown"). Sono in corso le procedure per lo smantellamento pianificato dei reattori, che richiedono complessi interventi sull’impianto e nell’area circostante, e dureranno per molti anni. Le zone di esclusione sono chiaramente identificate dalle Autorità giapponesi, sono costantemente monitorate e la loro estensione si sta progressivamente riducendo. Indicazioni precise in merito alle zone di esclusione e quelle soggette a particolari cautele sono presenti sul sito del METI ([https://www.meti.go.jp/english/earthquake/nuclear/roadmap/](https://www.meti.go.jp/english/earthquake/nuclear/roadmap/)). Nelle zone in cui l'ordine di evacuazione è stato rimosso, permangono alcune limitazioni ai visitatori, quali ad esempio il divieto di pernottare.   
+Si raccomanda di seguire, in ogni caso, le indicazioni delle Autorità locali e di non infrangere per nessun motivo le limitazioni disposte. In linea generale si ritiene comunque opportuno limitare allo stretto necessario - e a permanenze non prolungate - la presenza nelle aree in cui l'ordine di evacuazione sia stato recentemente rimosso. Gli eventuali viaggi necessari nelle aree evacuate dovranno essere effettuati soltanto dopo avere preso contatto con le Autorità regionali competenti e devono essere ridotti al minimo.  
+Le Autorità giapponesi stanno proseguendo le attività di controllo a largo spettro per monitorare il livello di contaminazione nell'area intorno alla centrale nucleare di Fukushima e la possibile contaminazione dell'acqua (Http://radioactivity.nsr.go.jp/en/), cibo e prodotti agricoli (Http://[www.maff.go.jp/e/quake/press_110312-1.html](http://www.maff.go.jp/e/quake/press_110312-1.html))  
+A Tokyo i livelli di radioattività ambientale (rateo di dose gamma) sono continuamente monitorati dal "Metropolitan Institute of Public Health", ed indicano valori entro la norma (definiti come valori riscontrati prima dell’incidente di Fukushima) compresi tra 0.028 e 0.079 microSievert/ora.    
+Per quanto riguarda il cibo, i livelli ammissibili di contaminazione (e quindi eventuali criteri di restrizione) sono stati determinati assumendo che ci sia un consumo continuato di generi alimentari contaminati per un periodo di un anno. Gli alimenti in distribuzione in Giappone (inclusi naturalmente frutta e verdura ed il pescato) sono monitorati continuamente, al fine di verificare eventuali contaminazioni da radioisotopi. Quelli disponibili in commercio sono considerati sicuri, tenuto conto che i limiti di tolleranza per il contenuto di sostanze radioattive in Giappone sono, in questo momento, inferiori a quelli adottati in Europa.  Per altre informazioni utili sul processo di decontaminazione, si può consultare il sito della Prefettura di Fukushima: [http://www.pref.fukushima.lg.jp/site/portal-it/it02-03.html](http://www.pref.fukushima.lg.jp/site/portal-it/it02-03.html).
+
+## Avvertenze
+
+Si consiglia ai connazionali di:  
+- registrare i dati del proprio viaggio su **DOVESIAMONELMONDO** e di scaricare l'app consentendo la localizzazione;  
+- tenersi informati su eventuali avvertenze consultando il sito dell’Ambasciata d’Italia a Tokyo: [http://ambtokyo.esteri.it](http://ambtokyo.esteri.it/);   
+- scaricare app che allertino in caso di emergenze;   
+- in caso di permanenza piu’ prolungata, comunicare i dettagli della propria permanenza all’Ambasciata a Tokyo ([consular.tokyo@esteri.it](mailto:consular.tokyo@esteri.it)) e/o al Consolato Generale di Italia a Osaka ([consolare.osaka@esteri.it](mailto:consolare.osaka@esteri.it));  
+- adottare le normali precauzioni contro il rischio di microcriminalità.
+
+## Normative locali rilevanti
+
+**Normativa prevista per uso e/o spaccio di droga**  
+In Giappone non è tollerato alcun uso di droghe, inclusa la Cannabis. Le pene sono molto severe, anche per il possesso di quantità minime (uso personale). Le Autorità locali adottano infatti una politica di “tolleranza zero” e si registrano numerosi casi di “condanne esemplari” per possesso e consumo di quantità, anche minime, di sostanze proibite.
+
+**Normativa locale prevista per abusi sessuali o violenze contro i minori**  
+Questi tipi di reati sono puniti con la detenzione.
+
+**Normativa locale in tema di diritto di famiglia**  
+La legislazione locale non prevede l'affido congiunto dei minori, in caso di divorzio. Di conseguenza, sia nei casi di presenza del nucleo familiare in Giappone, sia nei casi di sottrazione internazionale, é particolarmente difficile per il genitore straniero vedere riconosciuti i diritti sui propri figli (affido o visita), in alcuni casi anche in presenza di una sentenza in suo favore.  
+Il Giappone ha aderito, nel 2014, alla Convenzione dell'Aja del 1980 sulla sottrazione internazionale dei minori . Negli ultimi anni, sono intervenute modifiche normative, che hanno reso piú facile ottenere l'esecuzione delle sentenze, tuttavia diversi ostacoli permangono ancora nel pieno godimento dei diritti sulla prole, da parte del genitore divorziato.   
+In caso di problemi con le Autorità locali di Polizia (stato di fermo o arresto), si consiglia di informare l’Ambasciata o il Consolato Generale per la necessaria assistenza.
+
+## Informazioni per le aziende
+
+Si consiglia alle Aziende italiane, che vogliano inviare personale in Giappone, anche solo per brevi missioni, di attenersi alle disposizioni impartite dalle Autorità locali, in materia di trasferimenti di personale straniero. Le Aziende italiane sono invitate a registrare la presenza di proprio personale su **DOVESIAMONELMONDO.** Il 1 aprile 2024 entra in vigore l'accordo sulla Previdenza Sociale, che semplifica le procedure e gli oneri a carico delle Aziende, per l'invio di lavoratori distaccati nell'altro Paese. Maggiori informazioni sul sito dell'INPS.
+
+# Situazione sanitaria
+
+## Strutture sanitarie
+
+L’assistenza sanitaria nel Paese è - generalmente - molto buona. I medici locali sono preparati e gli ospedali ben organizzati. Si riscontrano, tuttavia, difficoltà a reperire medici e personale paramedico in grado di parlare lingue straniere, inglese compreso. Le prestazioni mediche (incluse quelle di pronto soccorso) sono a pagamento. I costi per l’assistenza sanitaria sono molto elevati, per cui è consigliato sottoscrivere - prima della partenza - una assicurazione sanitaria.  
+In caso di emergenza, si può chiamare un’ambulanza, componendo - gratuitamente e da qualsiasi cabina telefonica - il numero di telefono 119 (attivo 24 ore su 24, anche in lingua inglese), comunicando i propri dati e l’indirizzo.  
+La "Japan Tourism Agency" ha realizzato una guida, in lingua inglese, facilmente consultabile, che contiene informazioni utili in merito all'assistenza sanitaria in Giappone: [https://www.jnto.go.jp/emergency/common/pdf/guide_eng.pdf](https://www.jnto.go.jp/emergency/common/pdf/guide_eng.pdf).
+
+## Malattie presenti
+
+Il Ministero della Salute del Giappone ha riferito, a fine marzo 2024, di un aumento dei casi di **infezione da "_Streptococcus pyogenes"_**, batterio che può causare faringite acuta e sindrome da shock tossico (STSS).   
+L’aumento dei contagi, registrato anche a livello globale, è comunque limitato a un numero contenuto di persone, con 541 casi, nei primi tre mesi dell'anno.  
+Le Autorità giapponesi attribuiscono tale aumento all’allentamento delle misure di prevenzione instaurate in occasione della pandemia di Covid-19 e consigliano di continuare ad osservare i normali accorgimenti igienici, come lavarsi spesso le mani e disinfettare le ferite ([Avviso ai viaggiatori – Ambasciata d'Italia a Tokyo (esteri.it)](https://ambtokyo.esteri.it/it/news/dall_ambasciata/2024/03/avviso-ai-viaggiatori/)
+
+Si rammenta altresì che le misure di contenimento del **Covid-19** sono state rimosse il 29 aprile 2023.

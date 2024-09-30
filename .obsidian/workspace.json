@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
-                "mode": "preview",
+                "file": "Info/Japan/Viaggiare Sicuri.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md"
+                "file": "Info/Japan/Viaggiare Sicuri.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
+                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +256,11 @@
   },
   "active": "b149a9a606aa2060",
   "lastOpenFiles": [
+    "Index.md",
+    "Info/Japan/Viaggiare Sicuri.md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).rst",
     "Locations/Japan/Lista dei Luoghi.md",
-    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Locations/Japan/Stores/Pokemon center Shibuya.md",
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
     "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
@@ -284,7 +286,6 @@
     "Locations/Japan/Cities/blocks/streets",
     "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).md",
     "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
-    "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",
@@ -292,7 +293,6 @@
     "Locations/Japan/Parks-nature",
     "Locations/Japan/Hotels",
     "Locations/Japan/Cities",
-    "Locations/Japan/Castles",
     "allegati/Pasted image 20240405125139.png",
     "allegati/Pasted image 20240405124412.png",
     "allegati/Pasted image 20240315151037.png",

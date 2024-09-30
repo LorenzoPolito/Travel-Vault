@@ -52,9 +52,11 @@
 
 ## Giorno 5 ( 2° Kyoto)
 ##### Mattina: 
-
+- *(opzionale)* [[Nishiki Market (錦市場)]]
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 ##### Pomeriggio: 
-
+- [[Santuario Yasaka (八坂神社)]]
+- [[Daikaku-ji Temple (大覚寺)]]
 ##### Sera: 
 
 ## Giorno 6 ( 3° Kyoto)

@@ -25,6 +25,7 @@
 ##### Pomeriggio: 
 > il primo quartiere che si visità è il quartiere in cui si alloggia sto supponendo un allogio ad Asakusa per semplicità
 - [[Asakusa(浅草)]]
+- [[ten]]
 ##### Sera: 
 - **Libera** / [[Parco di Ueno (上野恩賜公園)]]
 
@@ -47,8 +48,9 @@
 ## Giorno 4 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
 ##### Pomeriggio:
-
+- [[Tempio Ginkakuji (慈照寺（銀閣寺))]]
 ##### Sera: 
+- **Libera** / ??
 
 ## Giorno 5 ( 2° Kyoto)
 ##### Mattina: 
@@ -86,7 +88,8 @@
 - [[Golden Gai (ゴールデン街 )]]
 ## Giorno 10 ( 5° Tokyo)
 ##### Mattina: 
-
+- [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
 ##### Pomeriggio:
-
+- [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 
 ##### Sera:
+- [[Tokyo skytree (東京スカイツリー)]]

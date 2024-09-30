@@ -23,6 +23,7 @@
 - Ritiro [[IC Cards]]
 - Check-in hotel
 ##### Pomeriggio: 
+> il primo quartiere che si visità è il quartiere in cui si alloggia sto supponendo un allogio ad Asakusa per semplicità
 - [[Asakusa(浅草)]]
 ##### Sera: 
 - **Libera** / [[Parco di Ueno (上野恩賜公園)]]
@@ -32,13 +33,13 @@
 - [[Mercato del pesce di Tsukiji (築地場外市場)]]( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]]( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio: 
-- [[Ginza (銀座)]] (vorrei mettere Odaiba ma è troppo lontana)
+- [[Ginza (銀座)]] (vorrei mettere Odaiba ma è troppo lontana) / [[Tokyo tower (東京タワー)]]
 ##### Sera: 
 - [[Roppongi (六本木)]]
 
 ## Giorno 3 ( 3° Tokyo)
 ##### Mattina: 
-
+- [[Shinjuku (新宿区)]]
 ##### Pomeriggio:
 
 ##### Sera:

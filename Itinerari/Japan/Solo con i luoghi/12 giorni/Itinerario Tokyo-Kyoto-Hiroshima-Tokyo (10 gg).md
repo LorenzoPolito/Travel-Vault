@@ -32,7 +32,7 @@
 - [[Mercato del pesce di Tsukiji (築地場外市場)]]( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]]( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio: 
-- [[Odaiba (お台場 )]]
+- [[Ginza (銀座)]]
 ##### Sera: 
 - [[Roppongi (六本木)]]
 

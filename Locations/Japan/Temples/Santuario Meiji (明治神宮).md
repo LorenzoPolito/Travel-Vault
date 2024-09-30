@@ -2,7 +2,7 @@
 
 > 1-1 Yoyogikamizono-cho, Shibuya-ku, Tokyo-to
 
-- [Visualizzare su Google Maps](https://maps.google.com/?cid=10361244767556222835) 
+- [Visualizza[[]]re su Google Maps](https://maps.google.com/?cid=10361244767556222835) 
 - [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Santuario%20Meiji-jingu) 
 ## Dove la moderna cultura pop e la ricca storia di Tokyo si incontrano
 

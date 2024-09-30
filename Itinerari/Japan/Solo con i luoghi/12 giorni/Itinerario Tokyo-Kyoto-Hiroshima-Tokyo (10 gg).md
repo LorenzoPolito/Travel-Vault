@@ -33,21 +33,19 @@
 - [[Mercato del pesce di Tsukiji (築地場外市場)]]( apertura 5:00/6:15 )
 - [[Palazzo Imperiale di Tokyo (皇居)]]( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 ##### Pomeriggio: 
-- [[Ginza (銀座)]] (vorrei mettere Odaiba ma è troppo lontana) / [[Tokyo tower (東京タワー)]]
+- [[Tokyo tower (東京タワー)]] / [[Ginza (銀座)]] (vorrei mettere Odaiba ma è troppo lontana)
 ##### Sera: 
 - [[Roppongi (六本木)]]
 
 ## Giorno 3 ( 3° Tokyo)
 ##### Mattina: 
 - [[Shinjuku (新宿区)]]
+- [[Santuario Meiji (明治神宮)]]
 ##### Pomeriggio:
-
-##### Sera:
-
+- [[Shibuya (渋谷区)]]
+> A seconda dell'orario del treno per Kyoto si salta questa tappa
 ## Giorno 4 ( 1° [[Kyoto(京都)]])
 (2h per arrivare a Kyoto)
-##### Mattina: 
-
 ##### Pomeriggio:
 
 ##### Sera: 

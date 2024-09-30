@@ -68,23 +68,22 @@
 ## Giorno 7 (1° [[Hiroshima(広島)]])
 *(2h per arrivare a Hiroshima)*
 ##### Pomeriggio:
-
+- [[Memorial Park Hiroshima]] (24H 7:30-19:00 )
 ##### Sera:
+- Quartiere [[Nagarekawa (流川)]] [[Hondori street]]
 ## Giorno 8 ( 2° Hiroshima)
 
 ##### Mattina: 
-
-##### Pomeriggio:
-
-##### Sera:
+- [[Itsukushima shrine (嚴島神社)]] ( Spiaggia Mikasa )
+- [[Tempio Daisho-in (大聖院)]] ( 8:00-17:00 )
 
 ## Giorno 9 (4° Tokyo)
 (3h30min per arrivare a Tokyo)
-##### Mattina: 
-
 ##### Pomeriggio:
-
+- [[Shibuya (渋谷区)]]
+- [[Akihabara (秋葉原)]]
 ##### Sera:
+- [[Golden Gai (ゴールデン街 )]]
 ## Giorno 10 ( 5° Tokyo)
 ##### Mattina: 
 

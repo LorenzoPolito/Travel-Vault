@@ -1,6 +1,6 @@
 {
   "settings": {
-    "migrated": 5,
+    "migrated": 6,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "native",
@@ -38,10 +38,10 @@
     "iconInTitlePosition": "above",
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native"
   },
   "Locations": "FasLocationDot",
-  "Locations Interactive Map": "LiLocateFixed",
   "Itinerari": "TiTransferVertical",
   "Info/Japan": "LiJapaneseYen",
   "Locations/Japan": "LiJapaneseYen",

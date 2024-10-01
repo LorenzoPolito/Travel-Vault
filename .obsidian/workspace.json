@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a83c004a74ff6f28",
+        "id": "6859f0384a7106d4",
         "type": "tabs",
         "children": [
           {
-            "id": "b149a9a606aa2060",
+            "id": "f4643275616bea8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Info/Japan/Viaggiare Sicuri.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "planner-release-notes",
+              "state": {}
             }
           }
         ]
@@ -38,14 +34,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "f70bef912827cf68",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
               "state": {}
             }
           }
@@ -93,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265,
-    "collapsed": true
+    "width": 265
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -110,13 +97,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Info/Japan/Viaggiare Sicuri.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "f66283b84150e4d5",
+            "id": "5b9ac0156fb0892e",
             "type": "leaf",
             "state": {
               "type": "timeline",
@@ -136,7 +121,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -205,7 +189,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +205,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Info/Japan/Viaggiare Sicuri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,13 +234,19 @@
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-day-planner:Timeline": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "b149a9a606aa2060",
+  "active": "f4643275616bea8c",
   "lastOpenFiles": [
-    "Index.md",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
+    "allegati/Pasted image 20240109154118.png",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
     "Info/Japan/Viaggiare Sicuri.md",
+    "Index.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).rst",
     "Locations/Japan/Lista dei Luoghi.md",
@@ -286,7 +274,6 @@
     "Locations/Japan/Cities/blocks/streets/Golden Gai (ゴールデン街 ).md",
     "Locations/Japan/Cities/blocks/streets",
     "Locations/Japan/Cities/blocks/Shinsekai (新世界と通天閣​).md",
-    "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
     "Locations/Japan/Cities/blocks",
     "Locations/Japan/Temples",
     "Locations/Japan/Stores",
@@ -299,9 +286,6 @@
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
     "allegati/Pasted image 20240309113236.png",
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
-    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "allegati/Pasted image 20240109155043.png"
   ]
 }

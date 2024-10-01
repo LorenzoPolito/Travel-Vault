@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6859f0384a7106d4",
+        "id": "d181502c4defb27d",
         "type": "tabs",
         "children": [
           {
-            "id": "f4643275616bea8c",
+            "id": "99fa1abbcd25c64a",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "planner-release-notes",
-              "state": {}
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -105,6 +107,22 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c238989cb8ff03b4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef9dbb708e83d14d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -236,10 +254,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Crea nuova bacheca": false
+      "obsidian-kanban:Crea nuova bacheca": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "f4643275616bea8c",
+  "active": "99fa1abbcd25c64a",
   "lastOpenFiles": [
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Pasted image 20240109154118.png",

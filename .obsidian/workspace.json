@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,7 +274,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "eef331cdc412ddf2",
+  "active": "99fa1abbcd25c64a",
   "lastOpenFiles": [
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",

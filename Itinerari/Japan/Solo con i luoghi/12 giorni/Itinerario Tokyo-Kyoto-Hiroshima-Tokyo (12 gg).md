@@ -23,7 +23,7 @@
 - Ritiro [[IC Cards]]
 - Check-in hotel
 ##### Pomeriggio: 
-> il primo quartiere che si visita è il quartiere in cui si alloggia sto supponendo un allogio ad Asakusa per semplicità
+> il primo quartiere che si visita è il quartiere in cui si alloggia sto supponendo un alloggio ad Asakusa per semplicità
 - [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]]
 ##### Sera: 
@@ -93,3 +93,5 @@
 - [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 
 ##### Sera:
 - [[Tokyo skytree (東京スカイツリー)]]
+
+Gionrno

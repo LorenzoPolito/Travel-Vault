@@ -17,7 +17,7 @@
 [[Kanban view]]
 [[Itinerario Osaka-Tokyo (11 gg)]]
 [[Itinerario Tokyo-Kyoto (10 gg)]]
-[[Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg)]]
+[[Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)]]
 [[Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)]]
 [[Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based]]
 [[Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg)]]

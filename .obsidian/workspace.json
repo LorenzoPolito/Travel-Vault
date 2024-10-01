@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "eef331cdc412ddf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md"
+              }
             }
           },
           {
@@ -139,6 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,6 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,6 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229,
-    "collapsed": true
+    "width": 229
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,15 +275,17 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "99fa1abbcd25c64a",
+  "active": "eef331cdc412ddf2",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Pasted image 20240109154118.png",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
     "Info/Japan/Viaggiare Sicuri.md",
     "Index.md",
-    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).rst",
     "Locations/Japan/Lista dei Luoghi.md",
     "Locations/Japan/Stores/Pokemon center Shibuya.md",
@@ -278,7 +297,6 @@
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni",
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
-    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "allegati/Pasted image 20240523103142.png",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Kanban view.md",
@@ -304,7 +322,6 @@
     "allegati/Pasted image 20240405124412.png",
     "allegati/Pasted image 20240315151037.png",
     "allegati/Pasted image 20240315143605.png",
-    "allegati/Pasted image 20240309113236.png",
-    "allegati/Pasted image 20240109155043.png"
+    "allegati/Pasted image 20240309113236.png"
   ]
 }

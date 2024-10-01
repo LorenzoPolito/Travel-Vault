@@ -15,7 +15,7 @@
 - Il fuso orario è di 8 ore avanti rispetto a Roma
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
 
-## Giorno 1( 1° [[Tokyo(東京)]])
+## Giorno 1( Roma -> 1° [[Tokyo(東京)]])
 
 > La mattina potrebbe essere tolta per via dell'orario di arrivo del volo
 ##### Mattina: 
@@ -94,4 +94,5 @@
 ##### Sera:
 - [[Tokyo skytree (東京スカイツリー)]]
 
-Gionrno
+## Giorno 12 (Tokyo -> Roma)
+

@@ -244,8 +244,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Crea nuova bacheca": false,
-      "juggl:Juggl global graph": false
+      "obsidian-kanban:Crea nuova bacheca": false
     }
   },
   "active": "94e23f36501c2c0b",

@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md"
+                "file": "Locations/Japan/Lista dei Luoghi.md"
               }
             }
           },
@@ -139,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -208,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,10 +260,10 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "94e23f36501c2c0b",
+  "active": "b2d79d490f2b9b4d",
   "lastOpenFiles": [
-    "Locations/Japan/Lista dei Luoghi.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+    "Locations/Japan/Lista dei Luoghi.md",
     "Kanban senza titolo.md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",

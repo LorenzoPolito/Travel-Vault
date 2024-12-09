@@ -35,8 +35,7 @@
               "title": "Lista dei Luoghi"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md"
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di Lista dei Luoghi"
+              "title": "Struttura di Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
             }
           },
           {
@@ -156,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Lista dei Luoghi"
+              "title": "Grafo di Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
             }
           }
         ]
@@ -233,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Lista dei Luoghi"
+              "title": "Riferimenti a Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
             }
           },
           {
@@ -252,12 +251,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Lista dei Luoghi"
+              "title": "Collegamenti in uscita da Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
             }
           }
         ]
@@ -288,10 +287,10 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "b2d79d490f2b9b4d",
+  "active": "94e23f36501c2c0b",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Locations/Japan/Lista dei Luoghi.md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Kanban senza titolo.md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",

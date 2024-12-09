@@ -9,7 +9,7 @@
 |    Tokyo     |  2.5   |   3   |                           |                      |
 | Volo ritorno |   0    |   0   |         300/400 €         |                      |
 |  **TOTALE**  |  10.5  |  11   |                           |                      |
-<!-- TBLFM: @>$2=sum(@I..@-1) -->
+<!-- TBLFM: @>$2=sum(@I..@-1) --> 
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 ## Alcune Info
 - Il fuso orario è di 8 ore avanti rispetto a Roma

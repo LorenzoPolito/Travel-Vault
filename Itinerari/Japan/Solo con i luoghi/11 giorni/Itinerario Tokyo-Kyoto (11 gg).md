@@ -2,11 +2,12 @@
 
 |                  città                  | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:---------------------------------------:|:------:|:-----:|:-------------------------:|:--------------------:|
-| Volo andata(2 dic 15:05 -> 3 dic 11:20) |  0.5   |   0   |         300/400 €         |                      |
-|                  Tokyo                  |   3    |   6   |           23 €            |                      |
-|                  Kyoto                  |   4    |   3   |         30€ circa         | TOEI park Eva(15 €)? |
-|          Volo ritorno(14 dic )          |   0    |   0   |         300/400 €         |                      |
-|               **TOTALE**                |   11   |   9   |                           |                      |
+| Volo andata(2 dic 15:05 -> 3 dic 11:20) |   1    |   0   |         300/400 €         |                      |
+|                  Tokyo                  |   3    |   3   |           23 €            |                      |
+|                  Kyoto                  |   4    |   5   |         30€ circa         | TOEI park Eva(15 €)? |
+|                  Tokyo                  |   4    |   3   |                           |                      |
+|          Volo ritorno(14 dic )          |  0.5   |   0   |         300/400 €         |                      |
+|               **TOTALE**                |  12.5  |  11   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

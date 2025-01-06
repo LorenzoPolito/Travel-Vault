@@ -5,7 +5,7 @@
 | Volo andata(2 dic 15:05 -> 3 dic 11:20) |  0.5   |   1   |         300/400 €         |                      |
 |                  Kyoto                  |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
 |                  Tokyo                  |   5    |   5   |           23 €            |                      |
-|          Volo ritorno(14 dic )          |   1    |   1   |         300/400 €         |                      |
+|          Volo ritorno(14 dic )          |  0.5   |   1   |         300/400 €         |                      |
 |               **TOTALE**                |   10   |   9   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
@@ -30,11 +30,13 @@
 - controllo biglietti e pass
 - partenza per aeroporto
 - File su file su file
-- partenza (15:05 ora Italiana | 23:05 ora Giapponese)
-
-> A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
+- **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA
 
 ## Giorno 2( 1° [[Tokyo(東京)]])
+
+- **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
+- Ritiro E-Sim e Pass all'aero-porto
+- Check-in all'hotel/casa
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di Tokyo (皇居)]] 
 - rientro albergo

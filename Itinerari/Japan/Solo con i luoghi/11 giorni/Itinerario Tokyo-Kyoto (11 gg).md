@@ -21,16 +21,16 @@
 
 ## Volo
 
-![[Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg]]
-## Giorno 1 (viaggio)
-#### Mattina:
+![[Pasted image 20250106151504.png]]
+[Dettagli volo](https://www.skyscanner.it/trasporti/voli/rome/hnd/251202/251214/config/11493-2512021505--30727-0-12234-2512031120%7C12234-2512141320--30727-0-11493-2512142025?adultsv2=1&cabinclass=economy&childrenv2=&ref=home&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false)
+## Giorno 1 (2 dicembre 2025) (giorno di viaggio)
+
 - preparazione valige
 - inventario e controllo documenti
 - controllo biglietti e pass
-##### Pomeriggio/Sera:
 - partenza per aeroporto
-- cena
-- si vola (15h/16h con scalo)
+- File su file su file
+- partenza (15:05 ora Italiana | 23:05 ora Giapponese)
 
 > A seconda di quando è previsto il volo queste azioni sono prima della partenza, se si arriva entro la sera del giorno 1 si fa chack-in all'hotel e si esplorano i dintorni
 

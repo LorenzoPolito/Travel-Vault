@@ -78,10 +78,11 @@
 - partenza per aeroporto
 - File su file su file
 - ecc...
-- **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA DA ROMA (12H 15)
+- **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA DA ROMA FIUMICINO
+- VOLO (12H 15)
 ### Giorno 1 (3 dicembre 2025) ( 1° Tokyo)
 
-- **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO A TOKYO 
+- **11:20 ora Giapponese | 04:20 ora italiana** : ARRIVO A TOKYO HANEDA
 - Ritiro bagagli, E-Sim e Pass all'aeroporto
 - Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
@@ -145,4 +146,8 @@
 - ???
 - Preparazione valige
 - Trasferimento all'aeroporto col BUS
-- Partenza
+- File su file su file
+- ecc...
+- **13:20 ora Giappone | 05:20 ora italiana : PARTENZA DA HANEDA AIRPORT 
+- VOLO (15H 05)
+- **20:25 ora Italiana |  04:20 ora Giapponese** : ARRIVO A ROMA FIUMICINO

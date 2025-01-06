@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e1fe94790eb73a1a",
+        "id": "4000fd70cde2c5ec",
         "type": "tabs",
         "children": [
           {
-            "id": "4bc57a7b6d0ab1f6",
+            "id": "b71e97710ebcc88f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Itinerario Kanban Template.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "Itinerario Kanban Template"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -115,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerario Kanban Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Itinerario Kanban Template"
+              "title": "Riferimenti"
             }
           },
           {
@@ -134,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerario Kanban Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Itinerario Kanban Template"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -160,11 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Itinerario Kanban Template.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario Kanban Template"
+              "title": "Struttura"
             }
           },
           {
@@ -205,8 +195,10 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "4bc57a7b6d0ab1f6",
+  "active": "b71e97710ebcc88f",
   "lastOpenFiles": [
+    "Itinerario Kanban Template.md",
+    "conflict-files-obsidian-git.md",
     "Index.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
@@ -220,7 +212,6 @@
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Japan/Lista dei Luoghi.md",
-    "conflict-files-obsidian-git.md",
     "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
@@ -232,7 +223,6 @@
     "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
     "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).md",
     "Locations/Japan/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md",
-    "Locations/Japan/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md"
+    "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md"
   ]
 }

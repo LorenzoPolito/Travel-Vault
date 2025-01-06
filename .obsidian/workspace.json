@@ -22,20 +22,17 @@
             }
           },
           {
-            "id": "929174b7b6f3ca6f",
+            "id": "e08db9ad70157850",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "reveal-preview-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Itinerario Ossama Valentina"
+              "title": "Slide Preview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,8 +201,46 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "165a2921e3f830e6",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4545695522580768,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Grafo di Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -232,17 +267,17 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "e511246f19fba32a",
+  "active": "e08db9ad70157850",
   "lastOpenFiles": [
-    "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
+    "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+    "Locations/Japan/Cities/blocks/Shibuya (渋谷区).md",
     "Locations/Japan/Lista dei Luoghi.md",
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
     "Locations/Japan/Parks-nature/Arashiyama (嵐山).md",
     "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md",
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
     "Locations/Japan/Parks-nature/Parco di Ueno (上野恩賜公園).md",
-    "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",

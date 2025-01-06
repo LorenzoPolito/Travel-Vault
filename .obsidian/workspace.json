@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+                "file": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Shinjuku (新宿区)"
             }
           },
           {
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+                "file": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Riferimenti a Shinjuku (新宿区)"
             }
           },
           {
@@ -146,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+                "file": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Collegamenti in uscita da Shinjuku (新宿区)"
             }
           },
           {
@@ -173,10 +173,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md"
+                "file": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md"
               },
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Struttura di Shinjuku (新宿区)"
             }
           },
           {
@@ -211,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+                "file": "Locations/Japan/Cities/blocks/Shinjuku (新宿区).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -239,7 +239,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Grafo di Shinjuku (新宿区)"
             }
           }
         ]
@@ -274,8 +274,8 @@
   },
   "active": "e511246f19fba32a",
   "lastOpenFiles": [
-    "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+    "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Locations/Japan/Temples/Santuario Kanda (神田明神).md",

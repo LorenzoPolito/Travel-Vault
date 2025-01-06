@@ -126,7 +126,7 @@
 
 ### Giorno 8 (10 Dicembre 2025) (3° Kyoto)
 
--  [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 )
+- [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 )
 - [[Fushimi Inari (伏見稲荷大社)]] ( 24H )
 
 ### Giorno 9 (11 Dicembre 2025) (4° Kyoto)
@@ -146,7 +146,7 @@
 
 ### VIAGGIO DI RITORNO (14 Dicembre 2025) (giorno di viaggio)
 
-- ???
+- ??? *(potrebbe esserci tempo per altro?)*
 - Preparazione valige
 - Trasferimento all'aeroporto col BUS
 - File su file su file

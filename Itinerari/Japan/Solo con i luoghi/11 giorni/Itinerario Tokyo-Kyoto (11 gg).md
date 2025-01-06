@@ -16,7 +16,6 @@
 ## Alcune Info
 - Il fuso orario è di +8 ore avanti rispetto a Roma
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
-- Universal studios  (50 €) vedi [Klook.com](https://www.klook.com/it/) per sconti
 - Su [Klook.com](https://www.klook.com/it/) / [Airalo.com](https://www.airalo.com/it) ci sono anche alcune E-Sim, sia digitali che da ritirare in aeroporto
 
 ## Volo

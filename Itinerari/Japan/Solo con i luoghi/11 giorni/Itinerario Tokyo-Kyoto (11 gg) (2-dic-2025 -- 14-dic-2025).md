@@ -154,3 +154,70 @@
 - **13:20 ora Giappone | 05:20 ora italiana : PARTENZA DA HANEDA AIRPORT 
 - VOLO (15H 05)
 - **20:25 ora Italiana |  04:25 ora Giapponese** : ARRIVO A ROMA FIUMICINO
+
+---
+
+## Consigli per Dicembre
+
+Dicembre in Giappone offre alcune attività e attrazioni uniche legate alla stagione invernale e alle festività. Ecco alcune idee specifiche per arricchire l'itinerario, sfruttando il periodo natalizio e le particolarità del mese:
+
+---
+
+### **Tokyo**
+
+1. **Illuminazioni Invernali ("Winter Illuminations")**
+    
+    - **Key Spots:**
+        - **Roppongi Hills e Keyakizaka Street:** Luci natalizie con vista sulla Tokyo Tower.
+        - **Tokyo Midtown:** Installazioni luminose spettacolari nel giardino.
+        - **Shibuya Ao no Dokutsu (Grotta Blu):** L'intero viale decorato con luci blu.
+    - **Quando:** Tutto dicembre, spesso dalle 17:00 in poi.
+    - **Suggerimento:** Aggiungi queste tappe alla sera dopo aver visitato quartieri come Shibuya o Roppongi.
+2. **Mercatini di Natale**
+    
+    - **Yebisu Garden Place:** Mercatino europeo con bancarelle che vendono artigianato, cibi e bevande tipiche come vin brulé.
+    - **Hibiya Park Christmas Market:** Stand natalizi ispirati alla tradizione tedesca.
+3. **Odaiba Oedo Onsen Monogatari**
+    - Un complesso termale a tema Edo, perfetto per rilassarsi in una giornata fredda. L’atmosfera natalizia lo rende ancora più speciale a dicembre.
+4. **Pattinaggio su Ghiaccio**
+    
+    - **Midtown Ice Rink a Roppongi:** Una delle piste di pattinaggio più grandi e popolari di Tokyo, aperta per tutto dicembre.
+
+---
+
+### **Kyoto**
+
+1. **Arashiyama Hanatouro (嵐山花灯路)**
+    - **Descrizione:** Evento serale in cui i sentieri di Arashiyama, inclusa la foresta di bambù, vengono illuminati con lanterne tradizionali e installazioni artistiche.
+    - **Quando:** Metà dicembre (date specifiche da confermare).
+    - **Suggerimento:** Visitalo dopo il Kinkaku-ji o il ponte Togetsukyo.
+2. **Eventi di Fine Anno nei Templi**
+    - **Chion-in e altre grandi strutture:** Molti templi organizzano cerimonie di fine anno o meditazioni, come il "Joya no Kane" (i 108 rintocchi di campana per allontanare i peccati).
+    - **Quando:** La sera del 31 dicembre, ma alcune attività preparatorie si svolgono anche nei giorni precedenti.
+3. **Specialità Culinarie Invernali**
+    - **Nabe (鍋):** Stufati caldi disponibili in molti ristoranti tradizionali.
+    - **Yudofu (湯豆腐):** Una specialità di Kyoto, perfetta per l’inverno, disponibile nei ristoranti vicino a Nanzenji o Arashiyama.
+4. **Giardini Zen Innevati**
+    - In caso di nevicate, i giardini di templi come Ryoan-ji e Kodai-ji offrono un’atmosfera unica, ideale per fotografie indimenticabili.
+
+---
+
+### **Escursioni Vicine**
+
+1. **Nikko e il Santuario Toshogu**
+    - Dicembre è meno affollato rispetto ad altre stagioni. L’atmosfera invernale rende i templi immersi nella foresta ancora più suggestivi.
+2. **Onsen a Hakone o Kusatsu**
+    - Dicembre è ideale per vivere l’esperienza termale con paesaggi innevati. Hakone offre anche una vista sul Monte Fuji.
+3. **Festival di Gifu (Ogaki)**
+    - Alcuni eventi locali celebrano la neve o la stagione invernale, se compatibili con l'itinerario.
+
+---
+
+### **Consigli Generali per Dicembre**
+
+- **Meteo e Abbigliamento:** Porta abbigliamento caldo, ma a strati, poiché durante le giornate soleggiate le temperature possono essere più miti.
+- **Eventi Speciali:** Controlla i siti ufficiali degli eventi per confermare date e orari, poiché alcune attività potrebbero variare.
+- **Fotografia:** Approfitta delle prime luci del giorno o delle serate per catturare le luci e i paesaggi unici dell’inverno giapponese.
+
+---
+

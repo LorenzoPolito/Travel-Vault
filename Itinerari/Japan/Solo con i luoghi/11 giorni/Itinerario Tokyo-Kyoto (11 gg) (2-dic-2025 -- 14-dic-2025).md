@@ -34,7 +34,6 @@
 - Quartiere di [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
 - Quartiere di [[Akihabara (秋葉原)]]
-- [[Tokyo skytree (東京スカイツリー)]] ( 10:00 - 21:00 )
 - [[Santuario Kanda (神田明神)]] ( 24H )
 - Quartiere di [[Shibuya (渋谷区)]]
 - Quartiere di [[Shinjuku (新宿区)]]
@@ -43,6 +42,9 @@
 - [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
 - [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 )
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
+#### Sotto richiesta:
+- [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
+- [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 )
 ## [[Kyoto(京都)]]
 
 - [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 )
@@ -71,3 +73,7 @@
 - Ritiro bagagli, E-Sim e Pass all'aero-porto
 - Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
+- Quartiere di [[Asakusa(浅草)]]
+- [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
+
+### Giorno 3 (4 Dicembre 2025) (2° Tokyo)

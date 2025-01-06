@@ -87,12 +87,11 @@
 ### Giorno 1 (3 dicembre 2025) ( 1° Tokyo)
 
 - **11:20 ora Giapponese | 03:20 ora italiana** : ARRIVO A TOKYO HANEDA
-- Ritiro bagagli, E-Sim e Pass all'aeroporto
-- Movimento verso l'albergo con BUS
+- **Ritiro bagagli, E-Sim e Pass all'aeroporto**
+- **Trasferimento verso l'albergo con BUS**
 - Check-in all'hotel/casa
 - Quartiere di [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
-
 ### Giorno 2 (4 Dicembre 2025) (2° Tokyo)
 
 - Quartiere di [[Akihabara (秋葉原)]]
@@ -115,8 +114,8 @@
 ### Giorno 5 (7 Dicembre 2025) (5° Tokyo)
 
 - ???
-
-> QUI POTREBBE ESSERE POSSIBILE ANDARE A [[Kamakura(鎌倉市)]]
+> ##### Giorno da riempire
+> QUI POTREBBE ESSERE POSSIBILE ANDARE A [[Kamakura(鎌倉市)]] o **CITTÀ ONSEN**
 > *e forse prendere il treno notturno risparmiando una notte e tempo (da discutere se davvero necessario)*
 ### Giorno 6 (8 Dicembre 2025) (1° Kyoto)
 
@@ -144,12 +143,12 @@
 ### Giorno 11 (13 Dicembre 2025) (7° Tokyo)
 
 - ???
-
+> ##### Giorno da riempire
 ### VIAGGIO DI RITORNO (14 Dicembre 2025) (giorno di viaggio)
 
 - ??? *(potrebbe esserci tempo per altro?)*
 - Preparazione valige
-- Trasferimento all'aeroporto col BUS
+- **Trasferimento all'aeroporto col BUS**
 - File su file su file
 - ecc...
 - **13:20 ora Giappone | 05:20 ora italiana : PARTENZA DA HANEDA AIRPORT 

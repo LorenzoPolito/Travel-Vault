@@ -110,18 +110,30 @@
 
 ### Giorno 7 (8 Dicembre 2025) (1° Kyoto)
 
-- ???
+> Treno Tokyo -> Kyoto
+
+- [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 )
 
 ### Giorno 8 (9 Dicembre 2025) (2° Kyoto)
 
-- ???
+-  [[Nishiki Market (錦市場)]] ( 9:00-17:30 **chiuso domenica**)
+- zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
+- [[Santuario Yasaka (八坂神社)]] ( 24H )
 
 ### Giorno 9 (10 Dicembre 2025) (3° Kyoto)
 
-- ???
+-  [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 )
+- [[Fushimi Inari (伏見稲荷大社)]] ( 24H )
 
 ### Giorno 10 (9 Dicembre 2025) (4° Kyoto)
 
+- [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 )
+- [[Arashiyama (嵐山)]]
+
+### Giorno 11 (10 Dicembre 2025) (6° Kyoto)
+
 - ???
 
+### Giorno 12 (11 Dicembre 2025) (6° Kyoto)
 
+- ???

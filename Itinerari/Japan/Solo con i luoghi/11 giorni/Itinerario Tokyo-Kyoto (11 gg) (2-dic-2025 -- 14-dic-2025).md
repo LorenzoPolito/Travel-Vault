@@ -314,5 +314,3 @@ Dicembre in Giappone offre alcune attività e attrazioni uniche legate alla stag
 - Consigli utili per spostamenti, pasti e attività in ogni città, inclusi trasporti pubblici efficienti e luoghi segreti da scoprire.
 
 ---
-
-**Preparati a scoprire la magia del Giappone in un viaggio indimenticabile!** 🌟

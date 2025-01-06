@@ -14,7 +14,7 @@
 #discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
 #discutere spirito di adattamento
 
-1285 €(voli) + 365 €(trasporti) + 200€(attività) + 200€(gadget) + 400 €(imprevisti)
+900 €(voli) + 385 €(hotel) + 365 €(trasporti) + 200€(attività) + 550 €(pasti) + 200€(gadget) + 400 €(imprevisti) = 3000 €
 ## Alcune Info
 - Il fuso orario è di +8 ore avanti rispetto a Roma
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]

@@ -6,8 +6,8 @@
 |               Tokyo(3-7)                |   5    |   5   |           23 €            |                      |
 |               Kyoto(8-11)               |   4    |   4   |         30€ circa         | TOEI park Eva(15 €)? |
 |              Tokyo(12-13)               |  1.5   |   2   |           23 €            |                      |
-|          Volo ritorno(14 dic )          |   0    |   0   |         300/400 €         |                      |
-|               **TOTALE**                |  10.5  |  11   |                           |                      |
+|     Volo ritorno(14 dic -> 14 dic)      |  0.5   |   0   |         300/400 €         |                      |
+|               **TOTALE**                |   11   |  11   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -24,7 +24,14 @@
 
 ![[Pasted image 20250106151504.png]]
 [Dettagli volo](https://www.skyscanner.it/trasporti/voli/rome/hnd/251202/251214/config/11493-2512021505--30727-0-12234-2512031120%7C12234-2512141320--30727-0-11493-2512142025?adultsv2=1&cabinclass=economy&childrenv2=&ref=home&rtn=1&preferdirects=false&outboundaltsenabled=false&inboundaltsenabled=false)
-## Giorno 1 (2 dicembre 2025) (giorno di viaggio)
+
+
+## Itinerario Base
+
+## [[Tokyo(東京)]]
+
+- 
+### Giorno 1 (2 dicembre 2025) (giorno di viaggio)
 
 - preparazione valige
 - inventario e controllo documenti
@@ -34,7 +41,7 @@
 - ecc...
 - **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA
 
-## Giorno 2 (3 dicembre 2025) ( 1° [[Tokyo(東京)]])
+### Giorno 2 (3 dicembre 2025) ( 1° [[Tokyo(東京)]])
 
 - **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
 - Ritiro bagagli, E-Sim e Pass all'aero-porto

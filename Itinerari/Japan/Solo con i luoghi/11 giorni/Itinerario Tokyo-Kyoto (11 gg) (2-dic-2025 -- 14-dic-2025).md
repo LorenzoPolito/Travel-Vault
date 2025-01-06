@@ -78,10 +78,10 @@
 - partenza per aeroporto
 - File su file su file
 - ecc...
-- **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA
+- **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA DA ROMA (12H 15)
 ### Giorno 2 (3 dicembre 2025) ( 1° Tokyo)
 
-- **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
+- **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO A TOKYO 
 - Ritiro bagagli, E-Sim e Pass all'aeroporto
 - Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
@@ -107,4 +107,21 @@
 ### Giorno 6 (7 Dicembre 2025) (5° Tokyo)
 
 - Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
+
+### Giorno 7 (8 Dicembre 2025) (1° Kyoto)
+
+- ???
+
+### Giorno 8 (9 Dicembre 2025) (2° Kyoto)
+
+- ???
+
+### Giorno 9 (10 Dicembre 2025) (3° Kyoto)
+
+- ???
+
+### Giorno 10 (9 Dicembre 2025) (4° Kyoto)
+
+- ???
+
 

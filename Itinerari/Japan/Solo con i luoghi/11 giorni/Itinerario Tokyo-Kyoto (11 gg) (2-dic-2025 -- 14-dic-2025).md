@@ -70,7 +70,7 @@
 ---
 ## Dettaglio
 
-### Giorno 1 (2 dicembre 2025) (giorno di viaggio)
+### VIAGGIO DI ANDATA (2 dicembre 2025) (giorno di viaggio)
 
 - preparazione valige
 - inventario e controllo documenti
@@ -79,7 +79,7 @@
 - File su file su file
 - ecc...
 - **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA DA ROMA (12H 15)
-### Giorno 2 (3 dicembre 2025) ( 1° Tokyo)
+### Giorno 1 (3 dicembre 2025) ( 1° Tokyo)
 
 - **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO A TOKYO 
 - Ritiro bagagli, E-Sim e Pass all'aeroporto
@@ -88,52 +88,61 @@
 - Quartiere di [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
 
-### Giorno 3 (4 Dicembre 2025) (2° Tokyo)
+### Giorno 2 (4 Dicembre 2025) (2° Tokyo)
 
 - Quartiere di [[Akihabara (秋葉原)]]
 - [[Santuario Kanda (神田明神)]] ( 24H )
 
-### Giorno 4 (5 Dicembre 2025) (3° Tokyo)
+### Giorno 3 (5 Dicembre 2025) (3° Tokyo)
 
 - Quartiere di [[Shibuya (渋谷区)]]
 - Quartiere di [[Shinjuku (新宿区)]]
 - [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 )
 
-### Giorno 5 (6 Dicembre 2025) (4° Tokyo)
+### Giorno 4 (6 Dicembre 2025) (4° Tokyo)
 
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 - [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 )
 
-### Giorno 6 (7 Dicembre 2025) (5° Tokyo)
+### Giorno 5 (7 Dicembre 2025) (5° Tokyo)
 
 - Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
 
-### Giorno 7 (8 Dicembre 2025) (1° Kyoto)
+### Giorno 6 (8 Dicembre 2025) (1° Kyoto)
 
 > Treno Tokyo -> Kyoto
 
 - [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 )
 
-### Giorno 8 (9 Dicembre 2025) (2° Kyoto)
+### Giorno 7 (9 Dicembre 2025) (2° Kyoto)
 
 -  [[Nishiki Market (錦市場)]] ( 9:00-17:30 **chiuso domenica**)
 - zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 - [[Santuario Yasaka (八坂神社)]] ( 24H )
 
-### Giorno 9 (10 Dicembre 2025) (3° Kyoto)
+### Giorno 8 (10 Dicembre 2025) (3° Kyoto)
 
 -  [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 )
 - [[Fushimi Inari (伏見稲荷大社)]] ( 24H )
 
-### Giorno 10 (9 Dicembre 2025) (4° Kyoto)
+### Giorno 9 (11 Dicembre 2025) (4° Kyoto)
 
 - [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 )
 - [[Arashiyama (嵐山)]]
 
-### Giorno 11 (10 Dicembre 2025) (6° Kyoto)
+### Giorno 10 (12 Dicembre 2025) (6° Tokyo)
+
+> Treno Kyoto -> Tokyo
 
 - ???
 
-### Giorno 12 (11 Dicembre 2025) (6° Kyoto)
+### Giorno 11 (13 Dicembre 2025) (7° Tokyo)
 
 - ???
+
+### VIAGGIO DI RITORNO (14 Dicembre 2025) (giorno di viaggio)
+
+- ???
+- Preparazione valige
+- Trasferimento all'aeroporto col BUS
+- Partenza

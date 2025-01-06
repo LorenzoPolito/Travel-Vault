@@ -27,5 +27,6 @@
   "webpage-html-export",
   "theme-picker",
   "obsidian-kanban",
-  "better-export-pdf"
+  "better-export-pdf",
+  "obsidian-pandoc"
 ]

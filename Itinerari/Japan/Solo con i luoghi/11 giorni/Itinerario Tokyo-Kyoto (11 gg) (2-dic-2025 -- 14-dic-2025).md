@@ -28,10 +28,13 @@
 
 ## Itinerario Base
 
+> Accanto tra parentesi sono gli orari di apertura al pubblico
 ## [[Tokyo(東京)]]
 
 - Quartiere di [[Asakusa(浅草)]]
 - [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
+- Quartiere di [[Akihabara (秋葉原)]]
+- [[Tokyo skytree (東京スカイツリー)]] ( 10:00 - 21:00 )
 - [[Santuario Kanda (神田明神)]] ( 24H )
 - Quartiere di [[Shibuya (渋谷区)]]
 - Quartiere di [[Shinjuku (新宿区)]]

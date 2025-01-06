@@ -34,7 +34,13 @@
               "icon": "lucide-file",
               "title": "Itinerario Ossama Valentina"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "db70f8098c98f4d9",
+        "type": "tabs",
+        "children": [
           {
             "id": "bcc4535854f2d378",
             "type": "leaf",
@@ -248,8 +254,9 @@
   },
   "active": "e511246f19fba32a",
   "lastOpenFiles": [
-    "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
+    "Locations/Japan/Lista dei Luoghi.md",
     "Locations/Japan/Parks-nature/Arashiyama (嵐山).md",
     "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md",
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
@@ -276,7 +283,6 @@
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
     "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md",
     "Locations/Japan/Temples/Tempio Kencho-ji (建長寺).md",
-    "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).md"
+    "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).md"
   ]
 }

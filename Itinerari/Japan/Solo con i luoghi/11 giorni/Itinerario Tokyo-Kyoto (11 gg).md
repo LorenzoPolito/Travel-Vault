@@ -2,11 +2,11 @@
 
 |                  città                  | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:---------------------------------------:|:------:|:-----:|:-------------------------:|:--------------------:|
-| Volo andata(2 dic 15:05 -> 3 dic 11:20) |  0.5   |   1   |         300/400 €         |                      |
+| Volo andata(2 dic 15:05 -> 3 dic 11:20) |   0    |   0   |         300/400 €         |                      |
 |                  Kyoto                  |   4    |   3   |         30€ circa         | TOEI park Eva(15 €)? |
 |                  Tokyo                  |   7    |   6   |           23 €            |                      |
-|          Volo ritorno(14 dic )          |  0.5   |   1   |         300/400 €         |                      |
-|               **TOTALE**                |   12   |  11   |                           |                      |
+|          Volo ritorno(14 dic )          |   0    |   0   |         300/400 €         |                      |
+|               **TOTALE**                |   11   |   9   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -34,7 +34,8 @@
 ## Giorno 2( 1° [[Tokyo(東京)]])
 
 - **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
-- Ritiro E-Sim e Pass all'aero-porto
+- Ritiro bagagli, E-Sim e Pass all'aero-porto
+- Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
 ##### Pomeriggio: 
 - [[Palazzo Imperiale di Tokyo (皇居)]] 

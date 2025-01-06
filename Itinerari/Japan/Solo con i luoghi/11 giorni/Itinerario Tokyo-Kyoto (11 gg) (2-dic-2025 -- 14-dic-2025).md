@@ -62,7 +62,6 @@
 ---
 ## Dettaglio
 
----
 ### Giorno 1 (2 dicembre 2025) (giorno di viaggio)
 
 - preparazione valige
@@ -72,8 +71,6 @@
 - File su file su file
 - ecc...
 - **15:05 ora Italiana | 23:05 ora Giapponese** : PARTENZA
-
----
 ### Giorno 2 (3 dicembre 2025) ( 1° Tokyo)
 
 - **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
@@ -84,3 +81,18 @@
 - [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
 
 ### Giorno 3 (4 Dicembre 2025) (2° Tokyo)
+
+- ???
+
+### Giorno 4 (5 Dicembre 2025) (3° Tokyo)
+
+- ???
+
+### Giorno 5 (6 Dicembre 2025) (4° Tokyo)
+
+- ???
+
+### Giorno 6 (7 Dicembre 2025) (5° Tokyo)
+
+- ???
+

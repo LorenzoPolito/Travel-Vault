@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
             }
-          },
-          {
-            "id": "e08db9ad70157850",
-            "type": "leaf",
-            "state": {
-              "type": "reveal-preview-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Slide Preview"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,7 +256,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "e08db9ad70157850",
+  "active": "e511246f19fba32a",
   "lastOpenFiles": [
     "Itinerari/Japan/Esterni/Itinerario Ossama Valentina.md",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",

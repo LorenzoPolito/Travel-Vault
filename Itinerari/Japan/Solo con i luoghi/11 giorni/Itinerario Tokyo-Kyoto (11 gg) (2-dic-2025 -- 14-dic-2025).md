@@ -90,17 +90,21 @@
 
 ### Giorno 3 (4 Dicembre 2025) (2° Tokyo)
 
-- ???
+- Quartiere di [[Akihabara (秋葉原)]]
+- [[Santuario Kanda (神田明神)]] ( 24H )
 
 ### Giorno 4 (5 Dicembre 2025) (3° Tokyo)
 
-- ???
+- Quartiere di [[Shibuya (渋谷区)]]
+- Quartiere di [[Shinjuku (新宿区)]]
+- [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 )
 
 ### Giorno 5 (6 Dicembre 2025) (4° Tokyo)
 
-- ???
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
+- [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 )
 
 ### Giorno 6 (7 Dicembre 2025) (5° Tokyo)
 
-- ???
+- Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
 

@@ -176,6 +176,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "5e2369a2c44348cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "771de2c4ec60ceb7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",

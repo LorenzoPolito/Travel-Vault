@@ -30,7 +30,16 @@
 
 ## [[Tokyo(東京)]]
 
-- 
+- Quartiere di [[Asakusa(浅草)]]
+- [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 )
+- [[Santuario Kanda (神田明神)]] ( 24H )
+- Quartiere di [[Shibuya (渋谷区)]]
+- Quartiere di [[Shinjuku (新宿区)]]
+- [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 )
+- Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] 
+- [[Palazzo Imperiale di Tokyo (皇居)]] ( 9:00 - 11:15 , 13:30 - 14:45 ( interno chiuso domenica e lunedì, giardini aperti 9:00-15:30 ) )
+- [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 )
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 ### Giorno 1 (2 dicembre 2025) (giorno di viaggio)
 
 - preparazione valige

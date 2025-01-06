@@ -82,7 +82,7 @@
 - VOLO (12H 15)
 ### Giorno 1 (3 dicembre 2025) ( 1° Tokyo)
 
-- **11:20 ora Giapponese | 04:20 ora italiana** : ARRIVO A TOKYO HANEDA
+- **11:20 ora Giapponese | 03:20 ora italiana** : ARRIVO A TOKYO HANEDA
 - Ritiro bagagli, E-Sim e Pass all'aeroporto
 - Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
@@ -107,11 +107,14 @@
 
 ### Giorno 5 (7 Dicembre 2025) (5° Tokyo)
 
-- Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
+- ???
+
+> QUI POTREBBE ESSERE POSSIBILE ANDARE A [[Kamakura(鎌倉市)]]
+> *e forse prendere il treno notturno risparmiando una notte e tempo (da discutere se davvero necessario)*
 
 ### Giorno 6 (8 Dicembre 2025) (1° Kyoto)
 
-> Treno Tokyo -> Kyoto
+> Treno Tokyo -> Kyoto (2H circa)
 
 - [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 )
 
@@ -133,9 +136,9 @@
 
 ### Giorno 10 (12 Dicembre 2025) (6° Tokyo)
 
-> Treno Kyoto -> Tokyo
+> Treno Kyoto -> Tokyo (2H circa)
 
-- ???
+- Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
 
 ### Giorno 11 (13 Dicembre 2025) (7° Tokyo)
 
@@ -150,4 +153,4 @@
 - ecc...
 - **13:20 ora Giappone | 05:20 ora italiana : PARTENZA DA HANEDA AIRPORT 
 - VOLO (15H 05)
-- **20:25 ora Italiana |  04:20 ora Giapponese** : ARRIVO A ROMA FIUMICINO
+- **20:25 ora Italiana |  04:25 ora Giapponese** : ARRIVO A ROMA FIUMICINO

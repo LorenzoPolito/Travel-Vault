@@ -1,5 +1,13 @@
 > Creato da @Lorenzo
 
+|   città    | giorni | notti | € a notte *(provvisorio)* |
+|:----------:|:------:|:-----:|:-------------------------:|
+|   Tokyo    |   7    |   7   |           35 €            |
+|   Kyoto    |   4    |   4   |           35 €            |
+| **TOTALE** |   11   |  11   |           385 €           |
+<!-- TBLFM: @>$2=sum(@I..@-1) -->
+<!-- TBLFM: @>$3=sum(@I..@-1) -->
+
 |                  città                  | giorni | notti | € a notte *(provvisorio)* |         note         |
 |:---------------------------------------:|:------:|:-----:|:-------------------------:|:--------------------:|
 | Volo andata(2 dic 15:05 -> 3 dic 11:20) |   0    |   0   |         300/400 €         |                      |
@@ -74,7 +82,7 @@
 ### Giorno 2 (3 dicembre 2025) ( 1° Tokyo)
 
 - **12:20 ora Giapponese | 04:20 ora italiana** : ARRIVO
-- Ritiro bagagli, E-Sim e Pass all'aero-porto
+- Ritiro bagagli, E-Sim e Pass all'aeroporto
 - Movimento verso l'albergo con BUS
 - Check-in all'hotel/casa
 - Quartiere di [[Asakusa(浅草)]]

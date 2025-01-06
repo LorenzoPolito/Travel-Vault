@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 412
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,7 +218,7 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "3f81a9c940336ee3",
+  "active": "e511246f19fba32a",
   "lastOpenFiles": [
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",

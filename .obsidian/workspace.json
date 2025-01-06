@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4000fd70cde2c5ec",
+        "id": "824ff331ab5d0dc6",
         "type": "tabs",
         "children": [
           {
-            "id": "b71e97710ebcc88f",
+            "id": "e511246f19fba32a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Itinerario Tokyo-Kyoto (11 gg)"
             }
           }
         ]
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti"
+              "title": "Riferimenti a Itinerario Tokyo-Kyoto (11 gg)"
             }
           },
           {
@@ -127,11 +132,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita"
+              "title": "Collegamenti in uscita da Itinerario Tokyo-Kyoto (11 gg)"
             }
           },
           {
@@ -152,9 +158,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg).md"
+              },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Itinerario Tokyo-Kyoto (11 gg)"
             }
           },
           {
@@ -171,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,14 +202,16 @@
       "markdown-importer:Apri importazione Markdown": false
     }
   },
-  "active": "b71e97710ebcc88f",
+  "active": "e511246f19fba32a",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/11 giorni",
     "conflict-files-obsidian-git.md",
     "Itinerario Kanban Template.md",
     "Index.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Osaka-Tokyo (11 gg).md",
-    "Itinerari/Japan/Solo con i luoghi/10 giorni/Itinerario Tokyo-Kyoto (10 gg).md",
     "Itinerari/Japan/Solo con i luoghi/7 giorni/Tokyo/Itinerario Tokyo (7 gg.).md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni",
     "Info/Japan/Viaggiare Sicuri.md",
@@ -221,8 +230,6 @@
     "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).md",
     "Locations/Japan/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
     "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).md",
-    "Locations/Japan/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md"
+    "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).md"
   ]
 }

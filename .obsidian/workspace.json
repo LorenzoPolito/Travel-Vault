@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Lista dei Luoghi"
             }
           }
         ]
@@ -258,6 +258,8 @@
   },
   "active": "e511246f19fba32a",
   "lastOpenFiles": [
+    "Index.md",
+    "Documenti Esterni/~$inerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).docx",
     "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
@@ -283,7 +285,6 @@
     "Locations/Japan/Temples/Chureito Pagoda (忠霊塔).md",
     "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Japan/Stores/Pokemon center Shibuya.md",
-    "Locations/Japan/Stores/Nishiki Market (錦市場).md",
     "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
     "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).pdf",
     "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).docx",
@@ -293,7 +294,6 @@
     "Itinerari/Japan/Solo con i luoghi/11 giorni/~WRL0004.tmp",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/~WRD0003.tmp",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/~WRD0002.tmp",
-    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).pdf",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg"
   ]

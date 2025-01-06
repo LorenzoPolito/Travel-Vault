@@ -20,10 +20,6 @@
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
 ---
-
-#discutere se partire da Osaka o da Tokyo (ad Osaka solo voli con scalo)
-#discutere spirito di adattamento
-
 ## Spese previste (indicative)
 
 | Voli + Bagagli | Notti(11) | Trasporti | Attività | Pasti(2x11) | Gadget | Imprevisti | **=TOTALE** |

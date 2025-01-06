@@ -26,9 +26,9 @@
 
 ## Spese previste (indicative)
 
-**900€(voli) + 385€(hotel) + 365€(trasporti) + 200€(attività) + 550€(pasti) + 200€(gadget) + 400€(imprevisti) = 3000 €**
-
-| Voli + Bagagli | Notti(12) | Trasporti | Attività | Pasti(2x12) |  |
+| Voli + Bagagli | Notti(11) | Trasporti | Attività | Pasti(2x11) | Gadget | Imprevisti | **=TOTALE** |
+| -------------- | --------- | --------- | -------- | ----------- | ------ | ---------- | ----------- |
+| 900 €          | 385 €     | 365 €     | 200 €    | 550 €       | 200 €  | 400 €      | 3000 €      |
 ## Alcune Info
 - Il fuso orario è di +8 ore avanti rispetto a Roma
 - per Tokyo e Kyoto è utile una [[Suica]] o [[Pasmo]]
@@ -98,52 +98,49 @@
 - Quartiere di [[Akihabara (秋葉原)]]
 - [[Santuario Kanda (神田明神)]] ( 24H )
 
+> - [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
+> - [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 )
 ### Giorno 3 (5 Dicembre 2025) (3° Tokyo)
 
 - Quartiere di [[Shibuya (渋谷区)]]
 - Quartiere di [[Shinjuku (新宿区)]]
 - [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 )
-
 ### Giorno 4 (6 Dicembre 2025) (4° Tokyo)
 
 - [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 )
 - [[Tokyo tower (東京タワー)]] ( 9:00 - 22:30 )
 
+> - [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 )
+> - [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 )
 ### Giorno 5 (7 Dicembre 2025) (5° Tokyo)
 
 - ???
 
 > QUI POTREBBE ESSERE POSSIBILE ANDARE A [[Kamakura(鎌倉市)]]
 > *e forse prendere il treno notturno risparmiando una notte e tempo (da discutere se davvero necessario)*
-
 ### Giorno 6 (8 Dicembre 2025) (1° Kyoto)
 
 > Treno Tokyo -> Kyoto (2H circa)
 
 - [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 )
-
 ### Giorno 7 (9 Dicembre 2025) (2° Kyoto)
 
 -  [[Nishiki Market (錦市場)]] ( 9:00-17:30 **chiuso domenica**)
 - zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]]
 - [[Santuario Yasaka (八坂神社)]] ( 24H )
-
 ### Giorno 8 (10 Dicembre 2025) (3° Kyoto)
 
 - [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 )
 - [[Fushimi Inari (伏見稲荷大社)]] ( 24H )
-
 ### Giorno 9 (11 Dicembre 2025) (4° Kyoto)
 
 - [[Kinkaku-ji (金閣寺)]] ( 9:00-17:00 )
 - [[Arashiyama (嵐山)]]
-
 ### Giorno 10 (12 Dicembre 2025) (6° Tokyo)
 
 > Treno Kyoto -> Tokyo (2H circa)
 
 - Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]]
-
 ### Giorno 11 (13 Dicembre 2025) (7° Tokyo)
 
 - ???

@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "file": "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista dei Luoghi"
+              "title": "E-SIM panoramica delle disponibili"
+            }
+          },
+          {
+            "id": "b6ad4960fc56fbcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "E-SIM panoramica delle disponibili"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,18 +271,29 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "10edfcd88b2b7064",
+  "active": "b6ad4960fc56fbcf",
   "lastOpenFiles": [
+    "Info/Japan/E-Sim/~$SIM panoramica delle disponibili.docx",
+    "Info/Japan/IC Cards/~$Suica.docx",
+    "Info/Japan/IC Cards/~$Pasmo.docx",
+    "Info/Japan/Pass/~$R pass.docx",
+    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.docx",
+    "Info/Japan/IC Cards/Pasmo.md",
+    "Info/Japan/IC Cards/Pasmo.docx",
+    "Info/Japan/IC Cards/Icoca.md",
+    "Info/Japan/IC Cards/IC Cards.md",
+    "Info/Japan/IC Cards/Suica.docx",
+    "Info/Japan/IC Cards/Suica.md",
+    "Info/Japan/Pass/JR pass.docx",
+    "Info/Japan/Pass/JR pass.md",
+    "Info/Japan/Pass/Osaka Amazing pass.md",
+    "Info/Japan/Viaggiare Sicuri.md",
+    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
+    "Locations/Japan/Lista dei Luoghi.md",
     "Documenti Esterni/mso2415.tmp",
     "Documenti Esterni/mso204C.tmp",
     "Documenti Esterni/~WRL0003.tmp",
-    "Documenti Esterni/~WRD0002.tmp",
-    "Locations/Japan/~$sta dei Luoghi.docx",
-    "Locations/Japan/Lista dei Luoghi.docx",
-    "Documenti Esterni/~WRL0001.tmp",
-    "Documenti Esterni/~WRD0000.tmp",
     "Index.md",
-    "Documenti Esterni/~$inerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).docx",
     "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
     "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
     "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
@@ -283,17 +309,6 @@
     "Locations/Japan/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
     "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).md",
-    "Locations/Japan/Temples/Kodokan dojo judo (講道館).md",
-    "Locations/Japan/Temples/Kiyomizu-dera (清水寺).md",
-    "Locations/Japan/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Japan/Temples/Kanandorii (金鳥居).md",
-    "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).md",
-    "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md",
-    "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md",
-    "Locations/Japan/Temples/Chureito Pagoda (忠霊塔).md",
-    "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).md",
-    "Info/Assicurazione viaggi/202007-travel_care(PREVENTIVO).pdf",
-    "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).pdf",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg"
   ]

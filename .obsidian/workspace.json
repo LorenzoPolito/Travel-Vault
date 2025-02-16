@@ -72,7 +72,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Esplora risorse"
@@ -126,7 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md"
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Struttura di Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"

@@ -12,7 +12,6 @@
   "obsidian-map-view",
   "calendar",
   "obsidian-day-planner",
-  "obsidian-pandoc",
   "url-into-selection",
   "oz-image-plugin",
   "obsidian-git",
@@ -26,7 +25,8 @@
   "obsidian-timelines",
   "mousewheel-image-zoom",
   "webpage-html-export",
-  "surfing",
   "theme-picker",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "better-export-pdf",
+  "obsidian-pandoc"
 ]

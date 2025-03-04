@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5abae98cacb193",
+        "id": "599842842203ddea",
         "type": "tabs",
         "children": [
           {
-            "id": "ab5c4a1e6f58ffbb",
+            "id": "5d93027e0733418e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025) Versione 2.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025) Versione 2"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -127,6 +123,16 @@
             "type": "leaf",
             "state": {
               "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
+            }
+          },
+          {
+            "id": "1560b1b3b389934a",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
@@ -259,7 +265,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "surfing:surfing-bookmark-manager": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -272,15 +279,15 @@
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-day-planner:Timeline": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "ab5c4a1e6f58ffbb",
+  "active": "5d93027e0733418e",
   "lastOpenFiles": [
+    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025) Versione 2.md",
     "Locations/Japan/Cities/Tokyo(東京).md",
     "Locations/Japan/Cities/Osaka(大阪市).md",
     "Locations/Japan/Cities/Kyoto(京都).md",
@@ -290,7 +297,6 @@
     "Locations/Japan/Cities/Nara (奈良市).md",
     "Locations/Japan/Cities/Miyajima (宮島).md",
     "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
-    "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025) Versione 2.md",
     "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md",
     "conflict-files-obsidian-git.md",
     "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",

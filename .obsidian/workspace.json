@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "file": "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lista dei Luoghi"
+              "title": "Ryoan-ji (龍安寺方丈庭園)"
             }
           }
         ]
@@ -291,8 +291,9 @@
   },
   "active": "6c3042885c6159b5",
   "lastOpenFiles": [
-    "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md",
     "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Temples/Kinkaku-ji (金閣寺).md",
+    "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md",
     "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md",
     "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md",
     "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
@@ -316,7 +317,6 @@
     "Locations/Japan/Cities/Kobe(神戸).md",
     "Locations/Japan/Cities/Nara (奈良市).md",
     "Locations/Japan/Cities/Miyajima (宮島).md",
-    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
     "Itinerari/Japan/Solo con i luoghi/11 giorni",

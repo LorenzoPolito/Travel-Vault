@@ -54,7 +54,7 @@ Il Tempio di Sensoji è illuminato ogni sera dal tramonto fino alle 23:00 circa.
 
 Dopo aver esplorato l'area del tempio, torna sulla Strada Nakamise-dori, una delle più antiche vie commerciali del Giappone. Sentiti come un mecenate della vecchia Edo mentre passi da un negozio all'altro.
 
-![](https://res.cloudinary.com/jnto/image/upload/w_750,h_503,fl_lossy,f_auto/v1675339920/tokyo/Tokyo_s_id19_24)
+![|550](https://res.cloudinary.com/jnto/image/upload/w_750,h_503,fl_lossy,f_auto/v1675339920/tokyo/Tokyo_s_id19_24)
 
 ### Una passeggiata panoramica lungo il Fiume Sumida
 

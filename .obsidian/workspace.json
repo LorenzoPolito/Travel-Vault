@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#2/5",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -290,10 +290,11 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "23723419d0798a64",
+  "active": "6c3042885c6159b5",
   "lastOpenFiles": [
-    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
+    "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).md",
     "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
     "Locations/Japan/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
     "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).md",
     "Locations/Japan/Parks-nature/Sentiero del filosofo (哲学の道).md",
@@ -317,7 +318,6 @@
     "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
     "Locations/Japan/Temples/Santuario Kanda (神田明神).md",
     "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
     "Itinerari/Japan/Solo con i luoghi/11 giorni",

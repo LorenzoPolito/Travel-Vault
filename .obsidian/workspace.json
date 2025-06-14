@@ -71,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#2/5",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +92,8 @@
               "title": "Segnalibri"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -289,7 +290,7 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "6c3042885c6159b5",
+  "active": "23723419d0798a64",
   "lastOpenFiles": [
     "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
     "Locations/Japan/Lista dei Luoghi.md",

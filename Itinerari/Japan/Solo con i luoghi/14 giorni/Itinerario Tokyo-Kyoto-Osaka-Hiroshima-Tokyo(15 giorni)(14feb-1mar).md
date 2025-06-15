@@ -73,15 +73,15 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** A piedi o con i mezzi pubblici, Stazione Otemachi o Tokyo Station.
-- **12:30-14:00** Pranzo (es. Katsuyoshi).
-- **14:30** Spostamento a [[Shibuya]] (30min).
-- **15:00-18:30** Esplorazione di Shibuya (inclusa la Crossing) e visita al [[Santuario Meiji Jingu]]. Per una vista migliore del crossing, sali al secondo piano dello Starbucks o al Magnet by Shibuya 109. Il Santuario è un'oasi di pace.
+- **12:30-14:00** Pranzo (es. [[Katsuyoshi]]).
+- **14:30** Spostamento a [[Shibuya (渋谷区)]] (30min).
+- **15:00-18:30** Esplorazione di [[Shibuya (渋谷区)]] (inclusa la Crossing) e visita al [[Santuario Meiji (明治神宮)]]. Per una vista migliore del crossing, sali al secondo piano dello Starbucks o al Magnet by Shibuya 109. Il Santuario è un'oasi di pace.
     - **Livello di Difficoltà:** 1 (Shibuya), 2 (Meiji Jingu - camminata nel parco)
     - **Sforzo Fisico Richiesto:** Camminata leggera a moderata.
     - **Come Raggiungere:** Stazione Shibuya (per l'incrocio), Stazione Harajuku (per Meiji Jingu).
-- **19:00** Spostamento a [[Shinjuku]] (20min).
-- **19:30** Cena (es. Ichiran Ramen).
-- **20:30-22:30** Passeggiata a Shinjuku. Sali al piano panoramico (gratuito) del Tokyo Metropolitan Government Building. Esplora Kabukicho e Golden Gai con prudenza.
+- **19:00** Spostamento a [[Shinjuku (新宿区)]] (20min).
+- **19:30** Cena (es. [[Ichiran Ramen]]).
+- **20:30-22:30** Passeggiata a Shinjuku. Sali al piano panoramico (gratuito) del [[Tokyo Metropolitan Government Building]]. Esplora Kabukicho e [[Golden Gai (ゴールデン街 )]] con prudenza.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Stazione Shinjuku.
@@ -92,7 +92,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **08:00** Sveglia e preparazione.
 - **08:15** Colazione veloce e leggera (combini).
 - **09:00** Uscita (direzione Akihabara) (20min).
-- **09:30-12:30** Passeggiata ad [[Akihabara]]. Esplora i negozi su più piani (Yodobashi Akiba, Mandarake Complex), _maid café_ e sale giochi. Prova un _gashapon_.
+- **09:30-12:30** Passeggiata ad [[Akihabara (秋葉原)]]. Esplora i negozi su più piani ([[Yodobashi Akiba]], [[Mandarake Complex]]), _maid café_ e sale giochi. Prova un _gashapon_.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Akihabara.

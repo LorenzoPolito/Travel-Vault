@@ -1,11 +1,12 @@
 
-> Creato da @Damiano
+> Creato da @Damiano e Lorenzo
 
 > ##### Cosa stiamo ancora valutando
 > - Ritorno il 1 marzo, si potrebbe ritornare prima o ancora meglio partire il 15 febraio saltando San-Valentino
 > - Tour guide, si potrebbero prendere delle quide per Hiroshima e miyajima (110€) perchè posti più complessi da visitare in autonomia, valutiamo questa opzione anche per kyoto ma più per hiroshima
 > - Togliere kobe se troppo difficle da far entrare senza correre
 > - valutare di fare prima Hiroshima di Osaka in modo da fare il viaggio tokyo->kyoto->hiroshima->osaka->tokyo che è molto più ordinato e semplice
+> - Inserire Il kodokan Judo nei primo giorni a Tpkyo e non alla fine
 
 |   |   |   |   |
 |---|---|---|---|

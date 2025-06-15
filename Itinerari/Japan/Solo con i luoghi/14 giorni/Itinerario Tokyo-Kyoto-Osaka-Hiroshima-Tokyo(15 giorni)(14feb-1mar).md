@@ -97,7 +97,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Akihabara.
 - **12:30-14:00** Pranzo (es. Syabu-yo Atre Akihabara 2).
-- **14:30** Partenza divisa: [[Nakano Broadway]] (per Lorenzo – 35min) e [[The Making of Harry Potter]] (per Damiano – 50min).
+- **14:30** Partenza divisa: [[Nakano Broadway (中野ブロードウェイ)]] (per Lorenzo – 35min) e [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] (per Damiano – 50min).
     - **Nakano Broadway:** Un tesoro per i fan di anime e manga, con negozi specializzati.
         - **Livello di Difficoltà:** 1 (facile)
         - **Sforzo Fisico Richiesto:** Camminata leggera.
@@ -106,7 +106,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
         - **Livello di Difficoltà:** 1 (facile)
         - **Sforzo Fisico Richiesto:** Camminata leggera.
         - **Come Raggiungere:** Mezzi pubblici, Treno da Toshimaen Station.
-- **18:30** Partenza per [[Ueno Park]] (45min da Harry Potter e 40min da Nakano).
+- **18:30** Partenza per [[Parco di Ueno (上野恩賜公園)]] (45min da Harry Potter e 40min da Nakano).
 - **19:00-21:30** Passeggiata e cena a Ueno. Ottimo per una passeggiata rilassante.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
@@ -116,7 +116,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 ## Giorno 5 (19 Febbraio): Tsukiji, TeamLab, Odaiba
 
 - **05:20** Sveglia e preparazione.
-- **06:00** Partenza per [[Tsukiji Outer Market]] (30min).
+- **06:00** Partenza per [[Mercato del pesce di Tsukiji (築地場外市場)]] (30min).
 - **06:30-10:00** Esplorazione e colazione al mercato del pesce! Vai presto per l'atmosfera autentica e assaggia il sushi fresco o il _tamagoyaki_.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera, tra la folla.
@@ -134,8 +134,8 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera, alcune aree con acqua.
     - **Come Raggiungere:** A piedi o con i mezzi pubblici, Stazione Shin-Toyosu.
-- **17:30** Partenza per [[Odaiba]] (25min).
-- **18:00-20:00** Passeggiata ad Odaiba e ammirate il [[Rainbow Bridge]]. Goditi la vista sulla baia di Tokyo.
+- **17:30** Partenza per [[Odaiba (お台場 )]] (25min).
+- **18:00-20:00** Passeggiata ad Odaiba e ammirate il [[Rainbow Bridge (レインボーブリッジ)]]. Goditi la vista sulla baia di Tokyo.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Yurikamome Line o Rinkai Line.
@@ -146,7 +146,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Uscita (direzione [[Kamakura]]) (1h20min).
+- **08:30** Uscita (direzione [[Kamakura(鎌倉市)]]) (1h20min).
 - **10:00** Arrivo e spostamento per la visita (15min autobus).
 - **10:15-13:30** Visita al [[Grande Buddha (Daibutsu)]] e altri templi. Ammira la maestosità della statua e visita il Tempio Hasedera. Prevedi scarpe comode.
     - **Livello di Difficoltà:** 2 (moderato)
@@ -155,19 +155,19 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **13:30** Rientro a Kamakura Station e pranzo in giro (ramen? Yakitori?).
 - **15:00** Rientro in albergo a Tokyo e ritiro bagagli (1h20min).
 - **16:30** Bagagli ritirati e direzione Shinagawa Station (15min).
-- **17:30** Partenza per [[Kyoto]] (2h30min).
+- **17:30** Partenza per [[Kyoto(京都)]] (2h30min).
 - **20:00** Arrivo a Kyoto.
 - **21:00** Sistemazione in albergo (30min con bus) e cena veloce combini.
 
 ## Giorno 7 (21 Febbraio): Kyoto Est (Yasaka, Kiyomizu-dera)
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Inizio "passeggiatona" per [[Santuario di Yasaka]], [[Kodai-ji]], [[Nishiki Market]] (con pranzo). Esplora le bancarelle e assaggia lo street food locale.
+- **08:30** Inizio "passeggiatona" per [[Santuario Yasaka (八坂神社)]], [[Tempio Kodai-ji (高台寺)]], [[Nishiki Market (錦市場)]] (con pranzo). Esplora le bancarelle e assaggia lo street food locale.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Facilmente raggiungibili a piedi l'uno dall'altro o con i bus urbani.
-- **14:00-16:00** Passeggiata a [[Sannenzaka]] e dintorni (30min a piedi). Passeggia lentamente lungo queste strade tradizionali.
-- **16:25** Arrivo a [[Kiyomizu-dera]] (5min a piedi).
+- **14:00-16:00** Passeggiata a [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] e dintorni (30min a piedi). Passeggia lentamente lungo queste strade tradizionali.
+- **16:25** Arrivo a [[Kiyomizu-dera (清水寺)]] (5min a piedi).
 - **16:30-18:00** Visita al tempio e tramonto. Arriva prima del tramonto per ammirare la vista sulla città illuminata.
     - **Livello di Difficoltà:** 3 (moderato-difficile per le salite e la folla)
     - **Sforzo Fisico Richiesto:** Camminata prolungata, salite e scale.
@@ -179,7 +179,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
 - **08:30** Inizio "passeggiatona" per [[Nanzen-ji]], [[Santuario Heian Jingu]], con pranzo (es. Tonkatsu Shimizu) (8:30-13:00). Esplora il complesso templare di Nanzen-ji e ammira il gigantesco _torii_ di Heian Jingu.
-- **14:00** Partenza per [[Kinkaku-ji (Padiglione d'Oro)]] (35min).
+- **14:00** Partenza per [[Kinkaku-ji (金閣寺)]] (35min).
 - **14:45-16:15** Visita al Padiglione d'Oro. Ammira il tempio che si riflette nello stagno.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
@@ -195,39 +195,39 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 
 - **06:20** Sveglia e preparazione.
 - **06:35** Colazione veloce e leggera (combini).
-- **07:00** Uscita direzione [[Arashiyama Bamboo Forest]] (1h).
+- **07:00** Uscita direzione [[Arashiyama (嵐山)]] (1h).
 - **08:00-11:00** Visita alla foresta di bamboo. Andate prestissimo al mattino per godervi la foresta con meno folla.
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata.
     - **Come Raggiungere:** Treno da Kyoto.
 - **11:15** Rientro in albergo per prendere le valigie (50min).
 - **11:45** Partenza per Kyoto Station (30min).
-- **13:30** Partenza per [[Nara]] (45min) (acquisto bento per pranzo).
+- **13:30** Partenza per [[Nara (奈良市)]] (45min) (acquisto bento per pranzo).
 - **15:00-19:00** Visita a Nara. Famosa per il parco con cervi sika addomesticati. Visita il Todai-ji Temple e il Kasuga Taisha Shrine. Attenzione ai cervi, possono essere insistenti!
     - **Livello di Difficoltà:** 2 (camminata nel parco)
     - **Sforzo Fisico Richiesto:** Camminata moderata.
     - **Come Raggiungere:** Treno da Kyoto o Osaka.
 - **19:30** Cena a Nara.
-- **20:30** Partenza per [[Osaka]] (1h).
+- **20:30** Partenza per [[Osaka(大阪市)]] (1h).
 - **21:45** Arrivo a Osaka Station e partenza per albergo (25min).
 - **22:15** Arrivo in albergo. **(2 Notti a Osaka)**
 
-## Giorno 10 (24 Febbraio): Osaka (Castello, Umeda Sky Building, Dotonbori)
+## Giorno 10 (24 Febbraio): [[Osaka(大阪市)]] (Castello, Umeda Sky Building, Dotonbori)
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Uscita direzione [[Castello di Osaka]] (45min).
+- **08:30** Uscita direzione [[Castello di Osaka (大阪城)]] (45min).
 - **09:30** Visita castello e giardini. Sali in cima per la vista sulla città.
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata, alcune scale.
     - **Come Raggiungere:** Mezzi pubblici.
 - **12:30** Pranzo in zona (okonomiyaki?).
-- **15:30** Partenza per [[Umeda Sky Building]] (55min).
+- **15:30** Partenza per [[Umeda Sky Building (梅田スカイビル)]] (55min).
 - **16:30** Visita allo sky building e foto. Goditi la vista panoramica su Osaka, ideale al tramonto.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** A breve distanza a piedi dalla stazione di Osaka/Umeda.
-- **18:30** Partenza per [[Dotonbori]] (40min).
+- **18:30** Partenza per [[Dotonbori (道頓堀)]] (40min).
 - **19:30-21:30** Passeggiata e cena street food. Prova il _takoyaki_, _okonomiyaki_ e _kushikatsu_.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
@@ -242,17 +242,17 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **10:30** Rientro in albergo per ritiro bagagli.
 - **11:00** Partenza direzione Shin-Osaka Station (25min).
 - **12:00** Pranzo veloce alla stazione.
-- **12:30** Partenza per [[Hiroshima]] (1h45min).
+- **12:30** Partenza per [[Hiroshima(広島)]] (1h45min).
 - **14:15** Arrivo a Hiroshima e partenza per albergo (15min).
 - **14:45** Sistemazione.
-- **15:30-17:30** Passeggiata al [[Parco del Monumento della Memoria]]. Un luogo toccante e importante. Dedica tempo al Museo della Pace.
+- **15:30-17:30** Passeggiata al [[Memorial Park Hiroshima]]. Un luogo toccante e importante. Dedica tempo al Museo della Pace.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Tram o autobus.
 - **17:30-19:00** Rientro in albergo e relax.
 - **19:00-22:00** Passeggiata a Nagarekawacho (15min a piedi) e cena nei dintorni. **(2 Notti a Hiroshima)**
 
-## Giorno 12 (26 Febbraio): Miyajima (Torii Galleggiante)
+## Giorno 12 (26 Febbraio): [[Miyajima (宮島)]] (Torii Galleggiante)
 
 - **07:45** Sveglia e preparazione.
 - **08:00** Colazione veloce e leggera (combini).
@@ -267,7 +267,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 1-2 (facile-moderato)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera, alcune scale.
     - **Come Raggiungere:** A piedi o con i tram.
-- **11:00** Prendiamo il ferry per [[Miyajima]] (宮島港) (50min).
+- **11:00** Prendiamo il ferry per [[Miyajima (宮島)]] (宮島港) (50min).
 - **12:00** Passeggiata verso [[Spiaggia Mikasa]] (10min).
 - **13:00** Pranzo a [[Miyajima Omotesandō Shopping Street]] (5min a piedi).
 - **14:00-16:30** Visita a Hokoku-jinja, [[Itsukushima Shrine (Torii Galleggiante)]] Otorii Gate, [[Santuario di Itsukushima]] e [[Kiyomori Shrine]].
@@ -288,7 +288,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **07:45** Sveglia e preparazione.
 - **08:00** Colazione veloce e leggera (combini).
 - **08:45** Partenza direzione Hiroshima Station (20min).
-- **09:30** Partenza per [[Kyoto]] (2h30min).
+- **09:30** Partenza per [[Kyoto(京都)]] (2h30min).
 - **12:00** Arrivo a Kyoto.
 - **12:30** Sistemazione in albergo (BON Kyoto Station) (15min a piedi).
 - **13:30** Pranzo in zona.
@@ -303,14 +303,14 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 
 - **08:00** Sveglia e preparazione.
 - **08:15** Colazione veloce e leggera (combini).
-- **08:50** Partenza direzione [[Fushimi Inari-taisha]] (20min).
+- **08:50** Partenza direzione [[Fushimi Inari (伏見稲荷大社)]] (20min).
 - **09:15-12:00** Visita a Fushimi Inari. Inizia la salita presto per evitare la folla. Non è necessario salire fino alla cima per apprezzare la bellezza. Indossa scarpe comode.
     - **Livello di Difficoltà:** 3-4 (impegnativo se si fa l'intero percorso)
     - **Sforzo Fisico Richiesto:** Camminata prolungata e in salita, molte scale.
     - **Come Raggiungere:** Treno dalla stazione di Kyoto (linea JR Nara).
 - **12:15** Rientro in albergo e pranzo in zona (20min).
 - **14:00** Riprendere i bagagli e direzione Kyoto Station (15min).
-- **14:45** Partenza per [[Tokyo]] (2h30min).
+- **14:45** Partenza per [[Tokyo(東京)]] (2h30min).
 - **17:15** Arrivo a Tokyo e partenza per albergo (30min).
 - **17:45** Sistemazione in albergo.
 - **19:00** Cena e serata libera. **(1 Notte a Tokyo)**

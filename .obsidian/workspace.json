@@ -35,8 +35,7 @@
               "title": "Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,13 +127,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(15 giorni)(14feb-1mar).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)"
+              "title": "Struttura di Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(15 giorni)(14feb-1mar)"
             }
           },
           {
@@ -170,7 +169,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(15 giorni)(14feb-1mar).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -198,7 +197,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg)"
+              "title": "Grafo di Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(15 giorni)(14feb-1mar)"
             }
           }
         ]
@@ -303,9 +302,11 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "2d353d67331b99e4",
+  "active": "6c3042885c6159b5",
   "lastOpenFiles": [
+    "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(15 giorni)(14feb-1mar).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Japan/Lista dei Luoghi.md",
     "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).md",
     "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
@@ -329,8 +330,6 @@
     "Locations/Japan/Temples/Kodokan dojo judo (講道館).md",
     "Locations/Japan/Parks-nature/Parco di Ueno (上野恩賜公園).md",
     "Locations/Japan/Buildings/Tokyo skytree (東京スカイツリー).md",
-    "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
-    "Locations/Japan/Temples/Santuario Kanda (神田明神).md",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
     "Itinerari/Japan/Solo con i luoghi/11 giorni",

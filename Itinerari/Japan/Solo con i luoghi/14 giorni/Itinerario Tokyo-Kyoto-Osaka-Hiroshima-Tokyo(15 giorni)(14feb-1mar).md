@@ -291,21 +291,21 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
     - **Come Raggiungere:** Stazione Namba o Shinsaibashi.
 - **21:30** Rientro in albergo (30min a piedi).
 
-## Giorno 11 (24 Febbraio): Viaggio a Hiroshima e Parco della Pace
+## Giorno 11 (24 Febbraio): Viaggio a [[Hiroshima(広島)]] e Parco della Pace
 
 #### Mattina:
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
 - **08:30** Partenza direzione Shin-Osaka Station (25min).
-- **09:30** Partenza per [[Hiroshima]] (1h45min).
+- **09:30** Partenza per [[Hiroshima(広島)]] (1h45min).
 
 #### Pomeriggio:
 
 - **11:30** Arrivo a Hiroshima e partenza per albergo (15min).
 - **12:00** Sistemazione.
-- **13:30-14:30** Pranzo in giro (okonomiyaki).
-- **15:00-17:00** Passeggiata al [[Parco del Monumento della Memoria]]. Un luogo toccante e importante. Dedica tempo al Museo della Pace.
+- **13:30-14:30** Pranzo in giro ([[okonomiyaki]]).
+- **15:00-17:00** Passeggiata al [[Memorial Park Hiroshima]]. Un luogo toccante e importante. Dedica tempo al Museo della Pace.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Tram o autobus.
@@ -313,9 +313,9 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 #### Sera:
 
 - **17:30-19:00** Rientro in albergo e relax.
-- **19:00-22:00** Passeggiata a Nagarekawacho (15min a piedi) e cena nei dintorni.
+- **19:00-22:00** Passeggiata a [[Nagarekawacho]] (15min a piedi) e cena nei dintorni.
 
-## Giorno 12 (25 Febbraio): Miyajima (Torii Galleggiante)
+## Giorno 12 (25 Febbraio): [[Miyajima (宮島)]] (Torii Galleggiante)
 
 #### Mattina:
 
@@ -332,7 +332,7 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
     - **Livello di Difficoltà:** 1-2 (facile-moderato)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera, alcune scale.
     - **Come Raggiungere:** A piedi o con i tram.
-- **11:00** Prendiamo il ferry per [[Miyajima]] (宮島港) (50min).
+- **11:00** Prendiamo il ferry per [[Miyajima (宮島)]] (宮島港) (50min).
 
 #### Pomeriggio:
 

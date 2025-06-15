@@ -1,8 +1,11 @@
-Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile che hai richiesto, mantenendo tutti i dettagli e i consigli. Ho utilizzato l'opzione consigliata di **eliminare Kobe**, e ti ho fornito due alternative per il Giorno 12.
 
----
+> Creato da @Damiano
 
-> Creato da @TourOperatorITA
+> ##### Cosa stiamo ancora valutando
+> - Ritorno il 1 marzo, si potrebbe ritornare prima o ancora meglio partire il 15 febraio salatando sanvalentino
+> - Tour guide, si potrebbero prendere delle quide per Hiroshima e miyajima (110€) perchè posti più complessi da visitare in autonomia, valutiamo questa opzione anche per kyoto ma più per hiroshima
+> - Togliere kobe se troppo difficle da far entrare senza correre
+> - valutare di fare prima Hiroshima di Osaka in modo da fare il viaggio tokyo->jyo
 
 |   |   |   |   |
 |---|---|---|---|

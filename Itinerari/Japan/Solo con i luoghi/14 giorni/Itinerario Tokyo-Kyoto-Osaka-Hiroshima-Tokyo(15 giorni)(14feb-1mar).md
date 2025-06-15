@@ -96,7 +96,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Akihabara.
-- **12:30-14:00** Pranzo (es. Syabu-yo Atre Akihabara 2).
+- **12:30-14:00** Pranzo (es. [[Syabu-yo Atre Akihabara 2]]).
 - **14:30** Partenza divisa: [[Nakano Broadway (中野ブロードウェイ)]] (per Lorenzo – 35min) e [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] (per Damiano – 50min).
     - **Nakano Broadway:** Un tesoro per i fan di anime e manga, con negozi specializzati.
         - **Livello di Difficoltà:** 1 (facile)
@@ -127,7 +127,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Ariake-tennis-no-mori.
-- **13:20** Partenza per Seafood Buffet Restaurant Iroha (20min passeggiata).
+- **13:20** Partenza per [[Seafood Buffet Restaurant Iroha]] (20min passeggiata).
 - **14:00-15:00** Pranzo.
 - **15:10** Partenza per [[TeamLab Planets]] (15min a piedi).
 - **15:30-17:30** Visita a TeamLab Planets. **Prenota i biglietti con largo anticipo!** Indossa abiti che possano bagnarsi e preparati a togliere le scarpe.

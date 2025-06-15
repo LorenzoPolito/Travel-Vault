@@ -2,10 +2,10 @@
 > Creato da @Damiano
 
 > ##### Cosa stiamo ancora valutando
-> - Ritorno il 1 marzo, si potrebbe ritornare prima o ancora meglio partire il 15 febraio salatando sanvalentino
+> - Ritorno il 1 marzo, si potrebbe ritornare prima o ancora meglio partire il 15 febraio saltando San-Valentino
 > - Tour guide, si potrebbero prendere delle quide per Hiroshima e miyajima (110€) perchè posti più complessi da visitare in autonomia, valutiamo questa opzione anche per kyoto ma più per hiroshima
 > - Togliere kobe se troppo difficle da far entrare senza correre
-> - valutare di fare prima Hiroshima di Osaka in modo da fare il viaggio tokyo->jyo
+> - valutare di fare prima Hiroshima di Osaka in modo da fare il viaggio tokyo->kyoto->hiroshima->osaka->tokyo che è molto più ordinato e semplice
 
 |   |   |   |   |
 |---|---|---|---|
@@ -427,3 +427,92 @@
 - **PARTENZA PER ROMA.**
 
 ---
+
+## **Riepilogo e Punti da Valutare per l'Itinerario**
+
+Ecco un riepilogo dei punti chiave su cui stiamo ancora lavorando per ottimizzare il vostro viaggio in Giappone, insieme a una nuova tabella riepilogativa basata sulle vostre ultime considerazioni:
+
+---
+
+> Creato da @TourOperatorITA
+
+|   |   |   |   |
+|---|---|---|---|
+|**Città**|**Giorni**|**Notti**|**Note**|
+|Volo andata|1|1|Arrivo a Tokyo Narita (NRT)|
+|Tokyo|5|5|Include Kamakura (day trip), focus su interessi specifici|
+|Kyoto|4|4|Inclusa Nara (day trip)|
+|Hiroshima|2|2|Include Miyajima (day trip)|
+|Osaka|2|2||
+|**Opzione 12A:** Viaggio Hiroshima-Tokyo|1|0|**(Consigliato per relax, elimina Kobe)**|
+|**Opzione 12B:** Kyoto di nuovo|1|1|Con Fushimi Inari in serata|
+|Volo ritorno|1|1|Da Tokyo Narita|
+|**TOTALE**|**16**|**16**|**Dal 14 Febbraio all'1 Marzo 2026**|
+
+---
+
+### **Cosa stiamo ancora valutando**
+
+**1. Date di Viaggio: Ritorno l'1 Marzo vs. Partenza il 15 Febbraio (Saltando San Valentino)**
+
+- **Punto:** Attualmente il viaggio parte il 14 Febbraio e finisce il 1 Marzo. Potreste voler evitare di partire il 14 Febbraio (San Valentino) o accorciare il viaggio tornando prima.
+- **Analisi:**
+    - **Partire il 15 Febbraio:** Questa opzione sposterebbe l'intero itinerario in avanti di un giorno.
+        - **Pro:** Evita la data di San Valentino, che _potrebbe_ influire sui prezzi dei voli o sulla disponibilità degli hotel, anche se l'impatto potrebbe essere minore in Giappone rispetto ad altre destinazioni.
+        - **Contro:** Ridurrebbe la durata complessiva del viaggio di un giorno.
+    - **Tornare prima dell'1 Marzo:**
+        - **Pro:** Accorcia il viaggio, riducendo i costi totali e potenzialmente la fatica.
+        - **Contro:** Significherebbe tagliare una o più giornate dall'itinerario già pianificato, sacrificando alcune visite o rendendo i giorni restanti più intensi.
+- **Considerazione:** Dato il vostro desiderio di "vedere il più possibile" ma anche di un viaggio "leggermente più rilassato", la partenza il 14 Febbraio offre una giornata extra che può essere preziosa per ammortizzare la stanchezza iniziale. Se il costo dei voli non è un problema significativo per il 14 Febbraio, mantenerla potrebbe essere vantaggioso.
+
+**2. Tour Guide: Hiroshima e Miyajima (110€) e Kyoto**
+
+- **Punto:** Valutare l'ingaggio di guide locali per Hiroshima e Miyajima (110€), considerati "più complessi da visitare in autonomia". Si valuta anche questa opzione per Kyoto.
+- **Analisi:**
+    - **Hiroshima e Miyajima:**
+        - **Pro:** Avere una guida esperta può arricchire enormemente l'esperienza in luoghi con un significato storico e culturale così profondo. La guida può fornire contesto, storie personali e dettagli che sfuggirebbero a una visita autonoma, specialmente per il Peace Memorial Park e il Santuario di Itsukushima. Può anche aiutare con la logistica tra i vari siti.
+        - **Contro:** Il costo (110€). Potrebbe limitare la vostra flessibilità oraria.
+        - **Consiglio:** Per questi luoghi specifici, una guida può fare una grande differenza. Considerato il costo (probabilmente per persona o per gruppo, da chiarire) è un investimento che può valere la pena per un'esperienza più profonda.
+    - **Kyoto:**
+        - **Pro:** Kyoto è ricca di storia e cultura. Una guida potrebbe aiutarvi a navigare i complessi templari, a comprendere meglio il Buddismo e lo Shintoismo, e a scoprire gemme nascoste.
+        - **Contro:** Kyoto è anche molto ben servita dai trasporti pubblici e la maggior parte dei siti è facilmente accessibile e ben segnalata per visite autonome. Il costo aggiuntivo potrebbe non essere strettamente necessario se preferite un'esplorazione più libera.
+        - **Consiglio:** Se il budget lo permette e desiderate un'immersione culturale profonda, una guida a Kyoto è fantastica. Altrimenti, con un buon itinerario e le informazioni a portata di mano, si può visitare autonomamente senza problemi.
+
+**3. Togliere Kobe se troppo difficile da far entrare senza correre**
+
+- **Punto:** La mia raccomandazione principale nella precedente revisione era proprio quella di rimuovere Kobe.
+- **Analisi:**
+    - **Conferma:** Questa è la scelta che offre il maggiore impatto positivo sul relax e sulla fluidità logistica. Come discusso, il viaggio a Kobe aggiungerebbe un doppio spostamento e la necessità di gestire i bagagli in un giorno già intenso, spezzando la naturale progressione da Hiroshima a Kyoto o direttamente a Tokyo.
+- **Consiglio:** Se il vostro obiettivo è un viaggio più rilassato, togliere Kobe è fortemente consigliato. Potrete comunque gustare ottima carne in altre città (es. Osaka) anche se non sarà "carne di Kobe" certificata.
+
+**4. Valutare di fare prima Hiroshima di Osaka (Tokyo -> Kyoto -> Hiroshima -> Osaka -> Tokyo)**
+
+- **Punto:** Cambiare l'ordine delle città nel Kansai per una sequenza Tokyo -> Kyoto -> Hiroshima -> Osaka -> Tokyo.
+- **Analisi dell'itinerario attuale:**
+    - Attualmente: Tokyo -> Kyoto -> Osaka -> Hiroshima -> (Kobe) -> Kyoto -> Tokyo.
+- **Analisi dell'ordine proposto (Tokyo -> Kyoto -> Hiroshima -> Osaka -> Tokyo):**
+    - **Pro:**
+        - **Logica geografica:** Da Kyoto, andare a Hiroshima (più a ovest) e poi risalire verso Osaka (più a est e più vicina a Kyoto, ma anche sulla via del ritorno verso Tokyo) ha un'ottica geografica più lineare nel Kansai e un impatto sul JR Pass più ottimizzato, specialmente se prendete un pass di 7 o 14 giorni.
+        - **Riduzione di spostamenti:** Elimina il ritorno a Kyoto dopo Hiroshima e Osaka, che è una delle principali cause di "corsa" nel vostro itinerario attuale.
+        - **Meno cambi di hotel:** Permette di fare base a Kyoto o Osaka per più notti senza interruzioni.
+    - **Contro:** Nessun contro significativo rispetto all'organizzazione attuale, anzi.
+- **Consiglio:** **Sì, questa è un'ottima idea!** Riorganizzare l'ordine delle città nel Kansai in **Kyoto → Hiroshima → Osaka** è decisamente più logico e vi permetterà di ottimizzare i tempi di viaggio, ridurre la fatica e godervi di più le singole tappe. Questo elimina la necessità di ritornare a Kyoto per una notte dopo Hiroshima e Osaka, unificando il periodo nel Kansai e rendendo il trasferimento finale a Tokyo molto più diretto.
+
+---
+
+### **Riorganizzazione dell'Itinerario (Basata sui Consigli)**
+
+Se adottiamo le modifiche proposte (no Kobe, ordine Kyoto -> Hiroshima -> Osaka), l'itinerario cambierebbe come segue (con i dettagli dei giorni aggiornati):
+
+- **GIORNO 1-5:** Tokyo & Kamakura (come da itinerario attuale)
+- **GIORNO 6-8:** Kyoto & Nara (come da itinerario attuale)
+- **GIORNO 9:** Viaggio da Kyoto a **Hiroshima** (circa 2h30min di Shinkansen). Pomeriggio Hiroshima (Peace Park).
+- **GIORNO 10:** Miyajima (day trip da Hiroshima).
+- **GIORNO 11:** Mattina a Hiroshima (Castello, Gokoku Shrine, Atom Bomb Dome). Pomeriggio: Viaggio da Hiroshima a **Osaka** (circa 1h45min di Shinkansen). Sera a Osaka (Dotonbori).
+- **GIORNO 12:** Osaka (Castello di Osaka, Umeda Sky Building).
+- **GIORNO 13:** Mattina libera a Osaka (o shopping/esplorazione). Pomeriggio: Viaggio da Osaka a **Tokyo** (circa 3 ore di Shinkansen).
+- **GIORNO 14:** Giornata Libera a Tokyo.
+- **GIORNO 15:** Partenza da Tokyo.
+
+---
+

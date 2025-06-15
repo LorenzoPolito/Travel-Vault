@@ -81,7 +81,7 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 
 - **19:00** Spostamento a [[Shinjuku (新宿区)]] (20min).
 - **19:30** Cena (es. Ichiran Ramen).
-- **20:30-22:30** Passeggiata a Shinjuku. Sali al piano panoramico (gratuito) del Tokyo Metropolitan Government Building. Esplora Kabukicho e Golden Gai con prudenza.
+- **20:30-22:30** Passeggiata a Shinjuku. Sali al piano panoramico (gratuito) del [[Tokyo Metropolitan Government Building]]. Esplora [[Kabukicho]] e [[Golden Gai (ゴールデン街 )]] con prudenza.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Stazione Shinjuku.
@@ -94,15 +94,15 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 - **08:00** Sveglia e preparazione.
 - **08:15** Colazione veloce e leggera (combini).
 - **09:00** Uscita (direzione Akihabara) (20min).
-- **09:30-12:30** Passeggiata ad [[Akihabara]]. Esplora i negozi su più piani (Yodobashi Akiba, Mandarake Complex), _maid café_ e sale giochi. Prova un _gashapon_.
+- **09:30-12:30** Passeggiata ad [[Akihabara (秋葉原)]]. Esplora i negozi su più piani ([[Yodobashi Akiba]], [[Mandarake Complex]]), _maid café_ e sale giochi. Prova un _gashapon_.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Akihabara.
-- **12:30-14:00** Pranzo (es. Syabu-yo Atre Akihabara 2).
+- **12:30-14:00** Pranzo (es. [[Syabu-yo Atre Akihabara 2]]).
 
 #### Pomeriggio:
 
-- **14:30** Partenza divisa: [[Nakano Broadway]] (per Lorenzo – 35min) e [[The Making of Harry Potter]] (per Damiano – 50min).
+- **14:30** Partenza divisa: [[Nakano Broadway (中野ブロードウェイ)]] (per Lorenzo – 35min) e [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] (per Damiano – 50min).
     - **Nakano Broadway:** Un tesoro per i fan di anime e manga, con negozi specializzati.
         - **Livello di Difficoltà:** 1 (facile)
         - **Sforzo Fisico Richiesto:** Camminata leggera.
@@ -111,11 +111,11 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
         - **Livello di Difficoltà:** 1 (facile)
         - **Sforzo Fisico Richiesto:** Camminata leggera.
         - **Come Raggiungere:** Mezzi pubblici, Treno da Toshimaen Station.
-- **18:30** Partenza per [[Ueno Park]] (45min da Harry Potter e 40min da Nakano).
+- **18:30** Partenza per [[Parco di Ueno (上野恩賜公園)]] (45min da Harry Potter e 40min da Nakano).
 
 #### Sera:
 
-- **19:00-21:30** Passeggiata e cena a Ueno. Ottimo per una passeggiata rilassante.
+- **19:00-21:30** Passeggiata e cena a [[Ueno]]. Ottimo per una passeggiata rilassante.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Mezzi pubblici, Stazione Ueno.
@@ -126,7 +126,7 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 #### Mattina:
 
 - **05:20** Sveglia e preparazione.
-- **06:00** Partenza per [[Tsukiji Outer Market]] (30min).
+- **06:00** Partenza per [[Mercato del pesce di Tsukiji (築地場外市場)]] (30min).
 - **06:30-10:00** Esplorazione e colazione al mercato del pesce! Vai presto per l'atmosfera autentica e assaggia il sushi fresco o il _tamagoyaki_.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera, tra la folla.
@@ -147,8 +147,8 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera, alcune aree con acqua.
     - **Come Raggiungere:** A piedi o con i mezzi pubblici, Stazione Shin-Toyosu.
-- **17:30** Partenza per [[Odaiba]] (25min).
-- **18:00-20:00** Passeggiata ad Odaiba e ammirate il [[Rainbow Bridge]]. Goditi la vista sulla baia di Tokyo.
+- **17:30** Partenza per [[Odaiba (お台場 )]] (25min).
+- **18:00-20:00** Passeggiata ad Odaiba e ammirate il [[Rainbow Bridge (レインボーブリッジ)]]. Goditi la vista sulla baia di Tokyo.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Yurikamome Line o Rinkai Line.
@@ -164,7 +164,7 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Uscita (direzione [[Kamakura]]) (1h20min).
+- **08:30** Uscita (direzione [[Kamakura(鎌倉市)]]) (1h20min).
 - **10:00** Arrivo e spostamento per la visita (15min autobus).
 - **10:15-13:30** Visita al [[Grande Buddha (Daibutsu)]] e altri templi. Ammira la maestosità della statua e visita il Tempio Hasedera. Prevedi scarpe comode.
     - **Livello di Difficoltà:** 2 (moderato)
@@ -176,11 +176,11 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 - **13:30** Rientro a Kamakura Station e pranzo in giro (ramen? Yakitori?).
 - **15:00** Rientro in albergo a Tokyo e ritiro bagagli (1h20min).
 - **16:30** Bagagli ritirati e direzione Shinagawa Station (15min).
-- **17:30** Partenza per [[Kyoto]] (2h30min).
+- **17:30** Partenza per [[Kyoto(京都)]] (2h30min).
 
 #### Sera:
 
-- **20:00** Arrivo a Kyoto.
+- **20:00** Arrivo a [[Kyoto(京都)]].
 - **21:00** Sistemazione in albergo (30min con bus) e cena veloce combini.
 
 ## Giorno 7 (20 Febbraio): Kyoto Est (Yasaka, Kiyomizu-dera)

@@ -10,7 +10,6 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 ## **Considerazioni Generali per il Tuo Viaggio**
 
 - **Costo Voli A/R:** Il costo stimato di circa 700-800€ è realistico. Tieni d'occhio i prezzi, che possono variare.
-- **Ryokan:** Considera di soggiornare in un _ryokan_ (albergo tradizionale giapponese) per almeno una notte. Kyoto è un'ottima città per questa esperienza culturale autentica.
 - **Japan Rail Pass:** Valuta l'acquisto del Japan Rail Pass per i trasferimenti in treno. Con la nuova sequenza (Tokyo-Kyoto-Osaka-Hiroshima-Kyoto-Tokyo), un pass di 7 o 14 giorni potrebbe essere molto conveniente.
 - **Trasporto locale a Tokyo:** Per Tokyo, una Pasmo o Suica card semplificherà l'uso dei mezzi pubblici.
 - **Combini (Minimarket):** Sono una salvezza per pasti veloci ed economici.
@@ -57,12 +56,12 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **13:30** Arrivo in albergo.
 - **14:30** Pranzo veloce.
 - **15:30** Sistemazione e relax.
-- **18:00** Passeggiata e serata ad [[Asakusa]] (Senso-ji e Tokyo Skytree).
+- **18:00** Passeggiata e serata ad [[Asakusa(浅草)]] ([[Tempio Senso-Ji (浅草寺)]] e [[Tokyo skytree (東京スカイツリー)]]).
     - **Consigli Extra:** Arriva presto al mattino per evitare la folla al Senso-ji e scattare foto migliori lungo Nakamise-dori. Prova qualche _senbei_ fresco. Per la Skytree, acquista i biglietti online in anticipo e visitala al tramonto o di notte.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Metro Ginza Line (G19) o Asakusa Line (A18).
-- **19:30** Cena (es. Sushiro?). Assicurati di avere una prenotazione.
+- **19:30** Cena (es. [[Sushiro]]?). Assicurati di avere una prenotazione.
 - **22:00** Rientro in albergo.
 
 ## Giorno 3 (17 Febbraio): Palazzo Imperiale, Shibuya e Shinjuku
@@ -70,7 +69,7 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **08:00** Sveglia e preparazione.
 - **08:15** Colazione veloce e leggera (combini).
 - **09:00** Uscita (direzione Palazzo Imperiale) (10min).
-- **09:30-12:30** Passeggiata al [[Palazzo Imperiale e Giardini Orientali]]. Non è possibile entrare, ma i Giardini Orientali (Higashi Gyoen) sono un'oasi di pace.
+- **09:30-12:30** Passeggiata al [[Palazzo Imperiale di Tokyo (皇居)]] e [[Giardini Orientali]]. Non è possibile entrare, ma i Giardini Orientali (Higashi Gyoen) sono un'oasi di pace.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** A piedi o con i mezzi pubblici, Stazione Otemachi o Tokyo Station.
@@ -255,14 +254,12 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 
 ## Giorno 12 (26 Febbraio): Miyajima (Torii Galleggiante)
 
-#### Mattina:
-
 - **07:45** Sveglia e preparazione.
 - **08:00** Colazione veloce e leggera (combini).
 - **08:45** Partenza direzione Hiroshima Gokoku Shrine (20min).
 - **09:30-10:15** Passeggiata in zona.
-- **10:15** Partenza per Hiroshima Castle (広島城) (10min).
-- **10:35** Partenza per Atomic Bomb Dome (原爆ドーム前) (10min) e a piedi verso Motoyasu Pier (もとやす桟橋) (5min).
+- **10:15** Partenza per [[Hiroshima Castle (広島城)]] (10min).
+- **10:35** Partenza per [[Atomic Bomb Dome (原爆ドーム前)]] (10min) e a piedi verso [[Motoyasu Pier (もとやす桟橋) ]](5min).
     - **Hiroshima Gokoku Shrine:** Un santuario dedicato ai caduti.
     - **Castello di Hiroshima:** Ricostruito, offre una vista panoramica.
     - **Atomic Bomb Dome:** Simbolo di devastazione e monito per la pace.
@@ -271,19 +268,13 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Sforzo Fisico Richiesto:** Passeggiata leggera, alcune scale.
     - **Come Raggiungere:** A piedi o con i tram.
 - **11:00** Prendiamo il ferry per [[Miyajima]] (宮島港) (50min).
-
-#### Pomeriggio:
-
-- **12:00** Passeggiata verso Mikasa Beach (10min).
-- **13:00** Pranzo a Miyajima Omotesandō Shopping Street (5min a piedi).
-- **14:00-16:30** Visita a Hokoku-jinja, [[Itsukushima Shrine (Torii Galleggiante)]] Otorii Gate, Santuario di Itsukushima e Kiyomori Shrine.
+- **12:00** Passeggiata verso [[Spiaggia Mikasa]] (10min).
+- **13:00** Pranzo a [[Miyajima Omotesandō Shopping Street]] (5min a piedi).
+- **14:00-16:30** Visita a Hokoku-jinja, [[Itsukushima Shrine (Torii Galleggiante)]] Otorii Gate, [[Santuario di Itsukushima]] e [[Kiyomori Shrine]].
     - **Itsukushima Shrine:** Controlla gli orari delle maree online per vedere il _torii_ sia con l'acqua alta che bassa. Esplora l'isola, incontra i cervi.
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata, alcune salite sull'isola.
     - **Come Raggiungere:** Traghetto da Miyajimaguchi Station.
-
-#### Sera:
-
 - **16:50** Rientro verso Miyajima Pier (宮島桟橋) (10min a piedi).
 - **17:15** Ferry per JR Miyajima Ferry (15min).
 - **17:25** Spostamento a piedi a Miyajimaguchi Station (10min).
@@ -294,31 +285,21 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 
 ## Giorno 13 (27 Febbraio): Rientro a Kyoto
 
-#### Mattina:
-
 - **07:45** Sveglia e preparazione.
 - **08:00** Colazione veloce e leggera (combini).
 - **08:45** Partenza direzione Hiroshima Station (20min).
 - **09:30** Partenza per [[Kyoto]] (2h30min).
 - **12:00** Arrivo a Kyoto.
-
-#### Pomeriggio:
-
 - **12:30** Sistemazione in albergo (BON Kyoto Station) (15min a piedi).
 - **13:30** Pranzo in zona.
 - **15:00-17:30** Passeggiata a [[Kyoto Tower]] e [[To-ji Temple]]. La Torre di Kyoto offre una vista notturna. Il To-ji Temple è famoso per la sua pagoda.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Passeggiata leggera.
     - **Come Raggiungere:** Entrambi facilmente raggiungibili a piedi dalla stazione di Kyoto.
-
-#### Sera:
-
 - **19:00** Cena in zona.
 - **21:00** Rientro in albergo. **(1 Notte a Kyoto)**
 
 ## Giorno 14 (28 Febbraio): Fushimi Inari e Viaggio a Tokyo
-
-#### Mattina:
 
 - **08:00** Sveglia e preparazione.
 - **08:15** Colazione veloce e leggera (combini).
@@ -327,22 +308,14 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
     - **Livello di Difficoltà:** 3-4 (impegnativo se si fa l'intero percorso)
     - **Sforzo Fisico Richiesto:** Camminata prolungata e in salita, molte scale.
     - **Come Raggiungere:** Treno dalla stazione di Kyoto (linea JR Nara).
-
-#### Pomeriggio:
-
 - **12:15** Rientro in albergo e pranzo in zona (20min).
 - **14:00** Riprendere i bagagli e direzione Kyoto Station (15min).
 - **14:45** Partenza per [[Tokyo]] (2h30min).
-
-#### Sera:
-
 - **17:15** Arrivo a Tokyo e partenza per albergo (30min).
 - **17:45** Sistemazione in albergo.
 - **19:00** Cena e serata libera. **(1 Notte a Tokyo)**
 
 ## Giorno 15 (01 Marzo): Partenza da Tokyo Narita
-
-#### Mattina:
 
 - **07:00** Sveglia e preparazione.
 - **07:15** Colazione veloce e leggera (combini).

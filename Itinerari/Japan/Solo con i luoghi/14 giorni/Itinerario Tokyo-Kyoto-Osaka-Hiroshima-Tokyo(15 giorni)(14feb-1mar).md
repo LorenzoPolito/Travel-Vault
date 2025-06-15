@@ -189,15 +189,15 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Inizio "passeggiatona" per [[Santuario di Yasaka]], [[Kodai-ji]], [[Nishiki Market]] (con pranzo). Esplora le bancarelle e assaggia lo street food locale.
+- **08:30** Inizio "passeggiatona" per [[Santuario Yasaka (八坂神社)]], [[Tempio Kodai-ji (高台寺)]], [[Nishiki Market (錦市場)]] (con pranzo). Esplora le bancarelle e assaggia lo street food locale.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Facilmente raggiungibili a piedi l'uno dall'altro o con i bus urbani.
 
 #### Pomeriggio:
 
-- **14:00-16:00** Passeggiata a [[Sannenzaka]] e dintorni (30min a piedi). Passeggia lentamente lungo queste strade tradizionali.
-- **16:25** Arrivo a [[Kiyomizu-dera]] (5min a piedi).
+- **14:00-16:00** Passeggiata a [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] e dintorni (30min a piedi). Passeggia lentamente lungo queste strade tradizionali.
+- **16:25** Arrivo a [[Kiyomizu-dera (清水寺)]] (5min a piedi).
 - **16:30-18:00** Visita al tempio e tramonto. Arriva prima del tramonto per ammirare la vista sulla città illuminata.
     - **Livello di Difficoltà:** 3 (moderato-difficile per le salite e la folla)
     - **Sforzo Fisico Richiesto:** Camminata prolungata, salite e scale.
@@ -213,17 +213,17 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Inizio "passeggiatona" per [[Nanzen-ji]], [[Santuario Heian Jingu]], con pranzo (es. Tonkatsu Shimizu) (8:30-13:00). Esplora il complesso templare di Nanzen-ji e ammira il gigantesco _torii_ di Heian Jingu.
+- **08:30** Inizio "passeggiatona" per [[Nanzen-ji]], [[Santuario Heian Jingu]], con pranzo (es. [[Tonkatsu Shimizu]]) (8:30-13:00). Esplora il complesso templare di [[Nanzen-ji]] e ammira il gigantesco _torii_ di Heian Jingu.
 
 #### Pomeriggio:
 
-- **14:00** Partenza per [[Kinkaku-ji (Padiglione d'Oro)]] (35min).
+- **14:00** Partenza per [[Kinkaku-ji (金閣寺)]] (35min).
 - **14:45-16:15** Visita al Padiglione d'Oro. Ammira il tempio che si riflette nello stagno.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** Autobus.
 - **16:20** Partenza per [[Castello Nijo]] (35min).
-- **17:00-20:00** Passeggiata al centro (Nishiki Market?) e cena. Il Castello Nijo è famoso per i suoi "pavimenti dell'usignolo".
+- **17:00-20:00** Passeggiata al centro ([[Nishiki Market (錦市場)]]?) e cena. Il Castello Nijo è famoso per i suoi "pavimenti dell'usignolo".
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata.
     - **Come Raggiungere:** Principalmente con i bus urbani di Kyoto.
@@ -238,18 +238,18 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 
 - **06:20** Sveglia e preparazione.
 - **06:35** Colazione veloce e leggera (combini).
-- **07:00** Uscita direzione [[Arashiyama Bamboo Forest]] (1h).
+- **07:00** Uscita direzione [[Arashiyama (嵐山)]] (1h).
 - **08:00-11:00** Visita alla foresta di bamboo. Andate prestissimo al mattino per godervi la foresta con meno folla.
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata.
     - **Come Raggiungere:** Treno da Kyoto.
 - **11:15** Rientro in albergo per prendere le valigie (50min).
 - **11:45** Partenza per Kyoto Station (30min).
-- **13:30** Partenza per [[Nara]] (45min) (acquisto bento per pranzo?).
+- **13:30** Partenza per [[Nara (奈良市)]] (45min) (acquisto bento per pranzo?).
 
 #### Pomeriggio:
 
-- **15:00-19:00** Visita a Nara. Famosa per il parco con cervi sika addomesticati. Visita il Todai-ji Temple e il Kasuga Taisha Shrine. Attenzione ai cervi, possono essere insistenti!
+- **15:00-19:00** Visita a [[Nara (奈良市)]]. Famosa per il parco con cervi sika addomesticati. Visita il [[Todai-ji Temple]] e il [[Kasuga Taisha Shrine]]. Attenzione ai cervi, possono essere insistenti!
     - **Livello di Difficoltà:** 2 (camminata nel parco)
     - **Sforzo Fisico Richiesto:** Camminata moderata.
     - **Come Raggiungere:** Treno da Kyoto o Osaka.
@@ -257,31 +257,31 @@ Assolutamente! Ecco il tuo itinerario per il Giappone, riformattato con lo stile
 #### Sera:
 
 - **19:30** Cena a Nara.
-- **20:30** Partenza per [[Osaka]] (1h).
+- **20:30** Partenza per [[Osaka(大阪市)]] (1h).
 - **21:45** Arrivo a Osaka Station e partenza per albergo (25min).
 - **22:15** Arrivo in albergo.
 
-## Giorno 10 (23 Febbraio): Osaka (Castello, Umeda Sky Building, Dotonbori)
+## Giorno 10 (23 Febbraio): [[Osaka(大阪市)]] (Castello, Umeda Sky Building, Dotonbori)
 
 #### Mattina:
 
 - **07:30** Sveglia e preparazione.
 - **07:45** Colazione veloce e leggera (combini).
-- **08:30** Uscita direzione [[Castello di Osaka]] (45min).
+- **08:30** Uscita direzione [[Castello di Osaka (大阪城)]] (45min).
 - **09:30** Visita castello e giardini. Sali in cima per la vista sulla città.
     - **Livello di Difficoltà:** 2 (moderato)
     - **Sforzo Fisico Richiesto:** Camminata moderata, alcune scale.
     - **Come Raggiungere:** Mezzi pubblici.
-- **12:30** Pranzo in zona (okonomiyaki?).
+- **12:30** Pranzo in zona ([[okonomiyaki]]?).
 
 #### Pomeriggio:
 
-- **15:30** Partenza per [[Umeda Sky Building]] (55min).
+- **15:30** Partenza per [[Umeda Sky Building (梅田スカイビル)]] (55min).
 - **16:30** Visita allo sky building e foto. Goditi la vista panoramica su Osaka, ideale al tramonto.
     - **Livello di Difficoltà:** 1 (facile)
     - **Sforzo Fisico Richiesto:** Camminata leggera.
     - **Come Raggiungere:** A breve distanza a piedi dalla stazione di Osaka/Umeda.
-- **18:30** Partenza per [[Dotonbori]] (40min).
+- **18:30** Partenza per [[Dotonbori (道頓堀)]] (40min).
 
 #### Sera:
 

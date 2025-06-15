@@ -40,6 +40,8 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 | **TOTALE**   | **14**     | **13**    | **Dal 15 Febbraio all'1 Marzo 2026**         |
 
 ---
+![[Pasted image 20250615160003.png]]
+---
 
 ## **Itinerario Dettagliato: Febbraio - Marzo 2026**
 

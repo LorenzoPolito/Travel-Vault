@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "306d74399be4c842",
+    "id": "699fedbd17bed79c",
     "type": "split",
     "children": [
       {
-        "id": "1ae823897fc14402",
+        "id": "00cfa71b353cc313",
         "type": "tabs",
         "children": [
           {
-            "id": "74569cf66e3d124f",
+            "id": "6c3042885c6159b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/11 giorni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).md",
-                "mode": "source",
+                "file": "Index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025)"
+              "title": "Index"
             }
           }
         ]
@@ -27,15 +27,33 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "45bcdf8615ece8b5",
+    "id": "284032d960bb6076",
     "type": "split",
     "children": [
       {
-        "id": "774b958f837d54dd",
+        "id": "178de496624bf6e9",
         "type": "tabs",
+        "dimension": 34.75247524752475,
         "children": [
           {
-            "id": "10edfcd88b2b7064",
+            "id": "90bd5e3fa407907d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      },
+      {
+        "id": "42feeae49fbb7353",
+        "type": "tabs",
+        "dimension": 65.24752475247524,
+        "children": [
+          {
+            "id": "e89a79a745e1164b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +66,7 @@
             }
           },
           {
-            "id": "46740e6c685cc375",
+            "id": "23723419d0798a64",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +83,7 @@
             }
           },
           {
-            "id": "e407e89ba1a72b9d",
+            "id": "f9f2a975d7aedbcb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -73,101 +91,49 @@
               "icon": "lucide-bookmark",
               "title": "Segnalibri"
             }
-          },
-          {
-            "id": "6616448615de7f38",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin non più attivo"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 358
   },
   "right": {
-    "id": "c7470036265c6001",
+    "id": "b9e506ed6599e75a",
     "type": "split",
     "children": [
       {
-        "id": "da88690ba80de9eb",
+        "id": "be0c566cc90023a2",
         "type": "tabs",
+        "dimension": 32.12871287128713,
         "children": [
           {
-            "id": "3f81a9c940336ee3",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "f84851cc1e531c83",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Index.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Riferimenti a Index"
-            }
-          },
-          {
-            "id": "39880e11769bde8e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Index.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Collegamenti in uscita da Index"
-            }
-          },
-          {
-            "id": "0a32da2a3702bbc2",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Etichette"
-            }
-          },
-          {
-            "id": "13866a872e7c80c6",
+            "id": "bb8d7d74a57d298a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Struttura di Index"
             }
           },
           {
-            "id": "b8a479b0e6c63b61",
+            "id": "5b9ac0156fb0892e",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin non più attivo"
+            }
+          },
+          {
+            "id": "1560b1b3b389934a",
             "type": "leaf",
             "state": {
               "type": "planner-timeline",
@@ -179,21 +145,12 @@
         ]
       },
       {
-        "id": "5e2369a2c44348cd",
+        "id": "2a0e1031d728c2f0",
         "type": "tabs",
+        "dimension": 32.12871287128713,
         "children": [
           {
-            "id": "771de2c4ec60ceb7",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "165a2921e3f830e6",
+            "id": "d918d63c46608ac8",
             "type": "leaf",
             "state": {
               "type": "localgraph",
@@ -221,7 +178,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4545695522580768,
+                  "scale": 0.17883855360660644,
                   "close": true
                 }
               },
@@ -230,21 +187,89 @@
             }
           }
         ]
+      },
+      {
+        "id": "6fb3ca181d141cfc",
+        "type": "tabs",
+        "dimension": 35.742574257425744,
+        "children": [
+          {
+            "id": "c4103d0aeec749df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "6f62312d5a2c831d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "408e844197925b38",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "b734b96c8a0be179",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti a Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
+            }
+          },
+          {
+            "id": "0d1d1591a9e850f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita da Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg)"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 312
+    "width": 229
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-kanban:Crea nuova bacheca": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-map-view:Open map view": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
       "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
@@ -252,49 +277,64 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-map-view:Open map view": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "74569cf66e3d124f",
+  "active": "6c3042885c6159b5",
   "lastOpenFiles": [
-    "Info/Japan/IC Cards/IC Cards.md",
-    "Documenti Esterni/~WRL0005.tmp",
-    "Documenti Esterni/~WRD0004.tmp",
-    "Documenti Esterni/~WRL0003.tmp",
-    "Documenti Esterni/~WRD0002.tmp",
-    "Documenti Esterni/~WRL0001.tmp",
-    "Documenti Esterni/~WRD0000.tmp",
-    "Documenti Esterni/~$put Gamma.docx",
-    "Documenti Esterni/Input Gamma.docx",
-    "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025) - Copia.docx",
-    "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).docx",
-    "Info/Japan/E-Sim/E-SIM panoramica delle disponibili.md",
-    "Info/Japan/IC Cards/Pasmo.md",
-    "Info/Japan/IC Cards/Icoca.md",
-    "Info/Japan/IC Cards/Suica.md",
-    "Info/Japan/Pass/JR pass.md",
-    "Info/Japan/Pass/Osaka Amazing pass.md",
-    "Info/Japan/Viaggiare Sicuri.md",
-    "Locations/Japan/Lista dei Luoghi.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",
     "Index.md",
-    "Locations/Japan/Temples/Tempio Shitenno-ji (四天王寺).md",
-    "Locations/Japan/Temples/Tempio Senso-Ji (浅草寺).md",
-    "Locations/Japan/Temples/Tempio Kutoku-in  (高徳院).md",
-    "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md",
-    "Locations/Japan/Temples/Tempio Kencho-ji (建長寺).md",
-    "Locations/Japan/Temples/Tempio Hozen-ji (法善寺).md",
-    "Locations/Japan/Temples/Tempio Hokoku-ji (報国寺).md",
-    "Locations/Japan/Temples/Tempio Hasedera (Kanagawa) (長谷寺（神奈川)).md",
-    "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
-    "Locations/Japan/Temples/Tempio Engaku-ji (円覚寺).md",
-    "Locations/Japan/Temples/Tempio Daisho-in (大聖院).md",
-    "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md",
-    "Locations/Japan/Temples/Santuario Tsurugaoka Hachimangu (鶴岡八幡宮).md",
-    "Locations/Japan/Temples/Santuario Meiji (明治神宮).md",
+    "Senza nome.md",
+    "Documenti Esterni/Viaggio in Giappone 2026.pdf",
+    "allegati/Pasted image 20250615160211.png",
+    "allegati/Pasted image 20250615160003.png",
+    "Locations/Japan/Cities/blocks/Asakusa(浅草).md",
+    "Itinerari/Japan/Solo con i luoghi/15 giorni",
+    "Ueno Park.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Locations/Japan/Lista dei Luoghi.md",
+    "Locations/Japan/Temples/Itsukushima shrine (嚴島神社).md",
+    "Locations/Japan/Cities/blocks/streets/Harajuku (原宿).md",
+    "Locations/Japan/Parks-nature/TOEI Kyoto studio park (東映太秦映画村).md",
+    "Locations/Japan/Temples/Adashino nenbutsuji (化野念仏寺).md",
+    "Locations/Japan/Parks-nature/Sentiero del filosofo (哲学の道).md",
+    "Locations/Japan/Parks-nature/Arashiyama (嵐山).md",
+    "Locations/Japan/Cities/blocks/streets/Sannenzaka e Ninenzaka (三年坂)(二年坂).md",
+    "Locations/Japan/Cities/blocks/Quartiere Gion (祇園).md",
+    "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md",
+    "Locations/Japan/Temples/Kiyomizu-dera (清水寺).md",
     "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).md",
+    "Locations/Japan/Temples/Kinkaku-ji (金閣寺).md",
+    "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md",
+    "Locations/Japan/Temples/Tempio Kodai-ji (高台寺).md",
+    "Locations/Japan/Temples/Santuario Yasaka (八坂神社).md",
+    "Locations/Japan/Temples/Tempio Ginkakuji (慈照寺（銀閣寺)).md",
+    "Locations/Japan/Temples/Chureito Pagoda (忠霊塔).md",
+    "Locations/Japan/Buildings/Tokyo tower (東京タワー).md",
+    "Locations/Japan/Stores/Nakano Broadway (中野ブロードウェイ).md",
     "allegati/Pasted image 20250106151504.png",
-    "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg"
+    "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
+    "Itinerari/Japan/Solo con i luoghi/11 giorni",
+    "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).pdf",
+    "Documenti Esterni/Itinerario Tokyo-Kyoto (11 gg) (2-dic-2025 -- 14-dic-2025).docx",
+    "Documenti Esterni/Input Gamma.docx",
+    "Documenti Esterni",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
+    "allegati/Pasted image 20240109154118.png",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",
+    "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_b1ade25b.jpg",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (10 gg).rst",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni",
+    "allegati/Pasted image 20240523103142.png",
+    "Locations/Japan/Cities/blocks/streets",
+    "allegati/Pasted image 20240405125139.png"
   ]
 }

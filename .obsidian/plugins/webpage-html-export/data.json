@@ -1,6 +1,6 @@
 {
   "settingsVersion": "1.8.01",
-  "makeOfflineCompatible": true,
+  "makeOfflineCompatible": false,
   "inlineAssets": true,
   "includePluginCSS": "dataview\ntag-wrangler\nquick-latex\nobsidian-map-view\nobsidian-day-planner\noz-image-plugin\nconvert-url-to-iframe\nobsidian-leaflet-plugin\nobsidian-advanced-slides\nobsidian-hover-editor\nmulti-column-markdown\nobsidian-timelines\nobsidian-emoji-toolbar\ntheme-picker\nobsidian-outliner",
   "includeSvelteCSS": true,
@@ -10,7 +10,7 @@
   "documentWidth": "40em",
   "sidebarWidth": "20em",
   "minOutlineCollapse": 2,
-  "startOutlineCollapsed": true,
+  "startOutlineCollapsed": false,
   "allowFoldingHeadings": true,
   "allowFoldingLists": true,
   "allowResizingSidebars": true,

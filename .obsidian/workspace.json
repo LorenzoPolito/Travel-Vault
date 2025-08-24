@@ -96,7 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358
+    "width": 288
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -113,13 +113,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Calabria/Parghelia 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Parghelia 2025"
+              "title": "Struttura"
             }
           },
           {
@@ -155,7 +154,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Calabria/Parghelia 2025.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +181,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Parghelia 2025"
+              "title": "Vista grafo"
             }
           }
         ]
@@ -264,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229
+    "width": 290
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,10 +287,10 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "6bcf3ad3d130899b",
+  "active": "bb8d7d74a57d298a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Itinerari/Calabria/Parghelia 2025.md",
+    "conflict-files-obsidian-git.md",
     "Itinerari/Calabria",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",
     "Index.md",

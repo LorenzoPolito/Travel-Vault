@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiPepper",
       "LiJapaneseYen",
       "LiStretchVertical",
       "TiBuildingChurch",
-      "RiBuildingFill",
-      "BoBxsCastle"
+      "RiBuildingFill"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -46,5 +46,6 @@
   "Itinerari": "TiTransferVertical",
   "Info/Japan": "LiJapaneseYen",
   "Locations/Japan": "LiJapaneseYen",
-  "Itinerari/Japan": "LiJapaneseYen"
+  "Itinerari/Japan": "LiJapaneseYen",
+  "Itinerari/Calabria": "TiPepper"
 }

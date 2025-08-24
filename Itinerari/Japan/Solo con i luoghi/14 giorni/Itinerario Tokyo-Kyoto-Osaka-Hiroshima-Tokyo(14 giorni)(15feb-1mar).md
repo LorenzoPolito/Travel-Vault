@@ -327,5 +327,4 @@ Benvenuti nella vostra avventura giapponese! Questo itinerario è stato curato p
 - **PARTENZA PER ROMA.**
 
 ---
----
 

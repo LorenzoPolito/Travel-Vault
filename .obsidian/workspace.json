@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0eb89d352103606",
+        "id": "ab91fcad9cf54614",
         "type": "tabs",
         "children": [
           {
-            "id": "6bcf3ad3d130899b",
+            "id": "7202f835335b7963",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Itinerari/Calabria/Parghelia 2025.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Parghelia 2025"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -113,13 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Calabria/Parghelia 2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Parghelia 2025"
+              "title": "Struttura"
             }
           },
           {
@@ -155,7 +150,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Calabria/Parghelia 2025.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Parghelia 2025"
+              "title": "Vista grafo"
             }
           }
         ]
@@ -289,11 +283,11 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "6bcf3ad3d130899b",
+  "active": "7202f835335b7963",
   "lastOpenFiles": [
+    "Itinerari/Calabria/Parghelia 2025.md",
     "Senza nome 1.md",
     "Senza nome.md",
-    "Itinerari/Calabria/Parghelia 2025.md",
     "conflict-files-obsidian-git.md",
     "Itinerari/Calabria",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",

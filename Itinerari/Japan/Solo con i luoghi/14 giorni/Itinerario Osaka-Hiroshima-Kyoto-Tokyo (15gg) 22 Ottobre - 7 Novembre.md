@@ -1,16 +1,16 @@
 > Creato da @Lorenzo/@Davide/@Rebecca
 
-|    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
-|:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
-| Volo andata  |   1    |   1   |         300/400 €         |  arrivo il 23 sera   |
-|    Osaka     |   2    |   2   |           25 €            |                      |
-|  Horoshima   |   1    |   0   |        25 € circa         |                      |
-|    Osaka     |   0    |   1   |                           |                      |
-|     Nara     |  0.5   |   0   |                           |                      |
-|    Kyoto     |  1.5   |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|    Tokyo     |   7    |   7   |           23 €            |                      |
-| Volo ritorno |   1    |   1   |         300/400 €         |                      |
-|  **TOTALE**  |   14   |  14   |                           |                      |
+|    città     | giorni | notti | € a notte *(provvisorio)* |                        note                        |
+| :----------: | :----: | :---: | :-----------------------: | :------------------------------------------------: |
+| Volo andata  |   1    |   1   |         300/400 €         |                 arrivo il 23 sera                  |
+|    Osaka     |   2    |   2   |           25 €            |             1 giorno Universal Studio              |
+|  Horoshima   |   1    |   0   |        25 € circa         | treno mattina toccata e fuga treno ritorno di sera |
+|    Osaka     |   0    |   1   |                           |                    solo dormire                    |
+|     Nara     |  0.5   |   0   |                           |    treno pomeriggio verso Nara, ser verso tokyo    |
+|    Kyoto     |  1.5   |   2   |         30€ circa         |           appena arriviamo fushimi inari           |
+|    Tokyo     |   7    |   7   |           23 €            |                                                    |
+| Volo ritorno |   1    |   1   |         300/400 €         |                                                    |
+|  **TOTALE**  |   14   |  14   |                           |                                                    |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 
@@ -104,7 +104,7 @@
 - [[Tokyo tower (東京タワー)]]
 ## Giorno 9 ( 2° Tokyo)
 ##### Mattina: 
-- #gruppoA [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]](30min da Tokyo)  | #gruppoB [[Akihabara (秋葉原)]]  (x acquisti)
+- [[Akihabara (秋葉原)]]  (x acquisti)
 ##### Pomeriggio: 
 - [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]] (tramonto)
 ##### Sera: 

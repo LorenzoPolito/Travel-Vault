@@ -1,14 +1,16 @@
-> Creato da @Lorenzo/#Davide
+> Creato da @Lorenzo/@Davide/@Rebecca
 
-|       città        | giorni | notti | € a notte *(provvisorio)* |         note         |
-| :----------------: | :----: | :---: | :-----------------------: | :------------------: |
-|    Volo andata     |   1    |   1   |         300/400 €         |                      |
-|       Osaka        |   2    |   2   |           25 €            |                      |
-| Miyajima/Horoshima |   1    |   1   |        25 € circa         |                      |
-|       Kyoto        |   3    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|       Tokyo        |   6    |   6   |           23 €            |                      |
-|    Volo ritorno    |   1    |   1   |         300/400 €         |                      |
-|     **TOTALE**     |   14   |  13   |                           |                      |
+|    città     | giorni | notti | € a notte *(provvisorio)* |         note         |
+|:------------:|:------:|:-----:|:-------------------------:|:--------------------:|
+| Volo andata  |   1    |   1   |         300/400 €         |  arrivo il 23 sera   |
+|    Osaka     |   2    |   2   |           25 €            |                      |
+|  Horoshima   |   1    |   0   |        25 € circa         |                      |
+|    Osaka     |   0    |   1   |                           |                      |
+|     Nara     |  0.5   |   0   |                           |                      |
+|    Kyoto     |  2.5   |   3   |         30€ circa         | TOEI park Eva(15 €)? |
+|    Tokyo     |   6    |   6   |           23 €            |                      |
+| Volo ritorno |   1    |   1   |         300/400 €         |                      |
+|  **TOTALE**  |   14   |  13   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

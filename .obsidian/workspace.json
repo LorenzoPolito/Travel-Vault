@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
+                "file": "_AI/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre"
+              "title": "README"
             }
           }
         ]
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
+                "file": "_AI/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre"
+              "title": "Struttura di README"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
+                "file": "_AI/README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre"
+              "title": "Grafo di README"
             }
           }
         ]
@@ -288,8 +288,16 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "7202f835335b7963",
+  "active": "e89a79a745e1164b",
   "lastOpenFiles": [
+    "_templates/Info.md",
+    "_templates/Itinerario Dettagliato.md",
+    "_templates/Itinerario.md",
+    "_templates/Location.md",
+    "_templates/Città.md",
+    "_templates",
+    "_AI/INDEX.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
     "_AI/templates/logistica.md",
     "_AI/templates/itinerari.md",
     "_AI/templates/locations.md",
@@ -301,7 +309,6 @@
     "_AI/knowledge/destinations/japan/locations.md",
     "_AI/knowledge/destinations/japan",
     "_AI/knowledge/destinations",
-    "_AI/INDEX.md",
     "_AI/knowledge/logistica.md",
     "_AI/knowledge/itinerari.md",
     "_AI/knowledge/locations.md",
@@ -310,18 +317,12 @@
     "_AI/README.md",
     "_AI",
     "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
     "Locations/Japan/Cities/Kyoto(京都).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
-    "Locations/Japan/Lista dei Luoghi.md",
-    "Itinerari/Calabria/Parghelia 2025.md",
-    "Senza nome 1.md",
-    "Senza nome.md",
     "Itinerari/Calabria",
     "Documenti Esterni/Viaggio in Giappone 2026.pdf",
     "allegati/Pasted image 20250615160211.png",
@@ -329,7 +330,6 @@
     "Itinerari/Japan/Solo con i luoghi/15 giorni",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
-    "Itinerari/Japan/Solo con i luoghi/11 giorni",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.25.56_2211dff4.jpg",
     "allegati/Pasted image 20240109154118.png",
     "allegati/Immagine WhatsApp 2024-03-08 ore 16.12.52_d4ea28aa.jpg",

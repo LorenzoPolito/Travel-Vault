@@ -22,6 +22,13 @@ Travel-Vault/
 ├── Itinerario Kanban Template.md         ← Template Kanban pasti
 ├── Path.json                             ← {} placeholder
 │
+├── _templates/                           ← ★ Template Obsidian per nuovi doc
+│   ├── Città.md                          ← mapview + cluster + hotel
+│   ├── Location.md                       ← hero + Google Maps + sezioni
+│   ├── Itinerario.md                     ← tabella budget + giorno-per-giorno
+│   ├── Itinerario Dettagliato.md         ← orari al minuto + difficoltà + budget
+│   └── Info.md                           ← pass, trasporti, SIM, sicurezza
+│
 ├── _AI/                                  ← ★ AI KNOWLEDGE HUB (questo file è qui)
 │   ├── INDEX.md                          ← ★ Questo file — master index
 │   ├── README.md                         ← Entry point e convenzioni vault

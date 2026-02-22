@@ -1,16 +1,16 @@
 > Creato da @Lorenzo/@Davide/@Rebecca
 
-|    città     | giorni | notti | € a notte *(provvisorio)* |                        note                        |
-| :----------: | :----: | :---: | :-----------------------: | :------------------------------------------------: |
-| Volo andata  |   1    |   1   |         300/400 €         |                 arrivo il 23 sera                  |
-|    Osaka     |   2    |   2   |           25 €            |             1 giorno Universal Studio              |
-|  Horoshima   |   1    |   0   |        25 € circa         | treno mattina toccata e fuga treno ritorno di sera |
-|    Osaka     |   0    |   1   |                           |                    solo dormire                    |
-|     Nara     |  0.5   |   0   |                           |    treno pomeriggio verso Nara, ser verso tokyo    |
-|    Kyoto     |  1.5   |   2   |         30€ circa         |           appena arriviamo fushimi inari           |
-|    Tokyo     |   7    |   7   |           23 €            |                                                    |
-| Volo ritorno |   1    |   1   |         300/400 €         |                                                    |
-|  **TOTALE**  |   14   |  14   |                           |                                                    |
+|    città     | giorni | notti | € a notte *(provvisorio)* |                                                    note                                                    |
+| :----------: | :----: | :---: | :-----------------------: | :--------------------------------------------------------------------------------------------------------: |
+| Volo andata  |   1    |   1   |         300/400 €         |                                             arrivo il 23 sera                                              |
+|    Osaka     |   2    |   2   |           25 €            |                                         1 giorno Universal Studio                                          |
+|  Horoshima   |   1    |   0   |        25 € circa         |                             treno mattina toccata e fuga treno ritorno di sera                             |
+|    Osaka     |   0    |   1   |                           |                                                solo dormire                                                |
+|     Nara     |  0.5   |   0   |                           |                                treno pomeriggio verso Nara, ser verso tokyo                                |
+|    Kyoto     |  1.5   |   2   |         30€ circa         |                           appena arriviamo Fushimi-inari, e poi morte sul letto                            |
+|    Tokyo     |   7    |   7   |           23 €            | si **s**boccia, tanti giorni tante cose da vedere.<br>1 giorno a Sanrio puro land, e 1 giorno al poke-park |
+| Volo ritorno |   1    |   1   |         300/400 €         |                       capire se tornare il giorno dopo oppure stare un giorno in più                       |
+|  **TOTALE**  |   14   |  14   |                           |                                                                                                            |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

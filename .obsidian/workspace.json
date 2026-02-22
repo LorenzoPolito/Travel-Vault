@@ -11,10 +11,14 @@
             "id": "7202f835335b7963",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Japan/Lista dei Luoghi.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Lista dei Luoghi"
             }
           }
         ]
@@ -109,12 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Lista dei Luoghi"
             }
           },
           {
@@ -150,6 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Locations/Japan/Lista dei Luoghi.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "Grafo di Lista dei Luoghi"
             }
           }
         ]

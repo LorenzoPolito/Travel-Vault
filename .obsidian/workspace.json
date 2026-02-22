@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based"
+              "title": "Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg)"
             }
           }
         ]
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based"
+              "title": "Struttura di Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg)"
             }
           },
           {
@@ -155,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based"
+              "title": "Grafo di Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg)"
             }
           }
         ]
@@ -291,8 +291,10 @@
   },
   "active": "7202f835335b7963",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
@@ -320,8 +322,6 @@
     "Locations/Japan/Temples/Fushimi Inari (伏見稲荷大社).md",
     "Locations/Japan/Temples/Kiyomizu-dera (清水寺).md",
     "Locations/Japan/Temples/Ryoan-ji (龍安寺方丈庭園).md",
-    "Locations/Japan/Temples/Kinkaku-ji (金閣寺).md",
-    "Locations/Japan/Temples/Daikaku-ji Temple (大覚寺).md",
     "allegati/Pasted image 20250106151504.png",
     "allegati/Immagine WhatsApp 2025-01-06 ore 11.52.03_0edfe65a.jpg",
     "Itinerari/Japan/Solo con i luoghi/11 giorni",

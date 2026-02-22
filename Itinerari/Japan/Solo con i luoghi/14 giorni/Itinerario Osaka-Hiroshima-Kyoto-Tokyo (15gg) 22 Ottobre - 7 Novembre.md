@@ -8,9 +8,9 @@
 |    Osaka     |   0    |   1   |                           |                      |
 |     Nara     |  0.5   |   0   |                           |                      |
 |    Kyoto     |  1.5   |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|    Tokyo     |   8    |   8   |           23 €            |                      |
+|    Tokyo     |   7    |   7   |           23 €            |                      |
 | Volo ritorno |   1    |   1   |         300/400 €         |                      |
-|  **TOTALE**  |   15   |  15   |                           |                      |
+|  **TOTALE**  |   14   |  14   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

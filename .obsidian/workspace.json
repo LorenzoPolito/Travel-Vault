@@ -262,7 +262,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
+      "bases:Crea nuova Base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
       "switcher:Apri selezione rapida": false,

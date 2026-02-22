@@ -7,10 +7,10 @@
 |  Horoshima   |   1    |   0   |        25 € circa         |                      |
 |    Osaka     |   0    |   1   |                           |                      |
 |     Nara     |  0.5   |   0   |                           |                      |
-|    Kyoto     |   2    |   2   |         30€ circa         | TOEI park Eva(15 €)? |
-|    Tokyo     |   6    |   6   |           23 €            |                      |
+|    Kyoto     |  1.5   |   2   |         30€ circa         | TOEI park Eva(15 €)? |
+|    Tokyo     |   8    |   8   |           23 €            |                      |
 | Volo ritorno |   1    |   1   |         300/400 €         |                      |
-|  **TOTALE**  |  13.5  |  13   |                           |                      |
+|  **TOTALE**  |   15   |  15   |                           |                      |
 <!-- TBLFM: @>$2=sum(@I..@-1) -->
 <!-- TBLFM: @>$3=sum(@I..@-1) -->
 

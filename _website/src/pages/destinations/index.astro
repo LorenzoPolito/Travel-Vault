@@ -1,0 +1,58 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const locations = await getCollection('locations');
+const itineraries = await getCollection('itineraries');
+const infoEntries = await getCollection('info');
+
+const destinations = new Set<string>();
+locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
+itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
+infoEntries.forEach(e => { if (e.data.destination) destinations.add(e.data.destination); });
+
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Destinazioni" description="Tutte le destinazioni disponibili nel vault">
+  <section class="section">
+    <div class="container">
+      <div class="breadcrumbs">
+        <a href={base}>Home</a>
+        <span class="separator">/</span>
+        <span>Destinazioni</span>
+      </div>
+
+      <div class="page-header" style="border: none">
+        <h1 class="page-title">🌍 Destinazioni</h1>
+        <p>Esplora {destinations.size} destinazioni con {locations.length} luoghi e {itineraries.length} itinerari</p>
+      </div>
+
+      <div class="cards-grid">
+        {Array.from(destinations).map((dest) => {
+          const destLocations = locations.filter(l => l.data.destination === dest);
+          const destItineraries = itineraries.filter(it => it.data.destination === dest);
+          const destCities = destLocations.filter(l => l.data.type === 'city');
+          const slug = dest.toLowerCase();
+          const emoji = dest === 'Japan' ? '🇯🇵' : dest === 'Italia' ? '🇮🇹' : '🌍';
+
+          return (
+            <a href={`${base}destinations/${slug}/`} class="card animate-in" style="text-decoration: none;">
+              <div class="card-emoji" style="font-size: 3rem">{emoji}</div>
+              <h3 class="card-title" style="font-size: 1.5rem">{dest}</h3>
+              <p class="card-description">
+                {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
+              </p>
+              <div class="card-meta" style="margin-top: var(--space-lg)">
+                {destCities.map(c => {
+                  const cityName = c.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '') || '';
+                  return <span class="tag">{cityName}</span>;
+                })}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</Base>

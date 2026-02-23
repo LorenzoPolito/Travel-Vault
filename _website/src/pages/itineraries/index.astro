@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const itineraries = await getCollection('itineraries');
+const base = import.meta.env.BASE_URL;
+---
+
+<Base title="Itinerari" description="Tutti gli itinerari di viaggio disponibili">
+  <section class="section">
+    <div class="container">
+      <div class="breadcrumbs">
+        <a href={base}>Home</a>
+        <span class="separator">/</span>
+        <span>Itinerari</span>
+      </div>
+
+      <div class="page-header" style="border: none">
+        <h1 class="page-title">🗺️ Itinerari</h1>
+        <p>{itineraries.length} itinerari pianificati</p>
+      </div>
+
+      <div class="cards-grid">
+        {itineraries.map((itin) => {
+          const name = itin.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || itin.id;
+          const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
+
+          return (
+            <a href={`${base}itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+              <div class="card-emoji">{emoji}</div>
+              <h3 class="card-title">{name}</h3>
+              <div class="card-meta">
+                {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
+                {itin.data.durata && <span class="tag tag--info">{itin.data.durata}</span>}
+                {itin.data.durata_giorni && <span class="tag tag--info">{itin.data.durata_giorni} giorni</span>}
+                {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</Base>

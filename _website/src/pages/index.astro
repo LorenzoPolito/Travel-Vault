@@ -1,0 +1,146 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../layouts/Base.astro';
+
+const locations = await getCollection('locations');
+const itineraries = await getCollection('itineraries');
+const infoEntries = await getCollection('info');
+
+// Count unique destinations
+const destinations = new Set<string>();
+locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
+itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
+
+// Count cities
+const cities = locations.filter(l => l.data.type === 'city');
+---
+
+<Base title="Home">
+  <section class="hero">
+    <div class="container">
+      <h1>Esplora il mondo con<br/><span style="background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Travel-Vault</span></h1>
+      <p class="hero-subtitle">
+        Tutti i tuoi itinerari, luoghi e guide pratiche in un unico spazio — 
+        generato automaticamente dal vault Obsidian.
+      </p>
+
+      <div class="hero-stats">
+        <div class="stat animate-in">
+          <span class="stat-number">{destinations.size}</span>
+          <span class="stat-label">Destinazioni</span>
+        </div>
+        <div class="stat animate-in">
+          <span class="stat-number">{locations.length}</span>
+          <span class="stat-label">Luoghi</span>
+        </div>
+        <div class="stat animate-in">
+          <span class="stat-number">{itineraries.length}</span>
+          <span class="stat-label">Itinerari</span>
+        </div>
+        <div class="stat animate-in">
+          <span class="stat-number">{infoEntries.length}</span>
+          <span class="stat-label">Guide</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-label">Destinazioni</p>
+        <h2>Dove vuoi andare?</h2>
+      </div>
+
+      <div class="cards-grid">
+        {Array.from(destinations).map((dest, i) => {
+          const destLocations = locations.filter(l => l.data.destination === dest);
+          const destItineraries = itineraries.filter(it => it.data.destination === dest);
+          const destCities = destLocations.filter(l => l.data.type === 'city');
+          const slug = dest.toLowerCase();
+          const emoji = dest === 'Japan' ? '🇯🇵' : dest === 'Italia' ? '🇮🇹' : '🌍';
+
+          return (
+            <a href={`${import.meta.env.BASE_URL}destinations/${slug}/`} class="card animate-in" style={`text-decoration: none;`}>
+              <div class="card-emoji">{emoji}</div>
+              <h3 class="card-title">{dest}</h3>
+              <p class="card-description">
+                {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
+              </p>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-label">Ultimi Itinerari</p>
+        <h2>Pianifica il tuo viaggio</h2>
+      </div>
+
+      <div class="cards-grid">
+        {itineraries.slice(0, 6).map((itin) => {
+          const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
+          const duration = itin.data.durata || itin.data.durata_giorni ? `${itin.data.durata_giorni || '?'} giorni` : '';
+          
+          // Create display name from slug
+          const displayName = itin.id
+            .split('/').pop()
+            ?.replace(/-/g, ' ')
+            .replace(/\.md$/, '')
+            .replace(/\b\w/g, l => l.toUpperCase()) || itin.id;
+
+          return (
+            <a href={`${import.meta.env.BASE_URL}itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
+              <div class="card-emoji">{emoji}</div>
+              <h3 class="card-title">{displayName}</h3>
+              <div class="card-meta">
+                {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
+                {duration && <span class="tag tag--info">{duration}</span>}
+                {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <p class="section-label">Guide Pratiche</p>
+        <h2>Tutto quello che devi sapere</h2>
+      </div>
+
+      <div class="cards-grid">
+        {infoEntries.slice(0, 6).map((info) => {
+          const emoji = info.data.category === 'trasporti' || info.data.category === 'ic-card' ? '🚄' :
+                        info.data.category === 'sicurezza' ? '🛡️' :
+                        info.data.category === 'voli' ? '✈️' :
+                        info.data.category === 'sim' || info.data.category === 'e-sim' ? '📱' : '📖';
+
+          const displayName = info.id
+            .split('/').pop()
+            ?.replace(/-/g, ' ')
+            .replace(/\.md$/, '')
+            .replace(/\b\w/g, l => l.toUpperCase()) || info.id;
+
+          return (
+            <a href={`${import.meta.env.BASE_URL}guides/${info.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
+              <div class="card-emoji">{emoji}</div>
+              <h3 class="card-title">{displayName}</h3>
+              <div class="card-meta">
+                {info.data.destination && <span class="tag">{info.data.destination}</span>}
+                {(info.data.category || info.data.categoria) && <span class="tag tag--info">{info.data.category || info.data.categoria}</span>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+</Base>

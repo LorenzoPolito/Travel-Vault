@@ -1,0 +1,145 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const locations = await getCollection('locations');
+  const itineraries = await getCollection('itineraries');
+  const infoEntries = await getCollection('info');
+
+  const destinations = new Set<string>();
+  locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
+  itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
+
+  return Array.from(destinations).map(dest => ({
+    params: { dest: dest.toLowerCase() },
+    props: {
+      destination: dest,
+      locations: locations.filter(l => l.data.destination === dest),
+      itineraries: itineraries.filter(i => i.data.destination === dest),
+      info: infoEntries.filter(e => e.data.destination === dest),
+    },
+  }));
+}
+
+const { destination, locations, itineraries, info } = Astro.props;
+const base = import.meta.env.BASE_URL;
+
+const cities = locations.filter((l: any) => l.data.type === 'city');
+const pois = locations.filter((l: any) => l.data.type === 'location');
+
+// Group POIs by category
+const categories: Record<string, any[]> = {};
+pois.forEach((poi: any) => {
+  const cat = poi.data.category || 'Altro';
+  if (!categories[cat]) categories[cat] = [];
+  categories[cat].push(poi);
+});
+
+const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? '🇮🇹' : '🌍';
+---
+
+<Base title={destination} description={`Tutti i luoghi, itinerari e guide per ${destination}`}>
+  <section class="section">
+    <div class="container">
+      <div class="breadcrumbs">
+        <a href={base}>Home</a>
+        <span class="separator">/</span>
+        <a href={`${base}destinations/`}>Destinazioni</a>
+        <span class="separator">/</span>
+        <span>{destination}</span>
+      </div>
+
+      <div class="page-header" style="border: none">
+        <h1 class="page-title">{emoji} {destination}</h1>
+        <div class="page-meta">
+          <span class="tag">{cities.length} città</span>
+          <span class="tag tag--info">{pois.length} luoghi</span>
+          <span class="tag tag--success">{itineraries.length} itinerari</span>
+        </div>
+      </div>
+
+      {cities.length > 0 && (
+        <div style="margin-bottom: var(--space-3xl)">
+          <div class="section-header">
+            <p class="section-label">Città</p>
+            <h2>Le città da esplorare</h2>
+          </div>
+          <div class="cards-grid">
+            {cities.map((city: any) => {
+              const cityName = city.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '') || city.id;
+              const cityPois = pois.filter((p: any) => p.data.city && cityName.toLowerCase().includes(p.data.city.toLowerCase()));
+              return (
+                <a href={`${base}locations/${city.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                  <div class="card-emoji">🏙️</div>
+                  <h3 class="card-title">{cityName}</h3>
+                  <p class="card-description">{cityPois.length} punti di interesse</p>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {Object.keys(categories).length > 0 && (
+        <div style="margin-bottom: var(--space-3xl)">
+          <div class="section-header">
+            <p class="section-label">Luoghi</p>
+            <h2>Punti di interesse per categoria</h2>
+          </div>
+          {Object.entries(categories).map(([cat, items]) => {
+            const catEmoji = cat.toLowerCase().includes('templ') ? '⛩️' :
+                            cat.toLowerCase().includes('park') ? '🌳' :
+                            cat.toLowerCase().includes('build') ? '🏢' :
+                            cat.toLowerCase().includes('store') ? '🛍️' :
+                            cat.toLowerCase().includes('castle') ? '🏯' : '📍';
+            return (
+              <div style="margin-bottom: var(--space-xl)">
+                <h3>{catEmoji} {cat} ({items.length})</h3>
+                <div class="cards-grid" style="margin-top: var(--space-md)">
+                  {items.slice(0, 6).map((poi: any) => {
+                    const poiName = poi.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '') || poi.id;
+                    return (
+                      <a href={`${base}locations/${poi.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                        <h4 class="card-title">{poiName}</h4>
+                        <div class="card-meta">
+                          {poi.data.rating && <span class="rating">⭐ {poi.data.rating}</span>}
+                          {poi.data.city && <span class="tag">{poi.data.city}</span>}
+                        </div>
+                      </a>
+                    );
+                  })}
+                </div>
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {itineraries.length > 0 && (
+        <div>
+          <div class="section-header">
+            <p class="section-label">Itinerari</p>
+            <h2>Viaggi pianificati</h2>
+          </div>
+          <div class="cards-grid">
+            {itineraries.map((itin: any) => {
+              const name = itin.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || itin.id;
+              const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
+              return (
+                <a href={`${base}itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                  <div class="card-emoji">{emoji}</div>
+                  <h3 class="card-title">{name}</h3>
+                  <div class="card-meta">
+                    {itin.data.durata && <span class="tag tag--info">{itin.data.durata}</span>}
+                    {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
+    </div>
+  </section>
+</Base>

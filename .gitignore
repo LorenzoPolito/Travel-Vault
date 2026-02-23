@@ -1,9 +1,25 @@
-# to only exclude plugin obsidian-git configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins/obsidian-git
+# Dependencies
+node_modules/
 
-# OR only to exclude workspace cache
+# Astro build output
+_website/dist/
+_website/.astro/
+
+# Synced content (generated from vault, not tracked)
+_website/src/content/locations/
+_website/src/content/itineraries/
+_website/src/content/info/
+_website/public/images/vault/
+
+# Obsidian
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
 
-# Add below lines to exclude OS settings and caches
-.trash/
+# OS
 .DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local

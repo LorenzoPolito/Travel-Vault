@@ -61,7 +61,7 @@ const cities = locations.filter(l => l.data.type === 'city');
           const emoji = dest === 'Japan' ? '🇯🇵' : dest === 'Italia' ? '🇮🇹' : '🌍';
 
           return (
-            <a href={`${import.meta.env.BASE_URL}destinations/${slug}/`} class="card animate-in" style={`text-decoration: none;`}>
+            <a href={`${import.meta.env.BASE_URL}/destinations/${slug}/`} class="card animate-in" style={`text-decoration: none;`}>
               <div class="card-emoji">{emoji}</div>
               <h3 class="card-title">{dest}</h3>
               <p class="card-description">
@@ -94,7 +94,7 @@ const cities = locations.filter(l => l.data.type === 'city');
             .replace(/\b\w/g, l => l.toUpperCase()) || itin.id;
 
           return (
-            <a href={`${import.meta.env.BASE_URL}itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
+            <a href={`${import.meta.env.BASE_URL}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
               <div class="card-emoji">{emoji}</div>
               <h3 class="card-title">{displayName}</h3>
               <div class="card-meta">
@@ -130,7 +130,7 @@ const cities = locations.filter(l => l.data.type === 'city');
             .replace(/\b\w/g, l => l.toUpperCase()) || info.id;
 
           return (
-            <a href={`${import.meta.env.BASE_URL}guides/${info.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
+            <a href={`${import.meta.env.BASE_URL}/guides/${info.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
               <div class="card-emoji">{emoji}</div>
               <h3 class="card-title">{displayName}</h3>
               <div class="card-meta">

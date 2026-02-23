@@ -29,13 +29,13 @@ const typeEmoji = entry.data.type === 'city' ? '🏙️' :
   <section class="section">
     <div class="content-container">
       <div class="breadcrumbs">
-        <a href={base}>Home</a>
+        <a href={`${base}/`}>Home</a>
         <span class="separator">/</span>
-        <a href={`${base}destinations/`}>Destinazioni</a>
+        <a href={`${base}/destinations/`}>Destinazioni</a>
         {entry.data.destination && (
           <>
             <span class="separator">/</span>
-            <a href={`${base}destinations/${entry.data.destination.toLowerCase()}/`}>{entry.data.destination}</a>
+            <a href={`${base}/destinations/${entry.data.destination.toLowerCase()}/`}>{entry.data.destination}</a>
           </>
         )}
         <span class="separator">/</span>

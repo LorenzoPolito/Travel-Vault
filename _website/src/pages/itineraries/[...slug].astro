@@ -21,9 +21,9 @@ const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$
   <section class="section">
     <div class="content-container">
       <div class="breadcrumbs">
-        <a href={base}>Home</a>
+        <a href={`${base}/`}>Home</a>
         <span class="separator">/</span>
-        <a href={`${base}itineraries/`}>Itinerari</a>
+        <a href={`${base}/itineraries/`}>Itinerari</a>
         <span class="separator">/</span>
         <span>{displayName}</span>
       </div>

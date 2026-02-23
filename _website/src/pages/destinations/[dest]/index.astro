@@ -43,9 +43,9 @@ const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? 
   <section class="section">
     <div class="container">
       <div class="breadcrumbs">
-        <a href={base}>Home</a>
+        <a href={`${base}/`}>Home</a>
         <span class="separator">/</span>
-        <a href={`${base}destinations/`}>Destinazioni</a>
+        <a href={`${base}/destinations/`}>Destinazioni</a>
         <span class="separator">/</span>
         <span>{destination}</span>
       </div>
@@ -70,7 +70,7 @@ const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? 
               const cityName = city.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '') || city.id;
               const cityPois = pois.filter((p: any) => p.data.city && cityName.toLowerCase().includes(p.data.city.toLowerCase()));
               return (
-                <a href={`${base}locations/${city.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                <a href={`${base}/locations/${city.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
                   <div class="card-emoji">🏙️</div>
                   <h3 class="card-title">{cityName}</h3>
                   <p class="card-description">{cityPois.length} punti di interesse</p>
@@ -100,7 +100,7 @@ const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? 
                   {items.slice(0, 6).map((poi: any) => {
                     const poiName = poi.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '') || poi.id;
                     return (
-                      <a href={`${base}locations/${poi.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                      <a href={`${base}/locations/${poi.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
                         <h4 class="card-title">{poiName}</h4>
                         <div class="card-meta">
                           {poi.data.rating && <span class="rating">⭐ {poi.data.rating}</span>}
@@ -127,7 +127,7 @@ const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? 
               const name = itin.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || itin.id;
               const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
               return (
-                <a href={`${base}itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+                <a href={`${base}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
                   <div class="card-emoji">{emoji}</div>
                   <h3 class="card-title">{name}</h3>
                   <div class="card-meta">

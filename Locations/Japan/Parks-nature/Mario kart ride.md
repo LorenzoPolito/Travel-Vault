@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Tokyo
+tags:
+  - location
+  - parco
+  - japan
+---
 Le opzioni per visitare Tokyo sono varie: dai treni affollati ai [taxi e, naturalmente,](https://tokyocheapo.com/travel/transport/how-to-catch-taxi-tokyo-japan/) [ai piedi](https://tokyocheapo.com/travel/transport/tokyo-subway-walking-times-map/) più economici . E se volessi qualcosa di diverso? Che ne dici di guidare un go-kart per le strade di Tokyo? Sì, questo è qualcosa che puoi effettivamente fare! Continua a leggere per scoprire come.
 
 **[Aspetta, il go-kart da strada](https://www.engadget.com/nintendo-seals-court-victory-against-knockoff-gokart-tour-company-133028716.html) non era proibito in Giappone ?** No! Puoi sicuramente andare a fare kart a Tokyo, Osaka e in altre parti del paese. Ad esempio, puoi fare questo , un tour in go-kart di Akihabara di un'ora tramite , o un epico tour in go-kart di due ore intorno alla baia di Tokyo, tramite [Headout](https://www.headout.com/r/tokyocheaporecommends-OaFj2/) . La disponibilità può variare tra i fornitori di esperienze di go-kart, in particolare durante le stagioni di punta, quindi ti consigliamo di [controllare la tabella seguente](https://tokyocheapo.com/entertainment/mario-kart-in-tokyo-guide/#locations) .

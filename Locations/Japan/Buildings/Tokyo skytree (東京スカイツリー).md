@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: edificio
+city: Tokyo
+tags:
+  - location
+  - edificio
+  - japan
+---
 ![Tokyo Sky Tree](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513936454/tokyo/Tokyo2307_1)
 
 > 1-1-2 Oshiage, Sumida-ku, Tokyo-to

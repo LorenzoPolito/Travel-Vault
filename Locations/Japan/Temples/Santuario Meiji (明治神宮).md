@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Tokyo
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Meiji-jingu Shrine](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513945803/tokyo/Tokyo2331_8)
 
 > 1-1 Yoyogikamizono-cho, Shibuya-ku, Tokyo-to

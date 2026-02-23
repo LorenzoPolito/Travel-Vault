@@ -1,3 +1,11 @@
+---
+type: city
+destination: Japan
+tags:
+  - city
+  - map
+  - japan
+---
 ![The Yoshida Trail](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1517685256/yamanashi/Yamanashi2482_2)
 
 Kamiyoshida, Fujiyoshida-shi, Yamanashi-ken

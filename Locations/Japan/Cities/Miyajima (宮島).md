@@ -1,3 +1,11 @@
+---
+type: city
+destination: Japan
+tags:
+  - city
+  - map
+  - japan
+---
 ![[Pasted image 20240315141212.png]]
 ## A breve distanza in traghetto dalla terraferma, Miyajima è una delle zone più visitate della Prefettura di Hiroshima
 

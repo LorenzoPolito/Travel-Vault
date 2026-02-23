@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Tokyo
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Kanda-jinja Shrine](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513936274/tokyo/Tokyo2276_2)
 
 > 2-16-2 Sotokanda, Chiyoda-ku, Tokyo-to

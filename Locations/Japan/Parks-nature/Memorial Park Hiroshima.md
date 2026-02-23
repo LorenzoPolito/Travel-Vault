@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Hiroshima
+tags:
+  - location
+  - parco
+  - japan
+---
 ![[Pasted image 20240315143254.png]]
 ![[Pasted image 20240315143301.png]]
 ## Guida

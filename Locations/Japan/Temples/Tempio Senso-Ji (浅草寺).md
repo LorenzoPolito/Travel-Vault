@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Tokyo
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Sensoji Temple](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1675339920/tokyo/Tokyo_s_id19_18)
 
 > 2-3-1 Asakusa, Taito-ku, Tokyo-to

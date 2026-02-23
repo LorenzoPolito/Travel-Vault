@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: edificio
+city: Osaka
+tags:
+  - location
+  - edificio
+  - japan
+---
 ![Tsutenkaku Tower](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1508236179/osaka/Osaka813_2)
 
 > 1-18-6 Ebisuhigashi, Naniwa-ku, Osaka-shi, Osaka-fu

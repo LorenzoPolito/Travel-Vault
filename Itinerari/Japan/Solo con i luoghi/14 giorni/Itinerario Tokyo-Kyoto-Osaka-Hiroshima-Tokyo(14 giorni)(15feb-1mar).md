@@ -1,3 +1,11 @@
+---
+type: itinerario
+destination: Japan
+durata: 14 giorni
+tags:
+  - itinerario
+  - japan
+---
 
 > Creato da @Damiano e Lorenzo
 

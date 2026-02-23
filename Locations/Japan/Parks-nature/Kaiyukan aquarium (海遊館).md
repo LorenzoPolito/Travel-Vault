@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Osaka
+tags:
+  - location
+  - parco
+  - japan
+---
 ![Osaka Aquarium Kaiyukan](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1648205341/osaka/H_00496_001)
 
 1-1-10 Kaigandori, Minato-ku, Osaka-shi, Osaka-fu

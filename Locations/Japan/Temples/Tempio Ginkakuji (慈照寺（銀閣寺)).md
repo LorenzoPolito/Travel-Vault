@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Ginkaku-ji](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514372745/kyoto/Kyoto1078_1)
 
 2 Ginkakuji-cho, Sakyo-ku, Kyoto-shi, Kyoto-fu

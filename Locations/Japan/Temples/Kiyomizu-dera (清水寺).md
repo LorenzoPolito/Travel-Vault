@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![gion & higashiyama](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514377850/kyoto/Kyoto1058_1)
 
 294 Kiyomizu 1 Chome, Higashiyama-ku, Kyoto-shi, Kyoto-fu

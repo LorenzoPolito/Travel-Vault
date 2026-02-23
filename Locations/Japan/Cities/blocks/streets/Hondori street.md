@@ -1,3 +1,11 @@
+---
+type: street
+destination: Japan
+city: Hiroshima
+tags:
+  - street
+  - japan
+---
 ![[Pasted image 20240315143605.png]]
 ## It is widely known as ``Hondori''
 

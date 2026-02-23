@@ -6,10 +6,25 @@
       "sourceType": "github",
       "computedHash": "4a448025404360fb966eb707116b188b55a52dbb20deecb13d83e7f4db5087f1"
     },
+    "content-creator": {
+      "source": "z0gsh1u/oh-my-writing-skill",
+      "sourceType": "github",
+      "computedHash": "54405505a6915ea898bb0ea98eba1b719ce273c60df6b1669df67206654f95f2"
+    },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "computedHash": "25872a21881a950edc3db1f3329664d60405d539660ce05b3265db2de06a7dfd"
+    },
+    "knowledge-base-builder": {
+      "source": "onewave-ai/claude-skills",
+      "sourceType": "github",
+      "computedHash": "0a990a755fb89b3060d93ff57072573ac6c23105bd105e043abbf1b4068cafd7"
+    },
+    "markdown-documentation": {
+      "source": "thebushidocollective/han",
+      "sourceType": "github",
+      "computedHash": "478d1ae904c8daf6db2ce9ce5d8906561f3f7c1d6be755675fcb67e39527346b"
     },
     "skill-creator": {
       "source": "anthropics/skills",

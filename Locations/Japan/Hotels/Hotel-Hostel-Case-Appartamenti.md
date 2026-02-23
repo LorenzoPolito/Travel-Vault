@@ -1,3 +1,12 @@
+---
+type: info
+destination: Japan
+category: alloggio
+tags:
+  - hotel
+  - alloggio
+  - japan
+---
 ### Hiroshima
 ##### Case vacanza/appartamenti:
 - https://www.booking.com/Share-aqbctd

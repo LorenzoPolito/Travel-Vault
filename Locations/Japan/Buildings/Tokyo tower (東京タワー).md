@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: edificio
+city: Tokyo
+tags:
+  - location
+  - edificio
+  - japan
+---
 ![Tokyo Tower](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1646014276/tokyo/H_00658_001)
 
 4-2-8 Shibakoen, Minato-ku, Tokyo-to

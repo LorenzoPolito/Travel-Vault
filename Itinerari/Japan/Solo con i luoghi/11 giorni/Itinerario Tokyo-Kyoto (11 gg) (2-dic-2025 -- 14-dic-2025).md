@@ -1,3 +1,11 @@
+---
+type: itinerario
+destination: Japan
+durata: 11 giorni
+tags:
+  - itinerario
+  - japan
+---
 > Creato da @Lorenzo
 
 |   città    | giorni | notti | € a notte *(provvisorio)* |

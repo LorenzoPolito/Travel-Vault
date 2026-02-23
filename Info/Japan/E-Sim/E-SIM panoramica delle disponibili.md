@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: e-sim
+tags:
+  - info
+  - comunicazione
+  - esim
+  - japan
+---
 # eSIM Giappone: selezione delle migliori 4 sul mercato
 
 - [Internet In Viaggio](https://internetinviaggio.it/author/infointernetinviaggio-it/)

@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ![](https://matteoingiappone.s3.eu-central-1.amazonaws.com/wp-content/uploads/2020/06/Nakano-1.jpg)
 
 C'è un dibattito sempre acceso, sui social, su quale sia effettivamente il quartiere di riferimento a Tokyo che un vero appassionato di anime e manga non può assolutamente mancare durante una visita in città. La quasi totalità delle guide turistiche dedicano ampio spazio ad **[Akihabara](https://www.matteoingiappone.it/honshu/tokyo/akihabara/)** e ai suoi centri commerciali multipiano che vendono ogni tipo di prodotto legato a questo settore. Se però cercate un contesto più tranquillo in cui fare acquisti, il quartiere di Nakano, situato a pochi minuti di treno da Shinjuku, è un vero e proprio paradiso per gli otaku.

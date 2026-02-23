@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Kamakura Daibutsu](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1648115811/kanagawa/H_00586-2_001)
 
 > 4-2-28 Hase, Kamakura-shi, Kanagawa-ken

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: negozio
+city: Kyoto
+tags:
+  - location
+  - negozio
+  - japan
+---
 ![Nishiki Market](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1648006915/kyoto/H_00480_001)
 
 609 Higashiuoya-cho, Nakagyo-ku, Kyoto-shi, Kyoto-fu

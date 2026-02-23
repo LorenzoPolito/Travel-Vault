@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 
 
 ![hase-dera temple](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1595993033/kanagawa/Kanagawa256_13)

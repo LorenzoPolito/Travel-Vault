@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Miyajima
+tags:
+  - location
+  - parco
+  - japan
+---
 ![Mount Misen](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514391006/hiroshima/Hiroshima566_4)
 
 Hatsukaichi-shi, Hiroshima-ken

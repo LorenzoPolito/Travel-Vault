@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: castello
+city: Osaka
+tags:
+  - location
+  - castello
+  - japan
+---
 
 ![Osaka Castle](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1646646270/osaka/H_00495_001)
 

@@ -1,3 +1,11 @@
+---
+type: index
+destination: Japan
+tags:
+  - index
+  - locations
+  - japan
+---
 ### Info sulla lista
 - Tutti luoghi hanno un voto che rappresenta l'interesse del gruppo e la loro priorità.
 - dove possibile è segnato l'orario di apertura e chiusura.

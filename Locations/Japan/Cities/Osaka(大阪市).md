@@ -1,3 +1,11 @@
+---
+type: city
+destination: Japan
+tags:
+  - city
+  - map
+  - japan
+---
 ```mapview
 {"name":"Default","mapZoom":9,"centerLat":34.655803905058974,"centerLng":135.51361083984378,"query":"","chosenMapSource":0}
 ```

@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ## Shopping griffato e testimonianze storiche
 
 Per i migliori ristoranti e negozi di lusso, visita il ricco quartiere del centro di Ginza, quindi dirigiti a Nihonbashi per scoprire le numerose testimonianze storiche della zona.

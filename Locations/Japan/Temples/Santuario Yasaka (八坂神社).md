@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Yasaka Jinjya](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514374491/kyoto/Kyoto1072_5)
 
 625 Gionmachi Kitagawa, Higashiyama-ku, Kyoto-shi, Kyoto-fu

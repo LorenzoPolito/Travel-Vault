@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: castello
+city: Tokyo
+tags:
+  - location
+  - castello
+  - japan
+---
 ![Imperial Palace Outer Gardens](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513945878/tokyo/Tokyo2229_2)
 
 > 1-1 Chiyoda, Chiyoda-ku, Tokyo-to

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Kencho-ji Temple](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514117556/kanagawa/Kanagawa267_7)
 
 8 Yamanouchi, Kamakura-shi, Kanagawa-ken

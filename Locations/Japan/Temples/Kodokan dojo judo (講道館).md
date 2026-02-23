@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Tokyo
+tags:
+  - location
+  - tempio
+  - japan
+---
 
 
 ![](https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/f9/ee/1d/kodokan.jpg?w=800&h=500&s=1)

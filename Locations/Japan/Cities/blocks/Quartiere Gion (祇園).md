@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Kyoto
+tags:
+  - quartiere
+  - japan
+---
 Il quartiere Gion (祇 園) a Kyoto è un affascinante luogo ricco di storia e tradizione. Situato nella parte orientale della città, tra il Santuario Yasaka e il fiume Kamo, Gion è celebre per essere il quartiere delle geishe e delle maiko, apprendiste geishe.
 
 Gion ha origini nel Medioevo, quando si sviluppò come zona di accoglienza per i viaggiatori e i pellegrini in visita al Tempio Yasaka. Nel corso dei secoli, è diventato uno dei quartieri più esclusivi e rinomati del Giappone per le geishe. Qui si concentrano molte case da tè, noti come ochaya, e “okiya”, le case in cui le geishe e le maiko vivono e si preparano per le loro esibizioni.

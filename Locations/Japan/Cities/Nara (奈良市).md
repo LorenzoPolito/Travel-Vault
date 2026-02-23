@@ -1,3 +1,11 @@
+---
+type: city
+destination: Japan
+tags:
+  - city
+  - map
+  - japan
+---
 ## Parco di Nara Templi e santuari magnifici in un parco immenso con cervi selvatici
 
 ### Templi e santuari magnifici in un parco immenso con cervi selvatici

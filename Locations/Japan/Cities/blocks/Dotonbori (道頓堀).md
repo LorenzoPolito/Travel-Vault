@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Osaka
+tags:
+  - quartiere
+  - japan
+---
 ![Shinsaibashi Area](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514373914/osaka/Osaka798_6)
 
 > Dotonbori, Chuo-ku, Osaka-shi, Osaka-fu

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Tokyo
+tags:
+  - location
+  - parco
+  - japan
+---
 ![Studio di Harry Potter](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1701764333/tokyo/Tokyo_s2023_ID1_36)
 
 Copyright della foto: Derek Makishima

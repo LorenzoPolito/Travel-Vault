@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ![Akihabara](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1516980036/tokyo/Tokyo2608_1)
 
 > Taito-ku, Tokyo-to

@@ -1,3 +1,12 @@
+---
+type: itinerario
+destination: Japan
+source: esterno
+tags:
+  - itinerario
+  - esterno
+  - japan
+---
 ## Girono 1
 - Si vola in Giappone
 - partenza dal'italia con volo di linea verso Tokyo

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Tokyo
+tags:
+  - location
+  - parco
+  - japan
+---
 ![Ueno-onshi-koen Park](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513935022/tokyo/Tokyo2315_1)
 
 > 5-20 Uenokoen, Taito-ku, Tokyo-to

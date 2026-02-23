@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: negozio
+city: Tokyo
+tags:
+  - location
+  - negozio
+  - japan
+---
 ![Tsukiji Outer Market](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1646013708/tokyo/H_00399_002)
 
 > 5-2-1 Tsukiji, Chuo-ku, Tokyo-to

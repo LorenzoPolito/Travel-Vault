@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Hachimangu](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1636593841/kanagawa/Kanagawa1581_key)
 
 > 2-1-31 Yukinoshita, Kamakura-shi, Kanagawa-ken

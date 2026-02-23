@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: ic-cards
+tags:
+  - info
+  - trasporti
+  - ic-card
+  - japan
+---
 ## Suica card: ecco come funziona la famosa carta prepagata giapponese
 
 ![](https://viaggiareingiappone.it/wp-content/uploads/2021/10/Suica-card-1080x675.jpg)

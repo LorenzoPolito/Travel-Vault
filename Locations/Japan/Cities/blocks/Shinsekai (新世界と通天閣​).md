@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Osaka
+tags:
+  - quartiere
+  - japan
+---
 ![Shinsekai](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1675232782/osaka/Osaka_s_id26_1)
 
 Photo copyright: ©Osaka Convention & Tourism Bureau

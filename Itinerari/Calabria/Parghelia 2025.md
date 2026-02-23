@@ -1,3 +1,10 @@
+---
+type: itinerario
+destination: Italia
+tags:
+  - itinerario
+  - italia
+---
 ### *Itinerario di Viaggio in Calabria - Parghelia e Dintorni (Aggiornato)*
 
 *Durata:* 9 giorni (23-31 Agosto 2025)

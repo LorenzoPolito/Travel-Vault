@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: ic-cards
+tags:
+  - info
+  - trasporti
+  - ic-card
+  - japan
+---
 La **Carta ICOCA** è una smart card ricaricabile che è la chiave per sbloccare un’esperienza di viaggio efficiente e conveniente in Giappone. Non è solo un biglietto per i trasporti, ma uno strumento che può rendere il tuo tempo in Giappone molto più memorabile. Immagina di poter passare attraverso i tornelli della stazione dei treni, evitare lunghe file per l’acquisto dei biglietti e accedere a sconti e servizi esclusivi.
 
 ## Cos’è una Carta ICOCA e a cosa può essere utilizzata?

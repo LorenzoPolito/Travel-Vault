@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Engaku-ji Temple](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514117879/kanagawa/Kanagawa252_13)
 
 > 409 Yamanouchi, Kamakura-shi, Kanagawa-ken

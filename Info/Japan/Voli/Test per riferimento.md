@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: voli
+tags:
+  - info
+  - trasporti
+  - voli
+  - japan
+---
 ## Prenotazioni 05/04/24 per 1 Marzo 2025 $\to$ 14 Marzo 2025 
 ![[Pasted image 20240405124412.png]]
 ![[Pasted image 20240405125139.png]]

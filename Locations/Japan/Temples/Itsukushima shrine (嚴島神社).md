@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Miyajima
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Santuario Itsukushima-jinja](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1648201788/hiroshima/J_00002_001)
 
 > 1-1 Miyajima-cho, Hatsukaichi-shi, Hiroshima-ken

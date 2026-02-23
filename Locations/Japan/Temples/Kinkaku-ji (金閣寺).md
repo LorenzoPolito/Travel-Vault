@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Golden Pavilion](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1679042833/kyoto/Kyoto_s_id16_5)
 
 Photo copyright: Rokuon-ji

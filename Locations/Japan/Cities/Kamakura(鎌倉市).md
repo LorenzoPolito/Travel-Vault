@@ -1,3 +1,11 @@
+---
+type: city
+destination: Japan
+tags:
+  - city
+  - map
+  - japan
+---
 ## Siti storici, fiori e fogliame di stagione e gastronomia in un'antica capitale facilmente raggiungibile da Tokyo
 
 In direzione sud, a meno di un'ora da Tokyo, si trova Kamakura, un tempo capitale politica del Giappone, famosa per i suoi templi e la sua tradizione letteraria, oltre alle spiagge e ai sentieri escursionistici.

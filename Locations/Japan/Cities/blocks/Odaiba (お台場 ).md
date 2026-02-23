@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ## Il paradiso dello shopping e del divertimento nella baia di Tokyo
 
 L'isola artificiale di Odaiba è una meta molto frequentata dagli abitanti di Tokyo e dai turisti, famosa per i suoi centri commerciali, ristoranti, attrazioni all'avanguardia e musei, tutti facilmente raggiungibili a piedi.

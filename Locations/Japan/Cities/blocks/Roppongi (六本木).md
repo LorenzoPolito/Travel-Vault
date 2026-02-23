@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ## Roppongi e AkasakaIl quartiere degli stranieri, centro della vita notturna e culturale di Tokyo
 
 ### Il quartiere degli stranieri, centro della vita notturna e culturale di Tokyo

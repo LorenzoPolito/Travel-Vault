@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Osaka
+tags:
+  - location
+  - parco
+  - japan
+---
 ## A permanent outdoor exhibition transforming nature into art through digital technology
 
 Osaka Convention & Tourism Bureau

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Osaka
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![[Pasted image 20240315125222.png]]
 Il Tempio Shitennoji è uno dei più antichi templi buddisti in tutto il Giappone e si trova nella città di Osaka. Costruito nel 593 d.C. dal principe Shotoku, il tempio è dedicato a quattro dei principali guardiani del buddismo e rappresenta un importante sito di culto e spiritualità.
 

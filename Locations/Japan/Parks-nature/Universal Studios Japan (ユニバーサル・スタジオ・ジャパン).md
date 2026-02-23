@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Osaka
+tags:
+  - location
+  - parco
+  - japan
+---
 https://www.usj.co.jp/web/en/us
 ![Universal Studio Japan](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1624258028/osaka/Osaka1111-2064x1300_bg)
 

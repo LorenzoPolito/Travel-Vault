@@ -1,3 +1,11 @@
+---
+type: street
+destination: Japan
+city: Tokyo
+tags:
+  - street
+  - japan
+---
 ![Harajuku](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513934486/tokyo/Tokyo2324_3)
 
 > Shibuya-ku, Tokyo-to

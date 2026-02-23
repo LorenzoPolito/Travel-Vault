@@ -1,3 +1,12 @@
+---
+type: info
+destination: Japan
+category: sicurezza
+tags:
+  - info
+  - sicurezza
+  - japan
+---
 # IN PRIMO PIANO
 
 ### DOCUMENTI E VISTI

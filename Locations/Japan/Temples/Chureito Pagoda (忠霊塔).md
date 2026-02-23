@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Fujiyoshida
+tags:
+  - location
+  - tempio
+  - japan
+---
 # CHUREITO PAGODA MONTE FUJI
 
 La Chureito Pagoda è una famosa attrazione turistica situata nella città di Fujiyoshida, nella prefettura di Yamanashi, in Giappone. Questa splendida pagoda a cinque piani è situata su una collina e offre una vista mozzafiato sul Monte Fuji. La sua struttura tradizionale e il colore rosso intenso contrastano meravigliosamente con il paesaggio circostante, specie durante la fioritura dei ciliegi in primavera. La salita verso la pagoda comprende una scalinata ripida di oltre 400 gradini, ma lo sforzo viene ricompensato dalla vista spettacolare che si apre dalla sommità.

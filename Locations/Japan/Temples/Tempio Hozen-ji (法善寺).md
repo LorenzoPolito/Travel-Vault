@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Osaka
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Hozen-ji Temple](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514373797/osaka/Osaka794_2)
 
 1-2-16 Nanba, Chuo-ku, Osaka-shi, Osaka-fu

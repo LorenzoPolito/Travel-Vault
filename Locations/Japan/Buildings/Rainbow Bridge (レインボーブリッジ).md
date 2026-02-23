@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: edificio
+city: Tokyo
+tags:
+  - location
+  - edificio
+  - japan
+---
 ![Ponte dell'Arcobaleno](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1513945790/tokyo/Tokyo2358_1)
 
 Minato-ku, Tokyo-to

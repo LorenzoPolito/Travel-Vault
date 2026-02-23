@@ -1,2 +1,10 @@
+---
+type: quartiere
+destination: Japan
+city: Hiroshima
+tags:
+  - quartiere
+  - japan
+---
 ![[Pasted image 20240315143551.png]]
 Nagarekawa e Yagenbori sono due strade parallele, due isolati più a est del centro commerciale Parco alla fine di Hondori. Questa zona è ricca di ristoranti, discoteche, bar, izakaya, e, soprattutto lungo Yagenbori, di locali a luci rosse come hostess bar ma anche veri e propri luoghi di prostituzione. Durante il giorno quest'area è quasi deserta, ma la sera le colorate insegne al neon si accendono e tanta gente arriva in cerca di divertimenti di ogni tipo. Non è un luogo pericoloso, potete fare una passeggiata senza problemi o anche fermarvi a mangiare o a bere qualcosa nei tanti posti normali della zona.

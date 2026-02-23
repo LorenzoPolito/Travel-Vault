@@ -1,3 +1,11 @@
+---
+type: street
+destination: Japan
+city: Tokyo
+tags:
+  - street
+  - japan
+---
 Con il nome di Golden Gai si identifica una zona specifica che si trova all’interno di Kabuki-cho, il quartiere di Shinjuku che non conosce la parola riposo e che deriva da un trasferimento delle attività nel luogo attuale tra il 1949 ed il 1950; in precedenza infatti era un semplice mercato di contrabbando (il Sinjuku Maketto) con svariate attività di tipo alimentare.  
 La caratteristica principale di questa zona, rimasta assolutamente identica dal trasferimento, sono gli stretti vicoli che si intrecciano l’un l’altro su cui si affacciano più di 300 bar, sia al livello strada che al piano rialzato degli edifici, in cui non si paga la consumazione bensì il posto a sedere; questo perché la dimensione degli stessi non è paragonabile a quella dei bar tradizionali in quanto possono ospitare al massimo otto o dieci persone per volta.
 

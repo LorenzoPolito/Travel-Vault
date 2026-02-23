@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: negozio
+city: Tokyo
+tags:
+  - location
+  - negozio
+  - japan
+---
 > 5-52-15 Nakano, Nakano-ku, Tokyo
 ## I negozi dedicati agli 'anime': un'alternativa più rilassata rispetto ad Akihabara
 

@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: edificio
+city: Osaka
+tags:
+  - location
+  - edificio
+  - japan
+---
 ![[Pasted image 20240315124351.png]]
 ## Guida
 

@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: pass
+tags:
+  - info
+  - trasporti
+  - pass
+  - japan
+---
 # JAPAN RAIL PASS
 
 Il Japan Rail Pass è **un pass ferroviario** che è possibile utilizzare su tutta la rete ferroviaria **JR** (la Trenitalia giapponese per intenderci). Il pass è acquistabile prima di partire dall’Italia da rivenditori autorizzati o sul [sito ufficiale](https://japanrailpass.net/en/). L’acquisto sul sito ufficiale permette di prenotare i treni online prima della partenza.  

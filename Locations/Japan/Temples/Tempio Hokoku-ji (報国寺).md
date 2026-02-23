@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kamakura
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Hokoku-ji Temple](https://res-1.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514116677/kanagawa/Kanagawa257_3)
 
 > 2-7-4 Jomyoji, Kamakura-shi, Kanagawa-ken

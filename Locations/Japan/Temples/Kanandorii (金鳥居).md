@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Fujiyoshida
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![](https://fujiyoshida.net/image/rendering/attraction_image/104/trim.900/3/2?v=409b27d21eaa77dbd17ff4dff7179cbb3fd7ec16)
 ![](https://fujiyoshida.net/image/rendering/attraction_image/105/trim.900/3/2?v=54c538e72f9ba49f10c5f66897bb2fdfaadf2c64](https://fujiyoshida.net/en/see-and-do/24#)![](https://fujiyoshida.net/image/rendering/attraction_image/107/trim.900/3/2?v=cb4f2dad352e5f8abfdff3ac51235f24fd3b61d4)
 ![](https://fujiyoshida.net/image/rendering/attraction_image/108/trim.900/3/2?v=0d8ea21cbfee69abf7d4702b6f69dbc3c16c2b86)

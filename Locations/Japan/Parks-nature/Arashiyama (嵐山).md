@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Kyoto
+tags:
+  - location
+  - parco
+  - japan
+---
 ![Arashi-yama](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514375810/kyoto/Kyoto1110_1)
 
 > Ukyo-ku, Kyoto-shi, Kyoto-fu

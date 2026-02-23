@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: parco
+city: Kyoto
+tags:
+  - location
+  - parco
+  - japan
+---
 https://global.toei-eigamura.com/
 
 ![takagamine & murasakino area](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514372707/kyoto/Kyoto1107_3)

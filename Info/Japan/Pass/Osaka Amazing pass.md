@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: pass
+tags:
+  - info
+  - trasporti
+  - pass
+  - japan
+---
 # Al momento non è disponibile
 
 ![](https://www.giapponepertutti.it/demo/wp-content/uploads/2023/03/1day_ticket.png)

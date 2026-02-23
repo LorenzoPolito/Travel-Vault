@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Kodaiji Temple](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1646654731/kyoto/M_00222_001)
 
 > 526 Shimokawara-cho, Higashiyama-ku, Kyoto-shi, Kyoto-fu

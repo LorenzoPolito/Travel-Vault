@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Tempio Daikakuji](https://res-2.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1645169091/kyoto/M_00187_001)
 
 > 4 Sagaosawa-cho, Ukyo-ku, Kyoto-shi, Kyoto-fu

@@ -1,3 +1,11 @@
+---
+type: street
+destination: Japan
+city: Kyoto
+tags:
+  - street
+  - japan
+---
 ![[Pasted image 20240315151037.png]]
 Se siete curiosi di sapere **com’era [Kyoto](https://www.marcotogni.it/kyoto/)** prima dell’avvento della modernità non avete bisogno di volare con la fantasia: vi basta passeggiare lungo le **due stradine** Ninenzaka e Sannenzaka, simbolo della vecchia Kyoto e di tempi ormai lontani. Qui si passeggia respirando **atmosfere nostalgiche e romantiche** che pervadono ogni angolo di uno scenario che sembra preso da una foto del passato, ma dai colori ancora vivi: dimore tradizionali, sale da tè, locande, botteghe e ristorantini che si alternano sui vicoli serpeggianti, mentre sospesi in aria ci sono ancora i **fili** dell’energia elettrica ancora visibili in pochissime aree della città.
 

@@ -1,3 +1,11 @@
+---
+type: quartiere
+destination: Japan
+city: Tokyo
+tags:
+  - quartiere
+  - japan
+---
 ## Shinjuku, il divertimentificio di Tokyo
 
 Con il discutibile primato di una delle stazioni ferroviarie più trafficate del mondo, Shinjuku ha davvero tanto da offrire. Dai moderni grattacieli alle oasi di verde, è la mecca dello shopping, dei ristoranti e del relax.

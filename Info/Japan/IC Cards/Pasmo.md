@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: ic-cards
+tags:
+  - info
+  - trasporti
+  - ic-card
+  - japan
+---
 ## Guida alle carte PASMO
 
 > [PASMO PASSPORT, the IC card with special benefits you can use while in Japan | PASMO](https://www.pasmo.co.jp/visitors/en/)

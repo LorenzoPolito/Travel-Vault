@@ -1,3 +1,13 @@
+---
+type: info
+destination: Japan
+category: ic-cards
+tags:
+  - info
+  - trasporti
+  - ic-card
+  - japan
+---
 ![](https://www.japan-guide.com/g24/2359_map_2403b.png)
 
 >###### AVVISO IMPORTANTE:

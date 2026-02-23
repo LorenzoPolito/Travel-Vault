@@ -1,3 +1,13 @@
+---
+type: location
+destination: Japan
+category: tempio
+city: Kyoto
+tags:
+  - location
+  - tempio
+  - japan
+---
 ![Fushimi Inari Taisha Shrine](https://res-4.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1648523563/kyoto/20201026_fushimi_inari_taisha_shrine_25)
 
 > 68 Yabunouchi-cho, Fushimi-ku, Kyoto-shi, Kyoto-fu

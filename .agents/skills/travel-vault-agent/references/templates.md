@@ -2,20 +2,22 @@
 
 Detailed reference for Obsidian templates in `_templates/`.
 
-## Citta.md (City Note)
+## Città.md (City Note)
 
 **Location**: `Locations/<Country>/Cities/<CityName>.md`
 
 **Structure**:
 - `mapview` code block with lat/lng coordinates and zoom level
 - Embedded city photo `![[photo.jpg]]`
-- `## Cibo tipico` section for local food
-- `## Posti da visitare` with numbered lists separated by `//` clusters
+- `## Cibo tipico` — local food with descriptions
+- `## Posti da visitare` — numbered lists separated by `//` clusters
   - Each item: `1. [[Location Name (kanji)]] (hours) #X/5`
   - Cluster = group of locations walkable in ~30min
-- `## Hotels` with booking links
+  - Rating legend: `#5/5` = must-see → `#1/5` = skip
+- `## Hotels` — booking links with zone
+- `## Come muoversi` — airport transfer, metro lines, recommended passes
 
-**YAML frontmatter fields**: `locations`, `tags`, `destination`
+**YAML frontmatter fields**: `type: city`, `locations`, `destination`, `tags`
 
 ---
 
@@ -29,14 +31,15 @@ Detailed reference for Obsidian templates in `_templates/`.
 - Hero image `![Name](url)`
 - Address in blockquote `> Address`
 - Google Maps links (view + directions)
-- `## Description` with intro text
-- `### Da non perdere` bullet list
-- `## Come arrivare` transport directions
-- `### Storia e curiosita` historical notes
-- `### Orari e tariffe` hours, cost, duration, closing day
-- `### Consigli` tips
+- `## Descrizione` — what it is, why visit
+- `### Da non perdere` — bullet list of highlights
+- `## Come arrivare` — specific lines, stations, walking times
+- `## Storia e curiosità` — historical context
+- `## Orari e tariffe` — structured table:
+  | Orario | Giorno chiusura | Costo | Durata visita |
+- `## Consigli` — practical tips (best time, what to bring)
 
-**YAML frontmatter fields**: `locations`, `tags`, `destination`, `city`, `rating`, `orari`, `costo`, `durata_visita`
+**YAML frontmatter fields**: `type: location`, `category`, `destination`, `city`, `rating`, `orari`, `costo`, `durata_visita`, `tags`
 
 ---
 
@@ -46,14 +49,14 @@ Detailed reference for Obsidian templates in `_templates/`.
 
 **Structure**:
 - Author callout `> Creato da @Author`
-- Budget table (city | days | nights | cost/night | notes)
-- `## Alcune Info` section (timezone, passes, SIM)
-- Day sections: `## Giorno N (description)`
+- `## Sintesi` — budget table (city | days | nights | cost/night | notes)
+- `## Info utili` — timezone, passes, IC card, eSIM
+- Day sections: `## Giorno N — Description emoji`
   - Time blocks: `##### Mattina`, `##### Pomeriggio`, `##### Sera`
   - Activities as bullet lists with `[[wikilinks]]` to locations
-  - Transport notes in italic `*Partenza verso X (Xmin)*`
+  - Transport notes in italic `*Spostamento verso X (Xmin, linea Z)*`
 
-**YAML frontmatter fields**: `tags`, `destination`, `durata_giorni`, `durata_notti`, `data_partenza`, `data_ritorno`, `status`, `autori`, `percorso`
+**YAML frontmatter fields**: `type: itinerario`, `destination`, `durata_giorni`, `durata_notti`, `data_partenza`, `data_ritorno`, `status`, `autori`, `percorso`, `tags`
 
 ---
 
@@ -61,12 +64,23 @@ Detailed reference for Obsidian templates in `_templates/`.
 
 **Location**: Same as basic itinerary
 
+**Key difference**: Every activity has a **specific time** (`**08:00**`, `**09:30**`, etc.)
+
 **Structure** (extends basic):
-- Difficulty rating per day `**Difficolta fisica:** X/4`
-- Minute-by-minute schedule table (Orario | Attivita | Note)
-- `**Trasporti del giorno:**` section with exact routes
-- `## Riepilogo Budget` summary table
-- `## Prenotazioni da Fare` checklist with `- [ ]` items
+- `## Considerazioni Generali` — budget, passes, travel style, fitness level
+- `## Sintesi` — full budget table
+- Day sections with **precise times**:
+  - `**08:00** Activity description`
+  - Each location entry includes:
+    - *Livello di Difficoltà:* X/4
+    - *Come Raggiungere:* specific line, station, time
+    - *Consigli:* practical tip
+  - Meals marked with 🍽️ emoji and budget
+  - Transports in italic with lines and times
+- `**Trasporti del giorno:**` — summary of all day's movements
+- `## Riepilogo Budget` — detailed cost breakdown table
+- `## Prenotazioni da Fare` — checklist with `- [ ]` items
+- `## Note e Consigli` — general tips
 
 **YAML frontmatter fields**: Same as basic + `budget_totale_stimato`
 
@@ -77,12 +91,12 @@ Detailed reference for Obsidian templates in `_templates/`.
 **Location**: `Info/<Country>/<Category>/<InfoName>.md`
 
 **Structure**:
-- `## Cos'e` description
-- `## Dove si Compra` purchase options
-- `## Copertura` coverage table
-- `## Prezzi` pricing table
-- `## Come si Usa` step-by-step guide
-- `## Consigli` tips
-- `## Link Utili` useful links
+- `## Cos'è` — what it is and why it's useful
+- `## Dove si Compra` — structured table (method | details)
+- `## Copertura` — table (covers | doesn't cover)
+- `## Prezzi` — table (type/duration | price | notes)
+- `## Come si Usa` — numbered step-by-step guide
+- `## Consigli` — practical tips
+- `## Link Utili` — official sites, guides
 
-**YAML frontmatter fields**: `tags`, `destination`, `categoria`
+**YAML frontmatter fields**: `type: info`, `destination`, `category`, `tags`

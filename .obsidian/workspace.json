@@ -11,10 +11,14 @@
             "id": "f346a6d31b190046",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_templates/Città.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Città"
             }
           }
         ]
@@ -109,12 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "_templates/Città.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura"
+              "title": "Struttura di Città"
             }
           },
           {
@@ -150,6 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_templates/Città.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Vista grafo"
+              "title": "Grafo di Città"
             }
           }
         ]
@@ -284,11 +290,11 @@
   },
   "active": "f346a6d31b190046",
   "lastOpenFiles": [
+    "_templates/Info.md",
     "_templates/Itinerario.md",
-    "Luogo 4.md",
     "_templates/Itinerario Dettagliato.md",
     "_templates/Location.md",
-    "_templates/Info.md",
+    "Luogo 4.md",
     "_templates/Città.md",
     "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",

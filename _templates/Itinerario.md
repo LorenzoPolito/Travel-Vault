@@ -14,77 +14,92 @@ tags:
 
 > Creato da @NomeAutore
 
-|    città     | giorni | notti | € a notte *(provvisorio)* |                          note                          |
-|:------------:|:------:|:-----:|:-------------------------:|:------------------------------------------------------:|
-| Volo andata  |   1    |   1   |             €             |                                                        |
-|   Città 1    |        |       |             €             |                                                        |
-|   Città 2    |        |       |             €             |                                                        |
-|   Città 3    |        |       |             €             |                                                        |
-| Volo ritorno |   1    |   1   |             €             |                                                        |
-|  **TOTALE**  |        |       |         **€ circa**       |                                                        |
+---
 
-## Alcune Info
+## Sintesi
 
-- Il fuso orario è di X ore avanti/indietro rispetto a Roma
-- Pass utilizzati: 
-- Sim/eSIM: 
+| Città | Giorni | Notti | € a notte | Note |
+| --- | --- | --- | --- | --- |
+| Volo andata | 1 | 1 | €XXX | Xh con scalo |
+| Città 1 | X | X | €XX | |
+| Città 2 | X | X | €XX | |
+| Volo ritorno | 1 | 0 | €XXX | Xh con scalo |
+| **TOTALE** | **X** | **X** | **€XXXX** | |
+
+## Info utili
+
+- **Fuso orario:** +X ore rispetto a Roma
+- **Pass consigliati:** [[nome pass]]
+- **Carta trasporti:** [[nome carta]]
+- **eSIM:** [[opzione eSIM]]
 
 ---
 
-## Giorno 1 (viaggio)
+## Giorno 1 — Viaggio ✈️
 
 ##### Mattina
 
-- preparazione valigie
-- inventario e controllo documenti
-- controllo biglietti e pass
-
-##### Pomeriggio/Sera
-
-- PARTENZA per aeroporto
-- volo
-
----
-
-## Giorno 2 (1° Città 1)
-
-##### Mattina
-
-- ARRIVO
-- Check-in hotel
+- Preparazione valigie e controllo documenti
 
 ##### Pomeriggio
 
-- [[Luogo 1]]
+- Partenza per aeroporto
+- Volo (Xh con scalo)
 
 ##### Sera
 
-- [[Luogo 2]]
+- Arrivo / check-in hotel
+- Esplorazione dintorni hotel
 
 ---
 
-## Giorno 3 (2° Città 1)
+## Giorno 2 — 1° Città 🏙️
 
 ##### Mattina
 
-- [[Luogo 3]]
+- [[Luogo 1 (漢字)]] (orari)
+- [[Luogo 2 (漢字)]] (orari)
 
 ##### Pomeriggio
 
-- [[Luogo 4]]
+- Pranzo zona X
+- [[Luogo 3 (漢字)]] (orari)
+
+*Spostamento verso Zona Y (Xmin, linea Z)*
 
 ##### Sera
 
-- Zona libera / esplorazione
+- [[Luogo 4 (漢字)]] o passeggiata serale
+- Cena zona X
 
 ---
 
-## Giorno N (Viaggio)
+## Giorno 3 — 2° Città 🏙️
 
 ##### Mattina
 
-- Arrivo all'aeroporto e partenza
+- [[Luogo 5 (漢字)]] (orari)
 
-##### Pomeriggio/Sera
+##### Pomeriggio
 
-- RITORNO
+- [[Luogo 6 (漢字)]] (orari)
+
+##### Sera
+
+- Cena e rientro
+
+---
+
+## Giorno N — Ritorno ✈️
+
+##### Mattina
+
+- Check-out, trasferimento aeroporto
+
+##### Pomeriggio
+
+- Volo di ritorno
+
+##### Sera
+
+- Arrivo 🏠

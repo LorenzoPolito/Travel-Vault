@@ -15,34 +15,40 @@ tags:
 
 > Indirizzo completo, Città, Prefettura
 
-- [Visualizzare su Google Maps](https://maps.google.com/?q=Nome+Luogo)
-- [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Nome+Luogo)
+- [Visualizzare su Google Maps](https://maps.google.com/?q=COORDINATE)
+- [Ricevere indicazioni stradali](https://maps.google.com/maps?dirflg=t&daddr=COORDINATE)
 
-## Descrizione breve del luogo
+## Descrizione
 
-Testo introduttivo.
+Breve descrizione del luogo: cos'è, perché visitarlo, atmosfera generale.
 
 ### Da non perdere
 
-- Punto 1
-- Punto 2
-- Punto 3
+- Punto di interesse 1
+- Punto di interesse 2
+- Punto di interesse 3
 
 ## Come arrivare
 
-Indicazioni per raggiungere il luogo dalla stazione principale della città.
+- **Dalla stazione più vicina:** Linea X, uscita Y, ~Xmin a piedi
+- **Dalla zona centrale:** Metro linea X → cambio linea Y → ~Xmin totali
+- **Bus:** Linea N° da fermata X
 
-### Storia e curiosità
+## Storia e curiosità
 
-Testo sulla storia del luogo.
+Breve contesto storico o culturale del luogo.
 
-### Orari e tariffe
+## Orari e tariffe
 
-- **Orari:** 
-- **Costo ingresso:** 
-- **Durata consigliata:** 
-- **Giorno di chiusura:** 
+| Info | Dettaglio |
+| --- | --- |
+| **Orario** | 9:00 - 17:00 |
+| **Giorno di chiusura** | Lunedì |
+| **Costo ingresso** | ¥XXX / Gratuito |
+| **Durata visita consigliata** | ~X ore |
 
-### Consigli
+## Consigli
 
-- 
+- Consiglio 1 (es. orario migliore per evitare folla)
+- Consiglio 2 (es. cosa portare)
+- Consiglio 3 (es. combinare con luogo vicino)

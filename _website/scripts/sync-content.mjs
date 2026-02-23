@@ -45,8 +45,35 @@ function slugify(str) {
 function transformContent(content, filePath) {
   let result = content;
 
-  // Remove mapview code blocks
+  // Extract coordinate from mapview (JSON format) or manual format
+  const mapviewJsonMatch = result.match(/```mapview[\s\S]*?centerLat":\s*(-?\d+\.\d+)[\s\S]*?centerLng":\s*(-?\d+\.\d+)[\s\S]*?```/);
+  const gpsMatch = result.match(/^gps:\s*(-?\d+\.\d+),\s*(-?\d+\.\d+)/m);
+  
+  let lat, lon;
+  if (mapviewJsonMatch) {
+    lat = parseFloat(mapviewJsonMatch[1]);
+    lon = parseFloat(mapviewJsonMatch[2]);
+  } else if (gpsMatch) {
+    lat = parseFloat(gpsMatch[1]);
+    lon = parseFloat(gpsMatch[2]);
+  }
+
+  // Remove mapview code blocks before further processing
   result = result.replace(/```mapview[\s\S]*?```/g, '');
+
+  if (lat && lon && !result.match(/^location:\s*/m)) {
+    // Insert into existing frontmatter
+    if (result.startsWith('---')) {
+      const parts = result.split('---');
+      if (parts.length >= 3) {
+        parts[1] = parts[1] + `location: [${lat}, ${lon}]\n`;
+        result = '---' + parts.slice(1).join('---');
+      }
+    } else {
+      // Create new frontmatter if missing
+      result = `---\nlocation: [${lat}, ${lon}]\n---\n${result}`;
+    }
+  }
 
   // Transform image embeds: ![[image.jpg]] → ![image](/images/vault/image.jpg)
   result = result.replace(/!\[\[([^\]]+\.(jpg|jpeg|png|gif|webp|svg))\]\]/gi, (_, imgName) => {

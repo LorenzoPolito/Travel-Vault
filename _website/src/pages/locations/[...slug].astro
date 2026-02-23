@@ -1,6 +1,7 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Map from '../../components/Map.astro';
 
 export async function getStaticPaths() {
   const entries = await getCollection('locations');
@@ -43,18 +44,27 @@ const typeEmoji = entry.data.type === 'city' ? '🏙️' :
       </div>
 
       <div class="page-header">
-        <h1 class="page-title">{typeEmoji} {displayName}</h1>
+        <h1 class="page-title">{displayName}</h1>
         <div class="page-meta">
           {entry.data.type && <span class="tag">{entry.data.type}</span>}
           {entry.data.category && <span class="tag tag--info">{entry.data.category}</span>}
-          {entry.data.city && <span class="tag">{entry.data.city}</span>}
+          {entry.data.city && <span class="tag tag--success">{entry.data.city}</span>}
           {entry.data.rating && <span class="rating">⭐ {entry.data.rating}</span>}
         </div>
       </div>
 
-      <article class="prose">
+      {entry.data.location && Array.isArray(entry.data.location) && (
+        <Map 
+          lat={entry.data.location[0]} 
+          lon={entry.data.location[1]} 
+          zoom={15} 
+          height="300px" 
+        />
+      )}
+
+      <div class="content">
         <Content />
-      </article>
+      </div>
     </div>
   </section>
 </Base>

@@ -1,4 +1,6 @@
 ---
+import { ClientRouter } from 'astro:transitions';
+import Search from '../components/Search.astro';
 import '../styles/global.css';
 
 interface Props {
@@ -20,25 +22,34 @@ const base = import.meta.env.BASE_URL;
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/svg+xml" href={`${base}favicon.svg`} />
+  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+  <link href={`${base}/_pagefind/pagefind-ui.css`} rel="stylesheet">
+  <script is:inline src={`${base}/_pagefind/pagefind-ui.js`}></script>
+  <ClientRouter />
 </head>
 <body>
   <nav class="navbar">
-    <div class="container">
-      <a href={base} class="nav-logo">
-        🧳 <span>Travel-Vault</span>
-      </a>
-      <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">☰</button>
-      <ul class="nav-links" id="navLinks">
-        <li><a href={`${base}/`}>Home</a></li>
-        <li><a href={`${base}/destinations/`}>Destinazioni</a></li>
-        <li><a href={`${base}/itineraries/`}>Itinerari</a></li>
-        <li><a href={`${base}/guides/`}>Guide</a></li>
-      </ul>
+    <div class="container" style="display: flex; flex-direction: column; gap: var(--space-md);">
+      <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+        <a href={`${base}/`} class="nav-logo">
+          🧳 <span>Travel-Vault</span>
+        </a>
+        <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">☰</button>
+        <ul class="nav-links" id="navLinks">
+          <li><a href={`${base}/`}>Home</a></li>
+          <li><a href={`${base}/destinations/`}>Destinazioni</a></li>
+          <li><a href={`${base}/itineraries/`}>Itinerari</a></li>
+          <li><a href={`${base}/guides/`}>Guide</a></li>
+        </ul>
+      </div>
+      
+      <div class="search-wrapper" style="width: 100%; max-width: 500px; margin: 0 auto;">
+        <Search />
+      </div>
     </div>
   </nav>
 
-  <main>
+  <main data-pagefind-body>
     <slot />
   </main>
 

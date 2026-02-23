@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
+import Map from '../../../components/Map.astro';
 
 export async function getStaticPaths() {
   const locations = await getCollection('locations');
@@ -36,6 +37,16 @@ pois.forEach((poi: any) => {
   categories[cat].push(poi);
 });
 
+// Prepare markers for the map
+const markers = pois
+  .filter(p => p.data.location && Array.isArray(p.data.location))
+  .map(p => ({
+    lat: (p.data.location as number[])[0],
+    lon: (p.data.location as number[])[1],
+    title: p.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || p.id,
+    slug: p.id.split('/').pop()?.replace(/\.md$/, '') || p.id
+  }));
+
 const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? '🇮🇹' : '🌍';
 ---
 
@@ -58,6 +69,16 @@ const emoji = destination === 'Japan' ? '🇯🇵' : destination === 'Italia' ? 
           <span class="tag tag--success">{itineraries.length} itinerari</span>
         </div>
       </div>
+
+      {markers.length > 0 && (
+        <div style="margin-bottom: var(--space-3xl)">
+          <div class="section-header">
+            <p class="section-label">Mappa</p>
+            <h2>Esplora i luoghi sulla mappa</h2>
+          </div>
+          <Map markers={markers} height="450px" zoom={6} />
+        </div>
+      )}
 
       {cities.length > 0 && (
         <div style="margin-bottom: var(--space-3xl)">

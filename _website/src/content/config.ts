@@ -11,6 +11,8 @@ const locations = defineCollection({
     orari: z.string().optional(),
     costo: z.string().optional(),
     durata_visita: z.string().optional(),
+    location: z.array(z.number()).or(z.string()).optional(),
+    gps: z.string().optional(),
     locations: z.array(z.string()).optional(),
     tags: z.array(z.string()).optional(),
   }),

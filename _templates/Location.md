@@ -1,15 +1,14 @@
 ---
-locations:
-  - "{{location_name}}"
-tags:
-  - location
-  - temple
-destination: Japan
+type: location
+category: "{{temple | parco | edificio | negozio | castello}}"
+destination: "{{destinazione}}"
 city: "{{city_name}}"
 rating: "X/5"
 orari: ""
 costo: ""
 durata_visita: ""
+tags:
+  - location
 ---
 
 ![Nome Luogo](url_immagine_hero)

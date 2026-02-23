@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab91fcad9cf54614",
+        "id": "293e192fe29d357d",
         "type": "tabs",
         "children": [
           {
-            "id": "7202f835335b7963",
+            "id": "f346a6d31b190046",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_AI/README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -113,13 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_AI/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di README"
+              "title": "Struttura"
             }
           },
           {
@@ -155,7 +150,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_AI/README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di README"
+              "title": "Vista grafo"
             }
           }
         ]
@@ -288,17 +282,23 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "e89a79a745e1164b",
+  "active": "f346a6d31b190046",
   "lastOpenFiles": [
+    "_templates/Itinerario.md",
+    "Luogo 4.md",
+    "_templates/Itinerario Dettagliato.md",
+    "_templates/Location.md",
+    "_templates/Info.md",
+    "_templates/Città.md",
+    "Itinerari/Japan/Solo con i luoghi/12 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo (12 gg).md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Hiroshima-Tokyo dist. based.md",
+    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Tokyo-Kyoto-Osaka-Hiroshima-Tokyo(14 giorni)(15feb-1mar).md",
+    "_AI/README.md",
     "_AI/scripts/add_frontmatter.py",
     "_AI/scripts",
     "skills-lock.json",
     "SKILL.md",
-    "_templates/Info.md",
-    "_templates/Itinerario Dettagliato.md",
-    "_templates/Itinerario.md",
-    "_templates/Location.md",
-    "_templates/Città.md",
     "_templates",
     "_AI/INDEX.md",
     "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (15gg) 22 Ottobre - 7 Novembre.md",
@@ -318,14 +318,8 @@
     "_AI/knowledge/locations.md",
     "_AI/knowledge/workspace.md",
     "_AI/knowledge",
-    "_AI/README.md",
     "_AI",
     "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Myajima-Kyoto-Tokyo (14gg).md",
-    "Locations/Japan/Cities/Kyoto(京都).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Kyoto-Tokyo (14gg) dist. based.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Myajima-Kyoto-Tokyo (14gg).md",
-    "Itinerari/Calabria",
     "allegati/Pasted image 20250615160211.png",
     "allegati/Pasted image 20250615160003.png",
     "allegati/Pasted image 20250106151504.png",

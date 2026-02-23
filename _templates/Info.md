@@ -1,9 +1,9 @@
 ---
+type: info
+destination: "{{destinazione}}"
+category: "{{pass | trasporti | sim | sicurezza}}"
 tags:
   - info
-  - trasporti
-destination: "{{destinazione}}"
-categoria: "{{pass | transport | sim | safety}}"
 ---
 
 # Nome del Pass / Servizio

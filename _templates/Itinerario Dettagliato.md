@@ -1,7 +1,5 @@
 ---
-tags:
-  - itinerario
-  - dettagliato
+type: itinerario
 destination: "{{destinazione}}"
 durata_giorni: 0
 durata_notti: 0
@@ -11,6 +9,9 @@ status: "bozza"
 autori: []
 percorso: ""
 budget_totale_stimato: ""
+tags:
+  - itinerario
+  - dettagliato
 ---
 
 > Creato da @NomeAutore

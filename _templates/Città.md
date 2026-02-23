@@ -1,10 +1,11 @@
 ---
+type: city
 locations:
   - "{{city_name}}"
+destination: "{{destinazione}}"
 tags:
   - city
   - map
-destination: Japan
 ---
 
 ```mapview

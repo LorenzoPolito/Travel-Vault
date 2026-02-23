@@ -58,8 +58,8 @@ function transformContent(content, filePath) {
     lon = parseFloat(gpsMatch[2]);
   }
 
-  // Remove mapview code blocks before further processing
-  result = result.replace(/```mapview[\s\S]*?```/g, '');
+  // Remove mapview and leaflet code blocks before further processing
+  result = result.replace(/```(mapview|leaflet)[\s\S]*?```/g, '');
 
   if (lat && lon && !result.match(/^location:\s*/m)) {
     // Insert into existing frontmatter

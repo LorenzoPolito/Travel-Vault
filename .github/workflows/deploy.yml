@@ -38,7 +38,7 @@ jobs:
 
       - name: Build Astro
         working-directory: _website
-        run: npm run build -- --site https://lorenzopolito.github.io --base /Travel-Vault
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

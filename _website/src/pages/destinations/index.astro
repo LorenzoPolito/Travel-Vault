@@ -18,7 +18,7 @@ const base = import.meta.env.BASE_URL;
   <section class="section">
     <div class="container">
       <div class="breadcrumbs">
-        <a href={base}>Home</a>
+        <a href={`${base}/`}>Home</a>
         <span class="separator">/</span>
         <span>Destinazioni</span>
       </div>
@@ -37,7 +37,7 @@ const base = import.meta.env.BASE_URL;
           const emoji = dest === 'Japan' ? '🇯🇵' : dest === 'Italia' ? '🇮🇹' : '🌍';
 
           return (
-            <a href={`${base}destinations/${slug}/`} class="card animate-in" style="text-decoration: none;">
+            <a href={`${base}/destinations/${slug}/`} class="card animate-in" style="text-decoration: none;">
               <div class="card-emoji" style="font-size: 3rem">{emoji}</div>
               <h3 class="card-title" style="font-size: 1.5rem">{dest}</h3>
               <p class="card-description">

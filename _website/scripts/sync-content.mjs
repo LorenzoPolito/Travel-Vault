@@ -7,7 +7,7 @@
  * Run: node scripts/sync-content.mjs
  */
 
-import { readdir, readFile, writeFile, mkdir, copyFile, stat } from 'fs/promises';
+import { readdir, readFile, writeFile, mkdir, copyFile, stat, rm } from 'fs/promises';
 import { join, dirname, basename, extname, relative, resolve } from 'path';
 import { existsSync } from 'fs';
 
@@ -143,7 +143,19 @@ async function sync() {
       continue;
     }
 
-    // Clean target directory
+    // Clean target directory if exists
+    if (existsSync(targetDir)) {
+      const existingFiles = await readdir(targetDir, { withFileTypes: true });
+      for (const file of existingFiles) {
+        const fullPath = join(targetDir, file.name);
+        if (file.isDirectory()) {
+          // Recursive delete for safety (though we flatten now)
+          await rm(fullPath, { recursive: true, force: true });
+        } else {
+          await rm(fullPath, { force: true });
+        }
+      }
+    }
     await mkdir(targetDir, { recursive: true });
 
     const mdFiles = await findMarkdownFiles(sourceDir);
@@ -153,16 +165,10 @@ async function sync() {
       const content = await readFile(filePath, 'utf-8');
       const transformed = transformContent(content, filePath);
 
-      // Create a meaningful output path
-      const relPath = relative(sourceDir, filePath);
-      const sluggedName = slugify(basename(relPath, '.md')) + '.md';
+      // Create a meaningful output path - FLATTENED for reliable wikilinks
+      const sluggedName = slugify(basename(filePath, '.md')) + '.md';
       
-      // Preserve directory structure
-      const subDir = dirname(relPath);
-      const outputDir = subDir === '.' ? targetDir : join(targetDir, subDir);
-      await mkdir(outputDir, { recursive: true });
-
-      const outputPath = join(outputDir, sluggedName);
+      const outputPath = join(targetDir, sluggedName);
       await writeFile(outputPath, transformed, 'utf-8');
       count++;
     }

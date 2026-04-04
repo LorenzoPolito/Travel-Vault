@@ -2,6 +2,8 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
+import Map from '../../components/Map.astro';
+
 export async function getStaticPaths() {
   const entries = await getCollection('itineraries');
   return entries.map(entry => ({
@@ -14,11 +16,43 @@ const { entry } = Astro.props;
 const { Content } = await entry.render();
 const base = import.meta.env.BASE_URL;
 
-const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || entry.id;
+const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l) => l.toUpperCase()) || entry.id;
+
+// Extract cover image
+function extractCoverImage(body: string) {
+  const match = body.match(/!\[.*?\]\((.*?)\)/);
+  if (match) {
+    return match[1];
+  }
+  return null;
+}
+const coverImage = extractCoverImage(entry.body);
+
+// Find mentioned locations to display on map
+const allLocations = await getCollection('locations');
+const itineraryLocations = allLocations.filter(loc => {
+  const locId = loc.id.split('/').pop()?.replace('.md', '');
+  return locId && entry.body.includes(locId);
+});
+
+const markers = itineraryLocations
+  .filter(l => l.data.location && l.data.location.length === 2)
+  .map(l => ({
+    lat: l.data.location[0],
+    lon: l.data.location[1],
+    title: l.id.split('/').pop()?.replace(/-/g, ' ') || l.id,
+    slug: l.id.replace(/\.md$/, '')
+  }));
 ---
 
 <Base title={displayName} description={`Itinerario: ${displayName}`}>
-  <section class="section">
+  {coverImage && (
+    <div style={`width: 100%; height: 40vh; background-image: url('${coverImage}'); background-size: cover; background-position: center; position: relative; margin-bottom: var(--space-xl); border-radius: 0 0 var(--radius-xl) var(--radius-xl); box-shadow: var(--shadow-lg);`}>
+      <div style="position: absolute; inset: 0; background: linear-gradient(to top, var(--bg-primary) 0%, transparent 100%);"></div>
+    </div>
+  )}
+
+  <section class="section" style={coverImage ? "padding-top: 0;" : ""}>
     <div class="content-container">
       <div class="breadcrumbs">
         <a href={`${base}/`}>Home</a>
@@ -41,9 +75,25 @@ const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$
         </div>
       </div>
 
-      <article class="prose">
-        <Content />
-      </article>
+      <div class="split-layout">
+        <div class="content-left">
+          <article class="prose">
+            <Content />
+          </article>
+        </div>
+        <div class="content-right">
+          <aside class="sticky-sidebar">
+            <h3 style="font-size: 1.1rem; margin-bottom: var(--space-md);">Mappa dell'Itinerario</h3>
+            {markers.length > 0 ? (
+              <Map markers={markers} height="500px" id={`map-${entry.id.replace(/[^a-zA-Z0-9]/g, '')}`} />
+            ) : (
+              <div style="background: var(--bg-secondary); border: 1px solid var(--border); border-radius: var(--radius-md); padding: var(--space-xl); text-align: center; color: var(--text-muted);">
+                🗺️<br/>Nessuna location specifica con coordinate trovata in questo itinerario.
+              </div>
+            )}
+          </aside>
+        </div>
+      </div>
     </div>
   </section>
 </Base>

@@ -13,6 +13,14 @@ itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.desti
 
 // Count cities
 const cities = locations.filter(l => l.data.type === 'city');
+
+function extractCoverImage(body: string) {
+  const match = body.match(/!\[.*?\]\((.*?)\)/);
+  if (match) {
+    return match[1];
+  }
+  return null;
+}
 ---
 
 <Base title="Home">
@@ -48,6 +56,47 @@ const cities = locations.filter(l => l.data.type === 'city');
   <section class="section">
     <div class="container">
       <div class="section-header">
+        <p class="section-label">Esplora in profondità</p>
+        <h2>Itinerari in Evidenza</h2>
+      </div>
+
+      <div class="bento-grid">
+        {itineraries.slice(0, 6).map((itin) => {
+          const duration = itin.data.durata || itin.data.durata_giorni ? `${itin.data.durata_giorni || '?'} giorni` : '';
+          const coverImage = extractCoverImage(itin.body || '');
+          
+          const displayName = itin.id
+            .split('/').pop()
+            ?.replace(/-/g, ' ')
+            .replace(/\.md$/, '')
+            .replace(/\b\w/g, l => l.toUpperCase()) || itin.id;
+
+          return (
+            <a href={`${import.meta.env.BASE_URL}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in">
+              <div class="bento-img-wrapper">
+                {coverImage ? (
+                  <img src={coverImage} alt={displayName} loading="lazy" />
+                ) : (
+                  <div style="width: 100%; height: 100%; background: var(--bg-card); display: flex; align-items: center; justify-content: center; font-size: 3rem; opacity: 0.2">🗺️</div>
+                )}
+              </div>
+              <div class="bento-content">
+                <h3 class="card-title">{displayName}</h3>
+                <div class="card-meta">
+                  {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
+                  {duration && <span class="tag tag--info">{duration}</span>}
+                </div>
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
         <p class="section-label">Destinazioni</p>
         <h2>Dove vuoi andare?</h2>
       </div>
@@ -67,41 +116,6 @@ const cities = locations.filter(l => l.data.type === 'city');
               <p class="card-description">
                 {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
               </p>
-            </a>
-          );
-        })}
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-label">Ultimi Itinerari</p>
-        <h2>Pianifica il tuo viaggio</h2>
-      </div>
-
-      <div class="cards-grid">
-        {itineraries.slice(0, 6).map((itin) => {
-          const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
-          const duration = itin.data.durata || itin.data.durata_giorni ? `${itin.data.durata_giorni || '?'} giorni` : '';
-          
-          // Create display name from slug
-          const displayName = itin.id
-            .split('/').pop()
-            ?.replace(/-/g, ' ')
-            .replace(/\.md$/, '')
-            .replace(/\b\w/g, l => l.toUpperCase()) || itin.id;
-
-          return (
-            <a href={`${import.meta.env.BASE_URL}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
-              <div class="card-emoji">{emoji}</div>
-              <h3 class="card-title">{displayName}</h3>
-              <div class="card-meta">
-                {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
-                {duration && <span class="tag tag--info">{duration}</span>}
-                {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
-              </div>
             </a>
           );
         })}

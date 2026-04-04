@@ -46,6 +46,13 @@ git merge --no-ff develop -m "Release: Descrizione del rilascio"
 git push origin main
 ```
 
+## Verifica Post-Rilascio
+
+Non chiamare mai "vittoria" solo dopo il push. Segui questi step:
+1. **Monitora GitHub Actions**: Verifica che il workflow `Deploy to GitHub Pages` termini con successo.
+2. **Controlla il Sito Live**: Visita l'URL pubblico e verifica le funzionalità chiave (es. ricerca, mappe, link).
+3. **Verifica Mobile**: Controlla che le modifiche UI siano responsive.
+
 ## Regole d'Oro
 
 1. **Mai committare direttamente su `main`**.

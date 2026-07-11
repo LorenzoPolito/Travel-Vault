@@ -1010,7 +1010,13 @@ pre[data-language="mermaid"] {
 .prose table td,
 .prose table th {
   padding: var(--space-xs) var(--space-sm);
-  min-width: 5rem; /* ~80px — no px values */
+}
+
+@media (min-width: 1024px) {
+  .prose table td,
+  .prose table th {
+    min-width: 5rem;
+  }
 }
 
 /* --- Visual Rating Stars (.rs) --- */

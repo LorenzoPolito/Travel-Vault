@@ -611,7 +611,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 ### Calendario Monitoraggio
 
 | Data | Stato | 🛫 Andata FCO→KIX 24-25 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
-|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 11 Lug | ✅ | **€290-600** · China Eastern via PVG (15h, da €290) · Finnair via HEL (18h) · Emirates via DXB (16h, da €450) | **€250-750** · Finnair via HEL (17h40, da €250) · KLM via AMS (17h30, da €270) · ITA **diretto** HND→FCO (14h45, €550-750) | **~€650-1.100** | [Rome2Rio FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [Rome2Rio TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome) |
 | 13 Lug | ⬜ | — | — | — | — |
 | 15 Lug | ⬜ | — | — | — | — |

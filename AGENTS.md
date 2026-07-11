@@ -6,7 +6,7 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 
 ## Entry Points
 
-1. **Config agente**: `opencode.jsonc` — permissions, custom tools, scripts
+1. **Config agente**: `opencode.jsonc` — configurazione agente, permessi, istruzioni
 2. **AI Knowledge Hub**: `_AI/INDEX.md` — vault tree + quick reference table
 3. **Workspace metadata**: `_AI/knowledge/workspace.md` — info globale vault
 4. **Skill principale**: `.agents/skills/travel-vault-agent/SKILL.md`

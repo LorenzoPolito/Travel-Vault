@@ -57,6 +57,20 @@ function extractMapviewCoords(content) {
   return null;
 }
 
+function starsHtml(rating) {
+  const full = parseInt(rating);
+  if (isNaN(full) || full < 1 || full > 5) return '';
+  const empty = 5 - full;
+  return `<span class="rs" role="img" aria-label="${full}/5" title="${full}/5">${'★'.repeat(full)}${'☆'.repeat(empty)}</span>`;
+}
+
+function extractRating(content) {
+  const ratings = [...content.matchAll(/#(\d)\/5/g)];
+  if (ratings.length === 0) return null;
+  const nums = ratings.map(r => parseInt(r[1]));
+  return Math.max(...nums);
+}
+
 function transformContent(content, filePath) {
   let result = content;
 
@@ -79,17 +93,27 @@ function transformContent(content, filePath) {
   // Remove mapview and leaflet code blocks
   result = result.replace(/```(mapview|leaflet)[\s\S]*?```/g, '');
 
-  if (lat && lon && !result.match(/^location:\s*/m)) {
+  // Extract highest rating from content
+  const topRating = extractRating(result);
+
+  // Inject location and rating into frontmatter (only if not already present)
+  const frontmatterLines = [];
+  if (lat && lon && !result.match(/^location:\s*/m)) frontmatterLines.push(`location: [${lat}, ${lon}]`);
+  if (topRating && !result.match(/^rating:\s*/m)) frontmatterLines.push(`rating: "${topRating}/5"`);
+
+  if (frontmatterLines.length > 0) {
+    const injection = '\n' + frontmatterLines.join('\n') + '\n';
     if (result.startsWith('---')) {
       const parts = result.split('---');
       if (parts.length >= 3) {
-        parts[1] = parts[1] + `location: [${lat}, ${lon}]\n`;
+        parts[1] = parts[1] + injection;
         result = '---' + parts.slice(1).join('---');
       }
-    } else {
-      result = `---\nlocation: [${lat}, ${lon}]\n---\n${result}`;
     }
   }
+
+  // Transform cluster separators: // on its own line → visual divider
+  result = result.replace(/^\/\/\s*$/gm, '<div class="cd"></div>');
 
   // Transform image embeds with optional size/alias: ![[image.jpg]] or ![[image.jpg|400]]
   result = result.replace(/!\[\[([^\]]+\.(jpg|jpeg|png|gif|webp|svg))(?:\|([^\]]*))?\]\]/gi, (_, imgName) => {
@@ -113,6 +137,9 @@ function transformContent(content, filePath) {
 
   // Remove TBLFM comments
   result = result.replace(/<!-- TBLFM:.*?-->/g, '');
+
+  // Transform Obsidian ratings: #X/5 → visual stars HTML (after wikilinks to avoid conflicts)
+  result = result.replace(/#(\d)\/5/g, (_, rating) => starsHtml(rating));
 
   return result;
 }
@@ -198,7 +225,7 @@ async function sync() {
     const mdFiles = await findMarkdownFiles(sourceDir);
     let count = 0;
     let skipped = 0;
-    const seenSlugs = new Map();
+    const slugCounts = new Map();
 
     for (const filePath of mdFiles) {
       if (shouldExcludeFile(filePath)) {
@@ -214,14 +241,19 @@ async function sync() {
       }
 
       const transformed = transformContent(content, filePath);
-      const slugName = slugify(basename(filePath, '.md')) + '.md';
-      const outputPath = join(targetDir, slugName);
+      let slugName = slugify(basename(filePath, '.md')) + '.md';
+      const originalSlug = slugName;
 
-      if (seenSlugs.has(slugName)) {
-        console.log(`  Duplicate slug: "${slugName}" from "${filePath}" and "${seenSlugs.get(slugName)}"`);
+      if (slugCounts.has(slugName)) {
+        const count = slugCounts.get(slugName) + 1;
+        slugCounts.set(slugName, count);
+        slugName = slugName.replace(/\.md$/, `-${count}.md`);
+        console.log(`  Duplicate slug resolved: "${originalSlug}" → "${slugName}" (from: ${filePath})`);
+      } else {
+        slugCounts.set(slugName, 0);
       }
-      seenSlugs.set(slugName, filePath);
 
+      const outputPath = join(targetDir, slugName);
       await writeFile(outputPath, transformed, 'utf-8');
       count++;
     }

@@ -1,6 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { R, url, slugToName } from '../../constants';
 
 export async function getStaticPaths() {
   const entries = await getCollection('info');
@@ -13,21 +16,20 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 
-const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || entry.id;
+const displayName = slugToName(entry.id.split('/').pop() || entry.id);
 const cat = entry.data.category || entry.data.categoria || '';
 ---
 
 <Base title={displayName} description={`Guida: ${displayName}`}>
   <section class="section">
     <div class="content-container">
-      <div class="breadcrumbs">
-        <a href={`${base}/`}>Home</a>
-        <span class="separator">/</span>
-        <a href={`${base}/guides/`}>Guide</a>
-        <span class="separator">/</span>
-        <span>{displayName}</span>
-      </div>
+      <Breadcrumbs items={[
+        { label: 'Home', href: R.home },
+        { label: 'Guide', href: R.guides },
+        { label: displayName },
+      ]} />
 
       <div class="page-header">
         <h1 class="page-title">📖 {displayName}</h1>
@@ -37,9 +39,13 @@ const cat = entry.data.category || entry.data.categoria || '';
         </div>
       </div>
 
-      <article class="prose">
-        <Content />
-      </article>
+      {entry.body?.trim() ? (
+        <article class="prose">
+          <Content />
+        </article>
+      ) : (
+        <EmptyState icon="📄" title="Contenuto non disponibile" description="Questa guida è vuota o non è stata ancora compilata." />
+      )}
     </div>
   </section>
 </Base>

@@ -1,58 +1,72 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
+import { R, url, extractCoverImage, slugToName } from '../constants';
 
 const locations = await getCollection('locations');
 const itineraries = await getCollection('itineraries');
 const infoEntries = await getCollection('info');
 
-// Count unique destinations
 const destinations = new Set<string>();
 locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
 itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
 
-// Count cities
 const cities = locations.filter(l => l.data.type === 'city');
-
-// Active itinerary (Japan 2026)
 const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
 const otherItins = itineraries.filter(i => i !== activeItin);
+const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 
-function extractCoverImage(body: string) {
-  const match = body.match(/!\[.*?\]\((.*?)\)/);
-  if (match) {
-    return match[1];
-  }
-  return null;
-}
+const stats = [
+  { label: 'Destinazioni', value: destinations.size },
+  { label: 'Luoghi', value: locations.length },
+  { label: 'Itinerari', value: itineraries.length },
+  { label: 'Città', value: cities.length },
+] as const;
+
+const destEmoji = (d: string) =>
+  d.toLowerCase() === 'japan' ? '🇯🇵' : d.toLowerCase() === 'italia' ? '🇮🇹' : '🌍';
+
+const guideEmoji = (cat: string) =>
+  cat.includes('trasport') || cat.includes('ic-card') ? '🚄' :
+  cat.includes('sicur') || cat.includes('safety') ? '🛡️' :
+  cat.includes('vol') ? '✈️' :
+  cat.includes('sim') || cat.includes('e-sim') ? '📱' : '📖';
 ---
 
 <Base title="Home">
   <section class="hero">
     <div class="container">
-      <h1>Esplora il mondo con<br/><span style="background: var(--accent-gradient); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">Travel-Vault</span></h1>
+      {activeItin && (
+        <div class="hero-badge animate-in">
+          <span class="badge-dot"></span>
+          Viaggio attivo: Giappone 2026 — 24 Ott · 7 Nov
+        </div>
+      )}
+      <h1>Esplora il mondo con<br/><span class="text-gradient">Travel-Vault</span></h1>
       <p class="hero-subtitle">
-        Tutti i tuoi itinerari, luoghi e guide pratiche in un unico spazio — 
-        generato automaticamente dal vault Obsidian.
+        {destinations.size} destinazioni, {cities.length} città, {locations.length} luoghi da scoprire —
+        itinerari dettagliati, mappe interattive e guide pratiche in un unico spazio.
       </p>
 
+      <div class="hero-actions animate-in">
+        {activeItin && (
+          <a href={$(R.itinerary(activeItin.id))} class="hero-btn hero-btn--primary">
+            Vedi Itinerario Attivo →
+          </a>
+        )}
+        <a href={$(R.destinations)} class="hero-btn hero-btn--secondary">
+          Esplora Destinazioni
+        </a>
+      </div>
+
       <div class="hero-stats">
-        <div class="stat animate-in">
-          <span class="stat-number">{destinations.size}</span>
-          <span class="stat-label">Destinazioni</span>
-        </div>
-        <div class="stat animate-in">
-          <span class="stat-number">{locations.length}</span>
-          <span class="stat-label">Luoghi</span>
-        </div>
-        <div class="stat animate-in">
-          <span class="stat-number">{itineraries.length}</span>
-          <span class="stat-label">Itinerari</span>
-        </div>
-        <div class="stat animate-in">
-          <span class="stat-number">{infoEntries.length}</span>
-          <span class="stat-label">Guide</span>
-        </div>
+        {stats.map(s => (
+          <div class="stat animate-in">
+            <span class="stat-number">{s.value}</span>
+            <span class="stat-label">{s.label}</span>
+          </div>
+        ))}
       </div>
     </div>
   </section>
@@ -65,12 +79,9 @@ function extractCoverImage(body: string) {
       </div>
 
       {activeItin && (() => {
-        const itin = activeItin;
-        const slug = itin.id.replace(/\.md$/, '');
-        const link = `${import.meta.env.BASE_URL}/itineraries/${slug}/`;
-        const duration = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
+        const durata = activeItin.data.durata_giorni ? `${activeItin.data.durata_giorni} giorni` : activeItin.data.durata || '';
         return (
-          <a href={link} class="card card--featured animate-in">
+          <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain">
             <div class="featured-glow"></div>
             <div class="featured-badge">🟢 Viaggio Attivo</div>
             <div class="featured-content">
@@ -79,7 +90,7 @@ function extractCoverImage(body: string) {
               <div class="card-meta">
                 <span class="tag tag--success">attivo</span>
                 <span class="tag">Giappone</span>
-                <span class="tag tag--info">{duration}</span>
+                <span class="tag tag--info">{durata}</span>
                 <span class="tag">👥 Lorenzo, Davide, Rebecca</span>
               </div>
             </div>
@@ -88,26 +99,26 @@ function extractCoverImage(body: string) {
       })()}
 
       <div class="bento-grid">
-        {otherItins.slice(0, 5).map((itin) => {
-          const slug = itin.id.replace(/\.md$/, '');
-          const link = `${import.meta.env.BASE_URL}/itineraries/${slug}/`;
-          const duration = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
-          const coverImage = extractCoverImage(itin.body || '');
-          const name = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+        {otherItins.slice(0, 4).map((itin) => {
+          const durata = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
+          const cover = extractCoverImage(itin.body || '');
+          const name = slugToName(itin.id).replace(/Itinerario /i, '');
+          const cities = itin.data.percorso || '';
           return (
-            <a href={link} class="card animate-in">
+            <a href={$(R.itinerary(itin.id))} class="card animate-in a--plain">
               <div class="bento-img-wrapper">
-                {coverImage ? (
-                  <img src={coverImage} alt={name} loading="lazy" />
+                {cover ? (
+                  <img src={cover} alt={name} loading="lazy" />
                 ) : (
-                  <div style="width: 100%; height: 100%; background: var(--bg-card); display: flex; align-items: center; justify-content: center; font-size: 3rem; opacity: 0.2">🗺️</div>
+                  <div class="bento-fallback">🗺️</div>
                 )}
               </div>
               <div class="bento-content">
                 <h3 class="card-title">{name}</h3>
+                {cities && <p class="bento-cities">{cities}</p>}
                 <div class="card-meta">
                   {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
-                  {duration && <span class="tag tag--info">{duration}</span>}
+                  {durata && <span class="tag tag--info">{durata}</span>}
                 </div>
               </div>
             </a>
@@ -125,16 +136,13 @@ function extractCoverImage(body: string) {
       </div>
 
       <div class="cards-grid">
-        {Array.from(destinations).map((dest, i) => {
+        {Array.from(destinations).map((dest) => {
           const destLocations = locations.filter(l => l.data.destination === dest);
           const destItineraries = itineraries.filter(it => it.data.destination === dest);
           const destCities = destLocations.filter(l => l.data.type === 'city');
-          const slug = dest.toLowerCase();
-          const emoji = dest === 'Japan' ? '🇯🇵' : dest === 'Italia' ? '🇮🇹' : '🌍';
-
           return (
-            <a href={`${import.meta.env.BASE_URL}/destinations/${slug}/`} class="card animate-in" style={`text-decoration: none;`}>
-              <div class="card-emoji">{emoji}</div>
+            <a href={$(R.destination(dest.toLowerCase()))} class="card animate-in a--plain">
+              <div class="card-emoji">{destEmoji(dest)}</div>
               <h3 class="card-title">{dest}</h3>
               <p class="card-description">
                 {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
@@ -149,30 +157,21 @@ function extractCoverImage(body: string) {
   <section class="section">
     <div class="container">
       <div class="section-header">
-        <p class="section-label">Guide Pratiche</p>
+        <p class="section-label">Guide</p>
         <h2>Tutto quello che devi sapere</h2>
       </div>
 
       <div class="cards-grid">
         {infoEntries.slice(0, 6).map((info) => {
-          const emoji = info.data.category === 'trasporti' || info.data.category === 'ic-card' ? '🚄' :
-                        info.data.category === 'sicurezza' ? '🛡️' :
-                        info.data.category === 'voli' ? '✈️' :
-                        info.data.category === 'sim' || info.data.category === 'e-sim' ? '📱' : '📖';
-
-          const displayName = info.id
-            .split('/').pop()
-            ?.replace(/-/g, ' ')
-            .replace(/\.md$/, '')
-            .replace(/\b\w/g, l => l.toUpperCase()) || info.id;
-
+          const cat = info.data.category || info.data.categoria || '';
+          const name = slugToName(info.id.split('/').pop() || info.id);
           return (
-            <a href={`${import.meta.env.BASE_URL}/guides/${info.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none;">
-              <div class="card-emoji">{emoji}</div>
-              <h3 class="card-title">{displayName}</h3>
+            <a href={$(R.guide(info.id))} class="card animate-in a--plain">
+              <div class="card-emoji">{guideEmoji(cat)}</div>
+              <h3 class="card-title">{name}</h3>
               <div class="card-meta">
                 {info.data.destination && <span class="tag">{info.data.destination}</span>}
-                {(info.data.category || info.data.categoria) && <span class="tag tag--info">{info.data.category || info.data.categoria}</span>}
+                {cat && <span class="tag tag--info">{cat}</span>}
               </div>
             </a>
           );

@@ -288,6 +288,7 @@ strong {
 }
 
 .card {
+  display: block;
   background: var(--bg-card);
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
@@ -801,13 +802,317 @@ strong {
   line-height: 1.6;
 }
 
+/* --- Hero Badge --- */
+.hero-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-sm);
+  background: rgba(46, 204, 113, 0.1);
+  border: 1px solid rgba(46, 204, 113, 0.2);
+  color: #58d68d;
+  padding: 6px 16px;
+  border-radius: 20px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin-bottom: var(--space-lg);
+  width: fit-content;
+  backdrop-filter: blur(10px);
+}
+
+.badge-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #58d68d;
+  animation: pulse-dot 2s ease-in-out infinite;
+}
+
+@keyframes pulse-dot {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.8); }
+}
+
+/* --- Hero Buttons --- */
+.hero-actions {
+  display: flex;
+  gap: var(--space-md);
+  margin-bottom: var(--space-2xl);
+  flex-wrap: wrap;
+}
+
+.hero-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 12px 28px;
+  border-radius: var(--radius-md);
+  font-weight: 600;
+  font-size: 0.95rem;
+  transition: all var(--transition-base);
+  text-decoration: none;
+}
+
+.hero-btn--primary {
+  background: var(--accent-gradient);
+  color: #fff;
+}
+
+.hero-btn--primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(255, 107, 107, 0.3);
+  color: #fff;
+}
+
+.hero-btn--secondary {
+  background: var(--bg-card);
+  color: var(--text-primary);
+  border: 1px solid var(--border);
+}
+
+.hero-btn--secondary:hover {
+  background: var(--bg-card-hover);
+  border-color: var(--border-hover);
+  transform: translateY(-2px);
+  color: var(--text-primary);
+}
+
 /* --- Guide Card Categories --- */
 .card-emoji {
   font-size: 2rem;
   margin-bottom: var(--space-md);
+  line-height: 1;
+}
+
+.icon-inline {
+  vertical-align: middle;
+  margin-right: 4px;
+}
+
+.icon-tag {
+  vertical-align: middle;
+  margin-right: 2px;
 }
 
 /* --- Hide Mermaid code blocks on web --- */
 pre[data-language="mermaid"] {
   display: none !important;
+}
+
+/* --- Visual Rating Stars (.rs) --- */
+.rs {
+  display: inline-flex;
+  align-items: center;
+  gap: 1px;
+  color: var(--japan-gold, #f39c12);
+  font-size: 0.9em;
+  letter-spacing: 1px;
+  vertical-align: middle;
+}
+
+.card .rs,
+.card-meta .rs {
+  font-size: 0.85rem;
+}
+
+/* --- Cluster Divider (.cd) --- */
+.cd {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  margin: var(--space-lg) 0;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  user-select: none;
+}
+
+.cd::before,
+.cd::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--border);
+}
+
+.cd::before {
+  margin-right: var(--space-sm);
+}
+
+.cd::after {
+  margin-left: var(--space-sm);
+}
+
+.cd:empty::before,
+.cd:empty::after {
+  display: none;
+}
+
+/* --- Budget Table Styling --- */
+.prose table:has(th:contains("Voce")) {
+  font-size: 0.9rem;
+}
+
+.prose table:has(th:contains("Voce")) td:last-child {
+  font-weight: 600;
+  color: var(--accent);
+}
+
+/* --- Location card rating display --- */
+.location-rating {
+  display: flex;
+  align-items: center;
+  gap: var(--space-xs);
+  font-size: 0.8rem;
+}
+
+.location-rating .rs {
+  font-size: 0.9rem;
+}
+
+/* --- Text gradient (hero titles) --- */
+.text-gradient {
+  background: var(--accent-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* --- Bento fallback (no cover image) --- */
+.bento-fallback {
+  width: 100%;
+  height: 100%;
+  background: var(--bg-card);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+  opacity: 0.2;
+}
+
+/* --- Utility Classes --- */
+.a--plain {
+  text-decoration: none;
+}
+
+.page-header--flush {
+  border: none;
+}
+
+.mb-lg { margin-bottom: var(--space-lg); }
+.mb-xl { margin-bottom: var(--space-xl); }
+.mb-2xl { margin-bottom: var(--space-2xl); }
+.mb-3xl { margin-bottom: var(--space-3xl); }
+
+.mt-lg { margin-top: var(--space-lg); }
+.mt-xl { margin-top: var(--space-xl); }
+.mt-2xl { margin-top: var(--space-2xl); }
+
+.w-full { width: 100%; }
+.flex { display: flex; }
+.flex-col { flex-direction: column; }
+.items-center { align-items: center; }
+.justify-between { justify-content: space-between; }
+.gap-sm { gap: var(--space-sm); }
+.gap-md { gap: var(--space-md); }
+
+/* --- Component: Sidebar card (shared) --- */
+.sidebar-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: var(--space-lg);
+}
+
+.sidebar-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--text-muted);
+  margin-bottom: var(--space-md);
+}
+
+/* --- Component: Route pills --- */
+.route-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.route-pill {
+  display: inline-flex;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background: rgba(255, 107, 107, 0.08);
+  color: var(--accent);
+  border: 1px solid rgba(255, 107, 107, 0.12);
+}
+
+/* --- Component: Day navigation --- */
+.day-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.day-link {
+  display: flex;
+  align-items: center;
+  gap: var(--space-sm);
+  padding: 6px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  transition: all var(--transition-fast);
+}
+
+.day-link:hover {
+  background: rgba(255, 255, 255, 0.04);
+  color: var(--text-primary);
+}
+
+.day-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent);
+  flex-shrink: 0;
+  opacity: 0.5;
+}
+
+.day-link:hover .day-dot {
+  opacity: 1;
+}
+
+/* --- Responsive improvements --- */
+@media (max-width: 480px) {
+  .hero-actions {
+    flex-direction: column;
+  }
+  .hero-btn {
+    width: 100%;
+    justify-content: center;
+  }
+  .bento-grid {
+    grid-auto-rows: 200px;
+  }
+  .sidebar-content {
+    gap: var(--space-lg);
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1023px) {
+  .bento-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .split-layout .sidebar-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
 }

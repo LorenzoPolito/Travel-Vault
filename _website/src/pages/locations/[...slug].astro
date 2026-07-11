@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Map from '../../components/Map.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { R, url, slugToName, starsFromRating, getTypeEmoji } from '../../constants';
 
 export async function getStaticPaths() {
   const entries = await getCollection('locations');
@@ -14,56 +16,52 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 
-const displayName = entry.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || entry.id;
-const typeEmoji = entry.data.type === 'city' ? '🏙️' :
-                  entry.data.category?.toLowerCase().includes('templ') ? '⛩️' :
-                  entry.data.category?.toLowerCase().includes('park') ? '🌳' :
-                  entry.data.category?.toLowerCase().includes('build') ? '🏢' :
-                  entry.data.category?.toLowerCase().includes('store') ? '🛍️' :
-                  entry.data.category?.toLowerCase().includes('castle') ? '🏯' :
-                  entry.data.type === 'quartiere' ? '🏘️' :
-                  entry.data.type === 'street' ? '🛤️' : '📍';
+const displayName = slugToName(entry.id);
+const typeEmoji = getTypeEmoji(entry.data.type);
+const ratingStars = entry.data.rating ? starsFromRating(entry.data.rating) : '';
 ---
 
 <Base title={displayName} description={`${displayName} — ${entry.data.destination || ''}`}>
   <section class="section">
     <div class="content-container">
-      <div class="breadcrumbs">
-        <a href={`${base}/`}>Home</a>
-        <span class="separator">/</span>
-        <a href={`${base}/destinations/`}>Destinazioni</a>
-        {entry.data.destination && (
-          <>
-            <span class="separator">/</span>
-            <a href={`${base}/destinations/${entry.data.destination.toLowerCase()}/`}>{entry.data.destination}</a>
-          </>
-        )}
-        <span class="separator">/</span>
-        <span>{displayName}</span>
-      </div>
+      <Breadcrumbs items={(() => {
+        const items = [
+          { label: 'Home', href: R.home },
+          { label: 'Destinazioni', href: R.destinations },
+        ];
+        if (entry.data.destination) {
+          items.push({ label: entry.data.destination, href: R.destination(entry.data.destination.toLowerCase()) });
+        }
+        items.push({ label: displayName });
+        return items;
+      })()} />
 
       <div class="page-header">
-        <h1 class="page-title">{displayName}</h1>
+        <h1 class="page-title">{typeEmoji} {displayName}</h1>
         <div class="page-meta">
           {entry.data.type && <span class="tag">{entry.data.type}</span>}
           {entry.data.category && <span class="tag tag--info">{entry.data.category}</span>}
           {entry.data.city && <span class="tag tag--success">{entry.data.city}</span>}
-          {entry.data.rating && <span class="rating">⭐ {entry.data.rating}</span>}
+          {ratingStars && (
+            <span class="location-rating">
+              <span class="rs">{ratingStars}</span> {entry.data.rating}
+            </span>
+          )}
         </div>
       </div>
 
       {entry.data.location && Array.isArray(entry.data.location) && (
-        <Map 
-          lat={entry.data.location[0]} 
-          lon={entry.data.location[1]} 
-          zoom={15} 
-          height="300px" 
-        />
+        <Map lat={entry.data.location[0]} lon={entry.data.location[1]} zoom={15} height="300px" />
       )}
 
-      <div class="content">
-        <Content />
+      <div class="content prose">
+        {entry.body?.trim() ? <Content /> : (
+          <p style="color: var(--text-muted); padding: var(--space-2xl) 0; text-align: center;">
+            Nessuna informazione aggiuntiva disponibile per questo luogo.
+          </p>
+        )}
       </div>
     </div>
   </section>

@@ -1,0 +1,49 @@
+---
+interface Props {
+  icon?: string
+  title: string
+  description?: string
+}
+
+const { icon = '📭', title, description } = Astro.props;
+---
+
+<div class="empty-state">
+  <div class="empty-icon" aria-hidden="true">{icon}</div>
+  <h3 class="empty-title">{title}</h3>
+  {description && <p class="empty-desc">{description}</p>}
+  <slot />
+</div>
+
+<style>
+  .empty-state {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: var(--space-3xl) var(--space-xl);
+    background: var(--bg-card);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-lg);
+    min-height: 200px;
+  }
+  .empty-icon {
+    font-size: 3rem;
+    margin-bottom: var(--space-md);
+    opacity: 0.4;
+  }
+  .empty-title {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    margin-bottom: var(--space-sm);
+    color: var(--text-secondary);
+  }
+  .empty-desc {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    max-width: 400px;
+    line-height: 1.6;
+    margin: 0;
+  }
+</style>

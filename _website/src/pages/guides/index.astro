@@ -1,47 +1,48 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import EmptyState from '../../components/EmptyState.astro';
+import { R, url, slugToName, getGuideCategoryEmoji } from '../../constants';
 
 const infoEntries = await getCollection('info');
 const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 ---
 
 <Base title="Guide" description="Guide pratiche per i tuoi viaggi">
   <section class="section">
     <div class="container">
-      <div class="breadcrumbs">
-        <a href={`${base}/`}>Home</a>
-        <span class="separator">/</span>
-        <span>Guide</span>
-      </div>
+      <Breadcrumbs items={[
+        { label: 'Home', href: R.home },
+        { label: 'Guide' },
+      ]} />
 
-      <div class="page-header" style="border: none">
+      <div class="page-header page-header--flush">
         <h1 class="page-title">📖 Guide Pratiche</h1>
         <p>{infoEntries.length} guide disponibili</p>
       </div>
 
-      <div class="cards-grid">
-        {infoEntries.map((info) => {
-          const name = info.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || info.id;
-          const cat = info.data.category || info.data.categoria || '';
-          const emoji = cat.includes('trasport') || cat.includes('ic-card') ? '🚄' :
-                        cat.includes('sicur') || cat.includes('safety') ? '🛡️' :
-                        cat.includes('vol') ? '✈️' :
-                        cat.includes('sim') ? '📱' :
-                        cat.includes('pass') ? '🎫' : '📖';
-
-          return (
-            <a href={`${base}/guides/${info.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
-              <div class="card-emoji">{emoji}</div>
-              <h3 class="card-title">{name}</h3>
-              <div class="card-meta">
-                {info.data.destination && <span class="tag">{info.data.destination}</span>}
-                {cat && <span class="tag tag--info">{cat}</span>}
-              </div>
-            </a>
-          );
-        })}
-      </div>
+      {infoEntries.length > 0 ? (
+        <div class="cards-grid">
+          {infoEntries.map((info) => {
+            const name = slugToName(info.id.split('/').pop() || info.id);
+            const cat = info.data.category || info.data.categoria || '';
+            return (
+              <a href={$(R.guide(info.id))} class="card animate-in a--plain">
+                <div class="card-emoji">{getGuideCategoryEmoji(cat)}</div>
+                <h3 class="card-title">{name}</h3>
+                <div class="card-meta">
+                  {info.data.destination && <span class="tag">{info.data.destination}</span>}
+                  {cat && <span class="tag tag--info">{cat}</span>}
+                </div>
+              </a>
+            );
+          })}
+        </div>
+      ) : (
+        <EmptyState icon="📖" title="Nessuna guida disponibile" description="Le guide non sono state ancora sincronizzate dal vault." />
+      )}
     </div>
   </section>
 </Base>

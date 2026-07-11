@@ -1,6 +1,8 @@
 ---
 import { ClientRouter } from 'astro:transitions';
 import Search from '../components/Search.astro';
+import Icon from '../components/Icon.astro';
+import { SITE, NAV, R, url } from '../constants';
 import '../styles/global.css';
 
 interface Props {
@@ -8,41 +10,41 @@ interface Props {
   description?: string;
 }
 
-const { title, description = 'Organizza i tuoi viaggi con Travel-Vault' } = Astro.props;
+const { title, description = SITE.description } = Astro.props;
 const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 ---
 
 <!DOCTYPE html>
-<html lang="it">
+<html lang={SITE.lang}>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content={description} />
-  <title>{title} — Travel-Vault</title>
+  <title>{title} — {SITE.name}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
-  <link href={`${base}/_pagefind/pagefind-ui.css`} rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href={$(R.favicon)} />
+  <link href={`${base}/_pagefind/pagefind-ui.css`} rel="stylesheet" />
   <script is:inline src={`${base}/_pagefind/pagefind-ui.js`}></script>
   <ClientRouter />
 </head>
 <body>
   <nav class="navbar">
-    <div class="container" style="display: flex; flex-direction: column; gap: var(--space-md);">
-      <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-        <a href={`${base}/`} class="nav-logo">
-          🧳 <span>Travel-Vault</span>
+    <div class="container flex flex-col gap-md">
+      <div class="flex justify-between items-center w-full">
+        <a href={$(R.home)} class="nav-logo">
+          <Icon name="bag" size={28} /> <span>{SITE.name}</span>
         </a>
-        <button class="nav-toggle" id="navToggle" aria-label="Toggle menu">☰</button>
+        <button class="nav-toggle" id="navToggle" aria-label="Menu"><Icon name="menu" size={24} /></button>
         <ul class="nav-links" id="navLinks">
-          <li><a href={`${base}/`}>Home</a></li>
-          <li><a href={`${base}/destinations/`}>Destinazioni</a></li>
-          <li><a href={`${base}/itineraries/`}>Itinerari</a></li>
-          <li><a href={`${base}/guides/`}>Guide</a></li>
+          {NAV.map(item => (
+            <li><a href={$(item.href)}>{item.label}</a></li>
+          ))}
         </ul>
       </div>
-      
+
       <div class="search-wrapper" style="width: 100%; max-width: 500px; margin: 0 auto;">
         <Search />
       </div>
@@ -55,7 +57,7 @@ const base = import.meta.env.BASE_URL;
 
   <footer class="footer">
     <div class="container">
-      <p>Travel-Vault — Generato automaticamente dall'Obsidian Vault</p>
+      <p>{SITE.name} — Generato dall'Obsidian Vault</p>
     </div>
   </footer>
 

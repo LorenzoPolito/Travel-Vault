@@ -1,8 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-
 import Map from '../../components/Map.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { R, url, PRETTY_NAMES, extractCoverImage, slugToName } from '../../constants';
 
 export async function getStaticPaths() {
   const entries = await getCollection('itineraries');
@@ -15,24 +16,20 @@ export async function getStaticPaths() {
 const { entry } = Astro.props;
 const { Content } = await entry.render();
 const base = import.meta.env.BASE_URL;
+const $ = (p: string) => url(base, p);
 
-const PRETTY_NAMES: Record<string, string> = {
-  'itinerario-giappone-24ott-7nov2026': 'Giappone 2026 — 24 Ott · 7 Nov',
-};
-
-const displayName = PRETTY_NAMES[entry.id.replace(/\.md$/, '')] || entry.id.replace(/\.md$/, '').replace(/-/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
-
-// Extract cover image
-function extractCoverImage(body: string) {
-  const match = body.match(/!\[.*?\]\((.*?)\)/);
-  if (match) {
-    return match[1];
-  }
-  return null;
-}
+const displayName = PRETTY_NAMES[entry.id.replace(/\.md$/, '')] || slugToName(entry.id);
 const coverImage = extractCoverImage(entry.body);
 
-// Find mentioned locations to display on map
+const dayHeadings: Array<{ text: string; anchor: string }> = [];
+const headingRegex = /^(#{1,3})\s+(Giorno\s+\d+|Day\s+\d+|\d+[°\s]*(Giorno|Day))/gim;
+let match;
+while ((match = headingRegex.exec(entry.body)) !== null) {
+  const clean = match[0].replace(/^#+\s+/, '');
+  const anchor = clean.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
+  dayHeadings.push({ text: clean, anchor });
+}
+
 const allLocations = await getCollection('locations');
 const itineraryLocations = allLocations.filter(loc => {
   const locId = loc.id.replace(/\.md$/, '');
@@ -44,36 +41,37 @@ const markers = itineraryLocations
   .map(l => ({
     lat: l.data.location[0],
     lon: l.data.location[1],
-    title: l.id.split('/').pop()?.replace(/-/g, ' ') || l.id,
+    title: slugToName(l.id),
     slug: l.id.replace(/\.md$/, '')
   }));
 ---
 
 <Base title={displayName} description={`Itinerario: ${displayName}`}>
   {coverImage && (
-    <div style={`width: 100%; height: 40vh; background-image: url('${coverImage}'); background-size: cover; background-position: center; position: relative; margin-bottom: var(--space-xl); border-radius: 0 0 var(--radius-xl) var(--radius-xl); box-shadow: var(--shadow-lg);`}>
-      <div style="position: absolute; inset: 0; background: linear-gradient(to top, var(--bg-primary) 0%, transparent 100%);"></div>
+    <div class="itinerary-cover" style={`background-image: url('${coverImage}');`}>
+      <div class="itinerary-cover-overlay"></div>
     </div>
   )}
 
   <section class="section" style={coverImage ? "padding-top: 0;" : ""}>
     <div class="content-container">
-      <div class="breadcrumbs">
-        <a href={`${base}/`}>Home</a>
-        <span class="separator">/</span>
-        <a href={`${base}/itineraries/`}>Itinerari</a>
-        <span class="separator">/</span>
-        <span>{displayName}</span>
-      </div>
+      <Breadcrumbs items={[
+        { label: 'Home', href: R.home },
+        { label: 'Itinerari', href: R.itineraries },
+        { label: displayName },
+      ]} />
 
       <div class="page-header">
-        <h1 class="page-title">🗺️ {displayName}</h1>
+        <h1 class="page-title">{displayName}</h1>
         <div class="page-meta">
           {entry.data.destination && <span class="tag">{entry.data.destination}</span>}
           {entry.data.durata && <span class="tag tag--info">{entry.data.durata}</span>}
           {entry.data.durata_giorni && <span class="tag tag--info">{entry.data.durata_giorni} giorni</span>}
           {entry.data.status && <span class="tag tag--success">{entry.data.status}</span>}
-          {entry.data.autori && entry.data.autori.length > 0 && (
+          {entry.data.budget_totale_stimato && (
+            <span class="tag"><span style="color: var(--japan-gold);">💰</span> {entry.data.budget_totale_stimato}</span>
+          )}
+          {entry.data.autori?.length > 0 && (
             <span class="tag">👥 {entry.data.autori.join(', ')}</span>
           )}
         </div>
@@ -86,13 +84,41 @@ const markers = itineraryLocations
           </article>
         </div>
         <div class="content-right">
-          <aside class="sticky-sidebar">
-            <h3 style="font-size: 1.1rem; margin-bottom: var(--space-md);">Mappa dell'Itinerario</h3>
-            {markers.length > 0 ? (
-              <Map markers={markers} height="500px" id={`map-${entry.id.replace(/[^a-zA-Z0-9]/g, '')}`} />
-            ) : (
-              <div style="background: var(--bg-secondary); border: 1px solid var(--border); border-radius: var(--radius-md); padding: var(--space-xl); text-align: center; color: var(--text-muted);">
-                🗺️<br/>Nessuna location specifica con coordinate trovata in questo itinerario.
+          <aside class="sticky-sidebar sidebar-content">
+            {dayHeadings.length > 0 && (
+              <div class="sidebar-card">
+                <h3 class="sidebar-title">📅 Giorni</h3>
+                <nav class="day-nav">
+                  {dayHeadings.map(d => (
+                    <a href={`#${d.anchor}`} class="day-link">
+                      <span class="day-dot"></span>
+                      {d.text}
+                    </a>
+                  ))}
+                </nav>
+              </div>
+            )}
+
+            <div class="sidebar-card">
+              <h3 class="sidebar-title">🗺️ Mappa</h3>
+              {markers.length > 0 ? (
+                <Map markers={markers} height="350px" id={`map-${entry.id.replace(/[^a-zA-Z0-9]/g, '')}`} />
+              ) : (
+                <div class="empty-state" style="min-height: auto; padding: var(--space-lg);">
+                  <div class="empty-icon" style="font-size: 2rem; margin-bottom: var(--space-sm);">🗺️</div>
+                  <p style="color: var(--text-muted); font-size: 0.9rem; margin: 0;">Nessuna location con coordinate</p>
+                </div>
+              )}
+            </div>
+
+            {entry.data.percorso && (
+              <div class="sidebar-card">
+                <h3 class="sidebar-title">🛤️ Percorso</h3>
+                <div class="route-pills">
+                  {entry.data.percorso.split('→').map((step: string) => (
+                    <span class="route-pill">{step.trim()}</span>
+                  ))}
+                </div>
               </div>
             )}
           </aside>
@@ -101,3 +127,26 @@ const markers = itineraryLocations
     </div>
   </section>
 </Base>
+
+<style>
+  .itinerary-cover {
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    margin-bottom: var(--space-xl);
+    border-radius: 0 0 var(--radius-xl) var(--radius-xl);
+    box-shadow: var(--shadow-lg);
+  }
+  .itinerary-cover-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, var(--bg-primary) 0%, transparent 100%);
+  }
+  .sidebar-content {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+  }
+</style>

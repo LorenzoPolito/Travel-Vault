@@ -1,10 +1,12 @@
 ---
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import { R, url, slugToName } from '../../constants';
 
 const itineraries = await getCollection('itineraries');
 const base = import.meta.env.BASE_URL;
-
+const $ = (p: string) => url(base, p);
 const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
 const otherItins = itineraries.filter(i => i !== activeItin);
 ---
@@ -12,21 +14,18 @@ const otherItins = itineraries.filter(i => i !== activeItin);
 <Base title="Itinerari" description="Tutti gli itinerari di viaggio disponibili">
   <section class="section">
     <div class="container">
-      <div class="breadcrumbs">
-        <a href={`${base}/`}>Home</a>
-        <span class="separator">/</span>
-        <span>Itinerari</span>
-      </div>
+      <Breadcrumbs items={[
+        { label: 'Home', href: R.home },
+        { label: 'Itinerari' },
+      ]} />
 
-      <div class="page-header" style="border: none">
+      <div class="page-header page-header--flush">
         <h1 class="page-title">🗺️ Itinerari</h1>
-        <p>{itineraries.length} itinerari pianificati — <strong style="color: var(--accent);">{activeItin ? '1 attivo' : ''}</strong></p>
+        <p>{itineraries.length} itinerari pianificati{activeItin ? ' — 1 attivo' : ''}</p>
       </div>
 
-      {activeItin && (() => {
-        const slug = activeItin.id.replace(/\.md$/, '');
-        return (
-        <a href={`${base}/itineraries/${slug}/`} class="card card--featured animate-in" style="display: block; margin-bottom: var(--space-2xl); text-decoration: none;">
+      {activeItin && (
+        <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain mb-2xl">
           <div class="featured-glow"></div>
           <div class="featured-badge">🟢 Viaggio Attivo — Giappone 2026</div>
           <div class="featured-content">
@@ -41,32 +40,33 @@ const otherItins = itineraries.filter(i => i !== activeItin);
             </div>
           </div>
         </a>
-        );
-      })()}
+      )}
 
-      <div class="section-header" style="margin-top: var(--space-2xl);">
-        <h2 style="font-size: 1.3rem;">Tutti gli Itinerari ({otherItins.length})</h2>
-      </div>
+      {otherItins.length > 0 && (
+        <>
+          <div class="section-header mt-2xl">
+            <h2 style="font-size: 1.3rem;">Tutti gli Itinerari ({otherItins.length})</h2>
+          </div>
 
-      <div class="cards-grid">
-        {otherItins.map((itin) => {
-          const name = itin.id.replace(/\.md$/, '').replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
-          const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
-
-          return (
-            <a href={`${base}/itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
-              <div class="card-emoji">{emoji}</div>
-              <h3 class="card-title">{name}</h3>
-              <div class="card-meta">
-                {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
-                {itin.data.durata && <span class="tag tag--info">{itin.data.durata}</span>}
-                {itin.data.durata_giorni && <span class="tag tag--info">{itin.data.durata_giorni} giorni</span>}
-                {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
-              </div>
-            </a>
-          );
-        })}
-      </div>
+          <div class="cards-grid">
+            {otherItins.map((itin) => {
+              const name = slugToName(itin.id);
+              return (
+                <a href={$(R.itinerary(itin.id))} class="card animate-in a--plain">
+                  <div class="card-emoji">🗺️</div>
+                  <h3 class="card-title">{name}</h3>
+                  <div class="card-meta">
+                    {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
+                    {itin.data.durata && <span class="tag tag--info">{itin.data.durata}</span>}
+                    {itin.data.durata_giorni && <span class="tag tag--info">{itin.data.durata_giorni} giorni</span>}
+                    {itin.data.status && <span class="tag tag--success">{itin.data.status}</span>}
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </>
+      )}
     </div>
   </section>
 </Base>

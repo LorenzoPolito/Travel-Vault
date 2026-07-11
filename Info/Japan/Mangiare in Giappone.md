@@ -6,8 +6,9 @@ tags:
   - japan
   - food
   - ristoranti
-  - michelin
-  - tabelog
+  - street-food
+  - chain
+  - budget
   - guide
 ---
 
@@ -15,96 +16,221 @@ tags:
 
 La cucina giapponese è Patrimonio UNESCO. Ogni città ha specialità locali imperdibili.
 
+Link rapido: [[#Catene e Cibo Economico]] · [[#Mercati e Street Food]] · [[#Kaitenzushi (Conveyor Belt Sushi)]] · [[#Bib Gourmand — Qualità-Prezzo]] · [[#Michelin — Solo Una Volta]] · [[#Depachika]] · [[#Cibi Stagionali Ottobre Novembre]]
+
+---
+
+## Catene e Cibo Economico
+
+### Gyudon (Riso con Manzo) — ¥300–700
+
+| Catena | Cosa Ordinare | Prezzo | Orari | Note |
+|---|---|---|---|---|
+| **Sukiya** | Gyudon regolare (¥400) | ¥350–600 | 24h | La più diffusa, ottima anche colazione |
+| **Yoshinoya** | Gyudon (¥400) | ¥350–600 | 24h | La catena storica, nata a Tokyo |
+| **Matsuya** | Gyudon o curry (¥380) | ¥350–700 | 24h | Curry molto buono |
+
+### Ramen — ¥800–1.500
+
+| Catena | Cosa Ordinare | Prezzo | Zona | Note |
+|---|---|---|---|---|
+| **Ichiran** | Tonkotsu ramen | ¥980–1.500 | Ovunque | Box individuali, iconico |
+| **Ippudo** | Hakata ramen | ¥1.000–1.500 | Tokyo, Kyoto | Famoso anche a NY |
+| **Tenkaippin** | Ramen kyoto style | ¥800–1.200 | Kyoto, Osaka | Brodo denso, delizioso |
+
+### Udon e Soba — ¥300–800
+
+| Catena | Cosa Ordinare | Prezzo | Note |
+|---|---|---|---|
+| **Hanamaru Udon** | Kake udon (¥290) | ¥300–600 | Udon fresco fatto a mano |
+| **Nakau** | Kitsune udon (¥300) | ¥300–600 | Gyudon+udon set colazione |
+
+### Curry Giapponese — ¥500–1.000
+
+| Catena | Cosa Ordinare | Prezzo | Note |
+|---|---|---|---|
+| **CoCo Ichibanya** | Curry riso + pollo | ¥500–1.000 | Scegli il livello di spezie (1-10) |
+| **GoGo Curry** | Curry + tonkatsu | ¥600–1.000 | Porzioni abbondanti |
+
+### Family Restaurant — ¥500–1.500
+
+| Catena | Cosa Ordinare | Prezzo | Note |
+|---|---|---|---|
+| **Saizeriya** | Pasta, pizza, insalate | ¥300–700/piatto | Italo-giapponese, economico, Rebecca-friendly (✅ pasta aglio e olio) |
+| **Gusto** | Grill, pasta, hamburg | ¥500–1.500 | Menù vario, a volte bibite free bar |
+| **Royal Host** | Steak, pasta, giapponese | ¥1.000–2.000 | Un passo sopra, carne buona |
+
+---
+
+## Mercati e Street Food
+
+### Osaka
+
+| Mercato/Area | Cosa Mangiare | Prezzo | Orari | Link |
+|---|---|---|---|---|
+| **[[Dotonbori (道頓堀)]]** | Takoyaki, okonomiyaki, kushikatsu | ¥500–1.500 | 10:00–23:00 | Il cuore pulsante, tutto street food |
+| **Kuromon Market** | Ostriche, granchio, sashimi, frutta | ¥300–1.000 | 9:00–18:00 | 150 negozi, "la cucina di Osaka" |
+| **Shinsekai** | Kushikatsu | ¥100–300/spiedino | 11:00–21:00 | [[Shinsekai (新世界と通天閣​)]] |
+| **Takoyaki Wanaka** | Takoyaki | ¥500–800 | 10:00–22:00 | Dotonbori, fila continua |
+
+### Kyoto
+
+| Mercato/Area | Cosa Mangiare | Prezzo | Orari | Link |
+|---|---|---|---|---|
+| **[[Nishiki Market (錦市場)]]** | Tsukemono, tofu, tempura, dolci | ¥200–1.000 | 9:00–17:30 (chiuso dom) | 100+ negozi, "la dispensa di Kyoto" |
+| **[[Arashiyama (嵐山)]]** | Soba, dolci matcha, gelato | ¥500–1.500 | 10:00–17:00 | Vicino alla foresta di bambù |
+| **Shijo-dori** | Yakitori, dolci, snack | ¥200–800 | 10:00–20:00 | Strada dello shopping |
+
+### Tokyo
+
+| Mercato/Area | Cosa Mangiare | Prezzo | Orari | Link |
+|---|---|---|---|---|
+| **[[Mercato del pesce di Tsukiji (築地場外市場)]]** | Sushi colazione, tamagoyaki, spiedini | ¥1.000–3.000 | 5:00–14:00 (chiuso dom) | Solo Outer Market (inner è a Toyosu) |
+| **Ameyoko (Ueno)** | Frutta, spezie, spiedini, takoyaki | ¥200–1.000 | 10:00–20:00 | [[Parco di Ueno (上野恩賜公園)#Ameyoko]] |
+| **Omoide Yokocho (Shinjuku)** | Yakitori, birra | ¥200–500/spiedino | 16:00–23:00 | [[Shinjuku (新宿区)#Omoide Yokocho]] |
+| **[[Golden Gai (ゴールデン街 )]]** | Bar, yakitori | ¥500–1.500 | 18:00–tardi | Vicoli atmosferici |
+
+---
+
+## Kaitenzushi (Conveyor Belt Sushi)
+
+| Catena | Prezzo/piatto | Cosa Scegliere | Note |
+|---|---|---|---|
+| **Kura Sushi** | ¥100–500 | Tonno, salmone, tamago | Tablet, gatchapon ogni 5 piatti |
+| **Sushiro** | ¥100–500 | Sushi vari, dessert | Tra le più popolari in Giappone |
+| **Hama-Sushi** | ¥100–400 | Sushi base | Leggermente più economica |
+| **Uobei (Shibuya)** | ¥100 fisso | Tutto a ¥100 | Solo Tokyo, ordinazione via touchscreen |
+| **Genki Sushi** | ¥100–500 | Sushi, gunkan | Ordinazione via tablet |
+
+> ⚠️ **Rebecca:** Kaitenzushi = pesce crudo + soia. ❌ NON può mangiare. Solo Lorenzo e Davide.
+
+---
+
+## Gyudon e Curry per Rebecca (Sicuri!)
+Rebecca può mangiare in queste catene ordinando **senza salsa, solo sale** o scegliendo opzioni specifiche:
+
+| Catena | Cosa Ordinare | Perché OK |
+|---|---|---|
+| **Saizeriya** | Pasta aglio e olio, pollo griglia, insalata | ✅ No soia, no pesce, no nichel (no pomodoro) |
+| **Matsuya** | Gyudon senza salsa (chiedere "tare nuki") | ⚠️ La salsa standard ha soia. Ordinare senza |
+| **Sukiya** | Curry (verificare — no pesce) o riso bianco+uovo | ✅ Riso bianco + uovo crudo = sicuro |
+| **Yoshinoya** | Riso bianco + uovo + carne non marinata | ✅ Semplice, sicuro se senza salsa |
+
+---
+
+## Bib Gourmand — Qualità-Prezzo
+
+Ristoranti Michelin con ottimo rapporto qualità-prezzo (menu completo sotto ¥5.000).
+
+### Osaka
+
+| Nome | Cosa | Zona | Prezzo | Note |
+|---|---|---|---|---|
+| **Okonomiyaki Kiji** | Okonomiyaki | Umeda | ¥1.000–2.000 | Bib Gourmand, storico dal 1949 |
+| **Takoyaki Wanaka** | Takoyaki | Dotonbori | ¥500–800 | Bib Gourmand, il miglior takoyaki |
+| **Kushikatsu Daruma** | Kushikatsu | Shinsekai | ¥1.000–2.000 | Bib Gourmand, catena nata a Osaka |
+
+### Kyoto
+
+| Nome | Cosa | Zona | Prezzo | Note |
+|---|---|---|---|---|
+| **Men-ya Inoichi** | Ramen | Pontochō | ¥1.000–2.000 | Bib Gourmand, brodo di pollo intenso |
+| **Omen** | Udon | Ginkakuji | ¥1.000–2.000 | Bib Gourmand, udon in brodo leggero |
+
+### Tokyo
+
+| Nome | Cosa | Zona | Prezzo | Note |
+|---|---|---|---|---|
+| **Afuri** | Ramen | Roppongi, Shinjuku | ¥1.000–1.500 | Bib Gourmand, ramen yuzu |
+| **Shinsuke** | Izakaya | Shimbashi | ¥3.000–5.000 | Bib Gourmand, atmosfera autentica |
+| **Tsuta** | Ramen | Sugamo | ¥1.000–2.000 | Bib Gourmand, ramen tartufo nero |
+| **Katsukami** | Tonkatsu | Shinjuku | ¥1.500–2.500 | Bib Gourmand, panatura perfetta |
+
+---
+
+## Michelin — Solo Una Volta (splurge)
+
+Un ristorante stellato per tutto il viaggio — scegliete quale:
+
+| Ristorante | Stella | Città | Prezzo | Il perché |
+|---|---|---|---|---|
+| **Sushiroku** ⭐ | 1★ Sushi | Osaka (Umeda) | ¥10.000–20.000 | Gestione familiare, sushi intimo, atmosfera rilassata |
+| **Sushi Hayashi** ⭐ | 1★ Sushi | Kyoto (Pontochō) | ¥10.000–20.000 | Fusion Edomae+Kyoto, vini svizzeri, vista sul fiume |
+| **Noguchi Tsunagu** ⭐ | 1★ Kaiseki | Kyoto (Gion) | ¥15.000–25.000 | Kappo-style, carne A5, atmosfera esclusiva |
+| **Udatsu Sushi** ⭐ | 1★ Sushi | Tokyo (Ginza) | ¥15.000–30.000 | Galleria d'arte, nigiri creativi, esperienza totale |
+
+> **Consiglio:** Se volete fare uno stellato, [[Sushiroku]] a Osaka è il più accessibile come prezzo e atmosfera. Per un'esperienza completa, [[Noguchi Tsunagu]] a Kyoto è indimenticabile.
+
+---
+
+## Depachika (Piano Sotterraneo Ristorante)
+
+I piani interrati dei grandi magazzini sono paradisi del cibo preparato — perfetti per cene takeaway economiche e di qualità.
+
+| Città | Magazzino | Stazione/Fermata | Note |
+|---|---|---|---|
+| **Osaka** | Hankyu Umeda | Umeda | Il più famoso del Kansai |
+| **Osaka** | Daimaru Umeda | Umeda | Sake e bento di lusso |
+| **Osaka** | Takashimaya Namba | Namba | Bento e dolci |
+| **Kyoto** | Daimaru Kyoto | Shijo | Specialità locali |
+| **Kyoto** | Isetan Kyoto Station | Kyoto Station | Bento da shinkansen |
+| **Tokyo** | Isetan Shinjuku | Shinjuku | Leggendario, 8 reparti |
+| **Tokyo** | Takashimaya Shinjuku | Shinjuku | Famoso per i dolci |
+| **Tokyo** | Daimaru Tokyo Station | Tokyo Station | Sushi e bento da viaggio |
+
+> **Consiglio:** Andare verso le 18:00–19:00 quando iniziano gli sconti sui bento del giorno (−30/50%).
+
 ---
 
 ## Piatti Tipici per Città
 
-| Città | Specialità | Dove | Prezzo |
-|---|---|---|---|
-| **Osaka** | Takoyaki, Okonomiyaki, Kushikatsu | Dotonbori, Shinsekai | ¥500–1.500 |
-| **Hiroshima** | Okonomiyaki alla Hiroshima, Momiji Manju | Hondori Street | ¥800–1.500 |
-| **Kyoto** | Kaiseki, Yudofu, Matcha dolci, Soba | Gion, Pontochō, Arashiyama | ¥1.000–5.000 |
-| **Tokyo** | Sushi, Ramen, Tempura, Yakitori, Tonkatsu | Tsukiji, Shibuya, Shinjuku, Akihabara | ¥800–10.000 |
-
----
-
-## Ristoranti Consigliati
-
-### Osaka
-
-| Ristorante                     | Tipo                      | Zona        | Prezzo         | Note                                                           |
-| ------------------------------ | ------------------------- | ----------- | -------------- | -------------------------------------------------------------- |
-| **Sushiroku** ⭐                | Sushi (1 Stella Michelin) | Umeda       | ¥10.000–20.000 | Gestione familiare, riso curato, 1★ dal 2019                   |
-| **Kitashinchi Kushikatsu Bon** | Kushikatsu di lusso       | Kitashinchi | ¥8.000–15.000  | Ingredienti premium (Chateaubriand, foie gras), fritto in rame |
-| **Takoyaki stands**            | Takoyaki                  | Dotonbori   | ¥500–1.000     | Ovunque lungo il canale — prova da più stands                  |
-| **Okonomiyaki Mizuno**         | Okonomiyaki               | Dotonbori   | ¥1.000–2.000   | Storico, tra i migliori di Osaka                               |
-| **Kushikatsu Daruma**          | Kushikatsu                | Shinsekai   | ¥1.000–2.000   | Catena famosa, nata a Shinsekai                                |
-
-### Hiroshima
-
-| Ristorante | Tipo | Zona | Prezzo | Note |
+| Città | Specialità | Dove | Prezzo | Link |
 |---|---|---|---|---|
-| **Okonomimura** | Okonomiyaki | Hiroshima Station | ¥800–1.500 | 3 piani di stands okonomiyaki |
-| **Nagataya** | Okonomiyaki | Hondori | ¥1.000–2.000 | Specialità Hiroshima, ingredienti a strati |
-| **Kakiemon** | Momiji Manju | Miyajima | ¥300–500 | Dolcetti a forma di foglia |
-
-### Kyoto
-
-| Ristorante | Tipo | Zona | Prezzo | Note |
-|---|---|---|---|---|
-| **Noguchi Tsunagu** ⭐ | Kaiseki (1 Stella Michelin) | Gion | ¥15.000–25.000 | Kappo-style, ingredienti dalle isole Goto, carne A5 |
-| **Sushi Hayashi** ⭐ | Sushi (1 Stella Michelin) | Pontochō | ¥10.000–20.000 | Fusion Edomae + Kyoto, abbinamento vini svizzeri |
-| **Yudofu Sagano** | Yudofu | Arashiyama | ¥2.000–3.000 | Tofu bollito, specialità di Kyoto, giardino zen |
-| **Nishiki Market** | Street food | Nishiki Market | ¥500–2.000 | Degustazione al mercato: tempura, dolci, pesce |
-| **Pontochō ristoranti** | Vari | Pontochō | ¥3.000–8.000 | Vicolo sul fiume Kamo, terrazza sull'acqua |
-
-### Tokyo
-
-| Ristorante | Tipo | Zona | Prezzo | Note |
-|---|---|---|---|---|
-| **Udatsu Sushi** ⭐ | Sushi (1 Stella Michelin) | Ginza | ¥15.000–30.000 | Galleria d'arte moderna, nigiri creativi |
-| **Waketokuyama** ⭐ | Kaiseki (1 Stella Michelin) | Shibuya | ¥15.000–25.000 | Menu cambia ogni 2 settimane, abalone grigliato |
-| **Fry-ya** | Tonkatsu (ex Michelin) | Shinjuku | ¥3.000–5.000 | Chef con stelle in Svizzera/Giappone, porzioni piccole |
-| **TEMPURA & WINE SHINO** | Tempura | Ginza | ¥10.000–20.000 | Tempura leggera, abbinamento champagne/Burgundy |
-| **Hikarimono** | Sushi | Roppongi | ¥8.000–15.000 | Casual, Hikari-maki signature (sardine+prugna) |
-| **Torinao** | Yakitori | Shibuya | ¥4.000–8.000 | Koshu Kenmidori chicken, binchotan charcoal |
-| **Yakiniku Onuki** | Yakiniku | Roppongi | ¥6.000–12.000 | Japanese black beef, "tare" sauce |
-| **Ichiran** | Ramen | Ovunque | ¥1.000–2.000 | Catena iconica, box individuali |
-| **Tsukiji Outer Market** | Sushi fresco | Tsukiji | ¥1.000–5.000 | Sushi al banco la mattina presto |
+| **[[Osaka(大阪市)]]** | Takoyaki, Okonomiyaki, Kushikatsu | [[Dotonbori (道頓堀)]], [[Shinsekai (新世界と通天閣​)]] | ¥500–1.500 | [[Osaka(大阪市)#Cibo]] |
+| **[[Hiroshima(広島)]]** | Okonomiyaki alla Hiroshima, Momiji Manju | [[Hondori street]] | ¥800–1.500 | [[Hiroshima(広島)#Cibo]] |
+| **[[Kyoto(京都)]]** | Kaiseki, Yudofu, Matcha, Soba | [[Quartiere Gion (祇園)#Pontochō]], [[Nishiki Market (錦市場)]], [[Arashiyama (嵐山)]] | ¥1.000–5.000 | [[Kyoto(京都)#Cibo]] |
+| **[[Tokyo(東京)]]** | Sushi, Ramen, Tempura, Tonkatsu | [[Mercato del pesce di Tsukiji (築地場外市場)]], [[Shibuya (渋谷区)]], [[Shinjuku (新宿区)]] | ¥800–10.000 | [[Tokyo(東京)#Cibo]] |
 
 ---
 
 ## Per Fasce di Budget
 
-### Budget (¥500–1.500 / pasto)
+### Budget (¥300–800 / pasto) — Colazione e pasti veloci
 
 | Cosa | Dove |
 |---|---|
-| Konbini (7-Eleven, Lawson, FamilyMart) | Ovunque — onigiri, bento, sandwich, insalate |
-| Ramen-ya | Ovunque — bowl di ramen ¥800–1.200 |
-| Takoyaki stands | Dotonbori, Osaka |
-| Sushi conveyor belt (kaiten-zushi) | Tutte le città — ¥100–500/piatto |
-| Okonomiyaki | Osaka, Hiroshima |
-| Yakitori stands | Tutte le città |
+| **Sukiya/Yoshinoya** | Ovunque — gyudon, curry, colazione |
+| **Hanamaru Udon / Nakau** | Ovunque — udon, soba |
+| **Konbini** (7-Eleven, Lawson, FamilyMart) | Ovunque — onigiri, bento, sandwich, insalate |
+| **Kaitenzushi** | Kura Sushi, Sushiro — ¥100–500/piatto |
 
-### Medio (¥1.500–5.000 / pasto)
+### Medio (¥800–2.000 / pasto) — Pranzo e cena tipici
 
 | Cosa | Dove |
 |---|---|
-| Izakaya giapponese | Ovunque — piccoli piatti da condividere |
-| Tonkatsu specialty | Tokyo, Osaka |
-| Kaiseki lunch | Kyoto — menu pranzo più economici |
-| Sushi medio | Tsukiji, mercati locali |
-| Sukiyaki / Shabu-shabu | Ristoranti specializzati |
+| **Ramen** | Ichiran, Ippudo, Tenkaippin |
+| **Curry** | CoCo Ichibanya, GoGo Curry |
+| **Okonomiyaki** | Osaka (Dotonbori), Hiroshima (Okonomimura) |
+| **Saizeriya** | Ovunque — pasta, pizza, insalate |
+| **Gyudon set** | Sukiya, Yoshinoya, Matsuya |
 
-### Alto (¥5.000+ / pasto)
+### Medio-Alto (¥2.000–5.000 / pasto) — Cena speciale
 
 | Cosa | Dove |
 |---|---|
-| Kaiseki cena | Kyoto (Gion, Pontochō) |
-| Sushi di qualità | Tokyo (Ginza, Roppongi) |
-| Kobe/Wagyu teppanyaki | Tokyo, Kobe |
-| Ristoranti Michelin | Osaka, Kyoto, Tokyo |
+| **Izakaya** | Ovunque — piccoli piatti da condividere |
+| **Tonkatsu specialty** | Tokyo, Osaka |
+| **Yakiniku** (griglia) | Ovunque — Rebecca-friendly! ✅ |
+| **Bib Gourmand** | Vedi tabella sopra |
+| **Depachika takeaway** | Grandi magazzini — bento di qualità |
+
+### Alto (¥5.000+ / pasto) — Solo una volta
+
+| Cosa | Dove |
+|---|---|
+| **Kaiseki** | Kyoto (Gion, Pontochō) |
+| **Michelin ⭐** | Scegliere uno tra Osaka, Kyoto, Tokyo |
+| **Wagyu teppanyaki** | Tokyo, Kobe |
 
 ---
 
@@ -113,11 +239,9 @@ La cucina giapponese è Patrimonio UNESCO. Ogni città ha specialità locali imp
 | Strumento | Cosa fa | Lingua |
 |---|---|---|
 | **Tabelog** | Recensioni giapponesi (3.5+ = buono, 4.0+ = eccellente) | Giapponese + inglese base |
-| **Gurunavi** | Prenotazioni ristoranti, ricerca per zona, multilingue | Inglese, cinese, coreano |
-| **Michelin Guide** | Ristoranti stellati e Bib Gourmand per città | Inglese, italiano |
-| **JapanEatinerary** | Ristoranti raccomandati da Japan-Guide | Inglese |
-| **ByFood** | Esperienze culinarie, cooking class, food tour | Inglese |
-| **Google Maps** | Recensioni, foto, orari, prenotazioni | Multilingue |
+| **Gurunavi** | Prenotazioni, ricerca per zona, multilingue | Inglese, cinese, coreano |
+| **Michelin Guide** | Bib Gourmand e stellati per città | Inglese, italiano |
+| **Google Maps** | Recensioni, foto, orari, menù | Multilingue |
 
 ---
 
@@ -127,37 +251,11 @@ La cucina giapponese è Patrimonio UNESCO. Ogni città ha specialità locali imp
 |---|---|
 | **Non infilzare il cibo con le bacchette** | Solo ai funerali |
 | **Non passare cibo da bacchette a bacchette** | Solo ai funerali |
-| **Non piantare le bacchette nel riso** | Solo ai funerali |
-| **Usa il hashioki** | Poggia-bacchette — non lasciarle sul piatto |
-| **Slurpare è educato** | Soprattutto per ramen e soba — significa che apprezzi |
+| **Slurpare è educato** | Ramen e soba — significa che apprezzi |
 | **Paga il conto alla cassa** | Non lasciare soldi sul tavolo |
 | **Mancia non si dà** | Considerata scortese in Giappone |
 | **Togli le scarpe** | Nei ristoranti tradizionali con tatami |
-
----
-
-## Pianificazione Pasti per l'Itinerario
-
-**Colazione (¥300–800):**
-- Konbini: onigiri, sandwich, caffè
-- Hotel/caffetteria: toast, uova, caffè
-- Mercato: fish market breakfast
-
-**Pranzo (¥800–1.500):**
-- Ramen o udon
-- Conveyor belt sushi
-- Bento take-away
-- Okonomiyaki
-
-**Cena (¥1.500–5.000):**
-- Izakaya (l'opzione migliore per gruppi — si condivide)
-- Ristorante specializzato
-- Kaiseki (solo Kyoto)
-
-**Spuntini:**
-- Konbini sempre aperti
-- Street food nei mercati/quartieri turistici
-- Matcha gelato (¥300–500)
+| **Non camminare mangiando** | Maleducato. Fermati vicino al chiosco |
 
 ---
 
@@ -165,9 +263,10 @@ La cucina giapponese è Patrimonio UNESCO. Ogni città ha specialità locali imp
 
 | Cibo | Stagione | Dove |
 |---|---|---|
-| **Matsutake** (fungo pregiato) | Set–Nov | Ristoranti di lusso, kaiseki |
-| **Kaki** (cachi) | Ott–Nov | Mercati, supermarket |
-| **Saba** (sgombro) | Autunno | Ovunque — è il picco della stagione |
+| **Matsutake** (fungo pregiato) | Set–Nov | Kaiseki, ristoranti di lusso |
+| **Kaki** (cachi) | Ott–Nov | Mercati, supermarket — ✅ sicuri per Rebecca |
+| **Saba** (sgombro) | Autunno | Ovunque — picco della stagione |
 | **Sanma** (sgombro Pacifico) | Set–Nov | Yakizakana (grilled) |
 | **Kabocha** (zucca giapponese) | Autunno | Tempura, zuppe |
 | **Matcha dolci autunnali** | Ott–Nov | Kyoto — edizioni limitate |
+| **Shincha** (tè verde nuovo) | Ott | Kyoto, mercati |

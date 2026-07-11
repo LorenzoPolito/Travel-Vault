@@ -808,8 +808,6 @@ strong {
 }
 
 /* --- Hide Mermaid code blocks on web --- */
-.language-mermaid,
-pre:has(code.language-mermaid),
-code.language-mermaid {
+pre[data-language="mermaid"] {
   display: none !important;
 }

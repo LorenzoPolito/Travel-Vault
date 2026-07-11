@@ -1,39 +1,23 @@
 {
-  "$schema": "https://opencode.ai/schema/opencode.json",
+  "$schema": "https://opencode.ai/config.json",
   "agent": {
-    "name": "Travel-Vault Agent",
-    "description": "AI agent for the Travel-Vault Obsidian workspace: travel planning, vault management, and website publishing"
-  },
-  "permissions": {
-    "allow": ["read", "write", "edit", "glob", "grep", "bash", "webfetch"]
-  },
-  "customTools": {
-    "obsidian": {
-      "description": "Interact with the Obsidian vault via Obsidian CLI (requires Obsidian app running). Enable in Obsidian Settings > General > Command line interface.",
-      "commands": {
-        "search": "obsidian search query={query}",
-        "read": "obsidian read path={path}",
-        "daily": "obsidian daily",
-        "daily:append": "obsidian daily:append content={content}",
-        "create": "obsidian create name={name} template={template}",
-        "tasks": "obsidian tasks daily",
-        "tags": "obsidian tags counts",
-        "unresolved": "obsidian unresolved"
-      }
+    "travel-vault": {
+      "description": "Agente specializzato per il Travel-Vault Obsidian workspace: pianificazione viaggi Giappone 2026, gestione vault e pubblicazione sito",
+      "model": "anthropic/claude-sonnet-4-5"
     }
   },
-  "ignorePatterns": [
-    ".obsidian/",
-    "_website/node_modules/",
-    "_website/dist/",
-    "_website/public/images/vault/",
-    "allegati/",
-    ".git/"
-  ],
-  "scripts": {
-    "build:website": "cd _website && node scripts/sync-content.mjs && npm run build",
-    "sync:content": "cd _website && node scripts/sync-content.mjs",
-    "sync:knowledge": "python _AI/scripts/add_frontmatter.py",
-    "dev:website": "cd _website && npm run dev"
+  "default_agent": "build",
+  "permission": {
+    "bash": "allow",
+    "read": "allow",
+    "write": "allow",
+    "edit": "allow",
+    "glob": "allow",
+    "grep": "allow",
+    "webfetch": "allow"
+  },
+  "instructions": ["AGENTS.md", ".agents/skills/travel-vault-agent/SKILL.md"],
+  "watcher": {
+    "ignore": [".obsidian/**", "_website/node_modules/**", "_website/dist/**", "_website/public/images/vault/**", "allegati/**", ".git/**"]
   }
 }

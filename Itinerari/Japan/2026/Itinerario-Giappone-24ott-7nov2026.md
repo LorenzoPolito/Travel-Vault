@@ -614,7 +614,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 | Data Check | Check | Prezzo Volo Trovato | Note |
 |---|---|---|---|
-| 11 Lug | ✅ Fatto | Da rilevare | Inizio monitoraggio — Skyscanner, Momondo, Google Flights |
+| 11 Lug | ✅ Fatto | **Andata** FCO→KIX: da **€290** (China Eastern via Shanghai, 15h) a €600 · **Ritorno** TYO→FCO: da **€250** (Finnair via Helsinki, 17h40) a €550-750 (ITA diretto, 14h45) | Fonte: Rome2Rio ([FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome)). Target A/R: ~€650-900/pax. Opzioni migliori: China Eastern/Finnair andata + ITA diretto ritorno |
 | 13 Lug | ⬜ Da fare | — | — |
 | 15 Lug | ⬜ Da fare | — | — |
 | 17 Lug | ⬜ Da fare | — | — |

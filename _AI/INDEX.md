@@ -4,7 +4,7 @@ scope: vault-root
 vault: Travel-Vault
 vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
 language: it
-last_updated: 2026-02-23
+last_updated: 2026-07-11
 tags: [index, ai, vault-map, travel]
 ai_role: "Master index del vault e della cartella _AI. Entry point principale per agenti."
 ---
@@ -20,7 +20,10 @@ Travel-Vault/
 │
 ├── Index.md                              ← Indice Obsidian (flat, wikilinks)
 ├── Itinerario Kanban Template.md         ← Template Kanban pasti
-├── Path.json                             ← {} placeholder
+├── README.md                             ← Descrizione progetto
+├── AGENTS.md                             ← ★ Istruzioni agente opencode (leggimi)
+├── opencode.jsonc                        ← ★ Configurazione agente opencode
+├── SKILL.md                              ← Skill root (stub)
 │
 ├── _templates/                           ← ★ Template Obsidian per nuovi doc
 │   ├── Città.md                          ← mapview + cluster + hotel
@@ -38,7 +41,7 @@ Travel-Vault/
 │   │   └── destinations/
 │   │       ├── japan/
 │   │       │   ├── locations.md          ← 76 luoghi JP con voti e cluster
-│   │       │   ├── itinerari.md          ← Itinerari JP (18 varianti)
+│   │       │   ├── itinerari.md          ← Itinerari JP (19 varianti)
 │   │       │   └── logistica.md          ← IC Cards, JR Pass, budget JP
 │   │       └── italia/
 │   │           └── itinerari.md          ← Calabria 2025 (archiviato)
@@ -51,46 +54,30 @@ Travel-Vault/
 ├── Info/
 │   └── Japan/
 │       ├── IC Cards/
-│       │   ├── IC Cards.md               ← Guida generale (~28KB)
-│       │   ├── Suica.md                  ← JR East / digitale iPhone
-│       │   ├── Pasmo.md                  ← Operatori privati
-│       │   └── Icoca.md                  ← JR West / Kansai
 │       ├── Pass/
-│       │   ├── JR pass.md                ← Analisi completa (~15KB)
-│       │   └── Osaka Amazing pass.md
 │       ├── E-Sim/
 │       ├── Voli/
-│       └── Viaggiare Sicuri.md           ← Guida sicurezza (~31KB)
+│       └── Viaggiare Sicuri.md
 │
 ├── Itinerari/
-│   ├── Calabria/
-│   │   └── Parghelia 2025.md             ← 9gg ago 2025 [ARCHIVIATO]
+│   ├── Calabria/[ARCHIVIATO]
 │   └── Japan/
+│       ├── 2026/                         ★ Itinerario ATTIVO (24ott-7nov)
+│       │   └── Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md
 │       ├── Esterni/
-│       │   ├── Itinerario Ossama Valentina.md
-│       │   └── Rail Adventure SiVola.it (14 gg).md
 │       └── Solo con i luoghi/
 │           ├── 7 giorni/    (×2)
 │           ├── 10 giorni/   (×2)
-│           ├── 11 giorni/   (×2)         ← Incl. versione dic 2025
+│           ├── 11 giorni/   (×2)
 │           ├── 12 giorni/   (×1)
-│           ├── 14 giorni/   (×8)         ← ★ Principale — feb/mar 2026
+│           ├── 14 giorni/   (×9)
 │           ├── 15 giorni/   (×1)
 │           └── 16 giorni/   (×1)
 │
 ├── Locations/
 │   └── Japan/
 │       ├── Lista dei Luoghi.md           ← ★ Master list: voti + cluster
-│       ├── Cities/         (×9)          ← Leaflet maps + lista luoghi
-│       │   ├── Tokyo(東京).md
-│       │   ├── Kyoto(京都).md
-│       │   ├── Osaka(大阪市).md
-│       │   ├── Hiroshima(広島).md
-│       │   ├── Kamakura(鎌倉市).md
-│       │   ├── Miyajima (宮島).md
-│       │   ├── Nara (奈良市).md
-│       │   ├── Fujiyoshida (富士吉田市).md
-│       │   └── Kobe(神戸).md
+│       ├── Cities/         (×9)
 │       ├── Temples/        (×25)
 │       ├── Parks-nature/   (×11)
 │       ├── Buildings/      (×5)
@@ -100,11 +87,16 @@ Travel-Vault/
 │       └── Restaurants/    (×1)
 │
 ├── Documenti Esterni/
-│   ├── Input Gamma.docx
-│   ├── Itinerario Tokyo-Kyoto (11gg) dic 2025.docx + .pdf
-│   └── Viaggio in Giappone 2026.pdf
+├── allegati/
 │
-└── allegati/                             ← Immagini e allegati vari
+├── _website/                             ← ★ Sito Astro (GitHub Pages)
+│   └── ...                               ← Build: npm run build:website
+│
+└── .agents/
+    └── skills/
+        ├── travel-vault-agent/SKILL.md   ← ★ Skill principale
+        ├── git-flow-expert/SKILL.md      ← Git Flow workflow
+        └── ...                           ← Altre skill installate
 ```
 
 ---
@@ -114,9 +106,12 @@ Travel-Vault/
 | Obiettivo | File da leggere |
 | --- | --- |
 | Overview vault e convenzioni | `_AI/knowledge/workspace.md` |
+| Overview vault + convenzioni | `AGENTS.md` o `_AI/knowledge/workspace.md` |
 | Luoghi JP con voti e orari | `_AI/knowledge/destinations/japan/locations.md` |
 | Stato itinerari Giappone | `_AI/knowledge/destinations/japan/itinerari.md` |
 | Trasporti, pass, budget JP | `_AI/knowledge/destinations/japan/logistica.md` |
+| Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
+| Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |
 | Aggiungere nuova destinazione | Copia da `_AI/templates/` |
 

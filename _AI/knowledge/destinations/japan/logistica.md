@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-02-23
+last_updated: 2026-07-11
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -15,7 +15,7 @@ source_files:
 ai_notes: "File modulare Giappone. Per nuova destinazione, copia da _AI/templates/logistica.md"
 ---
 
-# 🚄 Logistica & Trasporti — Giappone
+# Logistica & Trasporti — Giappone
 
 ## Come Aggiornare
 
@@ -25,38 +25,38 @@ ai_notes: "File modulare Giappone. Per nuova destinazione, copia da _AI/template
 
 ## IC Cards (Carte Prepagate)
 
-Tessere RFID ricaricabili per metro, treni locali, bus e acquisti in combini/distributori. Accettate ovunque in Giappone.
+Tessere RFID ricaricabili per metro, treni locali, bus e acquisti in combini/distributori.
 
-**Fonte:** `Info/Japan/IC Cards/` (4 file, ~58KB totali)
+**Fonte:** `Info/Japan/IC Cards/` (4 file)
 
 | Card | Emittente | Area Principale | Note |
 | --- | --- | --- | --- |
-| **Suica** | JR East | Tokyo / Est Giappone | ✅ Migliore — caricabile su iPhone/Apple Watch |
-| **Pasmo** | Operatori privati | Tokyo / Est Giappone | Quasi identica alla Suica, intercambiabile |
-| **Icoca** | JR West | Osaka/Kyoto (Kansai) | Ideale per Kansai |
+| **Suica** | JR East | Tokyo / Est Giappone | Caricabile su iPhone/Apple Watch |
+| **Pasmo** | Operatori privati | Tokyo / Est Giappone | Intercambiabile con Suica |
+| **Icoca** | JR West | Osaka/Kyoto (Kansai) | Ideale se arrivi a KIX (Osaka) |
 
-**Raccomandazione LLM:** Per itinerario Tokyo+Kyoto/Osaka → **Suica digitale** su iPhone/AppleWatch.
+**Raccomandazione:** Arrivando a KIX (Osaka), prendi **Icoca** all'aeroporto. Va bene anche in tutto il Giappone.
 
 ---
 
-## JR Pass
+## JR Pass — Decisione (Ott 2026)
 
-**Fonte:** `Info/Japan/Pass/JR pass.md` (~15KB)
+**Percorso attuale:** Osaka → Hiroshima → Nara → Kyoto → Tokyo
 
-Copre treni JR incluso Shinkansen ⚠️ *escluso Nozomi e Mizuho*.
+**JR Pass nazionale NON conviene** per questo itinerario. I costi Shinkansen effettivi sono:
+- Osaka→Hiroshima A/R: coperto da JR Kansai-Hiroshima Pass
+- Kyoto→Tokyo singola: ~14.000 yen (~81€)
 
-| Tipo | Durate disponibili |
-| --- | --- |
-| JR Pass nazionale | 7 / 14 / 21 giorni |
-| JR Pass regionale | Varie (più economico per aree specifiche) |
-
-**Per il percorso T→K→O→H→T:** JR Pass 14 giorni consigliato dall'itinerario principale.
+**Raccomandazione:**
+- **JR Kansai-Hiroshima Area Pass (5 giorni, ~99€)** — copre Osaka→Hiroshima A/R, traghetto Miyajima, Osaka→Nara→Kyoto
+- **Biglietto singolo Kyoto→Tokyo (~81€)** — Shinkansen Hikari
+- **Suica/Icoca** per trasporti locali
 
 ---
 
 ## Osaka Amazing Pass
 
-**Fonte:** `Info/Japan/Pass/Osaka Amazing pass.md` (~3KB)
+**Fonte:** `Info/Japan/Pass/Osaka Amazing pass.md`
 
 - Trasporto illimitato su metro/bus Osaka
 - Ingresso gratuito a 40+ attrazioni
@@ -70,9 +70,10 @@ Conveniente per 1-2 giorni intensi ad Osaka.
 **Fonte:** `Info/Japan/E-Sim/`
 
 Opzioni consigliate:
+- Klook.com — fisiche o digitali
+- Airalo.com — digitali
 
-- [Klook.com](https://www.klook.com/it/) — fisiche o digitali
-- [Airalo.com](https://www.airalo.com/it) — digitali
+**Raccomandazione:** Comprare da Klook prima della partenza.
 
 ---
 
@@ -80,32 +81,35 @@ Opzioni consigliate:
 
 **Fonte:** `Info/Japan/Voli/`
 
-- A/R Roma Fiumicino → Tokyo (NRT o HND): **700-900 €** a persona
+- A/R Roma Fiumicino → KIX (Osaka) / NRT o HND (Tokyo)
+- Stima: **800-1.000 €** a persona
 - Durata: ~12-15h (tipicamente 1 scalo)
-- **Itinerario attivo:** partenza 15 Feb → arrivo NRT 16 Feb ore 10:10
+
+**Da fare:** Ricercare e prenotare voli per Ott 2026.
 
 ---
 
 ## Sicurezza
 
-**Fonte:** `Info/Japan/Viaggiare Sicuri.md` (~31KB — file più grande del vault)
+**Fonte:** `Info/Japan/Viaggiare Sicuri.md` (~31KB)
 
 Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 
 ---
 
-## Budget di Riferimento (dic 2025, 11 notti)
+## Budget di Riferimento (Ott 2026, 14 notti, 3 persone)
 
-| Voce | Stima |
+| Voce | Stima/persona |
 | --- | --- |
-| Voli + bagagli | 900 € |
-| Notti (×35€/notte) | 385 € |
-| Trasporti | 365 € |
-| Attività | 200 € |
-| Pasti (2×11gg) | 550 € |
-| Gadget/souvenir | 200 € |
-| Imprevisti | 400 € |
-| **TOTALE ~11gg** | **~3.000 €** |
+| Voli A/R | 800-1.000 € |
+| Alloggio (12 notti in condivisione) | ~350 € |
+| Cibo (12gg × 30€) | ~360 € |
+| JR Kansai-Hiroshima Area Pass (5gg) | ~99 € |
+| Kyoto→Tokyo Shinkansen | ~81 € |
+| Trasporti locali (12gg × 12€) | ~150 € |
+| Attrazioni (USJ, Skytree, templi, TeamLab) | ~200 € |
+| Spese personali | ~400 € |
+| **TOTALE** | **~2.440-2.640 €** |
 
 ---
 
@@ -113,9 +117,12 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 
 | Attività | Urgenza | Note |
 | --- | --- | --- |
-| TeamLab Planets (Tokyo) | 🔴 Alta | Online, sold out spesso |
-| Harry Potter Studio (Tokyo) | 🔴 Alta | Mesi di anticipo |
-| Hotel (alta stagione) | 🔴 Alta | Febbraio = alta stagione |
-| Museo Mazda (Hiroshima) | 🟡 Media | Gratuito, prenota online |
-| Mario Kart Ride | 🟡 Media | ~100€, patente richiesta |
-| Verifica maree Miyajima | ℹ️ Info | Torii meglio con alta marea |
+| Voli A/R | Alta | Ancora da prenotare |
+| Hotel (alta stagione autunnale) | Alta | Solo link Booking.com candidati |
+| Universal Studios Japan | Alta | Biglietti online |
+| TeamLab Planets (Tokyo) | Alta | Online, sold out spesso |
+| Pokemon Cafe | Media | Prenotazione online |
+| Mario Kart Ride | Media | ~100€, patente richiesta |
+| eSIM | Media | Comprare prima della partenza |
+| Verifica maree Miyajima | Info | Torii meglio con alta marea |
+| Assicurazione viaggio | Media | Da stipulare |

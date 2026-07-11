@@ -1,18 +1,10 @@
 ---
 name: Travel-Vault
-description: A brief description of what this skill does
+description: Travel-Vault Obsidian workspace per pianificazione viaggi con AI. Vedi .agents/skills/travel-vault-agent/ per la skill principale.
 ---
 
 # Travel-Vault
 
-Instructions for the agent to follow when this skill is activated.
+La skill principale è in `.agents/skills/travel-vault-agent/SKILL.md`.
 
-## When to use
-
-Describe when this skill should be used.
-
-## Instructions
-
-1. First step
-2. Second step
-3. Additional steps as needed
+Leggi `AGENTS.md` per le istruzioni agente o `opencode.jsonc` per la configurazione.

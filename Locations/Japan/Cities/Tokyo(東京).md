@@ -1,4 +1,6 @@
 ---
+type: city
+destination: Japan
 locations:
   - Tokyo
 tags:

@@ -14,6 +14,10 @@ itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.desti
 // Count cities
 const cities = locations.filter(l => l.data.type === 'city');
 
+// Active itinerary (Japan 2026)
+const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
+const otherItins = itineraries.filter(i => i !== activeItin);
+
 function extractCoverImage(body: string) {
   const match = body.match(/!\[.*?\]\((.*?)\)/);
   if (match) {
@@ -60,28 +64,47 @@ function extractCoverImage(body: string) {
         <h2>Itinerari in Evidenza</h2>
       </div>
 
-      <div class="bento-grid">
-        {itineraries.slice(0, 6).map((itin) => {
-          const duration = itin.data.durata || itin.data.durata_giorni ? `${itin.data.durata_giorni || '?'} giorni` : '';
-          const coverImage = extractCoverImage(itin.body || '');
-          
-          const displayName = itin.id
-            .split('/').pop()
-            ?.replace(/-/g, ' ')
-            .replace(/\.md$/, '')
-            .replace(/\b\w/g, l => l.toUpperCase()) || itin.id;
+      {activeItin && (() => {
+        const itin = activeItin;
+        const slug = itin.id.replace(/\.md$/, '');
+        const link = `${import.meta.env.BASE_URL}/itineraries/${slug}/`;
+        const duration = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
+        return (
+          <a href={link} class="card card--featured animate-in">
+            <div class="featured-glow"></div>
+            <div class="featured-badge">🟢 Viaggio Attivo</div>
+            <div class="featured-content">
+              <h3 class="card-title" style="font-size: 1.6rem;">Giappone 2026 — 24 Ott · 7 Nov</h3>
+              <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
+              <div class="card-meta">
+                <span class="tag tag--success">attivo</span>
+                <span class="tag">Giappone</span>
+                <span class="tag tag--info">{duration}</span>
+                <span class="tag">👥 Lorenzo, Davide, Rebecca</span>
+              </div>
+            </div>
+          </a>
+        );
+      })()}
 
+      <div class="bento-grid">
+        {otherItins.slice(0, 5).map((itin) => {
+          const slug = itin.id.replace(/\.md$/, '');
+          const link = `${import.meta.env.BASE_URL}/itineraries/${slug}/`;
+          const duration = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
+          const coverImage = extractCoverImage(itin.body || '');
+          const name = slug.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
           return (
-            <a href={`${import.meta.env.BASE_URL}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in">
+            <a href={link} class="card animate-in">
               <div class="bento-img-wrapper">
                 {coverImage ? (
-                  <img src={coverImage} alt={displayName} loading="lazy" />
+                  <img src={coverImage} alt={name} loading="lazy" />
                 ) : (
                   <div style="width: 100%; height: 100%; background: var(--bg-card); display: flex; align-items: center; justify-content: center; font-size: 3rem; opacity: 0.2">🗺️</div>
                 )}
               </div>
               <div class="bento-content">
-                <h3 class="card-title">{displayName}</h3>
+                <h3 class="card-title">{name}</h3>
                 <div class="card-meta">
                   {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
                   {duration && <span class="tag tag--info">{duration}</span>}

@@ -5,19 +5,30 @@ description: Specialized agent for the Travel-Vault Obsidian workspace. Use when
 
 # Travel-Vault Agent
 
-Specialized skill for operating within the Travel-Vault Obsidian workspace located at `c:\Users\loren\Documents\TravelBay\Travel-Vault`.
+Skill specializzata per operare nel workspace Travel-Vault. Il vault si trova su Windows.
+
+## Tool Reference (Opencode)
+
+Usa questi tool per operare nel vault:
+
+- `read:` — Leggi file del vault
+- `grep:` — Cerca contenuti nel vault
+- `glob:` — Trova file per pattern
+- `edit:` — Modifica file esistenti
+- `write:` — Crea nuovi file
+- `bash:` — Esegui comandi (git, npm, python, obsidian)
+
+Se Obsidian CLI è attivo, usa `bash: obsidian search/read/daily/create` per interagire col vault via app.
 
 ## Vault Overview
 
-This is a modular travel-planning Obsidian vault. Primary focus: **Japan trip (Feb-Mar 2026)** for Lorenzo + friends. Language: Italian.
+Vault modulare per pianificazione viaggi. Focus primario: **Giappone, 24 Ott — 7 Nov 2026** per Lorenzo + Davide + Rebecca. Lingua: Italiano.
 
-## Entry Points
+## Entry Points (leggi sempre prima questi)
 
-Always start from the AI knowledge hub:
-
-1. **Master index**: `_AI/INDEX.md` - Full vault tree + quick reference table
-2. **Conventions**: `_AI/README.md` - Vault rules and agent instructions
-3. **Workspace metadata**: `_AI/knowledge/workspace.md` - Global vault info
+1. **`read: _AI/INDEX.md`** — Full vault tree + quick reference table
+2. **`read: _AI/README.md`** — Vault rules and agent instructions
+3. **`read: _AI/knowledge/workspace.md`** — Global vault info
 
 ## Key Conventions
 
@@ -36,74 +47,91 @@ Always start from the AI knowledge hub:
 Travel-Vault/
   _AI/                   -> AI knowledge hub (read first)
   _templates/            -> Obsidian templates for new documents
-  Info/                  -> Guides (IC Cards, JR Pass, eSIM, flights, safety)
-  Itinerari/             -> All itinerary versions by destination
-  Locations/             -> Location notes by category and destination
-  Documenti Esterni/     -> External docs (PDF, DOCX)
-  allegati/              -> Images and attachments
+  Info/Japan/            -> Guides (IC Cards, JR Pass, eSIM, flights, safety)
+  Itinerari/Japan/       -> All itinerary versions
+  Locations/Japan/       -> Location notes by category
+  _website/              -> Astro static site (published to GitHub Pages)
 ```
 
 ## Working with Destinations
 
-Each destination has knowledge files in `_AI/knowledge/destinations/<name>/`:
-- `locations.md` - All locations with ratings and clusters
-- `itinerari.md` - Itinerary variants summary
-- `logistica.md` - Transport, passes, budget, booking
+Ogni destinazione ha file knowledge in `_AI/knowledge/destinations/<name>/`:
+- `read: <dest>/locations.md` — All locations with ratings and clusters
+- `read: <dest>/itinerari.md` — Itinerary variants summary
+- `read: <dest>/logistica.md` — Transport, passes, budget, booking
 
-### Adding a New Destination
+### Aggiungere una Nuova Destinazione
 
-1. Copy templates from `_AI/templates/` to `_AI/knowledge/destinations/<new>/`
-2. Fill in the copied files with real data
-3. Update `_AI/INDEX.md` (tree + quick reference table)
+1. `glob: _AI/templates/*` per vedere i template disponibili
+2. Crea `_AI/knowledge/destinations/<nuova>/` con copie dei template
+3. Compila i file con dati reali (`edit:` / `write:`)
+4. Aggiorna `_AI/INDEX.md` (tree + quick reference table) con `edit:`
 
 ## Working with Templates
 
-Obsidian templates live in `_templates/`. See `references/templates.md` for details on each template type.
+Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 
 ### Template Types
 
-| Template | Use Case |
-|---|---|
-| `Citta.md` | New city note (mapview + clusters + hotels) |
-| `Location.md` | New location (temple, park, building, store) |
-| `Itinerario.md` | Basic day-by-day itinerary |
-| `Itinerario Dettagliato.md` | Detailed itinerary (minute-by-minute, difficulty, budget) |
-| `Info.md` | Info note (pass, transport, SIM, safety) |
+| Template | Use Case | Struttura |
+|---|---|---|
+| `Citta.md` | New city note | mapview + clusters + hotels |
+| `Location.md` | New POI | hero image + Google Maps + sections |
+| `Itinerario.md` | Basic itinerary | budget table + day-by-day |
+| `Itinerario Dettagliato.md` | Detailed itinerary | minute-by-minute + difficulty + budget |
+| `Info.md` | Info/resource note | structured sections |
 
 ## Creating Content
 
-### New Location Note
+### Nuova Location
 
-1. Use `_templates/Location.md` template
-2. Place in `Locations/<Country>/<Category>/`
-3. Categories: Temples, Parks-nature, Buildings, Stores, Castles, Hotels, Restaurants
-4. Include: hero image, address, Google Maps link, "Da non perdere", "Come arrivare", hours/prices
-5. Add to the city's location list with rating `#X/5` and cluster position
+1. `read: _templates/Location.md` — copia la struttura
+2. Scrivi in `Locations/<Country>/<Category>/` con `write:`
+3. Categorie: Temples, Parks-nature, Buildings, Stores, Castles, Hotels, Restaurants
+4. Includi: hero image, address, Google Maps link, "Da non perdere", "Come arrivare", hours/prices
+5. Aggiungi rating `#X/5` e cluster position nella città corrispondente
 
-### New Itinerary
+### Nuovo Itinerario
 
-1. Use `_templates/Itinerario.md` or `_templates/Itinerario Dettagliato.md`
-2. Place in `Itinerari/<Country>/<subfolder>/`
-3. Use `[[wikilinks]]` for all location references
-4. Include budget table, transport times, difficulty levels
-5. Update `_AI/knowledge/destinations/<dest>/itinerari.md`
+1. `read: _templates/Itinerario Dettagliato.md`
+2. Scrivi in `Itinerari/Japan/Solo con i luoghi/<N giorni>/` con `write:`
+3. Usa `[[wikilinks]]` per riferimenti a location
+4. Includi budget table, transport times, difficulty levels
+5. Aggiorna `_AI/knowledge/destinations/japan/itinerari.md`
 
-### New City Note
+### Nuova Città
 
-1. Use `_templates/Citta.md`
-2. Place in `Locations/<Country>/Cities/`
-3. Include mapview block, location clusters with `//` separators, ratings `#X/5`
-4. Cluster locations by walkability (reachable in ~30min by foot/metro)
+1. `read: _templates/Citta.md`
+2. Scrivi in `Locations/<Country>/Cities/` con `write:`
+3. Includi mapview block, cluster con `//`, ratings `#X/5`
 
 ## People & Interests
 
 - **Lorenzo**: judo, anime, Akihabara, ramen
-- **Damiano**: Harry Potter (Warner Bros Studio Tour Tokyo)
-- **Group tags**: `#gruppoA`, `#gruppoB` for split-day activities
+- **Davide, Rebecca**: nel gruppo del viaggio 2026
+- **Group tags**: usare `#gruppoA`, `#gruppoB` per attività divise
 
 ## Current Trip Status
 
-- **Destination**: Japan (Tokyo, Kyoto, Osaka, Hiroshima + day trips)
-- **Dates**: Feb-Mar 2026, ~14 days
-- **Status**: Planning phase, no definitive itinerary yet (18+ variants exist)
-- **Budget**: ~1000-1100 EUR/person estimated (flights excluded)
+- **Destinazione**: Giappone (Osaka, Hiroshima, Nara, Kyoto, Tokyo)
+- **Date**: 24 Ottobre — 7 Novembre 2026 (15gg/14notti)
+- **Persone**: Lorenzo, Davide, Rebecca
+- **Budget stimato**: ~2.440-2.640 €/persona (voli inclusi ~800-1.000€)
+- **Stato**: Pianificazione definita, NIENTE ancora prenotato (voli, hotel, attività)
+- **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~99€) + biglietto singolo Kyoto→Tokyo (~81€)
+- **Itinerari**: 19 varianti totali, la principale è in `Itinerari/Japan/2026/`
+
+## Website Publishing
+
+- Il sito Astro è in `_website/`
+- `bash: cd _website && node scripts/sync-content.mjs && npm run build` per buildare
+- CI/CD automatico su push a `main` via GitHub Actions
+
+## Obsidian CLI (opzionale)
+
+Se Obsidian è in esecuzione con CLI attivato:
+- `bash: obsidian search query="testo"` — Cerca nel vault
+- `bash: obsidian read path="file.md"` — Legge file via Obsidian
+- `bash: obsidian daily` — Apre la daily note
+- `bash: obsidian daily:append content="- [ ] task"` — Aggiunge task
+- `bash: obsidian create name="Nome" template=Location` — Crea nota da template

@@ -4,6 +4,9 @@ import Base from '../../layouts/Base.astro';
 
 const itineraries = await getCollection('itineraries');
 const base = import.meta.env.BASE_URL;
+
+const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
+const otherItins = itineraries.filter(i => i !== activeItin);
 ---
 
 <Base title="Itinerari" description="Tutti gli itinerari di viaggio disponibili">
@@ -17,16 +20,41 @@ const base = import.meta.env.BASE_URL;
 
       <div class="page-header" style="border: none">
         <h1 class="page-title">🗺️ Itinerari</h1>
-        <p>{itineraries.length} itinerari pianificati</p>
+        <p>{itineraries.length} itinerari pianificati — <strong style="color: var(--accent);">{activeItin ? '1 attivo' : ''}</strong></p>
+      </div>
+
+      {activeItin && (() => {
+        const slug = activeItin.id.replace(/\.md$/, '');
+        return (
+        <a href={`${base}/itineraries/${slug}/`} class="card card--featured animate-in" style="display: block; margin-bottom: var(--space-2xl); text-decoration: none;">
+          <div class="featured-glow"></div>
+          <div class="featured-badge">🟢 Viaggio Attivo — Giappone 2026</div>
+          <div class="featured-content">
+            <h3 class="card-title" style="font-size: 1.5rem;">Giappone 2026 — 24 Ott · 7 Nov</h3>
+            <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
+            <div class="card-meta">
+              <span class="tag tag--success">attivo</span>
+              <span class="tag">Giappone</span>
+              <span class="tag tag--info">15 giorni</span>
+              <span class="tag">👥 Lorenzo, Davide, Rebecca</span>
+              <span class="tag">💰 ~2.500 €/pax</span>
+            </div>
+          </div>
+        </a>
+        );
+      })()}
+
+      <div class="section-header" style="margin-top: var(--space-2xl);">
+        <h2 style="font-size: 1.3rem;">Tutti gli Itinerari ({otherItins.length})</h2>
       </div>
 
       <div class="cards-grid">
-        {itineraries.map((itin) => {
-          const name = itin.id.split('/').pop()?.replace(/-/g, ' ').replace(/\.md$/, '').replace(/\b\w/g, (l: string) => l.toUpperCase()) || itin.id;
+        {otherItins.map((itin) => {
+          const name = itin.id.replace(/\.md$/, '').replace(/-/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase());
           const emoji = itin.data.tags?.includes('dettagliato') ? '📋' : '🗺️';
 
           return (
-            <a href={`${base}/itineraries/${itin.id.split('/').pop()?.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
+            <a href={`${base}/itineraries/${itin.id.replace(/\.md$/, '')}/`} class="card animate-in" style="text-decoration: none">
               <div class="card-emoji">{emoji}</div>
               <h3 class="card-title">{name}</h3>
               <div class="card-meta">

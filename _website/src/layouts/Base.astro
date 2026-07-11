@@ -63,6 +63,9 @@ const base = import.meta.env.BASE_URL;
     const toggle = document.getElementById('navToggle');
     const links = document.getElementById('navLinks');
     toggle?.addEventListener('click', () => links?.classList.toggle('open'));
+    links?.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => links.classList.remove('open'));
+    });
   </script>
 </body>
 </html>

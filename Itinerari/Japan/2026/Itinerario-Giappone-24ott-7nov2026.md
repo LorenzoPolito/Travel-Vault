@@ -606,6 +606,70 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ---
 
+## Monitoraggio Voli e Prenotazioni
+
+> 🎯 **Obiettivo:** Prenotare tutto entro **inizio Agosto 2026**. Da oggi (11 Lug) controllare prezzi voli ogni 2 giorni.
+
+### Calendario Monitoraggio
+
+| Data Check | Check | Prezzo Volo Trovato | Note |
+|---|---|---|---|
+| 11 Lug | ✅ Fatto | Da rilevare | Inizio monitoraggio — Skyscanner, Momondo, Google Flights |
+| 13 Lug | ⬜ Da fare | — | — |
+| 15 Lug | ⬜ Da fare | — | — |
+| 17 Lug | ⬜ Da fare | — | — |
+| 19 Lug | ⬜ Da fare | — | — |
+| 21 Lug | ⬜ Da fare | — | — |
+| 23 Lug | ⬜ Da fare | — | — |
+| 25 Lug | ⬜ Da fare | — | — |
+| 27 Lug | ⬜ Da fare | — | — |
+| 29 Lug | ⬜ Da fare | — | — |
+| 31 Lug | ⬜ Da fare | — | — |
+| 1-3 Ago | ⬜ **PRENOTARE** 🎯 | — | Target: Roma→KIX (arrivo 25 ott) / NRT→Roma (partenza 6-7 nov) |
+
+**Criteri volo:**
+- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), arrivo 25 Ottobre
+- 🛬 **Ritorno:** Tokyo (NRT o HND) → Roma (FCO), partenza 6-7 Novembre
+- 💰 **Target prezzo:** 700–900 €/persona A/R
+- ✅ **Rebecca:** pasto speciale obbligatorio (no soia, no pesce, no crostacei, no frutta secca)
+- 🔍 **Skyscanner, Momondo, Google Flights** con alert di prezzo
+
+### Log Spostamenti Itinerario
+
+| Modifica | Data | Chi | Note |
+|---|---|---|---|
+| — | — | — | Inserire modifiche all'itinerario qui |
+
+---
+
+## Budget Tracker
+
+> 💰 **Budget totale stimato:** ~2.513–2.713 €/persona · **Budget reale:** da compilare
+
+| Voce | Stima | Reale | Delta | Note |
+|---|---|---|---|---|
+| Volo A/R | 800–1.000 € | ❌ Da prenotare | — | — |
+| Alloggio (14 notti, camera/3) | ~350 € | ❌ Da calcolare | — | Osaka+Kyoto ✅ prenotati, Tokyo da verificare |
+| Cibo (14 gg × ~30 €) | ~425 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
+| JR Kansai-Hiroshima Area Pass 5gg | ~99 € | ❌ Da acquistare | — | — |
+| Kyoto→Tokyo Shinkansen | ~81 € | ❌ Da acquistare | — | — |
+| Trasporti locali (14 gg × ~10 €) | ~130 € | ❌ Da tenere traccia | — | Suica/Icoca |
+| Attrazioni (USJ, templi, TeamLab…) | ~228 € | ❌ Da calcolare | — | Vedi |Attività e Prenotazioni| |
+| Spese personali | ~400 € | ❌ Da tenere traccia | — | Souvenir, extra |
+| Assicurazione (Heymondo Premium) | ~27 €/persona | ❌ Da stipulare | — | Vedi |Assicurazione Heymondo| |
+| eSIM 15gg | ~15–25 € | ❌ Da comprare | — | Klook o Airalo |
+| **TOTALE** | **~2.540–2.740 €** | **❌ Da compilare** | — | — |
+
+### Budget Rebecca (extra cibo)
+
+| Voce | Stima |
+|---|---|
+| Spesa supermarket (pasta, riso, pollo, verdure, frutta) | ~10 €/gg × 14gg = ~140 € |
+| Ristoranti sicuri (Saizeriya, yakiniku) | ~3–4 pasti × ~10 € = ~35 € |
+| **Extra Rebecca** | **~175 €** (meno dei ~425 € del budget cibo standard) |
+
+---
+
 ## Budget Totale (per persona)
 
 | Voce | Stima |
@@ -639,3 +703,4 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Assicurazione viaggio | **URGENTE** | ❌ Da stipulare | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie |
 | Prenotazione Fuji Excursion treno | 1 mese prima | ❌ Da prenotare | JR East online |
 | Controllo maree Miyajima | Giorno prima | ❌ Da fare | Alta marea = torii nell'acqua |
+| Assicurazione Heymondo | **Agosto 2026** | ❌ Da stipulare | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]] |

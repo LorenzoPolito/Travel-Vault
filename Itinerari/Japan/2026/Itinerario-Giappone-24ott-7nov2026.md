@@ -225,7 +225,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🍽️ **Cena:** street food lungo Dotonbori — takoyaki (¥500), okonomiyaki (¥1.000), kushikatsu (¥800)
 - ⭐ Consiglio: [[Mangiare in Giappone#Osaka|Okonomiyaki Mizuno]] (Dotonbori, ¥1.000–2.000)
 - 🍨 **Dopo cena:** matcha gelato o crepes giapponesi (¥300–500)
-- ⚠️ **Rebecca:** cena cucinata in hotel (supermarket locale). Soia+pesce+crostacei in TUTTO lo street food giapponese. [[Allergie Alimentari Rebecca#Piano Giornaliero per Rebecca|Pasta aglio e olio con zucchine — no pomodoro (nichel!)]]
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta sicura). Pranzo konbini (frutta, yogurt, uovo sodo). Cena **cucinata in hotel** (supermarket locale) — soia+pesce+crostacei in TUTTO lo street food giapponese. Izakaya e ristoranti locali ❌ NON sicuri (soia in ogni piatto). [[Allergie Alimentari Rebecca#Piano Giornaliero per Rebecca|Pasta aglio e olio con zucchine — no pomodoro (nichel!)]]
 
 **Trasporti:** Haruka Express ¥1.800 (o bus ¥1.100) + Suica per metro
 🅿 **PIANO B (pioggia):** Namba Walks (shopping coperto) + Hozen-ji → cena al coperto a Dotonbori
@@ -253,7 +253,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Budget|konbini]] — onigiri, sandwich, caffè
 - 🍽️ **Cena:** [[Mangiare in Giappone#Medio|izakaya]] o ramen (¥1.000–2.000)
-- ⚠️ **Rebecca:** colazione konbini (yogurt bianco, frutta sicura, uovo sodo) + pranzo preparato in hotel
+- ⚠️ **Rebecca:** colazione konbini (yogurt bianco, frutta sicura, uovo sodo). Pranzo preparato in hotel. Cena: izakaya ❌ NON sicuro (soia+pesce in ogni piatto). **Cucina in hotel** (pasta aglio e olio con zucchine, riso bianco, pollo alla griglia).
 
 **Sera | Namba:**
 - Shopping a **Shinsaibashi** 🟢 — via coperta aperta fino a tardi 🍽️
@@ -275,7 +275,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo:**
 - 🍽️ **Pranzo:** inside USJ — [[Mangiare in Giappone#Budget|conveyor belt sushi]] o hamburger (¥1.500–2.500). Opzione più economica: porta onigiri/fruit (permesso)
 - 🍽️ **Cena:** rientro a Namba — [[Mangiare in Giappone#Osaka|izakaya]] o ramen (¥1.000–2.000)
-- ⚠️ **Rebecca:** PORTA CIBO DA CASA a USJ (consentito). [[Allergie Alimentari Rebecca#Piano Giornaliero per Rebecca|Yogurt, frutta, riso bianco.]] Niente dentro USJ è sicuro per lei (soia+pesce)
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta sicura). PORTA CIBO DA CASA a USJ (consentito — riso bianco, pollo freddo, frutta, uova sode). Niente dentro USJ è sicuro per lei (soia+pesce). Cena: **cucina in hotel** o [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku]] (cercare vicino hotel). Izakaya ❌ NON sicuro
 
 **Aree priority:**
 - **Super Nintendo World** — Mario Kart: Koopa's Challenge
@@ -301,10 +301,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **06:30–07:00** Sveglia
 **07:30–09:00** Shinkansen Sakura: [[Shin-Osaka]] → [[Hiroshima(広島)]] (~1h 30m)
 **09:00–12:00** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
-- [[Memorial Park Hiroshima#Museo della Pace|Museo della Pace di Hiroshima]] (¥200, ~2h) — emotivamente intenso
-- [[Memorial Park Hiroshima#Genbaku Dome|Genbaku Dome]] — simbolo UNESCO
+  - [[Memorial Park Hiroshima#Museo della Pace|Museo della Pace di Hiroshima]] (¥200, ~2h) — emotivamente intenso
+  - [[Memorial Park Hiroshima#Genbaku Dome|Genbaku Dome]] — simbolo UNESCO
 **12:00–13:00** **Pranzo:** [[Mangiare in Giappone#Hiroshima|okonomiyaki alla Hiroshima]] — tre piani di Okonomimura vicino alla stazione (¥800–1.500)
-⚠️ **Rebecca:** pranzo al sacco da konbini (onigiri riso solo, frutta sicura per lei, uovo sodo). Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku o italiano vicino hotel]] — cercare su Google Maps al momento
+  ⚠️ **Rebecca:** colazione konbini (yogurt bianco, frutta sicura). Pranzo al sacco (onigiri riso, uovo sodo, frutta). Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku o italiano vicino hotel]] — cercare su Google Maps
 **13:00–15:00** [[Nagarekawa (流川)]] #3/5 🟢 + [[Hondori street]] — shopping, momiji manju (¥300–500)
 **15:00–15:30** [[Hiroshima(広島)#Castello di Hiroshima|Castello di Hiroshima]] 🟢 (¥370, optional)
 
@@ -335,7 +335,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** a Nara — [[Mangiare in Giappone#Budget|kakinoha-zushi]] (sushi in foglia di cachi, specialità Nara, ¥800–1.200)
 - 🍽️ **Cena:** konbini/leggero a Kyoto dopo Fushimi Inari (¥500–1.000)
-- ⚠️ **Rebecca:** pranzo da konbini a Nara (uova sode, riso bianco, frutta sicura) + cena cucinata a Kyoto (supermarket vicino hotel) — [[Allergie Alimentari Rebecca#Piano Giornaliero per Rebecca|pasta aglio e olio con zucchine (✅ no nichel)]]
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta). Pranzo da konbini a Nara (uova sode, riso bianco, frutta sicura — mela/pera ✅ — banana/kiwi/arancia ❌). Cena **cucinata a Kyoto** (supermarket vicino hotel) — pasta aglio e olio con zucchine (✅ no nichel, no soia, no pesce)
 
 **Pomeriggio/Sera | Kyoto:**
 - Check-in hotel
@@ -361,7 +361,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** [[Nishiki Market (錦市場)]] — street food: tempura, tofu skewers, matcha dolci (¥800–1.500)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Kyoto|Pontochō]] — ristoranti sul fiume Kamo (¥2.000–5.000). ⭐ Consiglio: kaiseki menu o yakitori
-- ⚠️ **Rebecca:** Nishiki Market quasi tutto off-limits (soia+pesce). Pranzo da supermarket Kyoto Station. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku o italiano a Gion]] (cercare su Google Maps al momento) — pasta aglio e olio o carne alla griglia
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta). Nishiki Market ❌ tutto off-limits (soia+pesce). Pranzo da supermarket Kyoto Station (riso bianco, pollo, verdure). Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku o italiano a Gion]] (cercare su Google Maps) — pasta aglio e olio, carne alla griglia, NO salsa di soia. Pontochō/izakaya ❌ NON sicuri per lei
 
 **Sera:**
 - [[Quartiere Gion (祇園)#Pontochō|Pontochō]] — vicolo sul fiume Kamo, ristoranti con terrazza sull'acqua ⚪
@@ -387,7 +387,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Budget|soba]] a Arashiyama (¥1.000–1.500) o [[Mangiare in Giappone#Kyoto|Yudofu Sagano]] (tofu bollito, ¥2.000–3.000)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Kyoto|Pontochō]] per Halloween — izakaya con terrazza sul fiume Kamo (¥2.000–4.000)
-- ⚠️ **Rebecca:** soba ha soia (dippingsauce), yudofu è tofu (soia) — entrambi off-limits. Pranzo al sacco. Per cena, [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|italiano o yakiniku a Kyoto]] (cercare su Google Maps)
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta). Soba ❌ (soia nella salsa), yudofu ❌ (tofu = soia). Pranzo al sacco. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|italiano a Kyoto]] (pasta aglio e olio) o **cucina in hotel**. Izakaya/Pontochō ❌ NON sicuri (soia+pesce in tutto)
 
 **Sera — Halloween:**
 - Rientro a [[Quartiere Gion (祇園)#Pontochō|Pontochō]] per cena
@@ -411,7 +411,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** ekiben (bento della stazione) sullo Shinkansen — prendi un [[Mangiare in Giappone#Osaka|ekiben]] a Kyoto Station (¥800–1.500)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Tokyo|Roppongi]] — izakaya internazionale (¥2.000–4.000). ⭐ Consiglio: [[Mangiare in Giappone#Tokyo|Hikarimono]] per sushi casual (¥8.000–15.000, serale)
-- ⚠️ **Rebecca:** ekiben quasi sempre ha soia+pesce. PRENDI RISO BIANCO AL VAPORE DA KONBINI + frutta sicura (mela/pera) prima del treno. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|steakhouse o italiano a Roppongi]] (cercare su Google Maps al momento)
+- ⚠️ **Rebecca:** colazione in hotel. Ekiben ❌ (soia+pesce). PRENDI RISO BIANCO AL VAPORE DA KONBINI + frutta sicura (mela/pera) prima del treno. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|steakhouse o italiano a Roppongi]] — izakaya ❌ NON sicuro. Cercare su Google Maps "steakhouse Roppongi"
 
 **Sera | Tokyo — Roppongi:**
 - Check-in hotel (zona Shinjuku/Shibuya consigliata)
@@ -439,7 +439,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Budget|ramen]] a Asakusa o Akihabara (¥800–1.200). ⭐ Consiglio: [[Mangiare in Giappone#Budget|Ichiran]] (iconico ramen, ¥1.000–2.000)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Tokyo|Akihabara]] — takoyaki, okonomiyaki o izakaya (¥1.500–3.000)
-- ⚠️ **Rebecca:** ramen e takoyaki hanno soia+pesce — off-limits. Pranzo al sacco. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku a Shibuya]] (cercare "yakiniku Shibuya" su Google Maps) o cucina in hotel
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta). Ramen/takoyaki/okonomiyaki ❌ tutti hanno soia+pesce. Pranzo al sacco (konbini: riso bianco, uovo sodo, frutta). Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku a Shibuya]] (grill, carne non marinata — ✅ sicura) o **cucina in hotel**. Izakaya ❌ NON sicuro
 
 **Sera | [[Akihabara (秋葉原)]] #4/5 🟢:**
 - [[Nakano Broadway (中野ブロードウェイ)#Mandarake|Mandarake]] — manga e action figure usate
@@ -470,7 +470,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Tokyo|Tonkatsu]] a Shibuya o Harajuku (¥1.500–2.500). ⭐ Consiglio: [[Mangiare in Giappone#Tokyo|Fry-ya]] (ex Michelin, Shinjuku, ¥3.000–5.000)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Medio|izakaya]] a Shinjuku — Golden Gai o Omoide Yokocho (¥2.000–4.000)
 - 🍽️ **Dopo cena:** ramen a Shinjuku (aperto fino a tardi)
-- ⚠️ **Rebecca:** tonkatsu/kushikatsu = soia. Ramen = soia+pesce. Tutto off-limits. [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|Yakiniku, italiano o steakhouse a Shinjuku]] (cercare su Google Maps)
+- ⚠️ **Rebecca:** colazione in hotel (yogurt, frutta). Tonkatsu ❌ (panatura con soia), izakaya ❌, ramen ❌ — tutto off-limits. Pranzo: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|ristorante italiano o steakhouse a Harajuku/Shibuya]]. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|yakiniku o italiano a Shinjuku]] — cercare su Google Maps "pasta Shinjuku" o "yakiniku Shinjuku"
 
 **Sera | Shinjuku:**
 - [[Shinjuku (新宿区)]] #4/5 🟢
@@ -502,7 +502,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Budget|bento/onigiri]] portato da casa o konbini a Fujiyoshida (¥500–800)
 - 🍽️ **Cena:** [[Mangiare in Giappone#Tokyo|Shinjuku]] — Omoide Yokocho (vicolo ristoranti, ¥2.000–4.000)
 - 🍽️ **Dopo cena:** hōjicha (tè tostato) o sakè in un bar di Golden Gai
-- ⚠️ **Rebecca:** konbini onigiri solo riso bianco + frutta sicura. Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|italiano a Shinjuku (pasta aglio e olio)]] o cucina in hotel. Cercare su Google Maps "pasta Shinjuku"
+- ⚠️ **Rebecca:** colazione in hotel. Pranzo: konbini (onigiri solo riso bianco + frutta sicura — mela/pera/uva ✅). Cena: [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|italiano a Shinjuku (pasta aglio e olio, ✅ sicura)]] o **cucina in hotel**. Omoide Yokocho/izakaya ❌ NON sicuri. Cercare "pasta Shinjuku" su Google Maps
 
 **Sera:**
 - [[Shinjuku (新宿区)#Shinjuku Gyoen|Shinjuku Gyoen]] 🟢 (¥500, fino 18:00) — foliage autunnale ⚪ se ancora luce
@@ -527,7 +527,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi:**
 - 🍽️ **Pranzo:** [[Mangiare in Giappone#Budget|ramen]] a Nakano (¥800–1.200) o takoyaki
 - 🍽️ **Cena:** [[Mangiare in Giappone#Tokyo|Odaiba]] — ristoranti con vista baia di Tokyo e Rainbow Bridge (¥2.000–4.000)
-- ⚠️ **Rebecca:** ramen off-limits (soia+pesce). Pranzo al sacco. Cena: ristorante di carne/italiano a Odaiba (vista baia) — [[Allergie Alimentari Rebecca#Giorni a Tokyo (5 notti)|vedi opzioni]]
+- ⚠️ **Rebecca:** colazione in hotel. Ramen/takoyaki ❌ off-limits (soia+pesce). Pranzo da konbini (riso bianco, frutta) o [[Allergie Alimentari Rebecca#Tipi di ristoranti VERIFICATI|italiano a Nakano]]. Cena: ristorante di carne/italiano a Odaiba (vista baia — ✅ ci sono opzioni internazionali). Cercare "steakhouse Odaiba" o "pasta Odaiba" su Google Maps
 
 **Sera:**
 - Cena a Odaiba con vista Rainbow Bridge illuminato
@@ -545,7 +545,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🍽️ **Colazione:** [[Mangiare in Giappone#Tokyo|Tsukiji Market]] — sushi fresco al banco (¥1.000–3.000) se visiti il mercato
 - 🍽️ **Pranzo:** ultimo ramen o soba a Tokyo (¥800–1.500)
 - 🍽️ **Cena:** aeroporto (¥1.000–2.000) o ekiben per il volo
-- ⚠️ **Rebecca:** colazione da konbini (yogurt bianco, mela/pera). Tsukiji = tutto pesce+soia, Rebecca niente. Pranzo: pasta aglio e olio all'ultimo ristorante italiano prima dell'aeroporto. Cena: volo (pasto speciale prenotato — NO banana, fragola, kiwi, arancia, soia, pesce, crostacei, frutta secca)
+- ⚠️ **Rebecca:** colazione da konbini (yogurt bianco, mela/pera ✅ — niente banana/kiwi/arancia). Tsukiji ❌ tutto pesce+soia, Rebecca non può mangiare niente lì. Pranzo: ultima pasta aglio e olio in un ristorante italiano (cercare nei pressi dell'hotel o sulla strada per l'aeroporto). Cena: volo (pasto speciale prenotato — specificare: NO soia, NO pesce, NO crostacei, NO frutta secca, NO banana, NO fragola, NO kiwi, NO arancia)
 
 **Mattina:**
 - [[Palazzo Imperiale di Tokyo (皇居)]] #4/5 🟢 (9:00–11:15, GRATIS) — tour guidato del palazzo, giardini orientali
@@ -571,6 +571,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o zona Shibuya/[[Parco di Ueno (上野恩賜公園)]].
 
 Se già rientrati, niente.
+
+- ⚠️ **Rebecca:** colazione konbini/volo. Pranzo: aeroporto (pasto speciale prenotato o konbini — riso bianco, yogurt). Cena: a casa in Italia 🎉
 
 ---
 

@@ -49,7 +49,8 @@ Travel-Vault/
 │   └── templates/                        ← Per aggiungere nuove destinazioni
 │       ├── locations.md                  ← Template locations
 │       ├── itinerari.md                  ← Template itinerari
-│       └── logistica.md                  ← Template logistica
+│       ├── logistica.md                  ← Template logistica
+│       └── How to Plan an Itinerary - Best Practices.md   ← ★ Metodologia completa
 │
 ├── Info/
 │   └── Japan/

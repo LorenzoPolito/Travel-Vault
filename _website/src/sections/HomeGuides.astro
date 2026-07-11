@@ -1,5 +1,6 @@
 ---
 import EmptyState from '../components/EmptyState.astro';
+import TopicImage from '../illustrations/TopicImage.astro';
 import { R, url, slugToName } from '../constants';
 
 interface Props {
@@ -30,12 +31,14 @@ const guideEmoji = (cat: string) =>
           const cat = info.data.category || info.data.categoria || '';
           const name = slugToName(info.id.split('/').pop() || info.id);
           return (
-            <a href={$(R.guide(info.id))} class="card animate-in a--plain">
-              <div class="card-emoji">{guideEmoji(cat)}</div>
-              <h3 class="card-title">{name}</h3>
-              <div class="card-meta">
-                {info.data.destination && <span class="tag">{info.data.destination}</span>}
-                {cat && <span class="tag tag--info">{cat}</span>}
+            <a href={$(R.guide(info.id))} class="card card--topic animate-in a--plain">
+              <TopicImage topic={cat} base={base} />
+              <div class="card-topic-content">
+                <h3 class="card-title">{name}</h3>
+                <div class="card-meta">
+                  {info.data.destination && <span class="tag">{info.data.destination}</span>}
+                  {cat && <span class="tag tag--info">{cat}</span>}
+                </div>
               </div>
             </a>
           );

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+  <defs>
+    <linearGradient id="sky-fl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="100%" stop-color="#1a1a3e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="320" fill="url(#sky-fl)"/>
+  <!-- Airplane body -->
+  <path d="M50 160 L120 150 L170 120 L340 100 L340 115 L190 155 L160 200 L80 220 L100 170Z" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+  <!-- Wing -->
+  <path d="M160 155 L100 190 L110 175Z" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <path d="M200 145 L290 130 L280 142Z" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <!-- Window dots -->
+  <circle cx="150" cy="148" r="3" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="168" cy="145" r="3" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="186" cy="142" r="3" fill="rgba(255,255,255,0.1)"/>
+  <!-- Contrails -->
+  <line x1="50" y1="165" x2="10" y2="175" stroke="rgba(255,255,255,0.05)" stroke-width="2"/>
+  <line x1="55" y1="170" x2="15" y2="185" stroke="rgba(255,255,255,0.03)" stroke-width="1.5"/>
+  <!-- Stars -->
+  <circle cx="60" cy="40" r="1.5" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="150" cy="25" r="1" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="280" cy="50" r="1.5" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="340" cy="30" r="1" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="200" cy="60" r="1" fill="rgba(255,255,255,0.1)"/>
+  <circle cx="100" cy="70" r="1.5" fill="rgba(255,255,255,0.15)"/>
+</svg>

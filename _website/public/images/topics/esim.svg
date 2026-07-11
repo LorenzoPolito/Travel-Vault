@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+  <defs>
+    <linearGradient id="sky-es" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a1a"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="320" fill="url(#sky-es)"/>
+  <!-- Phone body -->
+  <rect x="140" y="40" width="120" height="240" rx="16" fill="rgba(255,255,255,0.05)" stroke="rgba(255,255,255,0.1)" stroke-width="2"/>
+  <!-- Phone screen -->
+  <rect x="148" y="56" width="104" height="200" rx="4" fill="rgba(255,255,255,0.03)"/>
+  <!-- Signal bars on screen -->
+  <rect x="165" y="155" width="6" height="12" rx="1" fill="rgba(255,255,255,0.08)"/>
+  <rect x="177" y="145" width="6" height="22" rx="1" fill="rgba(255,255,255,0.1)"/>
+  <rect x="189" y="135" width="6" height="32" rx="1" fill="rgba(255,255,255,0.12)"/>
+  <rect x="201" y="125" width="6" height="42" rx="1" fill="rgba(255,255,255,0.15)"/>
+  <rect x="213" y="115" width="6" height="52" rx="1" fill="rgba(255,255,255,0.18)"/>
+  <!-- Signal waves -->
+  <path d="M230 145 Q240 135 250 145" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none"/>
+  <path d="M230 130 Q245 115 260 130" stroke="rgba(255,255,255,0.04)" stroke-width="1.5" fill="none"/>
+  <path d="M230 115 Q250 95 270 115" stroke="rgba(255,255,255,0.03)" stroke-width="1.5" fill="none"/>
+  <!-- Phone home button -->
+  <rect x="185" y="268" width="30" height="3" rx="1.5" fill="rgba(255,255,255,0.05)"/>
+  <!-- Glow around phone -->
+  <circle cx="200" cy="160" r="100" fill="rgba(255,255,255,0.02)"/>
+</svg>

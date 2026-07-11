@@ -1,0 +1,64 @@
+---
+/**
+ * TopicImage.astro
+ *
+ * Mostra l'illustrazione SVG per il tipo di guida (trasporto, sicurezza, voli, esim, pass, guida).
+ * ANTIFRAGILE: se l'SVG non esiste, non si vede (fallisce elegantemente).
+ * Il genitore deve fornire un fallback gradient come sfondo.
+ *
+ * Aggiungi nuovi topic:
+ *   1. Crea public/images/topics/{slug}.svg
+ *   2. Aggiungi a TOPIC_IMAGES qui sotto
+ */
+import { url } from '../constants';
+
+interface Props {
+  topic?: string;
+  base: string;
+  class?: string;
+}
+
+const { topic = '', base, class: className = '' } = Astro.props;
+
+// Registry topic → file SVG.
+// Match per parole chiave, non per match esatto (così è antifragile).
+const TOPIC_RULES: Array<{ keywords: string[]; file: string }> = [
+  { keywords: ['ic-card', 'ic-card', 'trasport', 'train', 'metro', 'bus', 'treno', 'shinkansen'], file: 'transport.svg' },
+  { keywords: ['sicur', 'safety', 'sicurezza', 'emergenz'], file: 'safety.svg' },
+  { keywords: ['voli', 'flight', 'volo', 'aereo', 'aeroporto'], file: 'flights.svg' },
+  { keywords: ['sim', 'esim', 'e-sim', 'phone', 'telefon'], file: 'esim.svg' },
+  { keywords: ['pass', 'ticket', 'bigliett', 'abbonament'], file: 'pass.svg' },
+];
+
+const lowerTopic = topic.toLowerCase();
+const rule = TOPIC_RULES.find(r => r.keywords.some(k => lowerTopic.includes(k)));
+const filename = rule?.file ?? 'guide.svg';
+const topicSrc = url(base, `/images/topics/${encodeURIComponent(filename)}`);
+---
+
+{topicSrc && (
+  <img
+    src={topicSrc}
+    alt=""
+    class={`topic-illustration ${className}`}
+    loading="lazy"
+    decoding="async"
+    aria-hidden="true"
+    onerror="this.style.display='none'"
+  />
+)}
+
+<style>
+  .topic-illustration {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.4;
+    pointer-events: none;
+    user-select: none;
+    transition: opacity var(--transition-base);
+  }
+</style>

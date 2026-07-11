@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+  <defs>
+    <linearGradient id="sky-tr" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a1628"/>
+      <stop offset="100%" stop-color="#1a2a3e"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="320" fill="url(#sky-tr)"/>
+  <!-- Train body -->
+  <rect x="50" y="120" width="300" height="120" rx="12" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="2"/>
+  <!-- Train front -->
+  <path d="M50 120 L38 140 L38 220 L50 240" fill="rgba(255,255,255,0.04)" stroke="rgba(255,255,255,0.1)" stroke-width="1.5"/>
+  <!-- Train stripe -->
+  <rect x="50" y="165" width="300" height="6" fill="rgba(255,107,107,0.15)"/>
+  <!-- Windows -->
+  <rect x="85" y="135" width="40" height="30" rx="4" fill="rgba(255,255,255,0.08)"/>
+  <rect x="140" y="135" width="40" height="30" rx="4" fill="rgba(255,255,255,0.08)"/>
+  <rect x="195" y="135" width="40" height="30" rx="4" fill="rgba(255,255,255,0.08)"/>
+  <rect x="250" y="135" width="40" height="30" rx="4" fill="rgba(255,255,255,0.08)"/>
+  <!-- Headlight -->
+  <circle cx="42" cy="180" r="5" fill="rgba(255,255,255,0.15)"/>
+  <!-- Rail tracks -->
+  <rect x="30" y="250" width="340" height="3" fill="rgba(255,255,255,0.06)"/>
+  <rect x="30" y="262" width="340" height="3" fill="rgba(255,255,255,0.06)"/>
+  <!-- Rail ties -->
+  <rect x="60" y="248" width="4" height="20" rx="1" fill="rgba(255,255,255,0.04)"/>
+  <rect x="120" y="248" width="4" height="20" rx="1" fill="rgba(255,255,255,0.04)"/>
+  <rect x="180" y="248" width="4" height="20" rx="1" fill="rgba(255,255,255,0.04)"/>
+  <rect x="240" y="248" width="4" height="20" rx="1" fill="rgba(255,255,255,0.04)"/>
+  <rect x="300" y="248" width="4" height="20" rx="1" fill="rgba(255,255,255,0.04)"/>
+  <!-- Speed lines -->
+  <line x1="310" y1="155" x2="365" y2="155" stroke="rgba(255,255,255,0.06)" stroke-width="1.5"/>
+  <line x1="320" y1="200" x2="370" y2="200" stroke="rgba(255,255,255,0.04)" stroke-width="1"/>
+  <line x1="300" y1="235" x2="360" y2="235" stroke="rgba(255,255,255,0.03)" stroke-width="1"/>
+</svg>

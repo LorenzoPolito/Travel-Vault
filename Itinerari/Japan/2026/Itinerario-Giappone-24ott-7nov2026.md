@@ -178,11 +178,11 @@ xychart-beta
 
 ### Alloggi
 
-| # | Città | Struttura | Date | Notti | Cucina | Ref |
-|---|---|---|---|---|---|---|
-| 1 | [[Osaka(大阪市)]] | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott | 4 | ✅ Angolo cottura | 🔵 **PRENOTATO** |
-| 2 | [[Kyoto(京都)]] | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] | 29 Ott–1 Nov | 3 | ✅ Cucina attrezzata | 🔵 **PRENOTATO** |
-| 3 | [[Tokyo(東京)]] | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] | 1–6 Nov | 5 | ❌ **DA VERIFICARE** | 🔵 **PRENOTATO** |
+| #   | Città          | Struttura                                                        | Date         | Notti | Cucina              | Ref              |
+| --- | -------------- | ---------------------------------------------------------------- | ------------ | ----- | ------------------- | ---------------- |
+| 1   | [[Osaka(大阪市)]] | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott    | 4     | ✅ Angolo cottura    | 🔵 **PRENOTATO** |
+| 2   | [[Kyoto(京都)]]  | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]]               | 29 Ott–1 Nov | 3     | ✅ Cucina attrezzata | 🔵 **PRENOTATO** |
+| 3   | [[Tokyo(東京)]]  | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]]         | 1–6 Nov      | 5     | ❌ **DA VERIFICARE** | 🔵 **PRENOTATO** |
 
 > ⚠️ **Tokyo:** La cucina per Rebecca non è confermata. Se non c'è, cercare alternativa con cucina nella zona Asakusa/Taito. Vedi [[Tokyo - Taito City Guesthouse#⚠️ CRITICO — Rebecca: CUCINA DA VERIFICARE]].
 >
@@ -202,15 +202,18 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Checklist pre-partenza:**
 - [ ] Passaporti validi 6+ mesi
-- [ ] Assicurazione viaggio stampata
-- [ ] eSIM attivata sul telefono
+- [ ] [[Emergenze e Sicurezza#Assicurazione Viaggio|Assicurazione viaggio]] stampata
+- [ ] eSIM attivata sul telefono (Klook o Airalo)
 - [ ] Suica digitale su iPhone / Wallet
 - [ ] Bancomat per prelievi yen (avvisa la banca)
 - [ ] Copie digitali documenti su cloud
 - [ ] Carica power bank, cavi, adattatore
+- [ ] 👕 **Valigia pronta** — vedi [[Packing List]] per lista completa
+- [ ] 🗣️ **Frasario giapponese** stampato — vedi [[Frasario Giapponese]]
 - [ ] 🏥 **Pasto speciale volo per Rebecca** (contatta compagnia aerea: no soia, no pesce, no crostacei, no frutta secca)
-- [ ] 📋 **Cartellino allergie in giapponese** (stampato) — vedi [[Allergie Alimentari Rebecca#Frasi Utili in Giapponese]]
+- [ ] 📋 **Cartellino allergie in giapponese** (plastificato) — vedi [[Frasario Giapponese#Cartellino Allergie di Rebecca]]
 - [ ] 🏠 **Verificare cucina in TUTTI gli alloggi** — vedi [[Allergie Alimentari Rebecca#Check-list Alloggi]]
+- [ ] 📱 **Scaricare app:** Google Maps offline, Safety Tips, Google Translate
 
 **Sera:**
 - Partenza per aeroporto

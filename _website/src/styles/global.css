@@ -1202,16 +1202,22 @@ pre[data-language="mermaid"] {
 }
 
 /* --- Itinerary detail page: wider layout --- */
-.section--wide .prose {
-  max-width: 720px;
-}
-
 .section--wide .container {
-  max-width: 1280px;
+  max-width: 1400px;
 }
 
-@media (max-width: 768px) {
-  .section--wide .prose {
-    max-width: 100%;
-  }
+.section--wide .prose {
+  max-width: 100%;
+}
+
+.section--wide .prose > * {
+  max-width: 800px;
+}
+
+.section--wide .prose table {
+  max-width: 100%;
+}
+
+.section--wide .prose pre {
+  max-width: 100%;
 }

@@ -1,7 +1,6 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import Map from '../../components/Map.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { R, url, slugToName, starsFromRating, getTypeEmoji } from '../../constants';
 
@@ -51,10 +50,6 @@ const ratingStars = entry.data.rating ? starsFromRating(entry.data.rating) : '';
           )}
         </div>
       </div>
-
-      {entry.data.location && Array.isArray(entry.data.location) && (
-        <Map lat={entry.data.location[0]} lon={entry.data.location[1]} zoom={15} height="300px" />
-      )}
 
       <div class="content prose">
         {entry.body?.trim() ? <Content /> : (

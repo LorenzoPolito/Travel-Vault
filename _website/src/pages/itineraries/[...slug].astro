@@ -1,10 +1,8 @@
 ---
 import Base from '../../layouts/Base.astro';
-import Map from '../../components/Map.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import Icon from '../../components/Icon.astro';
 import { R, url, PRETTY_NAMES, extractCoverImage, slugToName } from '../../constants';
-import { getLocations } from '../../data';
 
 export async function getStaticPaths() {
   const { getItineraries } = await import('../../data');
@@ -24,28 +22,22 @@ const displayName = PRETTY_NAMES[entry.id.replace(/\.md$/, '')] || slugToName(en
 const coverImage = extractCoverImage(entry.body);
 
 const dayHeadings: Array<{ text: string; anchor: string }> = [];
-const headingRegex = /^(#{1,3})\s+(Giorno\s+\d+|Day\s+\d+|\d+[°\s]*(Giorno|Day))/gim;
+// Match FULL heading lines containing "Giorno" or "Day"
+const headingRegex = /^(#{1,3})\s+(.*(?:\bGiorno\b|\bDay\b).*)$/gim;
 let match;
 while ((match = headingRegex.exec(entry.body)) !== null) {
-  const clean = match[0].replace(/^#+\s+/, '');
-  const anchor = clean.toLowerCase().replace(/[^\w\s-]/g, '').replace(/\s+/g, '-');
-  dayHeadings.push({ text: clean, anchor });
+  const raw = match[0]; // e.g., "## Giorno 1 — Sabato 24 Ottobre — Partenza"
+  const text = raw.replace(/^#+\s+/, '');
+  // Generate the SAME anchor ID that Astro's markdown processor produces
+  const anchor = text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '-')  // replace non-word, non-space, non-hyphen chars with hyphen
+    .replace(/\s+/g, '-')       // collapse whitespace to hyphen
+    .replace(/-+/g, '-')        // collapse multiple hyphens
+    .replace(/^-|-$/g, '');     // trim leading/trailing hyphens
+  dayHeadings.push({ text, anchor });
 }
 
-const allLocations = await getLocations();
-const itineraryLocations = allLocations.filter((loc: any) => {
-  const locId = loc.id.replace(/\.md$/, '');
-  return locId && locId.length > 0 && entry.body.includes(locId);
-});
-
-const markers = itineraryLocations
-  .filter((l: any) => l.data.location && l.data.location.length === 2)
-  .map((l: any) => ({
-    lat: l.data.location[0],
-    lon: l.data.location[1],
-    title: slugToName(l.id),
-    slug: l.id.replace(/\.md$/, '')
-  }));
 ---
 
 <Base title={displayName} description={`Itinerario: ${displayName}`}>
@@ -100,18 +92,6 @@ const markers = itineraryLocations
                 </nav>
               </div>
             )}
-
-            <div class="sidebar-card">
-              <h3 class="sidebar-title">🗺️ Mappa</h3>
-              {markers.length > 0 ? (
-                <Map markers={markers} height="350px" id={`map-${entry.id.replace(/[^a-zA-Z0-9]/g, '')}`} />
-              ) : (
-                <div class="empty-state" style="min-height: auto; padding: var(--space-lg);">
-                  <div class="empty-icon" style="font-size: 2rem; margin-bottom: var(--space-sm);">🗺️</div>
-                  <p style="color: var(--text-muted); font-size: 0.9rem; margin: 0;">Nessuna location con coordinate</p>
-                </div>
-              )}
-            </div>
 
             {entry.data.percorso && (
               <div class="sidebar-card">

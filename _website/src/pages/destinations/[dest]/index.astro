@@ -1,6 +1,5 @@
 ---
 import Base from '../../../layouts/Base.astro';
-import Map from '../../../components/Map.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { R, url, slugToName, starsFromRating, getCategoryEmoji } from '../../../constants';
 import { getLocationsByDest, getItinerariesByDest } from '../../../data';
@@ -33,15 +32,6 @@ pois.forEach((poi: any) => {
   categories[cat].push(poi);
 });
 
-const markers = pois
-  .filter(p => p.data.location && Array.isArray(p.data.location))
-  .map(p => ({
-    lat: (p.data.location as number[])[0],
-    lon: (p.data.location as number[])[1],
-    title: slugToName(p.id),
-    slug: p.id.replace(/\.md$/, '')
-  }));
-
 const destEmoji = destination.toLowerCase() === 'japan' ? '🇯🇵' : destination.toLowerCase() === 'italia' ? '🇮🇹' : '🌍';
 ---
 
@@ -62,16 +52,6 @@ const destEmoji = destination.toLowerCase() === 'japan' ? '🇯🇵' : destinati
           <span class="tag tag--success">{itineraries.length} itinerari</span>
         </div>
       </div>
-
-      {markers.length > 0 && (
-        <div class="mb-3xl">
-          <div class="section-header">
-            <p class="section-label">Mappa</p>
-            <h2>Esplora i luoghi sulla mappa</h2>
-          </div>
-          <Map markers={markers} height="450px" zoom={6} />
-        </div>
-      )}
 
       {cities.length > 0 && (
         <div class="mb-3xl">

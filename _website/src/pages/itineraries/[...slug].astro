@@ -82,9 +82,9 @@ while ((match = headingRegex.exec(entry.body)) !== null) {
             {dayHeadings.length > 0 && (
               <div class="sidebar-card">
                 <h3 class="sidebar-title">📅 Giorni</h3>
-                <nav class="day-nav">
+                <nav class="day-nav" id="dayNav">
                   {dayHeadings.map(d => (
-                    <a href={`#${d.anchor}`} class="day-link">
+                    <a href={`#${d.anchor}`} class="day-link" data-day-text={d.text}>
                       <span class="day-dot"></span>
                       {d.text}
                     </a>
@@ -132,3 +132,27 @@ while ((match = headingRegex.exec(entry.body)) !== null) {
     gap: var(--space-lg);
   }
 </style>
+
+<script>
+  // Day navigation: scroll to heading by text content (robust vs mismatched IDs)
+  document.addEventListener('astro:page-load', () => {
+    const nav = document.getElementById('dayNav');
+    if (!nav) return;
+    nav.querySelectorAll('[data-day-text]').forEach(link => {
+      link.addEventListener('click', (e) => {
+        e.preventDefault();
+        const text = link.getAttribute('data-day-text');
+        if (!text) return;
+        // Find the heading by text content
+        const headings = document.querySelectorAll('h1, h2, h3, h4, h5, h6');
+        for (const h of headings) {
+          if (h.textContent?.trim() === text.trim()) {
+            const top = h.getBoundingClientRect().top + window.scrollY - 100;
+            window.scrollTo({ top, behavior: 'smooth' });
+            break;
+          }
+        }
+      });
+    });
+  });
+</script>

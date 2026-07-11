@@ -1,8 +1,19 @@
 /**
- * Data layer antifragile.
+ * @@ DATA LAYER ANTIFRAGILE @@
+ *
  * Ogni accesso alle collection è safe-wrapped: se una collection manca,
- * restituisce array vuoto invece di crashare.
- * Aggiungi qui ogni nuova collection — le pagine la troveranno automaticamente.
+ * restituisce array vuoto invece di crashare. Usa sempre i metodi di
+ * questo file invece di chiamare getCollection() direttamente.
+ *
+ * ## Come aggiungere una nuova collection:
+ * 1. Aggiungi il nome all'array COLLECTIONS qui sotto
+ * 2. Crea una funzione getXxx() che chiama getSafe('xxx')
+ * 3. Se serve dati derivati, aggiungi una funzione qui sotto
+ *
+ * ## Perché non chiamare getCollection() direttamente?
+ * - Se il nome della collection cambia, lo cambi in UN posto solo
+ * - Se la collection non esiste, NON crasha il build
+ * - I dati derivati sono calcolati una volta e riutilizzati
  */
 import { getCollection } from 'astro:content';
 import { ACTIVE_ITIN_PREFIX } from './constants';

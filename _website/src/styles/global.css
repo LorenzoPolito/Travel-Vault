@@ -1271,22 +1271,4 @@ pre[data-language="mermaid"] {
   }
 }
 
-/* --- Itinerary detail page: wider layout --- */
-.section--wide .prose {
-  max-width: 100%;
-}
 
-.section--wide .prose > * {
-  max-width: 800px;
-}
-
-.section--wide .prose table,
-.section--wide .prose pre {
-  max-width: 100%;
-}
-
-@media (min-width: 1024px) {
-  .section--wide .container {
-    max-width: 1400px;
-  }
-}

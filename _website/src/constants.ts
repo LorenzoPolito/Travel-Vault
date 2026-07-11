@@ -100,6 +100,32 @@ export function extractCoverImage(body: string): string | null {
   return match ? match[1] : null
 }
 
+/* --- Destination Themes --- */
+// Usato dalle bento card per mostrare gradienti unici per ogni nazione.
+// Aggiungi una nuova nazione qui + la sua illustrazione SVG in public/images/countries/.
+export interface DestTheme {
+  gradient: string;
+  accent: string;
+}
+
+export const DEST_THEMES: Record<string, DestTheme> = {
+  japan: {
+    gradient: 'linear-gradient(135deg, #1a0a2e 0%, #16213e 40%, #0f3460 100%)',
+    accent: '#ff6b6b',
+  },
+  italia: {
+    gradient: 'linear-gradient(135deg, #0d1b0d 0%, #1a2e1a 40%, #0d1b2a 100%)',
+    accent: '#58d68d',
+  },
+};
+
+export function getDestTheme(dest: string): DestTheme {
+  return DEST_THEMES[dest.toLowerCase()] || {
+    gradient: 'linear-gradient(135deg, #1a1a2e 0%, #2d1b2e 40%, #1a1a3e 100%)',
+    accent: '#ffa07a',
+  };
+}
+
 /* --- Atomic Route System --- */
 // Path definitions: single source of truth for all URLs.
 // Always use the named functions; never hardcode paths.
@@ -117,6 +143,7 @@ export const R = {
   guides: '/guides/',
   guide: (slug: string) => `/guides/${stripMdSlash(slug)}`,
   image: (filename: string) => `/images/vault/${encodeURIComponent(filename)}`,
+  countryImage: (filename: string) => `/images/countries/${encodeURIComponent(filename)}`,
   assets: (path: string) => `/_assets/${path}`,
   favicon: SITE.favicon,
 }

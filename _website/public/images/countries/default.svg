@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <!-- Compass rose -->
+  <circle cx="200" cy="130" r="60" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+  <circle cx="200" cy="130" r="40" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+  <circle cx="200" cy="130" r="20" stroke="rgba(255,255,255,0.05)" stroke-width="1"/>
+  <!-- Compass star points -->
+  <path d="M200 70 L208 120 L200 90 L192 120Z" fill="rgba(255,255,255,0.1)"/>
+  <path d="M200 190 L208 140 L200 170 L192 140Z" fill="rgba(255,255,255,0.06)"/>
+  <path d="M140 130 L190 122 L160 130 L190 138Z" fill="rgba(255,255,255,0.06)"/>
+  <path d="M260 130 L210 122 L240 130 L210 138Z" fill="rgba(255,255,255,0.1)"/>
+  <!-- Map lines -->
+  <path d="M40 220 Q120 180 200 210 Q280 240 360 200" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none"/>
+  <path d="M60 250 Q140 220 200 240 Q260 260 340 230" stroke="rgba(255,255,255,0.04)" stroke-width="1" fill="none"/>
+  <!-- Pin circles -->
+  <circle cx="120" cy="205" r="3" fill="rgba(255,107,107,0.2)"/>
+  <circle cx="280" cy="215" r="3" fill="rgba(255,107,107,0.15)"/>
+</svg>

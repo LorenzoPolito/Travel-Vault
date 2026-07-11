@@ -1,7 +1,8 @@
 ---
 import Icon from '../components/Icon.astro';
 import EmptyState from '../components/EmptyState.astro';
-import { R, url, extractCoverImage, slugToName } from '../constants';
+import CountryImage from '../illustrations/CountryImage.astro';
+import { R, url, extractCoverImage, slugToName, getDestTheme } from '../constants';
 
 interface Itinerary {
   id: string;
@@ -18,13 +19,7 @@ interface Props {
 const { active, others, base } = Astro.props;
 const $ = (p: string) => url(base, p);
 
-const cityEmoji = (city: string): string => {
-  const m: Record<string, string> = {
-    osaka: '🏯', hiroshima: '🕊️', kyoto: '⛩️', tokyo: '🗼', nara: '🦌',
-    kobe: '🍷', nagoya: '🏭', fukuoka: '🌸', sapporo: '🍺',
-  };
-  return m[city.toLowerCase().trim()] || '🗺️';
-};
+
 ---
 
 <section class="section">
@@ -61,20 +56,21 @@ const cityEmoji = (city: string): string => {
           const cover = extractCoverImage(itin.body || '');
           const name = slugToName(itin.id).replace(/Itinerario /i, '');
           const cities = itin.data.percorso || '';
-          const dest = (itin.data.destination || '').toLowerCase();
-          const gradient = dest === 'japan' ? 'var(--gradient-japan)' : 'var(--gradient-default)';
+          const dest = (itin.data.destination || '');
+          const theme = getDestTheme(dest);
           const cityList = cities ? cities.split('→').map((s: string) => s.trim()) : [];
-          const emoji = cityList.length > 0 ? cityEmoji(cityList[0]) : '🗺️';
           return (
             <a href={$(R.itinerary(itin.id))} class="card animate-in a--plain">
               <div class="bento-img-wrapper">
                 {cover ? (
                   <img src={cover} alt={name} loading="lazy" />
                 ) : (
-                  <div class="bento-gradient" style={`background: ${gradient};`}>
-                    <span class="bento-gradient-icon">{emoji}</span>
-                    {cityList.length > 0 && <span class="bento-gradient-cities">{cityList.slice(0, 4).join(' → ')}</span>}
-                    {durata && <span class="bento-gradient-durata">{durata}</span>}
+                  <div class="bento-gradient" style={`background: ${theme.gradient};`}>
+                    <CountryImage dest={itin.data.destination} base={base} />
+                    <div class="bento-gradient-content">
+                      {cityList.length > 0 && <span class="bento-gradient-cities">{cityList.slice(0, 4).join(' → ')}</span>}
+                      {durata && <span class="bento-gradient-durata">{durata}</span>}
+                    </div>
                   </div>
                 )}
               </div>

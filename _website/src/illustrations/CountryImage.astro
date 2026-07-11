@@ -1,0 +1,76 @@
+---
+/**
+ * CountryImage.astro
+ *
+ * Mostra l'illustrazione SVG della nazione (es. torii per Giappone).
+ * ANTIFRAGILE: se l'SVG non esiste, non si vede (fallisce in modo elegante).
+ * Il genitore deve fornire un fallback gradient come sfondo.
+ *
+ * Esempio:
+ *   <aside class="bento-img-wrapper">
+ *     <div class="bento-gradient" style="background: var(--gradient-japan);">
+ *       <CountryImage dest="Japan" />
+ *       <div class="bento-gradient-content">
+ *         <span class="bento-gradient-cities">...</span>
+ *       </div>
+ *     </div>
+ *   </aside>
+ *
+ * Aggiungi nuove nazioni:
+ *   1. Crea public/images/countries/{slug}.svg
+ *   2. Aggiungi la destinazione a COUNTRY_IMAGES qui sotto
+ *   3. Aggiungi il tema in constants.ts (gradient, accent)
+ */
+import { R, url } from '../constants';
+
+interface Props {
+  dest?: string;
+  base: string;
+  class?: string;
+}
+
+const { dest, base, class: className = '' } = Astro.props;
+
+// Registry nazione → file SVG.
+// Aggiungi qui ogni nuova nazione.
+const COUNTRY_IMAGES: Record<string, string> = {
+  japan: 'japan.svg',
+  giappone: 'japan.svg',
+  italia: 'italia.svg',
+  italy: 'italia.svg',
+};
+
+const slug = (dest || '').toLowerCase();
+const filename = COUNTRY_IMAGES[slug];
+const src = filename ? url(base, R.countryImage(filename)) : '';
+---
+
+{src && (
+  <img
+    src={src}
+    alt=""
+    class={`country-illustration ${className}`}
+    loading="lazy"
+    decoding="async"
+    aria-hidden="true"
+    onerror="this.style.display='none'"
+  />
+)}
+
+<style>
+  .country-illustration {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    opacity: 0.35;
+    pointer-events: none;
+    user-select: none;
+    transition: opacity var(--transition-base);
+  }
+  .card:hover .country-illustration {
+    opacity: 0.5;
+  }
+</style>

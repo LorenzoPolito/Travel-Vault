@@ -628,11 +628,12 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | 1-3 Ago | ⬜ **PRENOTARE** 🎯 | — | Target: Roma→KIX (arrivo 25 ott) / NRT→Roma (partenza 6-7 nov) |
 
 **Criteri volo:**
-- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), arrivo 25 Ottobre
-- 🛬 **Ritorno:** Tokyo (NRT o HND) → Roma (FCO), partenza 6-7 Novembre
-- 💰 **Target prezzo:** 700–900 €/persona A/R
+- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), arrivo 25 Ottobre. **NON diretto** — 1 scalo (Dubai, Doha, Istanbul). Durata: ~16-20h totali. **Evitare scali lunghi >6h che portano a 24-30h totali.**
+- 🛬 **Ritorno:** Tokyo (HND) → Roma (FCO), partenza 6-7 Novembre. **DIRETTO ITA disponibile** (~13h) oppure 1 scalo economico (Dubai/Doha, ~16-18h).
+- 💰 **Target prezzo:** 800–1.000 €/persona A/R
 - ✅ **Rebecca:** pasto speciale obbligatorio (no soia, no pesce, no crostacei, no frutta secca)
-- 🔍 **Skyscanner, Momondo, Google Flights** con alert di prezzo
+- 🔍 **Skyscanner, Momondo, Google Flights** con alert di prezzo per tratte separate
+- 💡 **Strategia:** Andata economica con scalo + ritorno diretto ITA = miglior rapporto qualità-prezzo
 
 ### Log Spostamenti Itinerario
 

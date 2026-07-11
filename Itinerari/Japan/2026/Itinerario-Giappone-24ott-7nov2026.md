@@ -612,20 +612,20 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ### Calendario Monitoraggio
 
-| Data Check | Check | Prezzo Volo Trovato | Note |
-|---|---|---|---|
-| 11 Lug | ✅ Fatto | **Andata** FCO→KIX: da **€290** (China Eastern via Shanghai, 15h) a €600 · **Ritorno** TYO→FCO: da **€250** (Finnair via Helsinki, 17h40) a €550-750 (ITA diretto, 14h45) | Fonte: Rome2Rio ([FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome)). Target A/R: ~€650-900/pax. Opzioni migliori: China Eastern/Finnair andata + ITA diretto ritorno |
-| 13 Lug | ⬜ Da fare | — | — |
-| 15 Lug | ⬜ Da fare | — | — |
-| 17 Lug | ⬜ Da fare | — | — |
-| 19 Lug | ⬜ Da fare | — | — |
-| 21 Lug | ⬜ Da fare | — | — |
-| 23 Lug | ⬜ Da fare | — | — |
-| 25 Lug | ⬜ Da fare | — | — |
-| 27 Lug | ⬜ Da fare | — | — |
-| 29 Lug | ⬜ Da fare | — | — |
-| 31 Lug | ⬜ Da fare | — | — |
-| 1-3 Ago | ⬜ **PRENOTARE** 🎯 | — | Target: Roma→KIX (arrivo 25 ott) / NRT→Roma (partenza 6-7 nov) |
+| Data | Stato | 🛫 Andata FCO→KIX 24-25 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
+|---|---|---|---|---|---|---|
+| 11 Lug | ✅ | **€290-600** · China Eastern via PVG (15h, da €290) · Finnair via HEL (18h) · Emirates via DXB (16h, da €450) | **€250-750** · Finnair via HEL (17h40, da €250) · KLM via AMS (17h30, da €270) · ITA **diretto** HND→FCO (14h45, €550-750) | **~€650-1.100** | [Rome2Rio FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [Rome2Rio TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome) |
+| 13 Lug | ⬜ | — | — | — | — |
+| 15 Lug | ⬜ | — | — | — | — |
+| 17 Lug | ⬜ | — | — | — | — |
+| 19 Lug | ⬜ | — | — | — | — |
+| 21 Lug | ⬜ | — | — | — | — |
+| 23 Lug | ⬜ | — | — | — | — |
+| 25 Lug | ⬜ | — | — | — | — |
+| 27 Lug | ⬜ | — | — | — | — |
+| 29 Lug | ⬜ | — | — | — | — |
+| 31 Lug | ⬜ | — | — | — | — |
+| 1-3 Ago 🎯 | ⬜ | **Target: €300-500** · 1 scalo (DXB, DOH, IST) · max 20h totali | **Target: €300-500** · ITA diretto se ~€500, Finnair/KLM se <€350 | **Target: €700-1.000** | Controllare: Skyscanner, Momondo, Google Flights |
 
 **Criteri volo:**
 - 🛫 **Andata:** Roma (FCO) → Osaka (KIX), arrivo 25 Ottobre. **NON diretto** — 1 scalo (Dubai, Doha, Istanbul). Durata: ~16-20h totali. **Evitare scali lunghi >6h che portano a 24-30h totali.**

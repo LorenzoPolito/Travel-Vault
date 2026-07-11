@@ -7,7 +7,7 @@ tags:
   - alloggio
   - tokyo
   - prenotato
-  - cucina-da-verificare
+  - cucina
 ---
 
 # Tokyo — Taito City Guesthouse
@@ -42,33 +42,20 @@ Camera tradizionale giapponese con:
 
 | Servizio | Disponibile |
 |---|---|
-| Cucina | ❌ **Da verificare** (camera privata, potrebbe non avere cucina) |
+| Cucina | ✅ Sì (al primo piano, condivisa) |
 | Frigorifero | ❌ Da verificare |
 | Wi-Fi | ✅ Presumibile |
 | Bagno | ❌ Da verificare (possibile condiviso) |
 
-## ⚠️ CRITICO — Rebecca: CUCINA DA VERIFICARE
+## ✅ Rebecca — Cucina Confermata
 
-Questa struttura **non menziona una cucina**. Per Rebecca è **fondamentale** che ci sia:
-- Una cucina/cucina in comune nella guesthouse
-- O almeno un angolo cottura in camera
-- O un frigorifero per conservare cibo
-
-**Se non c'è cucina, Rebecca non può mangiare per 5 giorni.** 
-
-### Azioni necessarie:
-1. Contattare la struttura per chiedere: "È disponibile una cucina per gli ospiti?"
-2. Se NO → cercare alternative con cucina nella stessa zona
-3. Se SÌ (cucina condivisa) → verificare che sia ben attrezzata
-
-### In caso di cucina condivisa:
-Rebecca può usarla per preparare pasti semplici. Portare:
+Cucina **al primo piano, condivisa** — Rebecca può cucinare. Portare:
 
 - Pasta (sicura)
 - Riso (sicuro)
 - Verdure a basso nichel (zucchine, carote, patate)
-- Pollo (da comprare fresco)
-- Olio d'oliva, sale (da comprare sul posto)
+- Pollo da comprare fresco
+- Olio d'oliva, sale
 
 ### Supermarket vicini:
 - Zona Asakusa ha diversi supermarket (Life, Don Quijote)

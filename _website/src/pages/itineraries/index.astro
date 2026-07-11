@@ -1,14 +1,17 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import Icon from '../../components/Icon.astro';
 import { R, url, slugToName } from '../../constants';
+import { getActiveItinerary, getOtherItineraries } from '../../data';
 
-const itineraries = await getCollection('itineraries');
+const [activeItin, otherItins] = await Promise.all([
+  getActiveItinerary(),
+  getOtherItineraries(),
+]);
+
 const base = import.meta.env.BASE_URL;
 const $ = (p: string) => url(base, p);
-const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
-const otherItins = itineraries.filter(i => i !== activeItin);
 ---
 
 <Base title="Itinerari" description="Tutti gli itinerari di viaggio disponibili">
@@ -21,13 +24,13 @@ const otherItins = itineraries.filter(i => i !== activeItin);
 
       <div class="page-header page-header--flush">
         <h1 class="page-title">🗺️ Itinerari</h1>
-        <p>{itineraries.length} itinerari pianificati{activeItin ? ' — 1 attivo' : ''}</p>
+        <p>{activeItin ? otherItins.length + 1 : otherItins.length} itinerari{activeItin ? ' — 1 attivo' : ''}</p>
       </div>
 
       {activeItin && (
         <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain mb-2xl">
           <div class="featured-glow"></div>
-          <div class="featured-badge">🟢 Viaggio Attivo — Giappone 2026</div>
+          <div class="featured-badge"><Icon name="active" size={10} class="icon-tag" /> Viaggio Attivo — Giappone 2026</div>
           <div class="featured-content">
             <h3 class="card-title" style="font-size: 1.5rem;">Giappone 2026 — 24 Ott · 7 Nov</h3>
             <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
@@ -35,8 +38,8 @@ const otherItins = itineraries.filter(i => i !== activeItin);
               <span class="tag tag--success">attivo</span>
               <span class="tag">Giappone</span>
               <span class="tag tag--info">15 giorni</span>
-              <span class="tag">👥 Lorenzo, Davide, Rebecca</span>
-              <span class="tag">💰 ~2.500 €/pax</span>
+              <span class="tag"><Icon name="users" size={14} class="icon-tag" /> Lorenzo, Davide, Rebecca</span>
+              <span class="tag"><Icon name="coin" size={14} class="icon-tag" /> ~2.500 €/pax</span>
             </div>
           </div>
         </a>
@@ -49,7 +52,7 @@ const otherItins = itineraries.filter(i => i !== activeItin);
           </div>
 
           <div class="cards-grid">
-            {otherItins.map((itin) => {
+            {otherItins.map((itin: any) => {
               const name = slugToName(itin.id);
               return (
                 <a href={$(R.itinerary(itin.id))} class="card animate-in a--plain">

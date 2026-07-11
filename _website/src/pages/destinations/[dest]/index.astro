@@ -1,33 +1,27 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Map from '../../../components/Map.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import { R, url, slugToName, starsFromRating, getCategoryEmoji } from '../../../constants';
+import { getLocationsByDest, getItinerariesByDest } from '../../../data';
 
 export async function getStaticPaths() {
-  const locations = await getCollection('locations');
-  const itineraries = await getCollection('itineraries');
-  const infoEntries = await getCollection('info');
-
-  const destinations = new Set<string>();
-  locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
-  itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
-
-  return Array.from(destinations).map(dest => ({
+  const { getDestinations } = await import('../../../data');
+  const dests = await getDestinations();
+  return dests.map(dest => ({
     params: { dest: dest.toLowerCase() },
-    props: {
-      destination: dest,
-      locations: locations.filter(l => l.data.destination === dest),
-      itineraries: itineraries.filter(i => i.data.destination === dest),
-      info: infoEntries.filter(e => e.data.destination === dest),
-    },
+    props: { destination: dest },
   }));
 }
 
-const { destination, locations, itineraries } = Astro.props;
+const { destination } = Astro.props;
 const base = import.meta.env.BASE_URL;
 const $ = (p: string) => url(base, p);
+
+const [locations, itineraries] = await Promise.all([
+  getLocationsByDest(destination),
+  getItinerariesByDest(destination),
+]);
 
 const cities = locations.filter((l: any) => l.data.type === 'city');
 const pois = locations.filter((l: any) => l.data.type === 'location' || !l.data.type);

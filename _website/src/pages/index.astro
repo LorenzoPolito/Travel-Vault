@@ -1,46 +1,24 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import Icon from '../components/Icon.astro';
-import { R, url, extractCoverImage, slugToName } from '../constants';
+import HomeItineraries from '../sections/HomeItineraries.astro';
+import HomeDestinations from '../sections/HomeDestinations.astro';
+import HomeGuides from '../sections/HomeGuides.astro';
+import { R, url } from '../constants';
+import { getDestinations, getLocations, getItineraries, getInfo, getCities, getActiveItinerary, getOtherItineraries } from '../data';
 
-const cityEmoji = (city: string): string => {
-  const m: Record<string, string> = {
-    osaka: '🏯', hiroshima: '🕊️', kyoto: '⛩️', tokyo: '🗼', nara: '🦌',
-    kobe: '🍷', nagoya: '🏭', fukuoka: '🌸', sapporo: '🍺',
-  };
-  return m[city.toLowerCase().trim()] || '🗺️';
-};
+const [locations, itineraries, infoEntries, cities, activeItin, otherItins, destinations] = await Promise.all([
+  getLocations(),
+  getItineraries(),
+  getInfo(),
+  getCities(),
+  getActiveItinerary(),
+  getOtherItineraries(),
+  getDestinations(),
+]);
 
-const locations = await getCollection('locations');
-const itineraries = await getCollection('itineraries');
-const infoEntries = await getCollection('info');
-
-const destinations = new Set<string>();
-locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
-itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
-
-const cities = locations.filter(l => l.data.type === 'city');
-const activeItin = itineraries.find(i => i.id.startsWith('itinerario-giappone-24ott'));
-const otherItins = itineraries.filter(i => i !== activeItin);
 const base = import.meta.env.BASE_URL;
 const $ = (p: string) => url(base, p);
-
-const stats = [
-  { label: 'Destinazioni', value: destinations.size },
-  { label: 'Luoghi', value: locations.length },
-  { label: 'Itinerari', value: itineraries.length },
-  { label: 'Città', value: cities.length },
-] as const;
-
-const destEmoji = (d: string) =>
-  d.toLowerCase() === 'japan' ? '🇯🇵' : d.toLowerCase() === 'italia' ? '🇮🇹' : '🌍';
-
-const guideEmoji = (cat: string) =>
-  cat.includes('trasport') || cat.includes('ic-card') ? '🚄' :
-  cat.includes('sicur') || cat.includes('safety') ? '🛡️' :
-  cat.includes('vol') ? '✈️' :
-  cat.includes('sim') || cat.includes('e-sim') ? '📱' : '📖';
 ---
 
 <Base title="Home">
@@ -54,14 +32,14 @@ const guideEmoji = (cat: string) =>
       )}
       <h1>Esplora il mondo con<br/><span class="text-gradient">Travel-Vault</span></h1>
       <p class="hero-subtitle">
-        {destinations.size} destinazioni, {cities.length} città, {locations.length} luoghi da scoprire —
+        {destinations.length} destinazioni, {cities.length} città, {locations.length} luoghi da scoprire —
         itinerari dettagliati, mappe interattive e guide pratiche in un unico spazio.
       </p>
 
       <div class="hero-actions animate-in">
         {activeItin && (
           <a href={$(R.itinerary(activeItin.id))} class="hero-btn hero-btn--primary">
-            Vedi Itinerario Attivo →
+            Vedi Itinerario Attivo <Icon name="arrow-r" size={16} style="margin-left: 4px;" />
           </a>
         )}
         <a href={$(R.destinations)} class="hero-btn hero-btn--secondary">
@@ -70,7 +48,12 @@ const guideEmoji = (cat: string) =>
       </div>
 
       <div class="hero-stats">
-        {stats.map(s => (
+        {[
+          { label: 'Destinazioni', value: destinations.length },
+          { label: 'Luoghi', value: locations.length },
+          { label: 'Itinerari', value: itineraries.length },
+          { label: 'Città', value: cities.length },
+        ].map(s => (
           <div class="stat animate-in">
             <span class="stat-number">{s.value}</span>
             <span class="stat-label">{s.label}</span>
@@ -80,119 +63,7 @@ const guideEmoji = (cat: string) =>
     </div>
   </section>
 
-  <section class="section">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-label">Esplora in profondità</p>
-        <h2>Itinerari in Evidenza</h2>
-      </div>
-
-      {activeItin && (() => {
-        const durata = activeItin.data.durata_giorni ? `${activeItin.data.durata_giorni} giorni` : activeItin.data.durata || '';
-        return (
-          <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain mb-2xl">
-            <div class="featured-glow"></div>
-            <div class="featured-badge"><Icon name="active" size={10} class="icon-tag" /> Viaggio Attivo</div>
-            <div class="featured-content">
-              <h3 class="card-title" style="font-size: 1.6rem;">Giappone 2026 — 24 Ott · 7 Nov</h3>
-              <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
-              <div class="card-meta">
-                <span class="tag tag--success">attivo</span>
-                <span class="tag">Giappone</span>
-                <span class="tag tag--info">{durata}</span>
-                <span class="tag"><Icon name="users" size={14} class="icon-tag" /> Lorenzo, Davide, Rebecca</span>
-              </div>
-            </div>
-          </a>
-        );
-      })()}
-
-      <div class="bento-grid">
-        {otherItins.slice(0, 4).map((itin) => {
-          const durata = itin.data.durata_giorni ? `${itin.data.durata_giorni} giorni` : itin.data.durata || '';
-          const cover = extractCoverImage(itin.body || '');
-          const name = slugToName(itin.id).replace(/Itinerario /i, '');
-          const cities = itin.data.percorso || '';
-          const dest = (itin.data.destination || '').toLowerCase();
-          const gradient = dest === 'japan' ? 'var(--gradient-japan)' : 'var(--gradient-default)';
-          const cityList = cities ? cities.split('→').map(s => s.trim()) : [];
-          const emoji = cityList.length > 0 ? cityEmoji(cityList[0]) : '🗺️';
-          return (
-            <a href={$(R.itinerary(itin.id))} class="card animate-in a--plain">
-              <div class="bento-img-wrapper">
-                {cover ? (
-                  <img src={cover} alt={name} loading="lazy" />
-                ) : (
-                  <div class="bento-gradient" style={`background: ${gradient};`}>
-                    <span class="bento-gradient-icon">{emoji}</span>
-                    {cityList.length > 0 && <span class="bento-gradient-cities">{cityList.slice(0, 4).join(' → ')}</span>}
-                    {durata && <span class="bento-gradient-durata">{durata}</span>}
-                  </div>
-                )}
-              </div>
-              <div class="bento-content">
-                <h3 class="card-title">{name}</h3>
-                <div class="card-meta">
-                  {itin.data.destination && <span class="tag">{itin.data.destination}</span>}
-                  {durata && <span class="tag tag--info">{durata}</span>}
-                </div>
-              </div>
-            </a>
-          );
-        })}
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-label">Destinazioni</p>
-        <h2>Dove vuoi andare?</h2>
-      </div>
-
-      <div class="cards-grid">
-        {Array.from(destinations).map((dest) => {
-          const destLocations = locations.filter(l => l.data.destination === dest);
-          const destItineraries = itineraries.filter(it => it.data.destination === dest);
-          const destCities = destLocations.filter(l => l.data.type === 'city');
-          return (
-            <a href={$(R.destination(dest.toLowerCase()))} class="card animate-in a--plain">
-              <div class="card-emoji">{destEmoji(dest)}</div>
-              <h3 class="card-title">{dest}</h3>
-              <p class="card-description">
-                {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
-              </p>
-            </a>
-          );
-        })}
-      </div>
-    </div>
-  </section>
-
-  <section class="section">
-    <div class="container">
-      <div class="section-header">
-        <p class="section-label">Guide</p>
-        <h2>Tutto quello che devi sapere</h2>
-      </div>
-
-      <div class="cards-grid">
-        {infoEntries.slice(0, 6).map((info) => {
-          const cat = info.data.category || info.data.categoria || '';
-          const name = slugToName(info.id.split('/').pop() || info.id);
-          return (
-            <a href={$(R.guide(info.id))} class="card animate-in a--plain">
-              <div class="card-emoji">{guideEmoji(cat)}</div>
-              <h3 class="card-title">{name}</h3>
-              <div class="card-meta">
-                {info.data.destination && <span class="tag">{info.data.destination}</span>}
-                {cat && <span class="tag tag--info">{cat}</span>}
-              </div>
-            </a>
-          );
-        })}
-      </div>
-    </div>
-  </section>
+  <HomeItineraries active={activeItin} others={otherItins} base={base} />
+  <HomeDestinations destinations={destinations} locations={locations} itineraries={itineraries} base={base} />
+  <HomeGuides entries={infoEntries} base={base} />
 </Base>

@@ -1,0 +1,48 @@
+---
+import EmptyState from '../components/EmptyState.astro';
+import { R, url, slugToName } from '../constants';
+
+interface Props {
+  entries: any[];
+  base: string;
+}
+
+const { entries, base } = Astro.props;
+const $ = (p: string) => url(base, p);
+
+const guideEmoji = (cat: string) =>
+  cat.includes('trasport') || cat.includes('ic-card') ? '🚄' :
+  cat.includes('sicur') || cat.includes('safety') ? '🛡️' :
+  cat.includes('vol') ? '✈️' :
+  cat.includes('sim') || cat.includes('e-sim') ? '📱' : '📖';
+---
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-label">Guide</p>
+      <h2>Tutto quello che devi sapere</h2>
+    </div>
+
+    {entries.length > 0 ? (
+      <div class="cards-grid">
+        {entries.slice(0, 6).map((info) => {
+          const cat = info.data.category || info.data.categoria || '';
+          const name = slugToName(info.id.split('/').pop() || info.id);
+          return (
+            <a href={$(R.guide(info.id))} class="card animate-in a--plain">
+              <div class="card-emoji">{guideEmoji(cat)}</div>
+              <h3 class="card-title">{name}</h3>
+              <div class="card-meta">
+                {info.data.destination && <span class="tag">{info.data.destination}</span>}
+                {cat && <span class="tag tag--info">{cat}</span>}
+              </div>
+            </a>
+          );
+        })}
+      </div>
+    ) : (
+      <EmptyState icon="📖" title="Nessuna guida" description="Le guide non sono state ancora sincronizzate dal vault." />
+    )}
+  </div>
+</section>

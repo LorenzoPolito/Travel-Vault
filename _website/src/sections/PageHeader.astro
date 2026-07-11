@@ -1,0 +1,41 @@
+---
+import Breadcrumbs from '../components/Breadcrumbs.astro';
+import { R } from '../constants';
+
+interface Props {
+  title: string;
+  emoji?: string;
+  description?: string;
+  meta?: Array<{ label: string; type?: 'info' | 'success' | 'warning' }>;
+  breadcrumbs?: Array<{ label: string; href?: string }>;
+}
+
+const { title, emoji = '', description = '', meta = [], breadcrumbs } = Astro.props;
+---
+
+<section class="section">
+  <div class="container">
+    {breadcrumbs && <Breadcrumbs items={breadcrumbs} />}
+
+    <div class="page-header page-header--flush">
+      <h1 class="page-title">{emoji && <span class="page-title-emoji">{emoji}</span>}{title}</h1>
+      {description && <p>{description}</p>}
+      {meta.length > 0 && (
+        <div class="page-meta">
+          {meta.map(m => (
+            <span class={`tag ${m.type === 'info' ? 'tag--info' : m.type === 'success' ? 'tag--success' : ''}`}>
+              {m.label}
+            </span>
+          ))}
+        </div>
+      )}
+    </div>
+  </div>
+</section>
+
+<style>
+  .page-title-emoji {
+    margin-right: var(--space-sm);
+    font-size: 1.2em;
+  }
+</style>

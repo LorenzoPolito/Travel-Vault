@@ -1,11 +1,11 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import EmptyState from '../../components/EmptyState.astro';
 import { R, url, slugToName, getGuideCategoryEmoji } from '../../constants';
+import { getInfo } from '../../data';
 
-const infoEntries = await getCollection('info');
+const infoEntries = await getInfo();
 const base = import.meta.env.BASE_URL;
 const $ = (p: string) => url(base, p);
 ---
@@ -25,7 +25,7 @@ const $ = (p: string) => url(base, p);
 
       {infoEntries.length > 0 ? (
         <div class="cards-grid">
-          {infoEntries.map((info) => {
+          {infoEntries.map((info: any) => {
             const name = slugToName(info.id.split('/').pop() || info.id);
             const cat = info.data.category || info.data.categoria || '';
             return (

@@ -1,17 +1,15 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import { R, url, slugToName } from '../../constants';
+import { getDestinations, getLocations, getItineraries, getInfo } from '../../data';
 
-const locations = await getCollection('locations');
-const itineraries = await getCollection('itineraries');
-const infoEntries = await getCollection('info');
-
-const destinations = new Set<string>();
-locations.forEach(l => { if (l.data.destination) destinations.add(l.data.destination); });
-itineraries.forEach(i => { if (i.data.destination) destinations.add(i.data.destination); });
-infoEntries.forEach(e => { if (e.data.destination) destinations.add(e.data.destination); });
+const [locations, itineraries, infoEntries, destinations] = await Promise.all([
+  getLocations(),
+  getItineraries(),
+  getInfo(),
+  getDestinations(),
+]);
 
 const base = import.meta.env.BASE_URL;
 const $ = (p: string) => url(base, p);
@@ -23,39 +21,40 @@ const destEmoji = (d: string) =>
 <Base title="Destinazioni" description="Tutte le destinazioni disponibili nel vault">
   <section class="section">
     <div class="container">
-      <Breadcrumbs items={[
-        { label: 'Home', href: R.home },
-        { label: 'Destinazioni' },
-      ]} />
+      <Breadcrumbs items={[{ label: 'Home', href: R.home }, { label: 'Destinazioni' }]} />
 
       <div class="page-header page-header--flush">
         <h1 class="page-title">🌍 Destinazioni</h1>
-        <p>Esplora {destinations.size} destinazioni con {locations.length} luoghi e {itineraries.length} itinerari</p>
+        <p>Esplora {destinations.length} destinazioni con {locations.length} luoghi e {itineraries.length} itinerari</p>
       </div>
 
-      <div class="cards-grid">
-        {Array.from(destinations).map((dest) => {
-          const destLocations = locations.filter(l => l.data.destination === dest);
-          const destItineraries = itineraries.filter(it => it.data.destination === dest);
-          const destCities = destLocations.filter(l => l.data.type === 'city');
-          return (
-            <a href={$(R.destination(dest.toLowerCase()))} class="card animate-in a--plain">
-              <div class="card-emoji" style="font-size: 3rem">{destEmoji(dest)}</div>
-              <h3 class="card-title" style="font-size: 1.5rem">{dest}</h3>
-              <p class="card-description">
-                {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
-              </p>
-              {destCities.length > 0 && (
-                <div class="card-meta mt-lg">
-                  {destCities.map(c => (
-                    <span class="tag">{slugToName(c.id)}</span>
-                  ))}
-                </div>
-              )}
-            </a>
-          );
-        })}
-      </div>
+      {destinations.length > 0 ? (
+        <div class="cards-grid">
+          {destinations.map((dest) => {
+            const destLocations = locations.filter((l: any) => l.data.destination === dest);
+            const destItineraries = itineraries.filter((i: any) => i.data.destination === dest);
+            const destCities = destLocations.filter((l: any) => l.data.type === 'city');
+            return (
+              <a href={$(R.destination(dest.toLowerCase()))} class="card animate-in a--plain">
+                <div class="card-emoji" style="font-size: 3rem">{destEmoji(dest)}</div>
+                <h3 class="card-title" style="font-size: 1.5rem">{dest}</h3>
+                <p class="card-description">
+                  {destCities.length} città • {destLocations.length} luoghi • {destItineraries.length} itinerari
+                </p>
+                {destCities.length > 0 && (
+                  <div class="card-meta mt-lg">
+                    {destCities.map((c: any) => (
+                      <span class="tag">{slugToName(c.id)}</span>
+                    ))}
+                  </div>
+                )}
+              </a>
+            );
+          })}
+        </div>
+      ) : (
+        <p style="color: var(--text-muted); padding: var(--space-2xl) 0; text-align: center;">Nessuna destinazione trovata.</p>
+      )}
     </div>
   </section>
 </Base>

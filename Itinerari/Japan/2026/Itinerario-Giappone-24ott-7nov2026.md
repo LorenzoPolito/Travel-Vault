@@ -176,6 +176,18 @@ xychart-beta
 
 + Volo A/R ~900 € + Alloggio ~350 € + Spese personali ~400 € = **~2.516 € totali**
 
+### Alloggi
+
+| # | Città | Struttura | Date | Notti | Cucina | Ref |
+|---|---|---|---|---|---|---|
+| 1 | [[Osaka(大阪市)]] | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott | 4 | ✅ Angolo cottura | 🔵 **PRENOTATO** |
+| 2 | [[Kyoto(京都)]] | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] | 29 Ott–1 Nov | 3 | ✅ Cucina attrezzata | 🔵 **PRENOTATO** |
+| 3 | [[Tokyo(東京)]] | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] | 1–6 Nov | 5 | ❌ **DA VERIFICARE** | 🔵 **PRENOTATO** |
+
+> ⚠️ **Tokyo:** La cucina per Rebecca non è confermata. Se non c'è, cercare alternativa con cucina nella zona Asakusa/Taito. Vedi [[Tokyo - Taito City Guesthouse#⚠️ CRITICO — Rebecca: CUCINA DA VERIFICARE]].
+>
+> 🏠 Ogni alloggio ha una pagina dedicata con indirizzo, servizi, e note per Rebecca.
+
 ---
 
 # ITINERARIO
@@ -612,9 +624,9 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Cosa | Da fare entro | Stato | Note |
 |---|---|---|---|
 | Volo A/R Roma→KIX (arrivo 25 ott) / NRT→Roma | **URGENTE** | ❌ Da prenotare | Cerca su Skyscanner, Momondo. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
-| Alloggio Osaka 3 notti (25–28 ott) | **URGENTE** | ❌ Da prenotare | **DEVE avere CUCINA/KITCHENETTE** per Rebecca. Booking link in [[Hotel-Hostel-Case-Appartamenti]] |
-| Alloggio Kyoto 3 notti (29 ott–1 nov) | **URGENTE** | ❌ Da prenotare | **DEVE avere CUCINA** |
-| Alloggio Tokyo 5 notti (1–6 nov) | **URGENTE** | ❌ Da prenotare | **DEVE avere CUCINA** + supermarket vicino |
+| Alloggio Osaka 4 notti (25–29 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] — angolo cottura ✅ |
+| Alloggio Kyoto 3 notti (29 ott–1 nov) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅ |
+| Alloggio Tokyo 5 notti (1–6 nov) | ❌ **VERIFICARE CUCINA** | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina da confermare |
 | JR Kansai-Hiroshima Area Pass | Entro 1 mese | ❌ Da acquistare | Klook o JR West online |
 | Universal Studios Japan biglietti | **URGENTE (2+ mesi)** | ❌ Da prenotare | Klook — Halloween season si esaurisce |
 | TeamLab Planets | 1 mese prima | ❌ Da prenotare | teamlab.art |

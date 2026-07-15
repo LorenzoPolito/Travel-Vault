@@ -118,6 +118,51 @@ Rebecca può mangiare in queste catene ordinando **senza salsa, solo sale** o sc
 
 ---
 
+## I Preferiti di Rebecca — dalla sua Google Maps
+
+Rebecca ha condiviso le sue liste. Ecco i suoi ristoranti preferiti con indicazione sicurezza:
+
+### ✅ Sicuri per Rebecca
+
+| Ristorante | Zona | Cosa | Prezzo | Perché OK |
+|---|---|---|---|---|
+| **Saizeriya** | Ovunque | Pasta, pizza | ¥300-700/piatto | Pasta aglio e olio ✅, no soia, no pesce |
+| **CoCo Ichibanya** | Shibuya, Shinjuku | Curry | ¥500-1.000 | Curry con riso ✅ (verificare no pesce) |
+| **Shogun Burger** | Tokyo | Hamburger | ¥2.000-3.000 | Hamburger, niente soia ✅ |
+| **THE WAGYU BROTHERS** | Tokyo | Wagyu burger | ¥2.000-4.000 | Carne alla griglia, niente soia ✅ |
+| **Ichinoya Japanese Black Wagyu** | Asakusa | Steak | ¥2.000-4.000 | Carne alla griglia ✅ |
+| **Yakiniku Like** | Asakusa | Yakiniku | ¥1.000-2.000 | Griglia al tavolo, carne non marinata ✅ |
+| **Yakiniku no GANSAN** | Tokyo | Yakiniku | ¥10.000+ | Premium, griglia ✅ |
+| **bills** | Ginza, Omotesando | Australiano | ¥2.000-6.000 | Pancake, insalate ✅ |
+| **Hikiniku to Come** | Shibuya | Rice bowl | ¥1.000-2.000 | Syokudo, verificare salsa |
+| **Age.3 GINZA** | Ginza | Caffè | ¥1.000 | Caffè + pastry ✅ |
+| **Menchirashi** | Tokyo | Udon | ¥1.000-2.000 | Udon, verificare brodo (dashi=pesce ❌) |
+| **Udon Shimbori** | Tokyo | Udon | ¥1.000-2.000 | Udon, verificare brodo |
+
+### ⚠️ Da Verificare
+
+| Ristorante | Zona | Cosa | Prezzo | Attenzione a |
+|---|---|---|---|---|
+| **Gyukatsu Motomura** | Ueno | Gyukatsu | ¥2.000-3.000 | Panatura potrebbe avere soia |
+| **Gyukatsu Kyoto Katsugyu** | Kyoto, Namba | Gyukatsu | ¥2.000-3.000 | Salsa di soia nel piatto |
+| **Tonkatsu Hasegawa** | Ginza | Tonkatsu | ¥2.000-3.000 | Panatura e salsa tonkatsu (soia) |
+| **Mos Burger** | Shibuya | Hamburger | ¥1.000 | Panino, verificare salsa |
+| **Din Tai Fung** | Shinjuku, Shibuya | Taiwanese | ¥2.000-3.000 | Salsa di soia nei dim sum |
+
+### ❌ NON Sicuri per Rebecca (solo Lorenzo e Davide)
+
+| Ristorante | Zona | Cosa | Prezzo | Perché NO |
+|---|---|---|---|---|
+| **Ichiran** | Ueno, ovunque | Ramen | ¥1.000-2.000 | Brodo soia+pesce |
+| **Kura Sushi** | Ovunque | Kaitenzushi | ¥1.000-2.000 | Pesce + soia |
+| **Sushiro** | Ovunque | Kaitenzushi | ¥1.000-2.000 | Pesce + soia |
+| **Uobei** | Shibuya | Kaitenzushi | ¥1.000-2.000 | Pesce + soia |
+| **Hama Sushi** | Ovunque | Kaitenzushi | ¥1.000-2.000 | Pesce + soia |
+| **Yakitori Torikizoku** | Shinjuku, Dotonbori | Yakitori | ¥1.000-3.000 | Salsa tare ha soia (shio OK?) |
+| **Hanamichi** | Osaka | Okonomiyaki | ¥1.000-2.000 | Soia + dashi di pesce |
+
+---
+
 ## Bib Gourmand — Qualità-Prezzo
 
 Ristoranti Michelin con ottimo rapporto qualità-prezzo (menu completo sotto ¥5.000).

@@ -120,16 +120,18 @@ function transformContent(content, filePath) {
     return `![${imgName}](/Travel-Vault/images/vault/${imgName})`;
   });
 
-  // Transform wikilinks with alias: [[Page|Display]] → [Display](/Travel-Vault/locations/slug/)
-  result = result.replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (_, page, display) => {
+  // Transform wikilinks with alias and optional section: [[Page#Section|Display]] → [Display](/Travel-Vault/locations/slug/#section)
+  result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\|([^\]]+)\]\]/g, (_, page, section, display) => {
     const slug = slugify(page);
-    return `[${display}](/Travel-Vault/locations/${slug}/)`;
+    const sectionAnchor = section ? '#' + slugify(section) : '';
+    return `[${display}](/Travel-Vault/locations/${slug}/${sectionAnchor})`;
   });
 
-  // Transform plain wikilinks: [[Page Name (漢字)]] → [Page Name (漢字)](/Travel-Vault/locations/slug/)
-  result = result.replace(/\[\[([^\]]+)\]\]/g, (_, page) => {
+  // Transform plain wikilinks with optional section: [[Page#Section]] → [Page](/Travel-Vault/locations/slug/#section)
+  result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\]\]/g, (_, page, section) => {
     const slug = slugify(page);
-    return `[${page}](/Travel-Vault/locations/${slug}/)`;
+    const sectionAnchor = section ? '#' + slugify(section) : '';
+    return `[${page}](/Travel-Vault/locations/${slug}/${sectionAnchor})`;
   });
 
   // Remove Obsidian comments: %% ... %%

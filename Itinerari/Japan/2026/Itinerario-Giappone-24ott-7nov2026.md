@@ -613,7 +613,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Data | Stato | 🛫 Andata FCO→KIX 24-25 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
 |---|---|---|---|---|---|
 | 11 Lug | ✅ | **€290-600** · China Eastern via PVG (15h, da €290) · Finnair via HEL (18h) · Emirates via DXB (16h, da €450) | **€250-750** · Finnair via HEL (17h40, da €250) · KLM via AMS (17h30, da €270) · ITA **diretto** HND→FCO (14h45, €550-750) | **~€650-1.100** | [Rome2Rio FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [Rome2Rio TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome) |
-| 13 Lug | ⬜ | — | — | — | — |
+| 13 Lug | ✅ | **Da €290** — China Eastern via PVG (15h20, Mar/Gio/Dom) · Finnair via HEL (17h50, Mar/Gio/Sab/Dom, da €300) · ITA/ANA via TYO (16h, da €350/daily) — **tutte sotto 21h** | **Da €250** — Finnair via HEL (17h40, NRT→FCO, daily, da €250) · KLM via AMS (17h30, daily, da €270) · Turkish via IST (19h37, daily, da €300) · ITA **diretto** HND→FCO (14h45, da €500) — **tutte sotto 21h** | **~€540-1.000** | Fonte: Rome2Rio ([FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome)). Miglior combo: China Eastern andata (€290) + Finnair ritorno (€250) = **~€540 A/R!** |
 | 15 Lug | ⬜ | — | — | — | — |
 | 17 Lug | ⬜ | — | — | — | — |
 | 19 Lug | ⬜ | — | — | — | — |

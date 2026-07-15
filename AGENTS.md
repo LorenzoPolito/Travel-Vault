@@ -48,3 +48,12 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 - `build:website` — Sync vault content + build sito
 - `sync:content` — Solo sync vault → Astro
 - `dev:website` — Sito in development mode
+
+## Monitoraggio Voli (check ogni 2 giorni)
+
+Ogni 2 giorni (15, 17, 19, 21, 23, 25, 27, 29, 31 Lug + 1-3 Ago), l'agente DEVE:
+1. Cercare **FCO→KIX 24 Ott** su Google Flights (cercare "Rome to Tokyo" come proxy — KIX non dà risultati)
+2. Cercare **TYO→FCO 6 Nov** su Google Flights
+3. Aggiornare `Calendario Monitoraggio` nell'itinerario
+4. Se il prezzo totale A/R scende sotto **€1.000/pax**, segnalare come 🎯 **OFFERTA**
+5. Target prenotazione: **inizio Agosto 2026**

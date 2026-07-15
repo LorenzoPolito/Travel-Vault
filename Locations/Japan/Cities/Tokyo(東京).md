@@ -33,10 +33,13 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 2. [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 ) #1/5
 //
 1. Quartiere di [[Shibuya (渋谷区)]] e [[Pokemon center Shibuya]] #5/5
-2. Quartiere di [[Shinjuku (新宿区)]] #4/5
-3. [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 ) #3/5
-4. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
-5. Vicoli di [[Golden Gai (ゴールデン街 )]] #2/5
+2. [[Shibuya Sky]] ( 10:00-22:00, ¥2.000 ) #4/5 ⭐ Rebecca
+3. [[Azabudai Hills]] #4/5 — nuovo quartiere con giardini ⭐ Rebecca
+4. Quartiere di [[Shinjuku (新宿区)]] #4/5
+5. [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 ) #3/5
+6. [[Mario kart ride]] (100€ circa) (10:00 - 22:00 ) #2/5
+7. Vicoli di [[Golden Gai (ゴールデン街 )]] #2/5
+8. [[Harajuku (原宿)]] #2/5
 //
 1. Quartiere [[Nakano (中野市)]] e [[Nakano Broadway (中野ブロードウェイ)]] #5/5
 2. [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] ( 8:30 -18:30 ) #1/5
@@ -46,7 +49,11 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 3. [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 ) #4/5
 4. Quartiere [[Roppongi (六本木)]] (notturno) #3/5
 5. [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]] #2/5
-6. Quartiere di [[Ginza (銀座)]] #1/5
+6. [[Odaiba Beach]] #3/5 — spiaggia artificiale con vista ⭐ Rebecca
+7. Quartiere di [[Ginza (銀座)]] #1/5
+//
+1. [[Yanaka Ginza]] #3/5 — quartiere storico, atmosfera Showa ⭐ Rebecca
+2. [[Monzennakacho]] #3/5 — canali e atmosfera locale ⭐ Rebecca
 //
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
 ### [[Kamakura(鎌倉市)]]

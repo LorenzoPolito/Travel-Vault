@@ -455,6 +455,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Pomeriggio:**
 - [[Tokyo skytree (東京スカイツリー)]] #3/5 🟢 (10:00–21:00, ¥3.000) — torre più alta del Giappone (634m)
 - [[Pokemon center Asakusa]] #3/5 🟢 (10:00–21:00, GRATIS l'ingresso)
+- [[Yanaka Ginza]] #3/5 ⭐ — quartiere storico con atmosfera Showa, a 10min da Ueno (sostitutivo se stanchi di Skytree)
 - *Spostamento:* Tokyo Metro → Akihabara (~15 min)
 
 **Cibo oggi — Alternative:**
@@ -484,7 +485,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Pomeriggio | Shibuya:**
 - [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)#Shibuya Crossing|Shibuya Crossing]] (attraversalo dalla folla!)
-- [[Shibuya (渋谷区)#Shibuya Sky|Shibuya Sky]] (¥2.000, vista 360°) ⚪ o [[Shibuya (渋谷区)#Shibuya109|Magnet by Shibuya109]] (gratis con consumazione)
+- [[Shibuya (渋谷区)#Shibuya Sky|Shibuya Sky]] #4/5 ⭐ (¥2.000, vista 360°) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)#Shibuya109|Magnet by Shibuya109]] (gratis con consumazione)
 - [[Pokemon center Shibuya]] #5/5 🟢 — merchandise esclusivo
 - 🟡 **Pokémon Café** — prenotare online con MESI di anticipo
 
@@ -548,6 +549,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - Yurikamome monorotaia da Shimbashi → Odaiba (~15 min, ¥330) 🟢
 - [[Teamlab botanical garden]]?? No — [[Odaiba (お台場 )#TeamLab Planets|TeamLab Planets]] 🟡 **DA PRENOTARE** (¥3.200, prenotazione obbligatoria settimane prima)
 - [[Odaiba (お台場 )]] #2/5 🟢 — [[Rainbow Bridge (レインボーブリッジ)]], DiverCity Tokyo, Gundam gigante gratuito
+- [[Odaiba Beach]] #3/5 ⭐ — spiaggia artificiale con vista Rainbow Bridge (Rebecca vuole vedere)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)

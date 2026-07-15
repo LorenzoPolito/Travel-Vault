@@ -22,6 +22,35 @@ const EXCLUDED_FILES = [
   'lista-dei-luoghi',
 ];
 
+const URL_PREFIXES = {
+  locations: '/Travel-Vault/locations/',
+  info: '/Travel-Vault/guides/',
+  itineraries: '/Travel-Vault/itineraries/',
+};
+
+let slugTypeMap = null;
+
+async function buildSlugTypeMap() {
+  const map = {};
+  for (const { source, target } of SYNC_MAP) {
+    const dir = join(VAULT_ROOT, source);
+    const files = await findMarkdownFiles(dir);
+    for (const file of files) {
+      const slug = slugify(basename(file, '.md'));
+      if (!map[slug]) map[slug] = target;
+    }
+  }
+  slugTypeMap = map;
+  return map;
+}
+
+function resolveWikilink(page, section) {
+  const slug = slugify(page);
+  const prefix = slugTypeMap?.[slug] ? URL_PREFIXES[slugTypeMap[slug]] : '/Travel-Vault/locations/';
+  const sectionAnchor = section ? '#' + slugify(section) : '';
+  return `${prefix}${slug}/${sectionAnchor}`;
+}
+
 function slugify(str) {
   return str
     .toLowerCase()
@@ -120,18 +149,14 @@ function transformContent(content, filePath) {
     return `![${imgName}](/Travel-Vault/images/vault/${imgName})`;
   });
 
-  // Transform wikilinks with alias and optional section: [[Page#Section|Display]] → [Display](/Travel-Vault/locations/slug/#section)
+  // Transform wikilinks with alias and optional section: [[Page#Section|Display]] → [Display](/prefix/slug/#section)
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\|([^\]]+)\]\]/g, (_, page, section, display) => {
-    const slug = slugify(page);
-    const sectionAnchor = section ? '#' + slugify(section) : '';
-    return `[${display}](/Travel-Vault/locations/${slug}/${sectionAnchor})`;
+    return `[${display}](${resolveWikilink(page, section)})`;
   });
 
-  // Transform plain wikilinks with optional section: [[Page#Section]] → [Page](/Travel-Vault/locations/slug/#section)
+  // Transform plain wikilinks with optional section: [[Page#Section]] → [Page](/prefix/slug/#section)
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\]\]/g, (_, page, section) => {
-    const slug = slugify(page);
-    const sectionAnchor = section ? '#' + slugify(section) : '';
-    return `[${page}](/Travel-Vault/locations/${slug}/${sectionAnchor})`;
+    return `[${page}](${resolveWikilink(page, section)})`;
   });
 
   // Remove Obsidian comments: %% ... %%
@@ -199,6 +224,9 @@ function shouldExcludeFile(filePath) {
 
 async function sync() {
   console.log('Syncing vault content to Astro...\n');
+
+  // Build slug → content type mapping for correct wikilink URL resolution
+  await buildSlugTypeMap();
 
   await syncImages();
 

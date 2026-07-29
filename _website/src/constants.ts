@@ -18,6 +18,8 @@ export const DEST_EMOJI: Record<string, string> = {
   japan: '🇯🇵',
   giappone: '🇯🇵',
   italia: '🇮🇹',
+  newyork: '🇺🇸',
+  'new york': '🇺🇸',
 }
 
 export const TYPE_EMOJI: Record<string, string> = {
@@ -50,6 +52,7 @@ export const GUIDE_CAT_EMOJI: Record<string, string> = {
 
 export const PRETTY_NAMES: Record<string, string> = {
   'itinerario-giappone-24ott-7nov2026': 'Giappone 2026 — 24 Ott · 7 Nov',
+  'new-york-21-29-agosto-2026-itinerario-dettagliato': 'New York 2026 — 21 · 29 Ago',
 }
 
 export const ACTIVE_ITIN_PREFIX = 'itinerario-giappone-24ott'
@@ -116,6 +119,14 @@ export const DEST_THEMES: Record<string, DestTheme> = {
   italia: {
     gradient: 'linear-gradient(135deg, #0d1b0d 0%, #1a2e1a 40%, #0d1b2a 100%)',
     accent: '#58d68d',
+  },
+  newyork: {
+    gradient: 'linear-gradient(135deg, #0d1321 0%, #1d2d50 40%, #133b5c 100%)',
+    accent: '#ffd700',
+  },
+  'new york': {
+    gradient: 'linear-gradient(135deg, #0d1321 0%, #1d2d50 40%, #133b5c 100%)',
+    accent: '#ffd700',
   },
 };
 

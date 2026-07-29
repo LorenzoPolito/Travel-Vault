@@ -4,7 +4,7 @@ scope: vault-root
 vault: Travel-Vault
 vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
 language: it
-last_updated: 2026-07-11
+last_updated: 2026-07-29
 tags: [index, ai, vault-map, travel]
 ai_role: "Master index del vault e della cartella _AI. Entry point principale per agenti."
 ---
@@ -43,8 +43,12 @@ Travel-Vault/
 │   │       │   ├── locations.md          ← 76 luoghi JP con voti e cluster
 │   │       │   ├── itinerari.md          ← Itinerari JP (19 varianti)
 │   │       │   └── logistica.md          ← IC Cards, JR Pass, budget JP
-│   │       └── italia/
-│   │           └── itinerari.md          ← Calabria 2025 (archiviato)
+│   │       ├── italia/
+│   │       │   └── itinerari.md          ← Calabria 2025 (archiviato)
+│   │       └── newyork/                  ← ★ NYC 21-29 Ago 2026
+│   │           ├── logistica.md          ← Trasporti, OMNY, CityPASS, budget
+│   │           ├── locations.md          ← Cluster NYC (Downtown, Midtown, Uptown)
+│   │           └── itinerari.md          ← Riferimento itinerario attivo
 │   │
 │   └── templates/                        ← Per aggiungere nuove destinazioni
 │       ├── locations.md                  ← Template locations
@@ -53,20 +57,24 @@ Travel-Vault/
 │       └── How to Plan an Itinerary - Best Practices.md   ← ★ Metodologia completa
 │
 ├── Info/
-│   └── Japan/
-│       ├── IC Cards/
-│       ├── Pass/
-│       ├── E-Sim/
-│       ├── Voli/
-│       └── Viaggiare Sicuri.md
+│   ├── Japan/
+│   │   ├── IC Cards/
+│   │   ├── Pass/
+│   │   ├── E-Sim/
+│   │   ├── Voli/
+│   │   └── Viaggiare Sicuri.md
+│   └── NewYork/
+│       ├── Trasporti.md                   ← OMNY, subway, taxi, JFK
+│       ├── CityPASS.md                    ← Attrazioni, prenotazioni
+│       └── Mangiare.md                    ← Ristoranti verificati
 │
 ├── Itinerari/
 │   ├── Calabria/[ARCHIVIATO]
-│   └── Japan/
-│       ├── 2026/                         ★ Itinerario ATTIVO (24ott-7nov)
-│       │   └── Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md
-│       ├── Esterni/
-│       └── Solo con i luoghi/
+│   ├── Japan/
+│   │   ├── 2026/                         ★ Itinerario ATTIVO (24ott-7nov)
+│   │   │   └── Manuale_Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md
+│   │   ├── Esterni/
+│   │   └── Solo con i luoghi/
 │           ├── 7 giorni/    (×2)
 │           ├── 10 giorni/   (×2)
 │           ├── 11 giorni/   (×2)
@@ -74,18 +82,32 @@ Travel-Vault/
 │           ├── 14 giorni/   (×9)
 │           ├── 15 giorni/   (×1)
 │           └── 16 giorni/   (×1)
+│   └── UnitedStates/
+│       └── NewYork/
+│           └── 2026/
+│               ├── New York - Agosto 2026 - 21 to 29 Agosto.md   ← ★ Appunti draft (giorni 1-5)
+│               └── New York - 21-29 Agosto 2026 - Itinerario Dettagliato.md  ← ★ Itinerario ATTIVO
 │
 ├── Locations/
-│   └── Japan/
-│       ├── Lista dei Luoghi.md           ← ★ Master list: voti + cluster
-│       ├── Cities/         (×9)
-│       ├── Temples/        (×25)
-│       ├── Parks-nature/   (×11)
-│       ├── Buildings/      (×5)
-│       ├── Stores/         (×5)
-│       ├── Castles/        (×2)
-│       ├── Hotels/         (×1)
-│       └── Restaurants/    (×1)
+│   ├── Japan/
+│   │   ├── Lista dei Luoghi.md           ← ★ Master list: voti + cluster
+│   │   ├── Cities/         (×9)
+│   │   ├── Temples/        (×25)
+│   │   ├── Parks-nature/   (×11)
+│   │   ├── Buildings/      (×5)
+│   │   ├── Stores/         (×5)
+│   │   ├── Castles/        (×2)
+│   │   ├── Hotels/         (×1)
+│   │   └── Restaurants/    (×1)
+│   └── UnitedStates/
+│   └── NewYork/
+│       ├── Lista dei Luoghi.md        ← ★ Master list completa
+│       ├── Quartieri/ (×3)            ← SoHo, DUMBO, Financial District
+│       ├── Attrazioni/ (×7)           ← Statua Libertà, 9/11, Circle Line, Brooklyn Bridge...
+│       ├── Museums/ (×2)              ← AMNH, MET
+│       ├── Parchi/ (×3)               ← Central Park, High Line, Brooklyn Bridge Park
+│       ├── Grattacieli/ (×3)          ← SUMMIT, Top of the Rock, ESB
+│       └── Ristoranti/ (×7)           ← Katz's, Prince Street Pizza, Levain...
 │
 ├── Documenti Esterni/
 ├── allegati/
@@ -114,6 +136,11 @@ Travel-Vault/
 | Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
 | Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |
+| Viaggio New York (attivo) | `_AI/knowledge/destinations/newyork/` |
+| Info trasporti NYC | `Info/NewYork/Trasporti.md` |
+| CityPASS NYC | `Info/NewYork/CityPASS.md` |
+| Ristoranti NYC | `Info/NewYork/Mangiare.md` |
+| Luoghi NYC | `Locations/UnitedStates/NewYork/Lista dei Luoghi.md` |
 | Aggiungere nuova destinazione | Copia da `_AI/templates/` |
 
 ---

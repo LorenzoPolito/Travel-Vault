@@ -1,7 +1,7 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
-import { R, url, slugToName, starsFromRating, getCategoryEmoji } from '../../../constants';
+import { R, url, slugToName, starsFromRating, getCategoryEmoji, getDestinationEmoji } from '../../../constants';
 import { getLocationsByDest, getItinerariesByDest } from '../../../data';
 
 export async function getStaticPaths() {
@@ -32,7 +32,7 @@ pois.forEach((poi: any) => {
   categories[cat].push(poi);
 });
 
-const destEmoji = destination.toLowerCase() === 'japan' ? '🇯🇵' : destination.toLowerCase() === 'italia' ? '🇮🇹' : '🌍';
+const destEmoji = getDestinationEmoji(destination);
 ---
 
 <Base title={destination} description={`Tutti i luoghi, itinerari e guide per ${destination}`}>

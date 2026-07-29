@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 320" fill="none">
+  <defs>
+    <linearGradient id="sky-us" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1321"/>
+      <stop offset="100%" stop-color="#1d2d50"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="320" fill="url(#sky-us)"/>
+  <circle cx="40" cy="30" r="1.5" fill="rgba(255,255,255,0.3)"/>
+  <circle cx="150" cy="20" r="1" fill="rgba(255,255,255,0.2)"/>
+  <circle cx="280" cy="35" r="1.5" fill="rgba(255,255,255,0.25)"/>
+  <circle cx="360" cy="50" r="1" fill="rgba(255,255,255,0.15)"/>
+  <circle cx="100" cy="55" r="1" fill="rgba(255,255,255,0.2)"/>
+  <rect x="0" y="285" width="400" height="35" fill="rgba(255,255,255,0.03)"/>
+  <path d="M0 290 L5 280 L15 270 L25 285 L40 260 L55 275 L70 250 L85 265 L100 245 L115 260 L130 240 L145 255 L160 230 L175 250 L190 235 L205 255 L220 240 L235 260 L250 245 L265 265 L280 250 L295 270 L310 258 L325 278 L340 268 L355 285 L370 275 L385 290 L400 280 L400 320 L0 320Z" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+  <rect x="305" y="295" width="8" height="28" fill="rgba(255,255,200,0.08)" rx="1"/>
+  <rect x="305" y="285" width="8" height="6" fill="rgba(255,200,50,0.2)" rx="1"/>
+  <path d="M309 272 L305 285 L313 285Z" fill="rgba(255,200,50,0.2)"/>
+  <circle cx="309" cy="272" r="2" fill="rgba(255,200,50,0.15)"/>
+  <path d="M170 275 L180 273 L175 280Z" fill="rgba(255,255,255,0.04)"/>
+  <path d="M190 278 L195 274 L200 280Z" fill="rgba(255,255,255,0.04)"/>
+</svg>

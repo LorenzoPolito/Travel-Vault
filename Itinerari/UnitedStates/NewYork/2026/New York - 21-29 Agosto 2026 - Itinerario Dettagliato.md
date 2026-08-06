@@ -29,7 +29,7 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | Giorno | Data | Zona | Budget pasti | Passi |
 |:---|:---:|:---|---:|---:|
 | 1 | Ven 21 Ago | Arrivo + SoHo, Nolita, Chinatown | ~$40 | 8-10k |
-| 2 | Sab 22 Ago | Central Park + Fifth Ave + Rockefeller + Times Square | ~$50 | 18-20k |
+| 2 | Sab 22 Ago | Central Park + Fifth Ave + Times Square + 🦖 Jurassic Park gratis (Hunter's Point) | ~$55 | 18-20k |
 | 3 | Dom 23 Ago | Chelsea + High Line + Greenwich Village | ~$45 | 14-16k |
 | 4 | Lun 24 Ago | Statua Libertà (CP) + Ellis Island + FiDi + 🌉 Brooklyn tramonto | ~$50 | 18-22k |
 | 5 | Mar 25 Ago | AMNH (CP) + Midtown + Top of the Rock (CP) + 🎭 Harry Potter | ~$50 | 14-16k |
@@ -171,7 +171,7 @@ Percorso: Mott Street → Doyers Street (l'angolo più storico) → Columbus Par
 
 **Difficoltà:** 🔵 Impegnativo
 
-**Tema:** Central Park + Upper Manhattan + Fifth Avenue
+**Tema:** Central Park + Fifth Avenue + Times Square + 🦖 Jurassic Park al tramonto (gratis)
 
 ### 🌅 Mattina presto
 
@@ -215,15 +215,46 @@ Percorso a piedi con pause indoor:
 - 🏢 **Rockefeller Center** (esterno)
 - 🛍️ **Nintendo Store / LEGO Store** — pause perfette
 
-### 🌆 18:30 — Times Square
+### 🌆 17:30-18:15 — Times Square
 
-Momento migliore: non troppo tardi, ma già con tutte le luci accese.
+Momento migliore: le luci accese ma non troppo tardi. 30-40 minuti bastano.
 
 🍪 **Dolce:** Levain Bakery — cookie gigante.
 
-**Cena**
-🅰️ **Burger Joint** — burger nascosto dietro ingresso anonimo al Le Parker Meridien hotel. Esperienza divertente.
-🅱️ **7th Street Burger** — smash burger veloce.
+### 🍔 18:15-18:45 — Cena da asporto
+
+Per la serata cinema al parco, prendete la cena **da asporto**:
+
+🅰️ **7th Street Burger** (varie sedi Midtown) — smash burger veloce, perfetto da portare.
+🅱️ **Burger Joint** (119 W 56th St, Le Parker Meridien) — burger nascosto dietro una tenda anonima. 🚶 10 min.
+🅲 **Shake Shack** (Midtown) — classico portabile.
+
++ **Pranzo/extra:** patatine, snack e acqua per il picnic serale.
+
+### 🎬 18:45 — Verso Hunter's Point South Park
+
+**Route 7 train:** 🚇 da **Times Sq-42nd St** → **Vernon Blvd-Jackson Ave** (7 min, primo stop in Queens). Poi 🚶 **8-10 min a piedi** fino al parco (Center Blvd).
+⏱ **Totale: ~20 min** con attesa.
+
+### 🌉 19:10-20:00 — Arrivo al parco e sistemazione
+
+**Hunter's Point South Park** (Long Island City, Queens) — trovate un posto su **The Oval** (il grande prato al centro del parco). ⚠️ **Arrivate presto** — alle proiezioni passate c'erano oltre 1.000 persone.
+
+📍 Vista spettacolare: **skyline di Manhattan** illuminata dall'altra parte dell'East River.
+
+### 🎬 ~20:00 — Jurassic Park (gratuito)
+
+**Free outdoor movie** — Jurassic Park originale sullo schermo gonfiabile da 30ft, con Manhattan come sfondo. 🦖
+
+- **Costo:** GRATIS
+- **Inizio:** al tramonto (~20:00; il 22 Ago il sole tramonta alle ~19:45)
+- **Portate:** plaid/teli, snack, giacchetto (di sera sulla riva fa fresco)
+- **Durata:** 2h07
+
+### 🚇 22:30 — Rientro
+
+**7 train** da Vernon Blvd-Jackson Ave → Times Sq (7 min). Poi **1 train** → Franklin St (13 min) + 🚶 5 min. 
+⏱ **~30 min** fino all'hotel.
 
 ---
 

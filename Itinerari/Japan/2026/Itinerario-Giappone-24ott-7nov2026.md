@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "2.440-2.640 €/persona"
+budget_totale_stimato: "2.515-2.715 €/persona"
 tags:
   - itinerario
   - japan
@@ -20,7 +20,7 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** Pianificazione completa — nulla è ancora prenotato
+> ⚡ **Stato:** Pianificazione completa — ✅ alloggi prenotati, ❌ voli e attività da prenotare
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
 # Giappone 2026 — 24 Ottobre · 7 Novembre
@@ -31,7 +31,7 @@ Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni / 14 notti
 flowchart LR
     A[🇮🇹 Roma] -->|Volo ~12h| B[🛬 KIX Osaka]
     B --> C[🏙️ Osaka 3 notti]
-    C -->|Shinkansen 1.5h| D[🕊️ Hiroshima day trip]
+    C -->|Shinkansen 1.5h| D[🕊️ Hiroshima + Miyajima day trip]
     D --> C
     C -->|Kintetsu 40min| E[🦌 Nara half day]
     E -->|JR 50min| F[⛩️ Kyoto 3 notti]
@@ -56,13 +56,16 @@ gantt
     dateFormat  YYYY-MM-DD
     axisFormat  %d %b
 
+    section ✈️ Partenza
+    Volo Italia→Osaka       :g1, 2026-10-24, 1d
+
     section 🏙️ Osaka
     Arrivo + Dotonbori     :g2, 2026-10-25, 1d
     Cultura + Castello     :2026-10-26, 1d
     Universal Studios      :2026-10-27, 1d
 
     section 🕊️ Hiroshima
-    Day Trip               :2026-10-28, 1d
+    Hiroshima + Miyajima   :2026-10-28, 1d
 
     section 🦌 Nara → ⛩️ Kyoto
     Nara mattina           :g6, 2026-10-29, 1d
@@ -74,12 +77,12 @@ gantt
 
     section 🗼 Tokyo
     Asakusa + Akihabara    :2026-11-02, 1d
-    Shibuya + Shinjuku     :2026-11-03, 1d
+    Shibuya + Nakano + Shinjuku :2026-11-03, 1d
     🏔️ Fujiyoshida          :2026-11-04, 1d
-    Nakano + TeamLab       :2026-11-05, 1d
+    TeamLab + Odaiba       :2026-11-05, 1d
     Ultimo giorno          :2026-11-06, 1d
 
-    section ✈️
+    section ✈️ Ritorno
     Margine + Volo         :2026-11-07, 1d
 ```
 
@@ -94,7 +97,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [0,37,53,90,28,47,56,58,133,58,57,50,62,92,30]
+    bar [0,37,53,90,30,47,56,58,133,58,57,50,62,92,30]
 ```
 
 ---
@@ -105,7 +108,7 @@ xychart-beta
 |:---|:---:|:---:|:---|
 | Partenza Italia | — | — | 24 Ott |
 | [[Osaka(大阪市)]] | 3 | 3 | 25–28 Ott |
-| [[Hiroshima(広島)]] (day trip) | 1 | — | 28 Ott |
+| [[Hiroshima(広島)]] + [[Miyajima (宮島)]] (day trip) | 1 | — | 28 Ott |
 | [[Nara (奈良市)]] (half day) | 0.5 | — | 29 Ott |
 | [[Kyoto(京都)]] | 3 | 3 | 29 Ott – 1 Nov |
 | [[Tokyo(東京)]] | 6 | 5 | 1–6 Nov |
@@ -137,7 +140,7 @@ xychart-beta
 | Kyoto → Tokyo | Shinkansen Hikari | ~2h 40m | ~14.000 ¥ | Biglietto singolo |
 | Tokyo → Fujiyoshida | Fuji Excursion | ~1h 45m | ~1.800 ¥ | Suica + biglietto |
 
-**Soluzione consigliata:** [[JR pass#JR Kansai-Hiroshima Area Pass\|JR Kansai-Hiroshima Area Pass 5gg]] (~99 €) + biglietto singolo Kyoto→Tokyo (~81 €) + Suica/Icoca per trasporti locali. **Risparmio: ~280 €/persona vs JR Pass 14gg.**
+**Soluzione consigliata:** [[JR pass]] (~99 €) + biglietto singolo Kyoto→Tokyo (~81 €) + Suica/Icoca per trasporti locali. **Risparmio: ~280 €/persona vs JR Pass 14gg.**
 
 ---
 
@@ -161,7 +164,7 @@ xychart-beta
 | 2 | 25 Ott | 25 € | 12 € | — | 37 € |
 | 3 | 26 Ott | 30 € | 8 € | 15 € | 53 € |
 | 4 | 27 Ott | 35 € | 5 € | 50 € | 90 € |
-| 5 | 28 Ott | 25 € | — (pass) | 3 € | 28 € |
+| 5 | 28 Ott | 25 € | — (pass) | 5 € | 30 € |
 | 6 | 29 Ott | 30 € | 7 € | 10 € | 47 € |
 | 7 | 30 Ott | 30 € | 8 € | 18 € | 56 € |
 | 8 | 31 Ott | 30 € | 8 € | 20 € | 58 € |
@@ -172,7 +175,7 @@ xychart-beta
 | 13 | 5 Nov | 30 € | 10 € | 22 € | 62 € |
 | 14 | 6 Nov | 35 € | 12 € | 45 € | 92 € |
 | 15 | 7 Nov | 15 € | 15 € | — | 30 € |
-| **TOT** | | **~425 €** | **~213 €** | **~228 €** | **~866 €** |
+| **TOT** | | **~425 €** | **~213 €** | **~230 €** | **~868 €** |
 
 + Volo A/R ~900 € + Alloggio ~350 € + Spese personali ~400 € = **~2.516 € totali**
 
@@ -224,10 +227,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Difficoltà:** 2/4 · **Budget:** ~37 € · **Meteo:** 18–23°C, 30% possibilità pioggia (dati JMA)
 
-**Arrivo al [[Osaka(大阪市)#Aeroporto del Kansai (KIX)]].**
+**Arrivo al [[Osaka(大阪市)]].**
 - Ritira **[[Icoca]]** alle macchinette JR in aeroporto (o carica Suica digitale)
 - [[E-sim panoramica delle disponibili\|eSIM]] — attivala subito all'arrivo
-- [[Osaka(大阪市)#Dall'aeroporto del Kansai (KIX)|Haruka Express]] o bus per il centro (~50–75 min)
+- [[Osaka(大阪市)]] o bus per il centro (~50–75 min)
 - Check-in hotel
 
 **Pomeriggio/Sera | Cluster Namba/Dotonbori:**
@@ -236,9 +239,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Cibo — Alternative:**
 - 🅰️ **Street food** [[Dotonbori (道頓堀)]]: takoyaki (¥500), okonomiyaki (¥1.000), kushikatsu (¥800)
-- 🅱️ **Bib Gourmand:** [[Mangiare in Giappone#Osaka_2|Takoyaki Wanaka]] (Dotonbori, ¥500–800) · [[Mangiare in Giappone#Osaka|Kushikatsu Daruma]] (Shinsekai, ¥1.000–2.000)
+- 🅱️ **Bib Gourmand:** [[Mangiare in Giappone]] (Dotonbori, ¥500–800) · [[Mangiare in Giappone#Osaka|Kushikatsu Daruma]] (Shinsekai, ¥1.000–2.000)
 - 🅲 **Seduti:** [[Mangiare in Giappone#Catene e Cibo Economico|Okonomiyaki Kiji]] (Umeda, Bib Gourmand ¥1.000–2.000) · ramen · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto)
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · **cucina in hotel**
+- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] (Namba, carne alla griglia ✅) · **cucina in hotel**
 - 🍨 **Dopo:** matcha gelato (¥300–500) · crepes giapponesi
 
 **Trasporti:** Haruka Express ¥1.800 (o bus ¥1.100) + Suica per metro
@@ -268,8 +271,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🅰️ **Pranzo gyudon:** [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Matsuya]] (curry ¥380)
 - 🅱️ **Pranzo ramen:** [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (¥1.000–2.000) · Tenkaippin (¥800–1.200)
 - 🅲 **Cena Lorenzo&Davide:** izakaya a Namba (¥1.500–3.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Kushikatsu Daruma]] (Bib Gourmand, Shinsekai, ¥1.000–2.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Sushiro]] (¥100–500/piatto)
-- 🅳 **Rebecca pranzo:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · konbini (yogurt, frutta, uovo sodo) · preparato in hotel
-- 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · **cucina in hotel**
+- 🅳 **Rebecca pranzo:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · konbini (yogurt, frutta, uovo sodo) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] (carne alla griglia ✅) · preparato in hotel
+- 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Royal Host]] (steak ✅) · **cucina in hotel**
 
 **Sera | Namba:**
 - Shopping a **Shinsaibashi** 🟢 — via coperta aperta fino a tardi 🍽️
@@ -289,7 +292,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo in USJ:** hamburger (¥1.500–2.500) · pizza · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|conveyor belt sushi]] (¥100–500). Opzione economica: porta onigiri/fruit (permesso)
 - 🅱️ **Cena rientro:** [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
-- 🅲 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · **cucina in hotel**
+- 🅲 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Yakiniku Like]] (Namba, carne alla griglia ✅) · **cucina in hotel**
 - ⚠️ **Rebecca:** PORTA CIBO DA CASA a USJ (riso, pollo freddo, frutta, uova sode). Niente dentro USJ è sicuro (soia+pesce)
 
 **Aree priority:**
@@ -307,32 +310,36 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 ---
 
-## Giorno 5 — Mercoledì 28 Ottobre — Hiroshima Day Trip
+## Giorno 5 — Mercoledì 28 Ottobre — Hiroshima + Miyajima
 
-**Difficoltà:** 3/4 · **Budget:** ~28 € · **Meteo:** 17–22°C, 25% pioggia · **Attiva JR Kansai-Hiroshima Pass**
+**Difficoltà:** 4/4 · **Budget:** ~30 € · **Meteo:** 17–22°C, 25% pioggia · **Attiva JR Kansai-Hiroshima Pass**
 
-> 🟡 **Da attivare oggi:** [[JR pass#JR Kansai-Hiroshima Area Pass\|JR Kansai-Hiroshima Area Pass 5gg]] (~99 €) — copre questo viaggio A/R (~20.000 ¥) + prossimi 4 giorni
+> 🟡 **Da attivare oggi:** [[JR pass]] (~99 €) — copre Shinkansen A/R (~20.000 ¥) + traghetto Miyajima + prossimi 4 giorni
 
-**06:30–07:00** Sveglia
-**07:30–09:00** Shinkansen Sakura: [[Shin-Osaka]] → [[Hiroshima(広島)]] (~1h 30m)
-**09:00–12:00** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
-  - [[Memorial Park Hiroshima#Museo della Pace|Museo della Pace di Hiroshima]] (¥200, ~2h) — emotivamente intenso
-  - [[Memorial Park Hiroshima#Genbaku Dome|Genbaku Dome]] — simbolo UNESCO
-**12:00–13:00** **Pranzo — Alternative:**
-  - 🅰️ [[Mangiare in Giappone#Hiroshima|Okonomimura]] (3 piani di stands okonomiyaki, ¥800–1.500)
-  - 🅱️ [[Mangiare in Giappone#Hiroshima_2|Nagataya]] (Hondori, okonomiyaki ¥1.000–2.000)
-  - 🅲 [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] vicino stazione (gyudon ¥400)
-  ⚠️ **Rebecca:** colazione konbini (yogurt, frutta). Pranzo al sacco (onigiri riso, frutta) o [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa). Cena: [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] o italiano vicino hotel
-**13:00–15:00** [[Nagarekawa (流川)]] #3/5 🟢 + [[Hondori street]] — shopping, momiji manju (¥300–500)
-**15:00–15:30** [[Hiroshima(広島)#Castello di Hiroshima|Castello di Hiroshima]] 🟢 (¥370, optional)
+**06:45–08:15** Shinkansen Sakura: [[Shin-Osaka Station]] → [[Hiroshima(広島)]] (~1h 30m)
+**08:30–08:55** JR Sanyo Line → [[Miyajima (宮島)|Miyajimaguchi]] (~25 min, incluso JR Pass)
+**09:00–09:15** Traghetto JR → Miyajima (~10 min, incluso pass + **tassa visita 100¥** da pagare al terminal)
 
-**Opzionale — [[Miyajima (宮島)]]:** Se partiti alle 7:00 e ritmo spedito, si può aggiungere:
-- *Spostamento:* JR Sanyo Line → Miyajimaguchi (~30 min, incluso JR Pass) + traghetto (~10 min, incluso)
-- [[Itsukushima shrine (嚴島神社)]] #5/5 🟢 — Torii galleggiante (controlla maree!)
-- ⚪ **Solo se c'è tempo e voglia**
+**Mattina a Miyajima:**
+**09:30–12:00** [[Itsukushima shrine (嚴島神社)]] #5/5 🟢 (6:30–17:30, ¥300) — Torii galleggiante + santuario patrimonio UNESCO
+  - [[Tempio Daisho-in (大聖院)]] #3/5 🟢 (8:00–17:00) — tempio più antico dell'isola, foliage autunnale
+  - Senjokaku + Pagoda Gojunoto (8:30–16:30, ¥100) ⚪
+  - ⚠️ **Maree:** controllare l'orario — torii più scenico con alta marea (luna piena il 26/10 = maree ampie)
+**12:00–13:00** **Pranzo a Miyajima — Alternative:**
+  - 🅰️ Ostriche alla griglia (¥1.000–2.000) · anago meshi (¥1.500–2.500)
+  - 🅱️ Momiji manju (¥300) + street food lungo Omotesando
+  - ⚠️ **Rebecca:** ostriche NO (crostacei) — okonomiyaki senza salsa o konbini/pasto al sacco
+**13:15–13:30** Traghetto ritorno → Miyajimaguchi
+**13:40–14:05** JR Sanyo Line → Hiroshima
 
-**18:30–20:00** Rientro a Osaka
-🅿 **PIANO B (stanchi):** Salta Castello e Hondori, torna a Osaka per le 16:00 e riposo
+**Pomeriggio a Hiroshima:**
+**14:15–17:00** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
+  - [[Memorial Park Hiroshima|Museo della Pace di Hiroshima]] (7:30–19:00, ¥200, ~2h) — emotivamente intenso, 🟡 consigliato biglietto online
+  - [[Memorial Park Hiroshima|Genbaku Dome]] — simbolo UNESCO
+**17:00–17:45** [[Hiroshima(広島)|Castello di Hiroshima]] 🟢 (¥370, opzionale) o [[Hondori street]] — momiji manju da portare a casa ⚪
+
+**18:00–19:30** Shinkansen ritorno → Shin-Osaka
+🅿 **PIANO B (stanchi/pioggia):** Salta il Castello e rientra entro le 17:00. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
 
 ---
 
@@ -343,17 +350,19 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **08:00** Check-out Osaka
 **08:30–09:15** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR)
 
+> 📦 **Takkyubin (spedizione bagagli):** In Giappone puoi spedire le valigie da un hotel all'altro con corriere (takkyubin). L'hotel di Osaka organizza la spedizione verso Kyoto — consegna in 24h. Costa ~¥1.500-2.000 per valigia. Vedi [[Hotel-Hostel-Case-Appartamenti|guida spedizione bagagli]].
+
 **Mattina | [[Nara (奈良市)]]:**
 - [[Nara (奈良市)#Parco di Nara|Parco di Nara]] 🟢 — cervi Sika, shika senbei (¥150)
 - [[Nara (奈良市)#Tempio Todaiji|Tempio Todaiji]] 🟢 (¥800) — Daibutsu (Buddha in bronzo 15m)
-- [[Nara (奈良市)#Santuario Kasuga Taisha|Santuario Kasuga Taisha]] 🟢 — 3.000 lanterne di pietra
+- [[Nara (奈良市)]] 🟢 — 3.000 lanterne di pietra
 
 **13:00–14:00** JR Nara Line → Kyoto (~50 min, ¥720, **incluso JR Pass**)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nara:** [[Mangiare in Giappone#Budget|kakinoha-zushi]] (sushi in foglia di cachi, ¥800–1.200) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · konbini (onigiri ¥100–200)
 - 🅱️ **Cena Kyoto:** [[Mangiare in Giappone#Depachika|depachika Isetan Kyoto Station]] (bento scontati −30% dopo 18:00) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Nakau]] (udon ¥300–600)
-- 🅲 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shijo, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · **cucina in hotel**
+- 🅲 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shijo, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ✅, Kyoto Station) · **cucina in hotel**
 
 **Pomeriggio/Sera | Kyoto:**
 - Check-in hotel
@@ -379,11 +388,11 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo street food:** [[Nishiki Market (錦市場)]] — yakitori, tsukemono, dolci matcha, tofu (¥200–1.000). **Bib Gourmand:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Men-ya Inoichi]] (ramen, Pontochō, ¥1.000–2.000)
 - 🅱️ **Pranzo economico:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Hanamaru Udon]] (udon ¥300–600)
-- 🅲 **Cena Lorenzo&Davide:** [[Quartiere Gion (祇園)#Pontochō|Pontochō]] — yakitori, izakaya (¥2.000–4.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Omen]] (udon, Ginkakuji, ¥1.000–2.000)
-- 🅳 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shijo, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
+- 🅲 **Cena Lorenzo&Davide:** [[Quartiere Gion (祇園)]] — yakitori, izakaya (¥2.000–4.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Omen]] (udon, Ginkakuji, ¥1.000–2.000)
+- 🅳 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shijo, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] (Gion, carne alla griglia ✅) · **cucina in hotel**
 
 **Sera:**
-- [[Quartiere Gion (祇園)#Pontochō|Pontochō]] — vicolo sul fiume Kamo, ristoranti con terrazza sull'acqua ⚪
+- [[Quartiere Gion (祇園)]] — vicolo sul fiume Kamo, ristoranti con terrazza sull'acqua ⚪
 
 🅿 **PIANO B (troppa folla):** Ginkakuji (Padiglione d'Argento, #1/5) — più tranquillo
 
@@ -396,8 +405,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Mattina presto | [[Arashiyama (嵐山)]] #5/5:**
 - Treno Sagano Line da Kyoto → Arashiyama (~15 min)
 - **Foresta di bambù** 🟢 — entro 8:00 per evitare la folla, luce magica
-- [[Arashiyama (嵐山)#Ponte Togetsukyo|Ponte Togetsukyo]] 🟢 — panorama sul fiume Katsura
-- [[Arashiyama (嵐山)#Tempio Tenryuji|Tempio Tenryuji]] 🟢 (¥1.000, giardino zen patrimonio UNESCO)
+- [[Arashiyama (嵐山)]] 🟢 — panorama sul fiume Katsura
+- [[Arashiyama (嵐山)]] 🟢 (¥1.000, giardino zen patrimonio UNESCO)
 
 **Pomeriggio | Cluster Nord:**
 - [[Kinkaku-ji (金閣寺)]] #3/5 🟢 (9:00–17:00, ¥500) — Padiglione d'Oro ricoperto di foglia d'oro
@@ -406,11 +415,11 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Arashiyama:** soba (¥1.000–1.500) · [[Mangiare in Giappone#Mercati e Street Food|dolci matcha]] (¥300–500) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Omen]] (Bib Gourmand, udon, Ginkakuji, ¥1.000–2.000)
 - 🅱️ **Pranzo economico:** [[Mangiare in Giappone#Catene e Cibo Economico|Nakau]] (udon ¥300–600) · konbini (onigiri ¥100–200)
-- 🅲 **Cena Halloween:** izakaya a [[Quartiere Gion (祇園)#Pontochō|Pontochō]] (¥2.000–4.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Depachika|depachika Daimaru Kyoto]] (bento takeaway)
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (Arashiyama, riso+uovo ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · **cucina in hotel**
+- 🅲 **Cena Halloween:** izakaya a [[Quartiere Gion (祇園)]] (¥2.000–4.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Depachika|depachika Daimaru Kyoto]] (bento takeaway)
+- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (Arashiyama, riso+uovo ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, Arashiyama, ¥500–1.500) · **cucina in hotel**
 
 **Sera — Halloween:**
-- Rientro a [[Quartiere Gion (祇園)#Pontochō|Pontochō]] per cena
+- Rientro a [[Quartiere Gion (祇園)]] per cena
 - Alcuni templi hanno illuminazioni autunnali serali (momiji illumination) — chiedere in hotel
 
 🅿 **PIANO B:** Se pioggia → [[Nishiki Market (錦市場)]] #4/5 🟢 (9:00–17:30, chiuso dom) + [[TOEI Kyoto studio park (東映太秦映画村)]] (#1/5)
@@ -431,8 +440,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo shinkansen:** [[Mangiare in Giappone#Depachika|depachika Isetan Kyoto Station]] (bento di qualità ¥800–1.500) · ekiben classico (¥800–1.200) · konbini (onigiri ¥100–200)
 - 🅱️ **Cena Roppongi:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (Bib Gourmand, ramen yuzu, ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Saizeriya]] (¥500–1.000)
-- 🅲 **Cena media:** [[Mangiare in Giappone#Per Fasce di Budget|izakaya]] a Roppongi (¥2.000–4.000) · yakitori ([[:Roppongi (六本木)#Ristoranti]]) · steakhouse
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Roppongi, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · **cucina in hotel**
+- 🅲 **Cena media:** [[Mangiare in Giappone#Per Fasce di Budget|izakaya]] a Roppongi (¥2.000–4.000) · yakitori ([[:Roppongi (六本木)]]) · steakhouse
+- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Roppongi, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|THE WAGYU BROTHERS]] (Roppongi, wagyu burger ✅) · **cucina in hotel**
 
 **Sera | Tokyo — Roppongi:**
 - Check-in hotel (zona Shinjuku/Shibuya consigliata)
@@ -448,7 +457,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Difficoltà:** 4/4 · **Budget:** ~58 € · **Meteo:** 15–19°C, 20% pioggia (dati JMA)
 
 **Mattina | Cluster Est:**
-- [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)#Kaminarimon|Kaminarimon]] (porta lanterna), [[Asakusa(浅草)#Nakamise|Nakamise]] (via shopping)
+- [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)]] (porta lanterna), [[Asakusa(浅草)]] (via shopping)
 - [[Tempio Senso-Ji (浅草寺)]] #5/5 🟢 (6:30–17:00, GRATIS) — tempio più antico di Tokyo
 - Passeggiata lungo il fiume Sumida verso Skytree
 
@@ -460,49 +469,53 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Asakusa:** [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
-- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa ✅) · konbini (yogurt, frutta, uovo sodo)
+- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Yakiniku Like]] (Asakusa, carne alla griglia ✅) · konbini (yogurt, frutta, uovo sodo)
 - 🅲 **Cena Ueno/Ameyoko:** [[Mangiare in Giappone#Mercati e Street Food|Ameyoko]] — yakitori, spiedini, takoyaki (¥200–800 per Lorenzo e Davide) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (gyudon ¥400) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
-- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] · **cucina in hotel**
+- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Ichinoya Japanese Black Wagyu]] (Asakusa, steak ✅) · **cucina in hotel**
 
 **Sera | [[Akihabara (秋葉原)]] #4/5 🟢:**
-- [[Nakano Broadway (中野ブロードウェイ)#Mandarake|Mandarake]] — manga e action figure usate
-- [[Akihabara (秋葉原)#Yodobashi Camera|Yodobashi Camera]] — 9 piani di elettronica
+- [[Nakano Broadway (中野ブロードウェイ)]] — manga e action figure usate
+- [[Akihabara (秋葉原)]] — 9 piani di elettronica
 - Maid café (~¥500–1.000 + consumazione) ⚪
 
 🅿 **PIANO B (pioggia):** Skytree è coperto (al chiuso), Akihabara è coperto — zero impatto!
 
 ---
 
-## Giorno 11 — Martedì 3 Novembre — Tokyo: Shibuya, Meiji, Shinjuku
+## Giorno 11 — Martedì 3 Novembre — Tokyo: Meiji → Nakano → Shibuya → Shinjuku
 
 **Difficoltà:** 3/4 · **Budget:** ~57 € · **Meteo:** 15–19°C, 20% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
 
 > 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza.
 
-**Mattina | Cluster Ovest:**
+**Mattina | Harajuku + Shinjuku:**
 - [[Santuario Meiji (明治神宮)]] #3/5 🟢 (10:00–16:30, GRATIS) — foresta di 100.000 alberi nel cuore di Tokyo
 - [[Harajuku (原宿)]] #2/5 🟢 — Takeshita Street, moda kawaii
+- JR da Harajuku → Shinjuku (1 stop) → Nakano (10 min)
 
-**Pomeriggio | Shibuya:**
-- [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)#Shibuya Crossing|Shibuya Crossing]] (attraversalo dalla folla!)
-- [[Shibuya (渋谷区)#Shibuya Sky|Shibuya Sky]] #4/5 ⭐ (¥2.000, vista 360°) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)#Shibuya109|Magnet by Shibuya109]] (gratis con consumazione)
+**Pomeriggio | Nakano:**
+- [[Nakano (中野市)]] #5/5 🟢 — JR Chuo Line da Shinjuku (~10 min, ¥170)
+- [[Nakano Broadway (中野ブロードウェイ)]] #5/5 🟢 — paradiso collezionismo vintage (Mandarake, manga rari, action figure, anime anni '80-'90) — **Lorenzo imperdibile**
+- JR Nakano → Shinjuku → Shibuya (~15 min)
+
+**Tardo Pomeriggio | Shibuya:**
+- [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)]] (attraversalo dalla folla!)
+- [[Shibuya (渋谷区)]] #4/5 ⭐ (¥2.000, vista 360°) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)]] (gratis con consumazione)
 - [[Pokemon center Shibuya]] #5/5 🟢 — merchandise esclusivo
 - 🟡 **Pokémon Café** — prenotare online con MESI di anticipo
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo Shibuya:** [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Katsukami]] (Bib Gourmand, tonkatsu ¥1.500–2.500) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Uobei]] (¥100/piatto, Shibuya)
-- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|CoCo Ichibanya]] (curry ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (gyudon ¥400) · konbini
-- 🅲 **Cena Shinjuku:** [[Shinjuku (新宿区)#Omoide Yokocho|Omoide Yokocho]] — yakitori (¥200–500/spiedino) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (Bib Gourmand, ramen yuzu ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000)
+- 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
+- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|CoCo Ichibanya]] (curry ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · konbini
+- 🅲 **Cena Shibuya/Shinjuku:** [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Katsukami]] (Bib Gourmand, tonkatsu ¥1.500–2.500) · [[Shinjuku (新宿区)]] — yakitori (¥200–500/spiedino)
 - 🅳 **Cena media:** [[Mangiare in Giappone#Per Fasce di Budget|izakaya]] a Shinjuku · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, ¥500–1.500)
-- 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
+- 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Shogun Burger]] (Shibuya, hamburger ✅) · **cucina in hotel**
 - 🍽️ **Dopo cena:** ramen (Ichiran, aperto fino a tardi) · hōjicha (¥300) · bar Golden Gai
 
 **Sera | Shinjuku:**
 - [[Shinjuku (新宿区)]] #4/5 🟢
 - [[Golden Gai (ゴールデン街 )]] #2/5 🟢 — vicoli di minuscoli bar (5–8 posti)
-- [[Shinjuku (新宿区)#Tokyo Metropolitan Government Building|Tokyo Metropolitan Government Building]] 🟢 (GRATIS fino 23:00) — vista notturna su tutta Tokyo
-
-🅿 **PIANO B:** Se troppo pieno per Festa Nazionale → Nakano Broadway (#5/5, vedi Giorno 13) — scambia giorni
+- [[Shinjuku (新宿区)]] 🟢 (GRATIS fino 23:00) — vista notturna su tutta Tokyo
 
 ---
 
@@ -520,48 +533,52 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - [[Kanandorii (金鳥居)]] #3/5 🟢 — grande torii rosso
 
 **Pomeriggio:**
-- [[Fujiyoshida (富士吉田市)#Lago Kawaguchiko|Lago Kawaguchiko]] (Fujikyu Railway ~10 min) — riflesso del Fuji sul lago 🟢
+- [[Fujiyoshida (富士吉田市)]] (Fujikyu Railway ~10 min) — riflesso del Fuji sul lago 🟢
 - Rientro Tokyo entro 16:00–17:00
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Fujiyoshida:** konbini (onigiri ¥100–200, frutta) · [[Mangiare in Giappone#Catene e Cibo Economico|Nakau]] (udon ¥300–600) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
-- 🅱️ **Pranzo Rebecca:** konbini (riso bianco + frutta) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅)
-- 🅲 **Cena Shinjuku:** [[Shinjuku (新宿区)#Omoide Yokocho|Omoide Yokocho]] — yakitori (¥200–500/spiedino) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000)
-- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · **cucina in hotel**
+- 🅱️ **Pranzo Rebecca:** konbini (riso bianco + frutta) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (riso+uovo+carne non marinata ✅)
+- 🅲 **Cena Shinjuku:** [[Shinjuku (新宿区)]] — yakitori (¥200–500/spiedino) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000)
+- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, ¥500–1.500) · **cucina in hotel**
 - 🍽️ **Dopo cena:** hōjicha · sakè a [[Golden Gai (ゴールデン街 )]] (¥500–1.500)
 
 **Sera:**
-- [[Shinjuku (新宿区)#Shinjuku Gyoen|Shinjuku Gyoen]] 🟢 (¥500, fino 18:00) — foliage autunnale ⚪ se ancora luce
+- [[Shinjuku (新宿区)]] 🟢 (¥500, fino 18:00) — foliage autunnale ⚪ se ancora luce
 
 🅿 **PIANO B (nuvoloso — Fuji non visibile):** Kamakura day trip (#3/5) invece — JR Yokosuka Line ~1h
 
 ---
 
-## Giorno 13 — Giovedì 5 Novembre — Tokyo: Nakano, TeamLab, Odaiba
+## Giorno 13 — Giovedì 5 Novembre — Tokyo: TeamLab Planets + Odaiba
 
-**Difficoltà:** 3/4 · **Budget:** ~62 € · **Meteo:** 14–18°C, 20% pioggia
+**Difficoltà:** 2/4 · **Budget:** ~55 € · **Meteo:** 14–18°C, 20% pioggia
 
-**Mattina | Nakano:**
-- [[Nakano (中野市)]] #5/5 🟢 — JR Chuo Line da Shinjuku (~10 min, ¥170)
-- [[Nakano Broadway (中野ブロードウェイ)]] #5/5 🟢 — paradiso collezionismo vintage (Mandarake, manga rari, action figure)
+**Mattina (opzionale):**
+- ⚪ [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — solo chi si sveglia presto. Colazione di sushi per Lorenzo&Davide, frutta fresca e konbini per Rebecca
+- ⚪ Riposo o passeggiata nel quartiere
 
-**Pomeriggio | Odaiba:**
-- Yurikamome monorotaia da Shimbashi → Odaiba (~15 min, ¥330) 🟢
-- [[Teamlab botanical garden]]?? No — [[Odaiba (お台場 )#TeamLab Planets|TeamLab Planets]] 🟡 **DA PRENOTARE** (¥3.200, prenotazione obbligatoria settimane prima)
+**Pomeriggio | TeamLab Planets:**
+- Yurikamome monorotaia da Shimbashi → Toyosu (~15 min, ¥330)
+- [[Odaiba (お台場 )]] 🟡 **DA PRENOTARE** (¥3.200, prenotazione obbligatoria settimane prima) — esperienza immersiva nell'acqua, camminare a piedi nudi
+- *TeamLab è a Toyosu, a 5 min da Odaiba*
+
+**Sera | Odaiba:**
 - [[Odaiba (お台場 )]] #2/5 🟢 — [[Rainbow Bridge (レインボーブリッジ)]], DiverCity Tokyo, Gundam gigante gratuito
 - [[Odaiba Beach]] #3/5 ⭐ — spiaggia artificiale con vista Rainbow Bridge (Rebecca vuole vedere)
+- Cena con vista baia e Rainbow Bridge illuminato
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
-- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|CoCo Ichibanya]] (curry ✅) · konbini
-- 🅲 **Cena Odaiba:** ristoranti con vista baia (¥2.000–4.000) · [[Mangiare in Giappone#Per Fasce di Budget|Saizeriya]] (¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant ¥500–1.500)
-- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Odaiba, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
+- 🅰️ **Pranzo Tsukiji/Toyosu:** [[Mangiare in Giappone#Mercati e Street Food|Tsukiji]] (sushi ¥1.000–3.000 per Lorenzo&Davide) · konbini (onigiri ¥100–200) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
+- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Tsukiji, pasta ✅) · konbini (yogurt, frutta)
+- 🅲 **Cena Odaiba:** ristoranti con vista baia (¥2.000–4.000) · [[Mangiare in Giappone#Per Fasce di Budget|Saizeriya]] (¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant ¥500–1.500) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|bills]] (Ginza/Odaiba, pancake ✅)
+- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Odaiba, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|THE WAGYU BROTHERS]] (Tokyo, wagyu burger ✅) · **cucina in hotel**
 
 **Sera:**
 - Cena a Odaiba con vista Rainbow Bridge illuminato
 - [[Mario kart ride]] #2/5 🟡 (~€100, patente necessaria) — prenotare con largo anticipo ⚪
 
-🅿 **PIANO B:** TeamLab sold-out → [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00)
+🅿 **PIANO B:** TeamLab sold-out → anticipa visita mattutina a Tsukiji e pomeriggio a Odaiba
 
 ---
 
@@ -573,7 +590,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🅰️ **Colazione Lorenzo&Davide:** [[Mercato del pesce di Tsukiji (築地場外市場)]] — sushi fresco al banco (¥1.000–3.000)
 - 🅱️ **Colazione Rebecca:** konbini — yogurt bianco, mela/pera ✅ (niente banana/kiwi/arancia)
 - 🅲 **Pranzo ultimo:** [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu, ¥1.000–1.500)
-- 🅳 **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa)
+- 🅳 **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|bills]] (Ginza, pancake ✅)
 - 🅴 **Cena tutti:** [[Mangiare in Giappone#Depachika|depachika Daimaru Tokyo Station]] (bento di qualità da portare sul volo) · aeroporto (¥1.000–2.000)
 - 🅵 **Rebecca cena:** volo — **pasto speciale prenotato** (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
 
@@ -582,9 +599,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - Ultimi acquisti: [[Ginza (銀座)]] #1/5 🟢 o [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (se non fatto)
 
 **Pomeriggio:**
-- Opzioni:
-  - ⚪ **Kamakura day trip leggero** — se partenza è sera tardi (vedi Giorno 12 PIANO B)
-  - 🟢 **Rientro hotel → preparazione bagagli**
+- 🟢 **Rientro hotel → preparazione bagagli**
 - *Spostamento aeroporto:* Narita Express (~60 min, ¥3.000+) o bus (~90 min, ¥1.200)
 
 **Sera/Notte:**
@@ -645,21 +660,21 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.513–2.713 €/persona · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.515–2.715 €/persona · **Budget reale:** da compilare
 
 | Voce | Stima | Reale | Delta | Note |
 |---|---|---|---|---|
 | Volo A/R | 800–1.000 € | ❌ Da prenotare | — | — |
-| Alloggio (14 notti, camera/3) | ~350 € | ❌ Da calcolare | — | Osaka+Kyoto ✅ prenotati, Tokyo da verificare |
+| Alloggio (14 notti, camera/3) | ~350 € | ✅ Calcolato | — | Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati
 | Cibo (14 gg × ~30 €) | ~425 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € | ❌ Da acquistare | — | — |
 | Kyoto→Tokyo Shinkansen | ~81 € | ❌ Da acquistare | — | — |
 | Trasporti locali (14 gg × ~10 €) | ~130 € | ❌ Da tenere traccia | — | Suica/Icoca |
-| Attrazioni (USJ, templi, TeamLab…) | ~228 € | ❌ Da calcolare | — | Vedi |Attività e Prenotazioni| |
+| Attrazioni (USJ, templi, TeamLab…) | ~230 € | ❌ Da calcolare | — | Vedi |Attività e Prenotazioni| |
 | Spese personali | ~400 € | ❌ Da tenere traccia | — | Souvenir, extra |
 | Assicurazione (Heymondo Premium) | ~27 €/persona | ❌ Da stipulare | — | Vedi |Assicurazione Heymondo| |
 | eSIM 15gg | ~15–25 € | ❌ Da comprare | — | Klook o Airalo |
-| **TOTALE** | **~2.540–2.740 €** | **❌ Da compilare** | — | — |
+| **TOTALE** | **~2.542–2.742 €** | **❌ Da compilare** | — | — |
 
 ### Budget Rebecca (extra cibo)
 
@@ -681,9 +696,9 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € |
 | Kyoto→Tokyo Shinkansen (singolo) | ~81 € |
 | Trasporti locali (14 gg × ~10 €) | ~130 € |
-| Attrazioni (USJ, SkyTree, TeamLab, templi…) | ~228 € |
+| Attrazioni (USJ, SkyTree, TeamLab, templi…) | ~230 € |
 | Spese personali | ~400 € |
-| **TOTALE** | **~2.513–2.713 €** |
+| **TOTALE** | **~2.515–2.715 €** |
 
 ---
 
@@ -705,3 +720,4 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Prenotazione Fuji Excursion treno | 1 mese prima | ❌ Da prenotare | JR East online |
 | Controllo maree Miyajima | Giorno prima | ❌ Da fare | Alta marea = torii nell'acqua |
 | Assicurazione Heymondo | **Agosto 2026** | ❌ Da stipulare | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]] |
+

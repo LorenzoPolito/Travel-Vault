@@ -124,5 +124,5 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | Pokemon Cafe | Media | Prenotazione online |
 | Mario Kart Ride | Media | ~100€, patente richiesta |
 | eSIM | Media | Comprare prima della partenza |
-| Verifica maree Miyajima | Info | Torii meglio con alta marea |
+| Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Dal 2023 tassa visita 100¥ per possessori pass (a parte al terminal) |
 | Assicurazione viaggio | Media | Da stipulare |

@@ -10,6 +10,8 @@ tags:
   - rebecca
 ---
 
+![Yanaka Ginza shopping street](https://upload.wikimedia.org/wikipedia/commons/c/ca/Yanaka_Ginza_shopping_street_%284041690725%29.jpg)
+
 # Yanaka Ginza (谷中銀座)
 
 Via commerciale storica nel quartiere [[Parco di Ueno (上野恩賜公園)#Yanaka|Yanaka]], sopravvissuta ai bombardamenti della WWII. Atmosfera Showa (anni '50-'60), negozietti artigianali, cibo di strada e gatti ovunque.

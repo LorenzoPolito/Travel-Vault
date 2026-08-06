@@ -7,6 +7,8 @@ tags:
 ---
 
 
+![Hiroshima Peace Memorial Park](https://upload.wikimedia.org/wikipedia/commons/3/39/Hiroshima_Peace_Memorial_Park_-_HiroshimaPeace128.jpg)
+
 ```leaflet
 id: hiroshima-map
 lat : 34.391311

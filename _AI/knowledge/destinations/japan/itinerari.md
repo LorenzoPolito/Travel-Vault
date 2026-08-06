@@ -57,7 +57,7 @@ Itinerari/Japan/
 | --- | --- | --- |
 | Arrivo KIX (Osaka) | 24 Ottobre | 3 |
 | Osaka (USJ + città) | 25-26 Ott | — |
-| Hiroshima (day trip) | 27 Ott | — |
+| Hiroshima + Miyajima (day trip) | 28 Ott | — |
 | Nara (half day) → Kyoto | 28 Ott | 3 |
 | Kyoto | 29-30 Ott | — |
 | Tokyo | 31 Ott — 6 Nov | 6 |

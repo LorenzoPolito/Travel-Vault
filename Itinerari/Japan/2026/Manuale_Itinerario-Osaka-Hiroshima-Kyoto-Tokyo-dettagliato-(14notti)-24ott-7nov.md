@@ -155,30 +155,33 @@ Partenza mattutina: **JR Osaka Loop Line** → stazione **Universal City** (~15 
 
 ---
 
-## 🕊️ Giorno 5 — Hiroshima (28 ottobre)
+## 🕊️ Giorno 5 — Hiroshima + Miyajima (28 ottobre)
 
-**Toccata e fuga · Treno A/R incluso nel JR Kansai-Hiroshima Pass**
+**Giornata intera · Treno + traghetto incluso nel JR Kansai-Hiroshima Pass**
 
-> Oggi si **attiva il JR Kansai-Hiroshima Area Pass** (~99 €). Copre questo tragitto A/R da solo e sarà valido per i prossimi 5 giorni (Osaka, Nara, Kyoto).
+> Oggi si **attiva il JR Kansai-Hiroshima Area Pass** (~99 €). Copre questo tragitto A/R da solo, il traghetto per Miyajima e sarà valido per i prossimi 5 giorni (Osaka, Nara, Kyoto).
 
-Sveglia presto: Shinkansen Sakura da **Shin-Osaka** (~8:00), arrivo a Hiroshima (~9:30). Distanza ideale per una gita in giornata — da Tokyo sarebbero quasi 5 ore, da Osaka sono solo 90 minuti.
+Sveglia presto: Shinkansen Sakura da **Shin-Osaka** (~6:45-7:00), arrivo a Hiroshima (~8:15). Distanza ideale per una gita in giornata — da Tokyo sarebbero quasi 5 ore, da Osaka sono solo 90 minuti.
 
-Hiroshima è una città vivace e moderna che porta con sé la memoria del bombardamento atomico del 6 agosto 1945. La visita è emotivamente impegnativa ma fondamentale.
+**Mattina — Miyajima (isola sacra, Patrimonio UNESCO):**
+- Dalla stazione di Hiroshima, JR Sanyo Line → **Miyajimaguchi** (~25 min, incluso nel pass)
+- **Traghetto JR** → Miyajima (~10 min, incluso nel pass; ⚠️ dal 2023 si paga la **tassa di visita di 100 ¥** al terminal, a parte per i possessori di pass)
+- **Santuario Itsukushima** (6:30–17:30, ¥300) — la porta **Otorii galleggiante** e gli edifici in legno sul mare, uno dei "tre scorci più belli del Giappone". Con la luna piena del 26/10 le maree sono ampie: controlla gli orari, col torii più scenico con l'alta marea
+- **Tempio Daisho-in** (8:00–17:00) — il tempio più antico dell'isola, splendido con il foliage autunnale
+- Senjokaku + Pagoda Gojunoto (8:30–16:30, ¥100) se c'è tempo
+- Pranzo sull'isola: **ostriche alla griglia** o momiji manju (⚠️ Rebecca: niente crostacei — okonomiyaki senza salsa o konbini)
 
-**Mattina:**
-- **Parco del Memoriale della Pace** (平和記念公園) — raggiungibile dalla stazione in ~20 min con l'autobus hop-on hop-off Meipuru-pu (incluso nel JR Pass oppure ~400 ¥ giornaliero). Il parco ospita il cenotafio, la Fiamma della Pace e il simbolico **Genbaku Dome (Atomic Bomb Dome)** — l'unico edificio rimasto parzialmente in piedi dopo la bomba, Patrimonio UNESCO
-- **Museo della Pace di Hiroshima** — progettato da Kenzō Tange nel 1955. Fotografie, reperti personali delle vittime, filmati e ricostruzioni. Calcolare 2 ore buone. Ingresso: ~200 ¥. Emotivamente intenso — prendersi il tempo necessario
-
-**Pomeriggio:**
-- **Castello di Hiroshima** (Castello della Carpa) — ricostruito nel 1958, con vista sul Memorial Park dall'alto
-- Pranzo con **okonomiyaki alla Hiroshima** — ingredienti a strati con noodles, diverso da quello di Osaka, specialità locale
+**Pomeriggio — Hiroshima:**
+- **Parco del Memoriale della Pace** (平和記念公園) — cenotafio, Fiamma della Pace e **Genbaku Dome (Atomic Bomb Dome)**, l'unico edificio rimasto parzialmente in piedi dopo la bomba, Patrimonio UNESCO
+- **Museo della Pace di Hiroshima** (7:30–19:00, ~200 ¥) — progettato da Kenzō Tange nel 1955. Fotografie, reperti personali delle vittime, filmati e ricostruzioni. Calcolare 2 ore buone. Emotivamente intenso — prendersi il tempo necessario. 🟡 Consigliato il biglietto online per evitare le file
+- **Castello di Hiroshima** (Castello della Carpa) — ricostruito nel 1958, con vista sul Memorial Park dall'alto (opzionale)
 - Passeggiata su **Hondori Street** e acquisto dei **momiji manju** (dolcetti a forma di foglia d'acero, simbolo della città)
 
 **Sera:**
-- Partenza da Hiroshima verso le 18:30-19:00
-- Rientro a Osaka in hotel
+- Partenza da Hiroshima verso le 18:00-18:30
+- Rientro a Osaka in hotel (~19:30)
 
-> **Se avanzasse tempo:** l'isola di **Miyajima** con il Santuario Itsukushima e il Torii galleggiante (Patrimonio UNESCO) è a ~45 min (treno + traghetto, traghetto incluso nel JR Pass). Richiede almeno 3-4 ore extra — da valutare se si parte molto presto da Osaka.
+🅿 **PIANO B (stanchi/pioggia):** Salta il Castello e rientra entro le 17:00. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
 
 ---
 

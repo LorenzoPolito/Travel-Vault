@@ -3,15 +3,15 @@ type: itinerario
 destination: Japan
 durata_giorni: 15
 durata_notti: 14
-data_partenza: "2026-10-24"
+data_partenza: "2026-10-23"
 data_ritorno: "2026-11-07"
 status: pianificato
 autori:
   - Lorenzo
   - Davide
   - Rebecca
-percorso: "Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "2.515-2.715 €/persona"
+percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
+budget_totale_stimato: "2.555-2.755 €/persona"
 tags:
   - itinerario
   - japan
@@ -23,14 +23,15 @@ tags:
 > ⚡ **Stato:** Pianificazione completa — ✅ alloggi prenotati, ❌ voli e attività da prenotare
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
-# Giappone 2026 — 24 Ottobre · 7 Novembre
+# Giappone 2026 — 23 Ottobre (partenza) · 7 Novembre
 
-Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni / 14 notti
+Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni / 14 notti
 
 ```mermaid
 flowchart LR
-    A[🇮🇹 Roma] -->|Volo ~12h| B[🛬 KIX Osaka]
-    B --> C[🏙️ Osaka 3 notti]
+    A[🇮🇹 Roma] -->|Volo notturno 23 sera| B[🛬 KIX 24]
+    B -->|Nankai 10min| B2[🛏️ Izumisano 1 notte]
+    B2 -->|Nankai 35min| C[🏙️ Osaka 4 notti]
     C -->|Shinkansen 1.5h| D[🕊️ Hiroshima + Miyajima day trip]
     D --> C
     C -->|Kintetsu 40min| E[🦌 Nara half day]
@@ -41,6 +42,7 @@ flowchart LR
 
     style A fill:#ce2b37,color:#fff
     style B fill:#ce2b37,color:#fff
+    style B2 fill:#ff6b35,color:#fff
     style C fill:#ff6b35,color:#fff
     style D fill:#4ecdc4,color:#fff
     style E fill:#7bc043,color:#fff
@@ -57,10 +59,13 @@ gantt
     axisFormat  %d %b
 
     section ✈️ Partenza
-    Volo Italia→Osaka       :g1, 2026-10-24, 1d
+    Volo notturno 23 sera   :g1, 2026-10-23, 1d
+
+    section 🛏️ Izumisano (KIX)
+    Arrivo KIX + notte      :g2, 2026-10-24, 1d
 
     section 🏙️ Osaka
-    Arrivo + Dotonbori     :g2, 2026-10-25, 1d
+    Trasferimento + Dotonbori :g3, 2026-10-25, 1d
     Cultura + Castello     :2026-10-26, 1d
     Universal Studios      :2026-10-27, 1d
 
@@ -68,7 +73,7 @@ gantt
     Hiroshima + Miyajima   :2026-10-28, 1d
 
     section 🦌 Nara → ⛩️ Kyoto
-    Nara mattina           :g6, 2026-10-29, 1d
+    Nara mattina           :g7, 2026-10-29, 1d
     Kyoto Higashiyama      :2026-10-30, 1d
     Kyoto Arashiyama       :2026-10-31, 1d
 
@@ -97,7 +102,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [0,37,53,90,30,47,56,58,133,58,57,50,62,92,30]
+    bar [25,39,53,90,30,47,56,58,133,58,57,50,62,92,30]
 ```
 
 ---
@@ -106,8 +111,9 @@ xychart-beta
 
 | Tappa | Giorni | Notti | Date |
 |:---|:---:|:---:|:---|
-| Partenza Italia | — | — | 24 Ott |
-| [[Osaka(大阪市)]] | 3 | 3 | 25–28 Ott |
+| Partenza Italia (volo notturno) | — | — | 23 Ott |
+| [[Osaka(大阪市)#Izumisano|Izumisano (KIX, notte di arrivo)]] | 1 | 1 | 24–25 Ott |
+| [[Osaka(大阪市)]] | 3 | 4 | 25–28 Ott |
 | [[Hiroshima(広島)]] + [[Miyajima (宮島)]] (day trip) | 1 | — | 28 Ott |
 | [[Nara (奈良市)]] (half day) | 0.5 | — | 29 Ott |
 | [[Kyoto(京都)]] | 3 | 3 | 29 Ott – 1 Nov |
@@ -133,7 +139,8 @@ xychart-beta
 
 | Tratta | Mezzo | Tempo | Costo p.p. | Copertura |
 |---|---|---|---|---|
-| KIX → Osaka | Haruka Express / Bus | 50–75 min | ~1.100–1.800 ¥ | Suica/Icoca |
+| KIX → Izumisano | Nankai Airport Express | ~8-10 min | ~520 ¥ | Suica/Icoca |
+| Izumisano → Namba (Osaka) | Nankai Main Line | ~34 min | ~610 ¥ | Suica/Icoca |
 | Osaka → Hiroshima A/R | Shinkansen Sakura | ~1h 30m | ~20.000 ¥ | **JR Kansai-Hiroshima Pass** |
 | Osaka → Nara | Kintetsu Line | ~40 min | ~570 ¥ | **Non JR** — Suica/Icoca |
 | Nara → Kyoto | JR Nara Line | ~50 min | ~720 ¥ | **JR Pass** |
@@ -160,8 +167,8 @@ xychart-beta
 
 | Giorno | Data | Cibo | Trasporti | Ingressi | TOT |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 1 | 24 Ott | — | — | — | 0 € |
-| 2 | 25 Ott | 25 € | 12 € | — | 37 € |
+| 1 | 23–24 Ott | 15 € | 10 € | — | 25 € |
+| 2 | 25 Ott | 25 € | 14 € | — | 39 € |
 | 3 | 26 Ott | 30 € | 8 € | 15 € | 53 € |
 | 4 | 27 Ott | 35 € | 5 € | 50 € | 90 € |
 | 5 | 28 Ott | 25 € | — (pass) | 5 € | 30 € |
@@ -175,14 +182,15 @@ xychart-beta
 | 13 | 5 Nov | 30 € | 10 € | 22 € | 62 € |
 | 14 | 6 Nov | 35 € | 12 € | 45 € | 92 € |
 | 15 | 7 Nov | 15 € | 15 € | — | 30 € |
-| **TOT** | | **~425 €** | **~213 €** | **~230 €** | **~868 €** |
+| **TOT** | | **~435 €** | **~235 €** | **~230 €** | **~880 €** |
 
-+ Volo A/R ~900 € + Alloggio ~350 € + Spese personali ~400 € = **~2.516 € totali**
++ Volo A/R ~900 € + Alloggio ~380 € (incl. 1 notte Izumisano) + Spese personali ~400 € = **~2.560 € totali**
 
 ### Alloggi
 
 | #   | Città          | Struttura                                                        | Date         | Notti | Cucina              | Ref              |
 | --- | -------------- | ---------------------------------------------------------------- | ------------ | ----- | ------------------- | ---------------- |
+| 0   | [[Osaka(大阪市)#Izumisano|Izumisano (KIX)]] | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]]                    | 24–25 Ott    | 1     | ✅ Kitchenette       | 🔵 **PRENOTATO** |
 | 1   | [[Osaka(大阪市)]] | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott    | 4     | ✅ Angolo cottura    | 🔵 **PRENOTATO** |
 | 2   | [[Kyoto(京都)]]  | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]]               | 29 Ott–1 Nov | 3     | ✅ Cucina attrezzata | 🔵 **PRENOTATO** |
 | 3 | [[Tokyo(東京)]] | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] | 1–6 Nov | 5 | ✅ Cucina condivisa (1° piano) | 🔵 **PRENOTATO** |
@@ -195,11 +203,11 @@ xychart-beta
 
 ---
 
-## Giorno 1 — Sabato 24 Ottobre — Partenza
+## Giorno 1 — Venerdì 23 (sera) · Sabato 24 Ottobre — Partenza & Arrivo KIX
 
 **Difficoltà:** 1/4 · **Budget:** 0 €
 
-Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha/Abu Dhabi.
+Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha/Abu Dhabi, partenza **venerdì 23 sera** → arrivo **sabato 24**. La prima notte si dorme a **Izumisano**, a 2 fermate dall'aeroporto — niente stress di trasferimento notturno fino al centro.
 
 **Checklist pre-partenza:**
 - [ ] Passaporti validi 6+ mesi
@@ -216,22 +224,30 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - [ ] 🏠 **Verificare cucina in TUTTI gli alloggi** — vedi [[Allergie Alimentari Rebecca#Check-list Alloggi]]
 - [ ] 📱 **Scaricare app:** Google Maps offline, Safety Tips, Google Translate
 
-**Sera:**
+**Venerdì 23 (sera):**
 - Partenza per aeroporto
 - Volo notturno (~12–16h con scalo)
 - 🅿 **PIANO B:** Se il volo è in ritardo, nessun impatto — il giorno 2 è volutamente leggero
 
----
-
-## Giorno 2 — Domenica 25 Ottobre — Osaka: Arrivo & Dotonbori
-
-**Difficoltà:** 2/4 · **Budget:** ~37 € · **Meteo:** 18–23°C, 30% possibilità pioggia (dati JMA)
-
-**Arrivo al [[Osaka(大阪市)]].**
+**Sabato 24 — Arrivo a KIX:**
 - Ritira **[[Icoca]]** alle macchinette JR in aeroporto (o carica Suica digitale)
 - [[E-sim panoramica delle disponibili\|eSIM]] — attivala subito all'arrivo
-- [[Osaka(大阪市)]] o bus per il centro (~50–75 min)
-- Check-in hotel
+- **Nankai Airport Express** → [[Osaka(大阪市)#Izumisano|Izumisano]] (~8-10 min, ¥520)
+- Check-in al **KURA Hotel Izumisano** (self check-in con codice via email, check-in dalle 16:00)
+- Cena leggera nelle vicinanze (konbini o izakaya locali)
+- 🅿 **PIANO B (volo in ritardo):** KURA hotel è a 10 min dall'aeroporto — raggiungibile con l'ultimo Nankai senza problemi
+
+---
+
+## Giorno 2 — Domenica 25 Ottobre — Trasferimento a Osaka & Dotonbori
+
+**Difficoltà:** 2/4 · **Budget:** ~40 € · **Meteo:** 18–23°C, 30% possibilità pioggia (dati JMA)
+
+**Mattina — Trasferimento a Osaka:**
+- Check-out KURA Hotel **entro le 10:00**
+- **Nankai Main Line** → Namba (~34 min, ¥610, su Icoca) — oppure JR → Tennoji se preferisci
+- Metro Yotsubashi Line → **Hanazonocho** → check-in appartamento
+- Deposito bagagli in stazione se il check-in è nel pomeriggio
 
 **Pomeriggio/Sera | Cluster Namba/Dotonbori:**
 - Prima passeggiata: [[Dotonbori (道頓堀)]] #5/5 🟢 — il canale illuminato, le insegne al neon, il granchio meccanico del Kani Doraku
@@ -244,7 +260,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] (Namba, carne alla griglia ✅) · **cucina in hotel**
 - 🍨 **Dopo:** matcha gelato (¥300–500) · crepes giapponesi
 
-**Trasporti:** Haruka Express ¥1.800 (o bus ¥1.100) + Suica per metro
+**Trasporti:** Nankai ¥610 + metro Yotsubashi (~¥200) + Suica
 🅿 **PIANO B (pioggia):** Namba Walks (shopping coperto) + Hozen-ji → cena al coperto a Dotonbori
 
 ---
@@ -627,10 +643,10 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ### Calendario Monitoraggio
 
-| Data | Stato | 🛫 Andata FCO→KIX 24-25 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
+| Data | Stato | 🛫 Andata FCO→KIX 23-24 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
 |---|---|---|---|---|---|
 | 11 Lug | ✅ | **€290-600** · China Eastern via PVG (15h, da €290) · Finnair via HEL (18h) · Emirates via DXB (16h, da €450) | **€250-750** · Finnair via HEL (17h40, da €250) · KLM via AMS (17h30, da €270) · ITA **diretto** HND→FCO (14h45, €550-750) | **~€650-1.100** | [Rome2Rio FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [Rome2Rio TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome) |
-| 13 Lug | ✅ | **€685 reale** — Etihad via AUH→NRT (18h10) · **€804** LOT via WAW→NRT (16h20) · **€838** EgyptAir (17h10) · **€863** Qatar via DOH (18h45) · **€901** Turkish (17h15) — tutti sotto 21h. **Attenzione:** arrivano a TYO, non KIX. Da TYO a Osaka: Shinkansen ~2,5h + ~€81 | **€601 reale** 🏆 — Qatar Airways via DOH (HND→FCO, 20h05 ✅) · **€664** Asiana via ICN (NRT→FCO) · **€740** Emirates via DXB | **~€685-601 = ~€1.286** | Fonte: [Google Flights FCO→TYO 24 Ott](https://www.google.com/travel/flights?q=Roma+a+Tokyo+24+ottobre+2026+one+way) + [Google Flights TYO→FCO 6 Nov](https://www.google.com/travel/flights?q=flights+from+tokyo+to+rome+on+2026-11-06+one+way) |
+| 13 Lug | ✅ | **€685 reale** — Etihad via AUH→NRT (18h10) · **€804** LOT via WAW→NRT (16h20) · **€838** EgyptAir (17h10) · **€863** Qatar via DOH (18h45) · **€901** Turkish (17h15) — tutti sotto 21h. **Attenzione:** arrivano a TYO, non KIX. Da TYO a Osaka: Shinkansen ~2,5h + ~€81 | **€601 reale** 🏆 — Qatar Airways via DOH (HND→FCO, 20h05 ✅) · **€664** Asiana via ICN (NRT→FCO) · **€740** Emirates via DXB | **~€685-601 = ~€1.286** | Fonte: [Google Flights FCO→TYO 23 Ott](https://www.google.com/travel/flights?q=Roma+a+Tokyo+23+ottobre+2026+one+way) + [Google Flights TYO→FCO 6 Nov](https://www.google.com/travel/flights?q=flights+from+tokyo+to+rome+on+2026-11-06+one+way) |
 | 15 Lug | ⬜ | — | — | — | — |
 | 17 Lug | ⬜ | — | — | — | — |
 | 19 Lug | ⬜ | — | — | — | — |
@@ -643,7 +659,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | 1-3 Ago 🎯 | ⬜ | **Target: €300-500** · 1 scalo (DXB, DOH, IST) · max 20h totali | **Target: €300-500** · ITA diretto se ~€500, Finnair/KLM se <€350 | **Target: €700-1.000** | Controllare: Skyscanner, Momondo, Google Flights |
 
 **Criteri volo:**
-- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), arrivo 25 Ottobre. **NON diretto** — 1 scalo (Dubai, Doha, Istanbul). Durata: ~16-20h totali. **Evitare scali lunghi >6h che portano a 24-30h totali.**
+- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), **partenza 23 sera, arrivo 24 Ottobre**. **NON diretto** — 1 scalo (Dubai, Doha, Istanbul). Durata: ~16-20h totali. **Evitare scali lunghi >6h che portano a 24-30h totali.** Notte del 24 a Izumisano.
 - 🛬 **Ritorno:** Tokyo (HND) → Roma (FCO), partenza 6-7 Novembre. **DIRETTO ITA disponibile** (~13h) oppure 1 scalo economico (Dubai/Doha, ~16-18h).
 - 💰 **Target prezzo:** 800–1.000 €/persona A/R
 - ✅ **Rebecca:** pasto speciale obbligatorio (no soia, no pesce, no crostacei, no frutta secca)
@@ -660,13 +676,13 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.515–2.715 €/persona · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.555–2.755 €/persona · **Budget reale:** da compilare
 
 | Voce | Stima | Reale | Delta | Note |
 |---|---|---|---|---|
-| Volo A/R | 800–1.000 € | ❌ Da prenotare | — | — |
-| Alloggio (14 notti, camera/3) | ~350 € | ✅ Calcolato | — | Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati
-| Cibo (14 gg × ~30 €) | ~425 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
+| Volo A/R | 800–1.000 € | ❌ Da prenotare | — | **Partenza 23 sera** → arrivo KIX 24 |
+| Alloggio (14 notti, camera/3) | ~380 € | ✅ Calcolato | — | Izumisano ✅ + Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati
+| Cibo (15 gg × ~30 €) | ~435 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € | ❌ Da acquistare | — | — |
 | Kyoto→Tokyo Shinkansen | ~81 € | ❌ Da acquistare | — | — |
 | Trasporti locali (14 gg × ~10 €) | ~130 € | ❌ Da tenere traccia | — | Suica/Icoca |
@@ -674,15 +690,15 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Spese personali | ~400 € | ❌ Da tenere traccia | — | Souvenir, extra |
 | Assicurazione (Heymondo Premium) | ~27 €/persona | ❌ Da stipulare | — | Vedi |Assicurazione Heymondo| |
 | eSIM 15gg | ~15–25 € | ❌ Da comprare | — | Klook o Airalo |
-| **TOTALE** | **~2.542–2.742 €** | **❌ Da compilare** | — | — |
+| **TOTALE** | **~2.555–2.755 €** | **❌ Da compilare** | — | — |
 
 ### Budget Rebecca (extra cibo)
 
 | Voce | Stima |
 |---|---|
-| Spesa supermarket (pasta, riso, pollo, verdure, frutta) | ~10 €/gg × 14gg = ~140 € |
+| Spesa supermarket (pasta, riso, pollo, verdure, frutta) | ~10 €/gg × 15gg = ~150 € |
 | Ristoranti sicuri (Saizeriya, yakiniku) | ~3–4 pasti × ~10 € = ~35 € |
-| **Extra Rebecca** | **~175 €** (meno dei ~425 € del budget cibo standard) |
+| **Extra Rebecca** | **~185 €** (meno dei ~435 € del budget cibo standard) |
 
 ---
 
@@ -691,14 +707,14 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Voce | Stima |
 |---|---|
 | Volo A/R | 800–1.000 € |
-| Alloggio (14 notti, camera condivisa/3) | ~350 € |
-| Cibo (14 gg × ~30 €) | ~425 € |
+| Alloggio (14 notti, camera condivisa/3) | ~380 € |
+| Cibo (15 gg × ~30 €) | ~435 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € |
 | Kyoto→Tokyo Shinkansen (singolo) | ~81 € |
-| Trasporti locali (14 gg × ~10 €) | ~130 € |
+| Trasporti locali (15 gg × ~10 €) | ~145 € |
 | Attrazioni (USJ, SkyTree, TeamLab, templi…) | ~230 € |
 | Spese personali | ~400 € |
-| **TOTALE** | **~2.515–2.715 €** |
+| **TOTALE** | **~2.570–2.770 €** |
 
 ---
 
@@ -706,7 +722,8 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 | Cosa | Da fare entro | Stato | Note |
 |---|---|---|---|
-| Volo A/R Roma→KIX (arrivo 25 ott) / NRT→Roma | **URGENTE** | ❌ Da prenotare | Cerca su Skyscanner, Momondo. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
+| Volo A/R Roma→KIX (partenza **23 sera**, arrivo 24 ott) / NRT→Roma | **URGENTE** | ❌ Da prenotare | Cerca su Skyscanner, Momondo. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
+| Alloggio Izumisano 1 notte (24–25 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]] — kitchenette ✅, self check-in |
 | Alloggio Osaka 4 notti (25–29 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] — angolo cottura ✅ |
 | Alloggio Kyoto 3 notti (29 ott–1 nov) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅ |
 | Alloggio Tokyo 5 notti (1–6 nov) | ✅ **CONFERMATO** | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅ |

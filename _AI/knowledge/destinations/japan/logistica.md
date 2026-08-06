@@ -102,7 +102,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | Voce | Stima/persona |
 | --- | --- |
 | Voli A/R | 800-1.000 € |
-| Alloggio (12 notti in condivisione) | ~350 € |
+| Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
 | Cibo (12gg × 30€) | ~360 € |
 | JR Kansai-Hiroshima Area Pass (5gg) | ~99 € |
 | Kyoto→Tokyo Shinkansen | ~81 € |

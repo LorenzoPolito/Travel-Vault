@@ -9,7 +9,7 @@ tags:
 
 > Creato da @Lorenzo / @Davide / @Rebecca
 
-# 🇯🇵 Itinerario Giappone — 22 Ottobre · 7 Novembre 2026
+# 🇯🇵 Itinerario Giappone — 23 Ottobre (partenza) · 7 Novembre 2026
 
 ---
 
@@ -17,15 +17,15 @@ tags:
 
 | Tappa | Giorni | Notti | Date | Alloggio (a notte/p.p.) | Cibo | Trasporti | Attrazioni | Note |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---|
-| ✈️ Volo andata | — | — | 24–25 ott | 400–500 € (volo) | — | — | — | Arrivo il 25 sera |
-| 🏙️ Osaka | 2 | 3 | 25–28 ott | ~20–25 €/p.p. | 30 €/g | 12 €/g | 50 € | 1 giorno Universal Studios |
-| 🕊️ Hiroshima | 1 | — | 28 ott | — (toccata e fuga) | 30 €/g | incluso nel pass | — | Treno mattina, ritorno sera |
-| 🌙 Osaka (solo notte) | — | 1 | 28–29 ott | ~20–25 €/p.p. | — | — | — | Solo dormire |
+| ✈️ Volo andata | — | — | 23–24 ott | 400–500 € (volo) | — | — | — | Partenza 23 sera, arrivo 24 |
+| 🛏️ Izumisano (KIX) | 1 | 1 | 24–25 ott | ~10 €/p.p. | 15 € | 10 € | — | Notte di arrivo vicino aeroporto |
+| 🏙️ Osaka | 3 | 4 | 25–28 ott | ~20–25 €/p.p. | 30 €/g | 12 €/g | 50 € | 1 giorno Universal Studios |
+| 🕊️ Hiroshima + Miyajima | 1 | — | 28 ott | — (toccata e fuga) | 30 €/g | incluso nel pass | — | Treno mattina, ritorno sera |
 | 🦌 Nara | 0,5 | — | 29 ott | — (mezza giornata) | 30 €/g | ~4 € | — | Pomeriggio, poi verso Kyoto |
 | ⛩️ Kyoto | 2,5 | 3 | 29 ott–1 nov | ~20–25 €/p.p. | 30 €/g | 12 €/g | — | Arrivo → Fushimi Inari subito |
 | 🗼 Tokyo | 6 | 5 | 1–6 nov | ~20–30 €/p.p. | 30 €/g | 12 €/g | 100 € | Sanrio Puroland + Pokémon Center |
 | ✈️ Volo ritorno | — | — | 6–7 nov | 400–500 € (volo) | — | — | — | Da valutare se prolungare |
-| **TOTALE** | **~12** | **12** | | **~400 € + 1.200 €** | **~360 €** | **~144 € + 200 €** | **~150 €** | |
+| **TOTALE** | **~15** | **14** | | **~410 € + 1.200 €** | **~390 €** | **~155 € + 200 €** | **~150 €** | |
 
 ---
 
@@ -86,28 +86,32 @@ Per il tratto **Kyoto → Tokyo**: biglietto singolo ~14.000 ¥ (~81 €), acqui
 
 ---
 
-## ✈️ Giorno 1 — Viaggio (24 ottobre)
+## ✈️ Giorno 1 — Partenza & Arrivo (23 sera → 24)
 
-**Partenza dall'Italia**
+**Partenza dall'Italia, arrivo a KIX e notte a Izumisano**
 
-Giornata dedicata alla preparazione e alla partenza. Prima di uscire: controllo documenti, biglietti, pass e assicurazione viaggio. Il volo per Osaka ha una durata di circa 15–16 ore con scalo (tipicamente Dubai, Doha o Abu Dhabi con Emirates, Qatar Airways o Etihad).
+Partenza **venerdì 23 sera** dall'Italia. Il volo per Osaka dura circa 15–16 ore con scalo (tipicamente Dubai, Doha o Abu Dhabi con Emirates, Qatar Airways o Etihad), con arrivo a **KIX sabato 24**. Per non fare il trasferimento notturno fino al centro, si dorme la prima notte a **Izumisano**, a 2 fermate dall'aeroporto.
 
 - Preparazione bagagli e controllo inventario
-- Partenza per l'aeroporto nel pomeriggio/sera
+- Partenza per l'aeroporto nel pomeriggio/sera di venerdì 23
 - Imbarco e volo notturno
+- Arrivo a **KIX** (sabato 24) — ritirare la **Suica/Icoca** alle macchinette in aeroporto
+- **Nankai Airport Express** → Izumisano (~8-10 min, ~520 ¥)
+- Check-in **KURA Hotel Izumisano** (self check-in, dalle 16:00)
+- Cena leggera in zona (konbini o izakaya locali)
 
 ---
 
-## 🏙️ Giorno 2 — Osaka, arrivo (25 ottobre)
+## 🏙️ Giorno 2 — Trasferimento a Osaka (25 ottobre)
 
-**Check-in e prima esplorazione**
+**Check-in a Osaka e prima esplorazione**
 
-Arrivo all'**Aeroporto Internazionale del Kansai (KIX)**. Dall'aeroporto si raggiunge il centro con il treno **Haruka Express** (~75 min, ~1.800 ¥) oppure con l'autobus (~50 min, ~1.100 ¥). Prima cosa: ritirare e ricaricare la **Suica** (disponibile alle macchinette JR in aeroporto).
+Check-out dal KURA Hotel **entro le 10:00**. Da **Izumisano** si raggiunge il centro di Osaka con la **Nankai Main Line** (~34 min, ~610 ¥) fino a **Namba**, poi metro Yotsubashi Line fino all'appartamento (Hanazonocho).
 
-Con il fuso orario (+8h) e le ore di volo, il primo giorno è quasi sempre a pezzi — meglio non pianificare troppo.
+Con il fuso orario (+8h) e le ore di volo, il giorno è volutamente leggero.
 
 **Pomeriggio/Sera:**
-- Check-in in hotel
+- Check-in appartamento Hanazonocho (dalle 16:00) — deposito bagagli ai coin locker di Namba se serve
 - Prima passeggiata nel quartiere
 - Gita Supermercato per alimentazione Rebecca e ci spacchiamo di Kombini porca puttana!
 - [[Dotonbori (道頓堀)]] — il modo migliore per iniziare: il canale illuminato, le insegne al neon, il granchio meccanico del Kani Doraku e i primi assaggi di street food (takoyaki, okonomiyaki, ramen). La zona si accende la sera

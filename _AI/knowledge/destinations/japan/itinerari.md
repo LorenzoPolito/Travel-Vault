@@ -47,27 +47,29 @@ Itinerari/Japan/
 
 ---
 
-## Itinerario Principale (24 Ott — 7 Nov 2026)
+## Itinerario Principale (23 Ott partenza — 7 Nov 2026)
 
-**Path:** `Itinerari/Japan/2026/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md`
+**Path:** `Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md`
 
 **Persone:** Lorenzo, Davide, Rebecca
 
 | Città | Date | Notti |
 | --- | --- | --- |
-| Arrivo KIX (Osaka) | 24 Ottobre | 3 |
-| Osaka (USJ + città) | 25-26 Ott | — |
+| Partenza Italia (volo notturno) | 23 Ott | — |
+| Arrivo KIX + Izumisano | 24 Ott | 1 |
+| Osaka (USJ + città) | 25-28 Ott | 4 |
 | Hiroshima + Miyajima (day trip) | 28 Ott | — |
-| Nara (half day) → Kyoto | 28 Ott | 3 |
+| Nara (half day) → Kyoto | 29 Ott | 3 |
 | Kyoto | 29-30 Ott | — |
-| Tokyo | 31 Ott — 6 Nov | 6 |
+| Tokyo | 31 Ott — 6 Nov | 5 |
 | Fujiyoshida (day trip) | 1 Nov | — |
 | Partenza da Tokyo | 7 Novembre | — |
 
 **Caratteristiche chiave:**
 - Orari al minuto, livello difficoltà fisica (1-4), indicazioni mezzo di trasporto
-- Budget dettagliato: ~2.440-2.640 €/persona
+- Budget dettagliato: ~2.555-2.755 €/persona
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
+- 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
 
 ---
 

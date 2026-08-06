@@ -32,3 +32,11 @@ tags:
 ## Hotels
 - [Astil Hotel Shin-Osaka](https://www.magictravel.ai/trip/34f47051-685d-417f-8af1-95125cea6e2b/hotels/Osaka/Astil%20Hotel%20Shin-Osaka?source=trip)
 - [Hotel Shiki Utsubo Park](https://www.magictravel.ai/trip/34f47051-685d-417f-8af1-95125cea6e2b/hotels/Osaka/Hotel%20Shiki%20Utsubo%20Park?source=trip)
+
+## Izumisano (泉佐野) — zona aeroporto KIX
+
+Izumisano è la città dove sorge la parte settentrionale del **Kansai International Airport (KIX)**. Ottima base per la **notte di arrivo** (24 ott) prima di entrare in città.
+
+- **KIX → Izumisano:** Nankai Airport Express ~8-10 min (¥520) — 2 fermate (Rinku Town → Izumisano)
+- **Izumisano → Namba:** Nankai Main Line ~34 min (¥610)
+- **Hotel di riferimento:** [[KURA Hotel Izumisano]] (kitchenette ✅, self check-in)

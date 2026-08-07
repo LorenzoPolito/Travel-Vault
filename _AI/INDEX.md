@@ -71,8 +71,9 @@ Travel-Vault/
 ├── Itinerari/
 │   ├── Calabria/[ARCHIVIATO]
 │   ├── Japan/
-│   │   ├── 2026/                         ★ Itinerario ATTIVO (24ott-7nov)
-│   │   │   └── Manuale_Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md
+│   │   ├── 2026/                         ★ Itinerari ATTIVI (2 varianti)
+│   │   │   ├── Itinerario-Giappone-24ott-7nov2026.md      ★ Variante A (23ott-7nov)
+│   │   │   └── Itinerario-Giappone-27ott-11nov2026.md     ★ Variante B (27ott-11nov)
 │   │   ├── Esterni/
 │   │   └── Solo con i luoghi/
 │           ├── 7 giorni/    (×2)

@@ -12,9 +12,17 @@ tags:
 
 # Comparazione Voli Giappone 2026 — Opzioni di Date
 
-> **Data ricerca:** 7 Agosto 2026 · **Fonte:** Google Flights (via API non ufficiale) · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
+> **Data ricerca:** 7 Agosto 2026 · **Fonte:** Google Flights (via API non ufficiale) + **Skyscanner (verifica manuale)** · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
 > **Vincolo:** ritorno entro **9 Novembre 2026**
 > ⚠️ I prezzi sono indicativi e cambiano rapidamente — verificarli su Google Flights/Skyscanner/Trip.com prima della prenotazione.
+
+---
+
+## 💶 Novità importante — China Eastern (MU) molto economica
+
+> 🔍 **Verificata a mano su Skyscanner (7 ago 2026):** biglietto **A/R insieme 29 Ott → 9 Nov con China Eastern = ~938 €/pax** (via Shanghai PVG, 1-2 scali).
+>
+> ⚠️ **Nota tecnica:** il mio estrattore da Google Flights NON legge i prezzi China Eastern (li restituisce come "0" — bug di parsing). Quindi **MU non compare nei dati qui sotto** ma i voli esistono e sono spesso i più economici. **Verificare sempre MU su Skyscanner/Trip.com.**
 
 ---
 
@@ -60,6 +68,7 @@ Confronto con l'**originale (variante A: 24 ott → 7 nov, ritorno da Tokyo)**:
 | Opzione | Andata | Ritorno | **TOTALE A/R** | vs Originale |
 |---|---|---|---|---|
 | **Originale 24→7** | 905 € (EK) | 616 € (QR) | **~1.521 €** | — |
+| **29 ott → 9 nov (MU)** 🏆 | — | — | **~938 €** (A/R insieme) | **−583 €** |
 | 24 ott → 9 nov | 905 € (EK) | 589 € (QR) | **~1.494 €** | −27 € |
 | **26 ott → 8 nov** | 762 € (KL) | 589 € (QR) | **~1.351 €** | −170 € |
 | **26 ott → 9 nov** | 762 € (KL) | 589 € (QR) | **~1.351 €** | −170 € |
@@ -73,13 +82,14 @@ Confronto con l'**originale (variante A: 24 ott → 7 nov, ritorno da Tokyo)**:
 
 ## 🎯 Conclusioni
 
-1. **Il ritorno da Tokyo (QR ~589-616 €) è molto più economico che da KIX (~770-850 €)** — conviene chiudere il giro a Tokyo come previsto.
-2. **Andata migliore: 27 ottobre con KL ~696 €** (partire di martedì paga).
-3. **Combinazione vincente: 27 ott → 8/9 nov = ~1.285 €/pax** (risparmio ~236 € vs l'originale).
-4. **Il 9 novembre (lunedì)** e il **5/8 novembre** sono i giorni di ritorno più economici.
-5. Anche **26 ott → 8/9 nov (~1.351 €)** è una buona alternativa se si preferisce partire di lunedì.
+1. **🏆 Migliore in assoluto: China Eastern 29 ott → 9 nov A/R ~938 €/pax** (via Shanghai, 1-2 scali) — verificata su Skyscanner. Il mio tool non legge i prezzi MU, ma è reale.
+2. **Il ritorno da Tokyo (QR ~589-616 €) è molto più economico che da KIX (~770-850 €)** — conviene chiudere il giro a Tokyo come previsto.
+3. **Andata migliore (escl. MU): 27 ottobre con KL ~696 €** (partire di martedì paga).
+4. **Combinazione migliore (escl. MU): 27 ott → 8/9 nov = ~1.285 €/pax** (risparmio ~236 € vs l'originale).
+5. **Il 9 novembre (lunedì)** e il **5/8 novembre** sono i giorni di ritorno più economici.
+6. ⚠️ **MU (China Eastern) va sempre controllata su Skyscanner/Trip.com** — è spesso la più economica ma il mio estrattore non la legge.
 
-> ⚠️ **Impatto sul budget:** il nuovo itinerario (variante B) stimava voli a 800-1.000 €/pax — va **aggiornato a ~1.285 €/pax** per la combinazione migliore 27 ott → 9 nov.
+> ⚠️ **Impatto sul budget:** il nuovo itinerario (variante B) stimava voli a 800-1.000 €/pax — con **MU 938 €** rientra nel budget! Con KL+QR (1.285 €) sarebbe sopra.
 
 ---
 

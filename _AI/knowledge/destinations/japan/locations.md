@@ -77,7 +77,11 @@ total_locations: 76
 **Day trip:**
 - Nara `#2/5` *(lontano, ~35-45min)*
 
-**Hotel (MagicTravel):** Astil Hotel Shin-Osaka · Hotel Shiki Utsubo Park
+**Izumisano (zona KIX)** — notte di arrivo 24 ott:
+- [[KURA Hotel Izumisano]] (kitchenette ✅, self check-in) — a ~10 min da KIX (Nankai Airport Express ¥520)
+- Nankai Main Line → Namba (~34 min, ¥610) per il centro Osaka
+
+**Hotel (MagicTravel):** Astil Hotel Shin-Osaka · Hotel Shiki Utsubo Park · **KURA Hotel Izumisano** (Booking)
 
 ---
 

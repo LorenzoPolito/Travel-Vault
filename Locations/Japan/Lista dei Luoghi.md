@@ -31,6 +31,10 @@ tags:
 2. [[Kaiyukan aquarium (海遊館)]] #1/5
 //
 1. [[Nara (奈良市)]] ( Lontano ) #2/5 
+### Izumisano (泉佐野) — zona aeroporto KIX
+
+1. [[KURA Hotel Izumisano]] (self check-in, kitchenette) — notte di arrivo 24 ott, a 10 min da KIX (Nankai Airport Express ¥520)
+2. Nankai Main Line → Namba (¥610, ~34 min) per il centro di Osaka
 ## [[Hiroshima(広島)]]
 
 1. [[Memorial Park Hiroshima]] (24H 7:30-19:00 ) #4/5

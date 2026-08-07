@@ -1,20 +1,19 @@
-"""Ricerca voli Giappone 2026 — FCO->KIX e ritorni, via Google Flights API (libreria google-flights).
+"""Ricerca voli Giappone 2026 con dettagli completi per ogni volo.
 
-Uso: python search_flights_2026.py
-
-Note:
-- Restituisce prezzi per 1 adulto, economy, EUR.
-- China Eastern (MU): Google non espone il prezzo via API (bug noto) -> segnalato,
-  verificare su Skyscanner/Trip.com.
-- Nessun browser: usa l'endpoint interno di Google Flights (veloce, ~3s/ricerca).
+Uso: python search_flights_details.py
+Restituisce: compagnia, orari, durata totale, scali (città + minuti), per 1 adulto economy EUR.
 """
 import sys, io
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
 from google_flights import create_filter, FlightData, Passengers, get_flights_from_filter
 
-# Compagnie note per non decodificare i prezzi via API (verifica manuale consigliata)
 MANUAL_CHECK = {"MU", "HU"}
+
+
+def fmt_t(tt):
+    h, m = divmod(tt or 0, 60)
+    return f"{h}h{m:02d}"
 
 
 def search(origin, dest, date, label):
@@ -36,43 +35,40 @@ def search(origin, dest, date, label):
         for it in items:
             try:
                 price = it.itinerary_summary.price
-                stops = len(it.flights) - 1
                 airlines = "/".join(sorted(set(fl.airline for fl in it.flights)))
-                dep = f"{it.departure_time[0]:02d}:{it.departure_time[1]:02d}" if it.departure_time else "?"
-                arr = f"{it.arrival_time[0]:02d}:{it.arrival_time[1]:02d}" if it.arrival_time else "?"
-                key = (price, stops, airlines)
+                key = (price, airlines, it.travel_time)
                 if key in seen:
                     continue
                 seen.add(key)
-                # MU/HU: price 0 (non esposto) -> segnala
-                if price <= 0 or any(a in MANUAL_CHECK for a in airlines.split("/")):
-                    results.append((float("inf"), stops, airlines, dep, arr, it.travel_time, "VERIFICA SU SKYSCANNER"))
-                else:
-                    results.append((price, stops, airlines, dep, arr, it.travel_time, ""))
+                dep = f"{it.departure_time[0]:02d}:{it.departure_time[1]:02d}"
+                arr = f"{it.arrival_time[0]:02d}:{it.arrival_time[1]:02d}"
+                lay = []
+                for lv in getattr(it, "layovers", []) or []:
+                    m = getattr(lv, "minutes", None)
+                    a = getattr(lv, "arrival_airport_city", None) or getattr(lv, "arrival_airport", None)
+                    lay.append(f"{a} ({fmt_t(m)})")
+                lay_txt = ", ".join(lay) if lay else "diretto"
+                manual = any(a in MANUAL_CHECK for a in airlines.split("/")) or price <= 0
+                note = " ⚠️verifica su Skyscanner" if manual else ""
+                price_disp = "?" if manual else f"{price:.0f}€"
+                results.append((float("inf") if manual else price, airlines, dep, arr, it.travel_time, lay_txt, note))
             except Exception:
                 continue
         results.sort()
         shown = 0
-        for price, stops, a, dep, arr, dur, note in results:
-            tag = " ⚠️" if note else ""
-            note_txt = f" [{note}]" if note else ""
-            if note:
-                print(f"  ?EUR | {stops} scalo | {a} | {dep}->{arr} | {dur}min{tag}{note_txt}")
-            else:
-                print(f"  {price:.0f}EUR | {stops} scalo | {a} | {dep}->{arr} | {dur}min{tag}")
+        for price, a, dep, arr, dur, lay, note in results:
+            print(f"  {price} | {a} | {dep}->{arr} | tot {fmt_t(dur)} | scalo/i: {lay}{note}")
             shown += 1
-            if shown >= 8:
+            if shown >= 10:
                 break
         if shown == 0:
-            print("  (prezzi non decodificabili — controllare su Skyscanner)")
+            print("  (prezzi non decodificabili)")
     except Exception as e:
         print(f"  ERRORE: {type(e).__name__}: {e}")
 
 
 if __name__ == "__main__":
-    # ANDATE
-    for d in ["2026-10-26", "2026-10-27", "2026-10-28", "2026-10-29"]:
+    for d in ["2026-10-27", "2026-10-29"]:
         search("FCO", "KIX", d, f"ANDATA {d}")
-    # RITORNI da Tokyo (TYO = HND/NRT)
-    for d in ["2026-11-05", "2026-11-06", "2026-11-07", "2026-11-08", "2026-11-09"]:
+    for d in ["2026-11-07", "2026-11-08", "2026-11-09"]:
         search("TYO", "FCO", d, f"RITORNO TYO {d}")

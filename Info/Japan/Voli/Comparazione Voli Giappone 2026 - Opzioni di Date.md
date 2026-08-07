@@ -12,82 +12,117 @@ tags:
 
 # Comparazione Voli Giappone 2026 — Opzioni di Date
 
-> **Data ricerca:** 7 Agosto 2026 · **Fonte:** Google Flights API (script `search_flights_2026.py`) + **Skyscanner (verifica manuale)** · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
+> **Data ricerca:** 7 Agosto 2026 · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
+> **Fonte:** Google Flights API (script `search_flights_2026.py`) + verifica manuale Skyscanner
 > **Vincolo:** ritorno entro **9 Novembre 2026**
-> ⚠️ I prezzi sono indicativi e cambiano rapidamente — verificarli su Google Flights/Skyscanner/Trip.com prima della prenotazione.
-> ⚠️ **China Eastern (MU) e Hainan (HU) non espongono i prezzi via API** (limitazione Google) — verificare sempre su Skyscanner/Trip.com.
+> ⚠️ I prezzi sono indicativi e cambiano rapidamente — confermare su Google Flights/Skyscanner/Trip.com prima della prenotazione.
 
 ---
 
-## 💶 Novità importante — China Eastern (MU) molto economica
+## 📌 Percorso del viaggio (open-jaw)
 
-> 🔍 **Verificata a mano su Skyscanner (7 ago 2026):** biglietto **A/R insieme 29 Ott → 9 Nov con China Eastern = ~938 €/pax** (via Shanghai PVG, 1-2 scali).
->
-> ⚠️ **Nota tecnica:** il mio estrattore da Google Flights NON legge i prezzi China Eastern (li restituisce come "0" — bug di parsing). Quindi **MU non compare nei dati qui sotto** ma i voli esistono e sono spesso i più economici. **Verificare sempre MU su Skyscanner/Trip.com.**
+🛫 **Andata:** Roma Fiumicino (FCO) → Osaka (KIX)
+🛬 **Ritorno:** Tokyo (TYO = HND/NRT) → Roma (FCO) — il viaggio finisce a Tokyo
 
----
-
-## Percorso
-
-**Open-jaw:** 🛫 FCO → KIX (arrivo Osaka) · 🛬 TYO → FCO (ritorno da Tokyo, dove finisce il viaggio)
+> ℹ️ **Open-jaw** = andata e ritorno su aeroporti diversi. I biglietti "A/R insieme" (es. 938 € MU) sono spesso **round-trip sulla stessa tratta** FCO↔KIX — per il ritorno da Tokyo il prezzo può differire.
 
 ---
 
-## 🛫 Andate FCO → KIX (migliore 1 scalo, Google Flights API)
+## 🛫 Andate FCO → KIX — dettaglio completo
 
-| Data | Giorno | Prezzo/pax | Compagnia (scalo) | Durata |
+> Prezzi **per persona**, migliore opzione **1 scalo** (con scalo più breve possibile).
+
+### 27 Ottobre (mar) — ⭐ più economica
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
 |---|---|---|---|---|
-| 26 Ott | Lun | **751 €** | KL (Amsterdam) | 17h10 |
-| **27 Ott** | Mar | **696 €** ⭐ | KL (Amsterdam) | 16h45 |
-| **28 Ott** | Mer | **849 €** | KL (Amsterdam) | 21h10 |
-| 29 Ott | Gio | **833 €** | QR (Doha) | 17h15 |
+| **696 €** | KLM | 10:10 → 10:55 (+1) | 16h45 | **Amsterdam (1h30)** |
+| 696 € | KLM | 06:10 → 10:55 (+1) | 20h45 | Amsterdam (5h30) |
+| 880 € | Emirates | 14:55 → 17:05 (+1) | 18h10 | Dubai (3h35) |
+| 705 € | Cathay/Etihad | 10:25 → 17:40 (+1) | 23h15 | Abu Dhabi (1h45) + Hong Kong (4h50) |
 
-⭐ **Migliore andata: 27 ottobre (KL ~696 €)** — partire di martedì è il più economico.
-
-## 🛬 Ritorni TYO → FCO (migliore 1 scalo — Qatar Airways)
-
-| Data | Giorno | Prezzo/pax | Compagnia (scalo) | Durata |
+### 28 Ottobre (mer)
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
 |---|---|---|---|---|
-| **5 Nov** | Gio | **589 €** ⭐ | QR (Doha) | 23h35 |
-| 6 Nov | Ven | 615 € | QR (Doha) | 23h35 |
-| 7 Nov | Sab | 615 € | QR (Doha) | 21h50 |
-| **8 Nov** | Dom | **589 €** ⭐ | QR (Doha) | 28h35 |
-| **9 Nov** | Lun | **589 €** ⭐ | QR (Doha) | 23h35 |
+| **849 €** | KLM | 06:10 → 11:20 (+1) | 21h10 | Amsterdam (5h10) |
+| 945 € | KLM | 10:10 → 11:20 (+1) | 17h10 | Amsterdam (1h50) |
+| 880 € | Emirates | 14:55 → 17:05 (+1) | 18h10 | Dubai (3h35) |
+| 705 € | Cathay/Etihad | 10:25 → 17:40 (+1) | 23h15 | Abu Dhabi (1h45) + Hong Kong (4h50) |
 
-⭐ **Migliori ritorni: 5, 8 e 9 novembre (QR ~589 €)** — giorni feriali.
+### 29 Ottobre (gio)
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
+|---|---|---|---|---|
+| **833 €** | Qatar Airways | 15:10 → 16:25 (+1) | 17h15 | **Doha (2h35)** |
+| 833 € | Qatar Airways | 08:55 → 16:25 (+1) | 23h30 | Doha (8h50) |
+| 705 € | Cathay/Etihad | 10:25 → 17:40 (+1) | 23h15 | Abu Dhabi (1h45) + Hong Kong (4h50) |
+| 858 € | BA/JAL | 07:40 → 14:10 (+1) | 22h30 | Londra (2h00) + Tokyo (2h20) |
+
+> ⭐ **Migliore andata: 27 ottobre (KLM 696 €, scalo Amsterdam 1h30).**
+
+---
+
+## 🛬 Ritorni TYO → FCO — dettaglio completo
+
+### 7 Novembre (sab)
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
+|---|---|---|---|---|
+| **617 €** | Qatar Airways | 16:55 → 06:45 (+1) | 21h50 | Doha (3h40) |
+| 617 € | Qatar Airways | 16:55 → 13:30 (+1) | 28h35 | Doha (10h25) ⚠️ |
+| 752 € | Emirates | 22:20 → 12:40 (+1) | 22h20 | Dubai (3h25) |
+| 752 € | China Airlines | 17:45 → 07:05 (+1) | 21h20 | Taipei (2h30) |
+
+### 8 Novembre (dom)
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
+|---|---|---|---|---|
+| **670 €** | Qatar Airways | 16:55 → 06:45 (+1) | 21h50 | Doha (3h40) |
+| 590 € | Qatar Airways | 16:55 → 13:30 (+1) | 28h35 | Doha (10h25) ⚠️ |
+| 672 € | Qatar Airways | 21:55 → 13:30 (+1) | 23h35 | Doha (5h25) |
+| 752 € | Emirates | 21:30 → 12:40 (+1) | 23h10 | Dubai (4h15) |
+
+### 9 Novembre (lun)
+| Prezzo | Compagnia | Partenza → Arrivo | Durata tot | Scalo |
+|---|---|---|---|---|
+| **670 €** | Qatar Airways | 16:55 → 06:45 (+1) | 21h50 | Doha (3h40) |
+| 590 € | Qatar Airways | 21:55 → 13:30 (+1) | 23h35 | Doha (5h25) |
+| 670 € | Qatar Airways | 16:55 → 13:30 (+1) | 28h35 | Doha (10h25) ⚠️ |
+| 752 € | Emirates | 21:30 → 12:40 (+1) | 23h10 | Dubai (4h15) |
+
+> ⭐ **Migliori ritorni: 8 e 9 novembre (Qatar 670 €, scalo Doha 3h40).** I 590 € hanno scali lunghi (10h+) — verificarli.
 
 ---
 
 ## 📊 Tabella Comparativa A/R (per persona)
 
-Confronto con l'**originale (variante A: 24 ott → 7 nov, ritorno da Tokyo)**:
+**Riferimento originale (variante A):** andata 24 ott (EK 905 €) + ritorno 7 nov (QR 617 €) = **~1.522 €** · 13 notti
 
-| Opzione | Andata | Ritorno | **TOTALE A/R** | vs Originale |
-|---|---|---|---|---|
-| **Originale 24→7** | 905 € (EK) | 615 € (QR) | **~1.520 €** | — |
-| **29 ott → 9 nov (MU)** 🏆 | — | — | **~938 €** (A/R insieme) | **−582 €** |
-| 26 ott → 8 nov | 751 € (KL) | 589 € (QR) | **~1.340 €** | −180 € |
-| **26 ott → 9 nov** | 751 € (KL) | 589 € (QR) | **~1.340 €** | −180 € |
-| **27 ott → 7 nov** | 696 € (KL) | 615 € (QR) | **~1.311 €** | −209 € |
-| **27 ott → 8 nov** ⭐ | 696 € (KL) | 589 € (QR) | **~1.285 €** | −235 € |
-| **27 ott → 9 nov** ⭐ | 696 € (KL) | 589 € (QR) | **~1.285 €** | −235 € |
-| 28 ott → 8 nov | 849 € (KL) | 589 € (QR) | **~1.438 €** | −82 € |
-| 28 ott → 9 nov | 849 € (KL) | 589 € (QR) | **~1.438 €** | −82 € |
-| 29 ott → 8 nov | 833 € (QR) | 589 € (QR) | **~1.422 €** | −98 € |
-| 29 ott → 9 nov | 833 € (QR) | 589 € (QR) | **~1.422 €** | −98 € |
+| Opzione | Notti | Andata | Ritorno | **TOTALE A/R** | vs Originale |
+|---|---|---|---|---|---|
+| **29 ott → 9 nov (MU)** 🏆 | 10 | — | — | **~938 €** *(da confermare open-jaw)* | **−584 €** |
+| **27 ott → 8 nov** ⭐ | 11 | 696 € (KL) | 670 € (QR) | **~1.366 €** | −156 € |
+| **27 ott → 9 nov** ⭐ | 12 | 696 € (KL) | 670 € (QR) | **~1.366 €** | −156 € |
+| 27 ott → 7 nov | 10 | 696 € (KL) | 617 € (QR) | **~1.313 €** | −209 € |
+| 26 ott → 8 nov | 12 | 751 € (KL) | 670 € (QR) | **~1.421 €** | −101 € |
+| 26 ott → 9 nov | 13 | 751 € (KL) | 670 € (QR) | **~1.421 €** | −101 € |
+| 29 ott → 8 nov | 9 | 833 € (QR) | 670 € (QR) | **~1.503 €** | −19 € |
+| 29 ott → 9 nov | 10 | 833 € (QR) | 670 € (QR) | **~1.503 €** | −19 € |
+| 28 ott → 8 nov | 10 | 849 € (KL) | 670 € (QR) | **~1.519 €** | −3 € |
+| 28 ott → 9 nov | 11 | 849 € (KL) | 670 € (QR) | **~1.519 €** | −3 € |
+| **Originale 24→7** | 13 | 905 € (EK) | 617 € (QR) | **~1.522 €** | — |
+
+> ℹ️ **Notti** = notti in Giappone (dal giorno di arrivo al giorno prima del ritorno).
+> I prezzi del ritorno usano il QR **670 €** (scalo breve Doha 3h40) — non i 590 € con scali lunghi.
 
 ---
 
 ## 🎯 Conclusioni
 
-1. **🏆 Migliore in assoluto: China Eastern 29 ott → 9 nov A/R ~938 €/pax** (via Shanghai, 1-2 scali) — verificata su Skyscanner. Google non espone i prezzi MU via API, ma è reale.
-2. **Il ritorno da Tokyo (QR ~589-615 €) è molto più economico che da KIX (~770-850 €)** — conviene chiudere il giro a Tokyo come previsto.
-3. **Andata migliore (escl. MU): 27 ottobre con KL ~696 €** (partire di martedì paga).
-4. **Combinazione migliore (escl. MU): 27 ott → 8/9 nov = ~1.285 €/pax** (risparmio ~235 € vs l'originale).
-5. **Il 9 novembre (lunedì)** e il **5/8 novembre** sono i giorni di ritorno più economici.
-6. ⚠️ **MU (China Eastern) e HU (Hainan) vanno sempre controllate su Skyscanner/Trip.com** — spesso le più economiche ma Google non ne espone i prezzi via API.
+1. **🏆 Migliore in assoluto: China Eastern 29 ott → 9 nov ~938 €/pax** — ma è un **round-trip FCO↔KIX** (Skyscanner). **Da confermare** se esiste come open-jaw (ritorno da Tokyo) o se si chiude il giro a Osaka.
+2. **Migliore confermata (open-jaw): 27 ott → 8/9 nov = ~1.366 €/pax** (KL 696 + QR 670) — risparmio ~156 € vs originale.
+3. **Andata più economica: 27 ottobre (KLM 696 €, Amsterdam 1h30).**
+4. **Ritorno più economico con scalo breve: 8/9 novembre (Qatar 670 €, Doha 3h40).** I 590 € hanno scali di 10h+.
+5. **Il ritorno da Tokyo (QR 617-670 €) è più economico che da KIX (~770-850 €)** — conferma la scelta di chiudere il giro a Tokyo.
+6. ⚠️ **MU (China Eastern) e HU (Hainan) vanno verificate su Skyscanner/Trip.com** — Google non ne espone i prezzi via API.
 
-> ⚠️ **Impatto sul budget:** il nuovo itinerario (variante B) stimava voli a 800-1.000 €/pax — con **MU 938 €** rientra nel budget! Con KL+QR (1.285 €) sarebbe sopra.
+> ⚠️ **Impatto sul budget:** con **MU 938 €** (se confermato open-jaw) il volo rientra nel budget 800-1.000 €. Con KL+QR (1.366 €) sarebbe sopra di ~366 €.
 
 ---
 
@@ -95,21 +130,27 @@ Confronto con l'**originale (variante A: 24 ott → 7 nov, ritorno da Tokyo)**:
 
 | Metodo | Risultato |
 |---|---|
-| **Google Flights API** (libreria Python `google-flights`, endpoint interno) | Prezzi reali per 1 pax, veloce (~3s/ricerca), per KL/QR/EK/etc. |
-| **Skyscanner (manuale)** | Necessario per **China Eastern (MU)** e Hainan — Google non ne espone i prezzi via API |
-| **Agent-browser** | ❌ Abbandonato — Skyscanner/Trip.com bloccano con captcha, Google Flights resta bloccato sul consent |
+| **Google Flights API** (libreria Python `google-flights`) | Prezzi + scali + durate per 1 pax, veloce (~3s/ricerca) |
+| **Skyscanner (manuale)** | Necessario per **China Eastern (MU)** e Hainan (HU) — Google non espone i loro prezzi via API |
+| **Agent-browser** | ❌ Abbandonato — Skyscanner/Trip.com bloccano con captcha, Google Flights sul consent |
 
-**Script:** `search_flights_2026.py` — ricerca one-way FCO→KIX (26-29 ott) e TYO→FCO (5-9 nov), 1 adulto, economy, EUR. Segnala MU/HU come "verifica su Skyscanner".
+**Script:** `search_flights_2026.py` — ricerca one-way FCO→KIX (26-29 ott) e TYO→FCO (5-9 nov), 1 adulto, economy, EUR.
 
-**Limite noto:** i prezzi via API possono differire di poco da quelli del sito (cache/valute) e cambiano nel tempo — usare i dati solo come stima, confermare prima di prenotare.
+**Limite noto:** i prezzi via API possono differire leggermente dal sito e cambiano nel tempo — usare come stima e confermare prima di prenotare.
 
 ---
 
 ## 🔗 Link Utili per Verifica Manuale
 
-- [Google Flights FCO→KIX](https://www.google.com/travel/flights?q=Roma%20a%20Osaka%2027%20ottobre%202026%20one%20way)
-- [Google Flights TYO→FCO](https://www.google.com/travel/flights?q=Tokyo%20a%20Roma%209%20novembre%202026%20one%20way)
-- [Skyscanner](https://www.skyscanner.it/) · [Trip.com](https://www.trip.com/) · [Momondo](https://www.momondo.it/)
+**Andata FCO→KIX:**
+- [27 ottobre](https://www.google.com/travel/flights?q=flights%20from%20FCO%20to%20KIX%20on%202026-10-27%20one%20way&curr=EUR&hl=it) · [28 ottobre](https://www.google.com/travel/flights?q=flights%20from%20FCO%20to%20KIX%20on%202026-10-28%20one%20way&curr=EUR&hl=it) · [29 ottobre](https://www.google.com/travel/flights?q=flights%20from%20FCO%20to%20KIX%20on%202026-10-29%20one%20way&curr=EUR&hl=it)
+
+**Ritorno TYO→FCO:**
+- [7 novembre](https://www.google.com/travel/flights?q=flights%20from%20TYO%20to%20FCO%20on%202026-11-07%20one%20way&curr=EUR&hl=it) · [8 novembre](https://www.google.com/travel/flights?q=flights%20from%20TYO%20to%20FCO%20on%202026-11-08%20one%20way&curr=EUR&hl=it) · [9 novembre](https://www.google.com/travel/flights?q=flights%20from%20TYO%20to%20FCO%20on%202026-11-09%20one%20way&curr=EUR&hl=it)
+
+**Aggregatori:** [Skyscanner](https://www.skyscanner.it/) · [Trip.com](https://www.trip.com/) · [Momondo](https://www.momondo.it/)
+
+---
 
 ## Riferimenti Itinerari
 

@@ -82,8 +82,9 @@ Opzioni consigliate:
 **Fonte:** `Info/Japan/Voli/`
 
 - A/R Roma Fiumicino → KIX (Osaka) / NRT o HND (Tokyo)
-- Stima: **800-1.000 €** a persona
+- Stima originale: **800-1.000 €** a persona
 - Durata: ~12-15h (tipicamente 1 scalo)
+- 📄 **Comparazione date aggiornata (7 ago 2026):** [[Comparazione Voli Giappone 2026 - Opzioni di Date]] — miglior combinazione **27 ott → 9 nov ≈ 1.285 €/pax** (KL andata 696 € + Qatar ritorno 589 €)
 
 **Da fare:** Ricercare e prenotare voli per Ott 2026.
 

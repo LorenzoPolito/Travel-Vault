@@ -9,7 +9,7 @@ status: completato
 autori:
   - Lorenzo
 percorso: New York (Manhattan + Brooklyn)
-budget_totale_stimato: ~€1.100-1.300/persona (volo escluso)
+budget_totale_stimato: ~€1.362-1.500/persona (volo escluso, mance incluse)
 tags:
   - itinerario
   - newyork
@@ -34,7 +34,7 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | 4 | Lun 24 Ago | Statua Libertà (CP) + Ellis Island + FiDi + 🌉 Brooklyn tramonto | ~$50 | 18-22k |
 | 5 | Mar 25 Ago | AMNH (CP) + Midtown + Top of the Rock (CP) + 🎭 Harry Potter | ~$50 | 14-16k |
 | 6 | Mer 26 Ago | 🌿 Little Island + 🛍 Chelsea Market + 🏬 Century 21 outlet | ~$50 | 10-12k |
-| 7 | Gio 27 Ago | 🛍 Midtown shopping + ✨ SUMMIT tramonto→sera (18:30) | ~$45 | 10-12k |
+| 7 | Gio 27 Ago | 🛍 Grand Central + Macy's + ✨ SUMMIT tramonto→sera (18:30) | ~$45 | 10-12k |
 | 8 | Ven 28 Ago | 🏢 ESB AM (CP) + ⛴ Circle Line tramonto (CP) + 🏢 ESB PM (CP) | ~$60 | 12-14k |
 | 9 | Sab 29 Ago | Partenza | ~$20 | — |
 
@@ -50,7 +50,7 @@ CP = incluso in CityPASS
 - **Trasporti:** OMNY tap-to-pay con carta contactless o telefono. $2.90/corsa, cap settimanale $35 (dopo 12 corse)
 - **eSIM / SIM:** Vedi [[Info/NewYork/eSIM]]
 - **Harry Potter Cursed Child:** ✅ Biglietti già acquistati — Lyric Theatre, 214 W 43rd St, Mar 25 Ago 19:00
-- **SUMMIT One Vanderbilt:** ❌ **Non ancora prenotato** — $44-63 a persona, prenotazione orario obbligatoria. Consigliato Gio 27 Ago ingresso ~17:00
+- **SUMMIT One Vanderbilt:** ❌ **Non ancora prenotato** — $44-63 a persona, prenotazione orario obbligatoria. Consigliato Gio 27 Ago ingresso **18:30-19:00**
 - **Da prenotare (CityPASS via app My CityPASS):** Empire State Building, AMNH, Top of the Rock, Statue of Liberty, Circle Line — tutte richiedono prenotazione orario
 - **Voli:** ✅ Già acquistati (Roma ↔ JFK, arr 14:00 21 Ago, part 20:30 29 Ago)
 - **Assicurazione:** ✅ Heymondo — già attiva
@@ -70,14 +70,14 @@ CP = incluso in CityPASS
 
 ### Costo trasporti per persona (verificato)
 
-| Voce | Costo | Note |
-|---|---|---|
-| OMNY (9 giorni, ~20-25 corse totali) | ~$35-45 | Dopo 12 corse nei primi 7gg le successive gratis ($35 cap) |
-| AirTrain JFK (A/R, $8.25 × 2) | $16.50 | Da/Per Jamaica Station |
-| E train per Jamaica (A/R) | $5.80 | Incluso in OMNY cap |
-| Taxi JFK → hotel (condiviso 3p) | ~$25/persona | $70 tot diviso 3 |
-| Taxi hotel → JFK (condiviso 3p) | ~$25/persona | Stessa stima |
-| **TOTALE** | **~$107-112/persona** | |
+| Voce                                 | Costo                 | Note                                                       |
+| ------------------------------------ | --------------------- | ---------------------------------------------------------- |
+| OMNY (9 giorni, ~20-25 corse totali) | ~$35-45               | Dopo 12 corse nei primi 7gg le successive gratis ($35 cap) |
+| AirTrain JFK (A/R, $8.25 × 2)        | $16.50                | Da/Per Jamaica Station                                     |
+| E train per Jamaica (A/R)            | $5.80                 | Incluso in OMNY cap                                        |
+| Taxi JFK → hotel (condiviso 3p)      | ~$25/persona          | $70 tot diviso 3                                           |
+| Taxi hotel → JFK (condiviso 3p)      | ~$25/persona          | Stessa stima                                               |
+| **TOTALE**                           | **~$107-112/persona** |                                                            |
 
 ### Perché OMNY e non MetroCard
 
@@ -106,7 +106,7 @@ OMNY si attiva automaticamente: dopo 12 corse pagate in 7 giorni consecutivi, tu
 
 ## ⏰ Ritmo Giornaliero (Importante)
 
-**Principio:** ad agosto fa 30-35°C. Le giornate **partono tardi (9:30-10:00)** e **finiscono tardi (0:00-0:30)** — così si evitano le ore più calde e si vive la città di sera.
+**Principio:** ad agosto fa 30-35°C. **TUTTI i giorni partono tardi (9:30-10:00) e finiscono tardi (23:00-0:30)** — la priorità del gruppo è girare di sera, quando la città è viva e il caldo cala. Nessuna sveglia presto, nemmeno il giorno della Statua della Libertà (si prenota un traghetto più tardi).
 
 | Fascia | Strategia |
 |---|---|
@@ -120,6 +120,8 @@ OMNY si attiva automaticamente: dopo 12 corse pagate in 7 giorni consecutivi, tu
 **Nota code:** quasi tutti i locali iconici (Katz's, Levain, Shake Shack, L'Industrie, Chelsea Market) hanno **code di 10-25 min**. Sono già incluse nelle fasce orarie di ogni giorno — non sottovalutatele.
 
 **Nota pause:** ogni pomeriggio prevede **1-2 ore di pausa** per riprendersi dal caldo e dalle camminate. Non è tempo perso: a NYC senza pause al pomeriggio si crolla la sera.
+
+**🌧️ Nota pioggia:** se piove **si va comunque** — portate **k-way/ombrello** (i temporali di agosto passano in 30-60 min). Nessuna attività è indoor-dipendente; l'unica attenuazione è sugli osservatori (SUMMIT/ESB: cielo coperto = vista ridotta, ma il gruppo ha deciso di andare comunque).
 
 ---
 
@@ -323,34 +325,33 @@ Passeggiata: Washington Square Park illuminato. Poi rientro: 15 min a piedi vers
 
 **Tema:** 🗽 Statua della Libertà + Ellis Island (CityPASS) + FiDi + 🌉 Brooklyn al tramonto
 
-### 🌅 7:00 — Sveglia
+### ☕ 9:30 — Sveglia e colazione
 
-Colazione veloce (da asporto).
-🅰️ **Russ & Daughters** (179 E Houston St, Lower East Side) — 🚶 15 min dall'hotel. Prendete bagel con smoked salmon da asporto ⭐. Oppure: **Liberty Bagels** (Greenwich Ave, 🚶 10 min).
+🅰️ **Russ & Daughters** (179 E Houston St, LES) — 🚶 15 min. Bagel con smoked salmon da asporto ⭐.
+🅱️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min).
 
-### 7:45 — Partenza verso Battery Park (🚶 30 min)
+### 🚇 10:15 — Partenza verso Battery Park
 
-Percorso a piedi: Greenwich St (sud) → Hudson St → Warren St → Battery Pl. ⏱ **2.6 km, ~30 min.** Scenica, passa per Tribeca.
+**In metro (consigliato, meno caldo):** 🚶 5 min → Franklin St → **1 train** (downtown) → South Ferry (8 min, 5 stops). Poi 🚶 3 min a Battery Park. ⏱ **~16 min**
+**A piedi (opzione fresca):** Greenwich St → Hudson St → Battery Pl. ⏱ 2.6 km, ~30 min.
 
-**In metro (alternativa):** 🚶 3 min → Franklin St → **1 train** (downtown) → South Ferry (8 min, 5 stops: Canal, Chambers, Cortlandt, Rector, South Ferry). Poi 🚶 3 min a Battery Park. ⏱ **Totale: ~14 min**
+### 10:45 — Arrivo a Battery Park
 
-### 8:30 — Arrivo a Battery Park
+### 🚢 11:00 — CityPASS: Statue of Liberty + Ellis Island
 
-### 🚢 9:00 — CityPASS: Statue of Liberty + Ellis Island
+Partenza da **Battery Park**. ⚠️ **Arrivare almeno 30 min prima** per security e imbarco.
 
-Partenza da **Battery Park**. ⚠️ **Arrivare almeno 30 min prima (8:30)** per passare security e imbarcare.
+**11:00-12:30** — 🗽 Liberty Island: Statua, museo, vista Manhattan.
+**12:45-14:00** — 🏛 Ellis Island: Museo dell'immigrazione.
+**14:15** — Rientro a Battery Park.
 
-**9:00-10:30** — 🗽 Liberty Island: Statua, museo, vista Manhattan.
-**10:45-12:15** — 🏛 Ellis Island: Museo dell'immigrazione.
-**12:45** — Rientro a Battery Park.
-
-### 🍔 13:00 — Pranzo
+### 🍔 14:30 — Pranzo
 
 🅰️ **Los Tacos No. 1** (se non fatto domenica) — ⏱ coda 10-15 min.
 🅱️ **Shake Shack** (Battery Park / Downtown) — veloce, aria condizionata. ⏱ coda 15-20 min.
 🅲 **Brown Bag Company** (sandwich, panini)
 
-### ☀️ 14:00-16:30 — Financial District
+### ☀️ 15:15-17:00 — Financial District
 
 Percorso lento (molti luoghi indoor):
 - 📍 **Oculus** (20 min) — architettura, negozi, aria condizionata
@@ -358,31 +359,31 @@ Percorso lento (molti luoghi indoor):
 - 📍 **Brookfield Place** (20 min) — pausa con vista sull'Hudson
 - 📍 **Wall Street** (30 min) — Charging Bull, Federal Hall, Trinity Church
 
-### 🌇 16:30-17:00 — Verso Brooklyn
+### 🌇 17:15 — Verso Brooklyn
 
 **Route A/C:** 🚶 5 min da Wall St → Fulton St → **A/C train** → **High St-Brooklyn Bridge** (1 stop). ⏱ **~15 min**
 
-### 📸 17:00-18:00 — DUMBO
+### 📸 17:45-18:30 — DUMBO
 
 **Washington Street** 📷 — la foto classica: Manhattan Bridge con ESB sullo sfondo. Passeggiata su **Water Street** tra street art e negozi.
 
-### 🌅 18:00-19:30 — Brooklyn Bridge Park (tramonto)
+### 🌅 18:30-19:45 — Brooklyn Bridge Park (tramonto ~19:35)
 
 Percorso: Washington Street → **Pebble Beach** (vista su Lower Manhattan) → **Jane's Carousel** → **Empire Fulton Ferry** → **Main Street Park**. 
 
 Manhattan davanti, Brooklyn Bridge, tramonto, skyline che cambia colore. Momento clou del viaggio.
 
-### 🍕 19:30 — Merenda / Cena
+### 🍕 20:00 — Merenda / Cena
 
 🅰️ **L'Industrie Pizzeria** (1 Water St, DUMBO) — burrata slice ⭐. 🚶 5 min. ⏱ coda 10-15 min.
 🅱️ **Cecconi's DUMBO** — se volete seduti con vista.
 🅲 Tornate a Manhattan per **Prince Street Pizza**.
 
-### 🌉 20:45 — Brooklyn Bridge by night
+### 🌉 21:15 — Brooklyn Bridge by night
 
 Attraversamento pedonale **Brooklyn → Manhattan** (~40-45 min). ✅ Meno caldo ✅ meno folla ✅ skyline illuminato davanti.
 
-**21:30** — Rientro hotel.
+**22:15** — Rientro hotel.
 
 ---
 
@@ -392,21 +393,21 @@ Attraversamento pedonale **Brooklyn → Manhattan** (~40-45 min). ✅ Meno caldo
 
 **Tema:** 🦖 AMNH (CityPASS) + Midtown + Top of the Rock (CityPASS) + 🎭 Harry Potter
 
-### 🌅 8:00 — Sveglia
-
-### 8:15 — Colazione
+### ☕ 9:30 — Sveglia e colazione
 
 🅰️ **Levain Bakery (UWS)** — 351 Amsterdam Ave (77th St). **Non in centro**: prenderemo da asporto dopo l'arrivo a UWS.
 🅱️ **Liberty Bagels** (Greenwich Ave) — da asporto.
 
-### 🚇 8:30 — Hotel → Upper West Side
+### 🚇 9:45 — Hotel → Upper West Side
 
 **Route 1 train (migliore, senza cambi):** 🚶 5 min → Franklin St → **1 train** (uptown, attesa 5-8 min) → 79th St (20 min, 13 stops). 🚶 5 min → AMNH (79th & CPW). ⏱ **Totale: ~35 min** (con attesa e margine)
 Oppure: **A/C/E** da Canal St → 59th St-Columbus Circle → transfer **B/C** → 81st St-Museum Natural History (~30 min).
 
-### 🦖 9:45-13:30 — CityPASS: American Museum of Natural History
+### 🦖 10:30-13:30 — CityPASS: American Museum of Natural History
 
-Arrivo prima dell'affollamento. Priorità:
+(AMNH apre alle 10:00 — arrivare 10:15-10:30 batte comunque il grosso delle folle.)
+
+Priorità:
 ⭐ Sala dinosauri — imperdibile
 ⭐ Balena blu — icona del museo
 ⭐ Sale spazio e pianeti
@@ -453,7 +454,6 @@ Dopo lo show, il Theatre District è pieno — **prenotate in anticipo** o andat
 🅰️ **Ippudo NY** (321 W 51st St) — ramen, cucina fino a tardi. ⏱ coda 10-15 min.
 🅱️ **Junior's** (1515 Broadway) — cheesecake + cena leggera.
 🅲 **Taco Bell / pizza slice veloce** in zona.
-🅳 **Katz's Delicatessen** (205 E Houston St) — 🚇 20 min, aperto fino a 22:00 (se volete pastrami di notte).
 
 ---
 
@@ -528,20 +528,21 @@ Passeggiata serale in SoHo (luci, vetrine) o rientro in hotel. Rientro entro le 
 🅰️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min). ⏱ coda 5-10 min.
 🅱️ **Russ & Daughters** (179 E Houston St) — bagel con salmon ⭐.
 
-### 🛍 10:00-13:00 — Opzione C: Lato Est / Midtown
+### 🛍 10:00-13:00 — Midtown (Grand Central + Macy's + Herald Square)
 
 **Route:** 🚶 5 min → Franklin St → **1 train** → 42nd St-Times Sq (13 min). 🚶 6 min a Grand Central.
 
-Percorso:
-- 🏛 **Grand Central Terminal** — soffitto stellato della Main Concourse
-- 🧸 **FAO Schwarz** (giocattoli, divertente anche da adulti)
-- 🛍️ **Nintendo Store / LEGO Store** (Rockefeller Center)
-- 🛍️ **5th Ave shopping** — Macy's, Victoria's Secret, boutiques
-- 🏢 **Rockefeller Center** (foto dall'esterno)
+Percorso (niente doppioni del Day 2):
+- 🏛 **Grand Central Terminal** — soffitto stellato della Main Concourse ⭐
+- 🍪 **The Oyster Bar** (dentro Grand Central) — sbirciate le volte di ceramica
+- 📚 **New York Public Library** + **Bryant Park** (casa delle leoni "Patience & Fortitude")
+- 🛍️ **Macy's Herald Square** (34th St) — il grande magazzino più famoso, 10 piani
+- 🛍️ **Manhattan Mall / boutiques** lungo 34th St
+- 🏢 **Empire State Building** da 34th St (foto dal basso, senza salire)
 
 ### 🍴 13:00-14:00 — Pranzo
 
-🅰️ **Shake Shack** (Rockefeller Center o Midtown) — ⏱ coda 15-20 min.
+🅰️ **Shake Shack** (34th St / Herald Sq) — ⏱ coda 15-20 min.
 🅱️ **7th Street Burger** — smash burger. ⏱ coda 5-10 min.
 🅲 **Magnolia Bakery** (Rockefeller Center) — banana pudding + pranzo leggero.
 
@@ -572,7 +573,6 @@ Dopo SUMMIT siete a Grand Central/Midtown:
 🅰️ **Emily** (35 W 32nd St) — hamburger serio. ⏱ prenotare in giornata.
 🅱️ **Keens Steakhouse** (72 W 36th St) — $$$, la steakhouse più antica di NYC (1885).
 🅲 **Ippudo NY** (321 W 51st St) — ramen. ⏱ coda 10-15 min.
-🅳 **Katz's Delicatessen** (LES) — 🚇 20 min, se volete pastrami.
 
 ### 🌃 22:30 — Rientro
 
@@ -725,8 +725,8 @@ Tutte le attrazioni CityPASS richiedono **prenotazione orario obbligatoria**. Fa
 
 | # | Attrazione | Giorno | Ora suggerita | Da prenotare? |
 |:---:|---|---:|---:|:---:|
-| 1 | [[Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà]] | Lun 24 Ago | traghetto **9:00** | 🔴 SÌ |
-| 2 | [[Locations/UnitedStates/NewYork/Museums/AMNH]] | Mar 25 Ago | ingresso **9:30** | 🔴 SÌ |
+| 1 | [[Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà]] | Lun 24 Ago | traghetto **11:00** | 🔴 SÌ |
+| 2 | [[Locations/UnitedStates/NewYork/Museums/AMNH]] | Mar 25 Ago | ingresso **10:30** | 🔴 SÌ |
 | 3 | [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock]] | Mar 25 Ago | ingresso **16:00-16:30** | 🔴 SÌ |
 | 4 | [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] | Ven 28 Ago | **Harbor Lights ~19:00** (tramonto) | 🔴 SÌ |
 | 5 | [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building]] | Ven 28 Ago | DAY **10:30** + PM rientro **21:15** | 🔴 SÌ |

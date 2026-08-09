@@ -39,8 +39,8 @@ updated: 2026-07-29
 | Attrazione | Giorno | Da prenotare |
 |---|---|---|
 | ✅ Empire State Building (AM/PM) | 28 Ago (DAY 10:30 / PM 21:15) | 🔴 DA PRENOTARE |
-| ✅ AMNH | 25 Ago ~9:30 | 🔴 DA PRENOTARE |
-| ✅ Statua della Libertà + Ellis Island | 24 Ago ~9:00 | 🔴 DA PRENOTARE |
+| ✅ AMNH | 25 Ago ~10:30 | 🔴 DA PRENOTARE |
+| ✅ Statua della Libertà + Ellis Island | 24 Ago ~11:00 | 🔴 DA PRENOTARE |
 | ✅ Top of the Rock | 25 Ago ~16:00-16:30 | 🔴 DA PRENOTARE |
 | ✅ Circle Line (Harbor Lights) | 28 Ago ~19:00 (tramonto) | 🔴 DA PRENOTARE |
 

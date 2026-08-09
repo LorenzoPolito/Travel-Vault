@@ -87,7 +87,7 @@ OMNY con carta contactless o telefono. Nessuna registrazione necessaria. Il cap 
 | Attività | Urgenza | Note |
 | --- | --- | --- |
 | CityPASS New York | ✅ Acquistato | ⚠️ **Da prenotare orari** via app My CityPASS |
-| SUMMIT One Vanderbilt | ✅ Prenotato | Gio 27 Ago ore 18:30 (dentro ~19:00, +30 min check-in) |
+| SUMMIT One Vanderbilt | ✅ Prenotato | Gio 27 Ago ore 18:30 (⚠️ arrivare alle 18:00, 30 min prima) |
 | Harry Potter Cursed Child | ✅ Già fatto | Lyric Theatre, 25 Ago 19:00 |
 | Empire State Building (CityPASS) | ⚠️ Da prenotare | Day 28 Ago ~14:30 + PM stessa notte |
 | Top of the Rock (CityPASS) | ⚠️ Da prenotare | Day 25 Ago ~16:30 |

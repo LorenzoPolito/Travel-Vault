@@ -50,7 +50,7 @@ CP = incluso in CityPASS
 - **Trasporti:** OMNY tap-to-pay con carta contactless o telefono. $2.90/corsa, cap settimanale $35 (dopo 12 corse)
 - **eSIM / SIM:** Vedi [[Info/NewYork/eSIM]]
 - **Harry Potter Cursed Child:** ✅ Biglietti già acquistati — Lyric Theatre, 214 W 43rd St, Mar 25 Ago 19:00
-- **SUMMIT One Vanderbilt:** ✅ **Prenotato** — Gio 27 Ago ore **18:30** (entry + ~30 min per entrare → dentro ~19:00)
+- **SUMMIT One Vanderbilt:** ✅ **Prenotato** — Gio 27 Ago ore **18:30** (⚠️ arrivare lì **30 min prima, alle 18:00**)
 - **Da prenotare (CityPASS via app My CityPASS):** Empire State Building, AMNH, Top of the Rock, Statue of Liberty, Circle Line — tutte richiedono prenotazione orario
 - **Voli:** ✅ Già acquistati (Roma ↔ JFK, arr 14:00 21 Ago, part 20:30 29 Ago)
 - **Assicurazione:** ✅ Heymondo — già attiva
@@ -555,19 +555,19 @@ Rientro in hotel (🚇 ~25 min). Doccia, cambio, riposo. **Non arrivate stanchi 
 **Route 1 train:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St-Times Sq (13 min). 🚶 6 min a Grand Central.
 ⏱ **~25 min.**
 
-### 17:45-18:15 — Arrivo a Grand Central
+### 17:45-18:00 — Arrivo a Grand Central / SUMMIT
 
-Fermata per foto al soffitto stellato. Poi ingresso **SUMMIT One Vanderbilt** (45 E 42nd St) dal concourse sotterraneo — non serve uscire all'aperto.
+⚠️ **Il biglietto è per le 18:30: dovete essere lì alle 18:00 (30 min prima)** per check-in e coda. Fermate al soffitto stellato di Grand Central solo di passaggio, poi direttamente al SUMMIT One Vanderbilt (45 E 42nd St) dal concourse sotterraneo.
 
 ### ✨ 18:30-20:30 — SUMMIT One Vanderbilt (✅ prenotato ore 18:30)
 
-**Prenotato per le 18:30.** ⏱ **Contate ~30 min per entrare** (check-in + ascensori) → dentro alle ~19:00. In cima avrete:
-- 🌇 **19:00-19:35** — ultima luce diurna + inizio tramonto
+**Arrivo alle 18:00 → entrata puntuale alle 18:30.** In cima avrete:
+- ☀️ **18:30-19:30** — luce diurna sulle installazioni immersive + terrazza
 - 🌇 **19:35** — tramonto (il sole tramonta alle ~19:35 in agosto)
 - 🌃 **20:00-20:30** — aspettate 20-30 min dopo il tramonto: città illuminata, vista spettacolare
 - ⏱ Durata totale: **1.5-2h**
 
-> ⚠️ **Da prenotato alle 18:30**, la fase "luce diurna piena" è breve: non perdete tempo nelle installazioni prima della terrazza, e tornateci dopo il tramonto.
+> 💡 **Suggerimento:** appena entrati, prima salite in terrazza con la luce diurna, poi visitate le installazioni immersive; al tramonto tornate in terrazza.
 
 ### 🍽 21:00 — Cena (zona Midtown)
 
@@ -716,7 +716,7 @@ Red-eye notturno → arrivo domattina in Italia. 🇮🇹
 | ✈️ Voli A/R Roma ↔ JFK | ✅ Fatto | Arr 21 Ago 14:00 — Part 29 Ago 20:30 |
 | 🎭 Harry Potter Cursed Child | ✅ Fatto | Lyric Theatre, 25 Ago 19:00 |
 | 🎫 CityPASS New York (×3) | ✅ Acquistato | ⚠️ **DA PRENOTARE ORARI** (vedi tabella sotto) |
-| ✨ SUMMIT One Vanderbilt (×3) | ✅ **Prenotato** | Gio 27 Ago ore **18:30** (dentro ~19:00) |
+| ✨ SUMMIT One Vanderbilt (×3) | ✅ **Prenotato** | Gio 27 Ago ore **18:30** (⚠️ arrivare alle **18:00**, 30 min prima) |
 | 📱 eSIM | ⚠️ Da fare | Vedi [[Info/NewYork/eSIM]] |
 | 🛡️ Assicurazione Heymondo | ✅ Fatto | Già attiva |
 | 💰 Budget totale (volo escluso) | | **~€1.400/persona** |
@@ -741,12 +741,12 @@ Tutte le attrazioni CityPASS richiedono **prenotazione orario obbligatoria**. Fa
 |---|---|
 | Data | **Gio 27 Agosto** |
 | Orario prenotato | **18:30** |
-| Entrata effettiva | ~19:00 (30 min di fila/check-in) |
+| ⚠️ Arrivare a SUMMIT | **alle 18:00** (30 min prima, per check-in) |
 | Tramonto | ~19:35 |
 | Durata prevista | 1.5-2h (fino a ~20:30) |
 | Persone | ×3 |
 
-> ✅ **Fatto.** Arrivate a Grand Central entro le **18:00** per entrare in cima con calma.
+> ✅ **Fatto.** Essere lì alle **18:00** — il check-in parte 30 min prima dell'orario prenotato.
 
 ### ✅ Già Fatto — Nessuna Azione
 
@@ -835,7 +835,7 @@ La bozza originale posizionava SUMMIT One Vanderbilt il 25 Ago (Mar) alle 18:30-
 | Rooftop | Orario | Day | Vista |
 |---|---|---|---|
 | 🏢 Top of the Rock | Giorno (16:00-17:00) | 5 | Central Park + ESB nello skyline |
-| ✨ SUMMIT One Vanderbilt | Tramonto→sera (prenotato 18:30, dentro ~19:00) | 7 | Ultima luce → tramonto ~19:35 → città illuminata |
+| ✨ SUMMIT One Vanderbilt | Tramonto→sera (prenotato 18:30, arrivare 18:00) | 7 | Luce diurna → tramonto ~19:35 → città illuminata |
 | 🗽 Empire State Building | Mattina (10:30) + Sera (21:15) | 8 | AM/PM Experience: giorno + notte |
 
 ### CityPASS: Weekend Rule

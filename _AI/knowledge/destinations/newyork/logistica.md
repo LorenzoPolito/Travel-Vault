@@ -93,5 +93,5 @@ OMNY con carta contactless o telefono. Nessuna registrazione necessaria. Il cap 
 | Top of the Rock (CityPASS) | ⚠️ Da prenotare | Day 25 Ago ~16:30 |
 | Statue of Liberty (CityPASS) | ⚠️ Da prenotare | Day 24 Ago ~9:00 |
 | AMNH (CityPASS) | ⚠️ Da prenotare | Day 25 Ago ~9:30 |
-| Circle Line Cruise (CityPASS) | ⚠️ Da prenotare | Day 26 Ago ~10:00 (Best of NYC) |
+| Circle Line Cruise (CityPASS) | ⚠️ Da prenotare | Day 28 Ago ~19:00 (Harbor Lights, tramonto) |
 | 9/11 Memorial (gratuito, solo piscine) | ✅ Gratuito | Incluso nel giro FiDi Day 4 — nessun biglietto |

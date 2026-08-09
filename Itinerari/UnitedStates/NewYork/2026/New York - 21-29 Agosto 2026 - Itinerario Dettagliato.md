@@ -29,13 +29,13 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | Giorno | Data | Zona | Budget pasti | Passi |
 |:---|:---:|:---|---:|---:|
 | 1 | Ven 21 Ago | Arrivo + SoHo, Nolita, Chinatown | ~$40 | 8-10k |
-| 2 | Sab 22 Ago | Central Park + Fifth Ave + Times Square + 🦖 Jurassic Park gratis (Hunter's Point) | ~$55 | 18-20k |
+| 2 | Sab 22 Ago | Central Park (mattina) + pausa caldo + 5th Ave (sera) + Times Square by night | ~$50 | 16-18k |
 | 3 | Dom 23 Ago | Chelsea + High Line + Greenwich Village | ~$45 | 14-16k |
 | 4 | Lun 24 Ago | Statua Libertà (CP) + Ellis Island + FiDi + 🌉 Brooklyn tramonto | ~$50 | 18-22k |
 | 5 | Mar 25 Ago | AMNH (CP) + Midtown + Top of the Rock (CP) + 🎭 Harry Potter | ~$50 | 14-16k |
-| 6 | Mer 26 Ago | 🌿 Little Island + 🏘 Williamsburg + 🥩 BBQ Brooklyn | ~$55 | 10-12k |
-| 7 | Gio 27 Ago | Mattina libera + ✨ SUMMIT tramonto | ~$40 | 8-10k |
-| 8 | Ven 28 Ago | ⛴ Circle Line Best of NYC (CP) + 🏢 ESB AM/PM (CP) + 🌃 ultima cena | ~$70 | 12-14k |
+| 6 | Mer 26 Ago | 🌿 Little Island + 🛍 Chelsea Market + 🏬 Century 21 outlet | ~$50 | 10-12k |
+| 7 | Gio 27 Ago | 🛍 Midtown shopping + ✨ SUMMIT tramonto→sera (18:30) | ~$45 | 10-12k |
+| 8 | Ven 28 Ago | 🏢 ESB AM (CP) + ⛴ Circle Line tramonto (CP) + 🏢 ESB PM (CP) | ~$60 | 12-14k |
 | 9 | Sab 29 Ago | Partenza | ~$20 | — |
 
 CP = incluso in CityPASS
@@ -101,6 +101,25 @@ OMNY si attiva automaticamente: dopo 12 corse pagate in 7 giorni consecutivi, tu
 | 🎭 | Attività con prenotazione obbligatoria |
 | 🚇 | Spostamento in metro (linea e tempo verificati) |
 | 🚶 | Spostamento a piedi (distanza e tempo verificati) |
+
+---
+
+## ⏰ Ritmo Giornaliero (Importante)
+
+**Principio:** ad agosto fa 30-35°C. Le giornate **partono tardi (9:30-10:00)** e **finiscono tardi (0:00-0:30)** — così si evitano le ore più calde e si vive la città di sera.
+
+| Fascia | Strategia |
+|---|---|
+| **9:30-10:00** | Sveglia, colazione, partenza |
+| **10:00-13:30** | Attività all'aperto (parchi, quartieri) — fresco |
+| **13:30-16:30** | 🥵 Pausa caldo: rientro hotel, doccia, riposo, attività indoor/AC |
+| **16:30-19:30** | Seconda uscita: quartieri, attrazioni, tramonto |
+| **19:30-23:00** | Cena, vita serale, city by night |
+| **23:00-0:30** | Rientro hotel (bus metro fino a ~1:00-2:00) |
+
+**Nota code:** quasi tutti i locali iconici (Katz's, Levain, Shake Shack, L'Industrie, Chelsea Market) hanno **code di 10-25 min**. Sono già incluse nelle fasce orarie di ogni giorno — non sottovalutatele.
+
+**Nota pause:** ogni pomeriggio prevede **1-2 ore di pausa** per riprendersi dal caldo e dalle camminate. Non è tempo perso: a NYC senza pause al pomeriggio si crolla la sera.
 
 ---
 
@@ -171,25 +190,22 @@ Percorso: Mott Street → Doyers Street (l'angolo più storico) → Columbus Par
 
 **Difficoltà:** 🔵 Impegnativo
 
-**Tema:** Central Park + Fifth Avenue + Times Square + 🦖 Jurassic Park al tramonto (gratis)
+**Tema:** Central Park (mattina) + Pausa caldo + Fifth Avenue (sera) + Times Square by night
 
-### 🌅 Mattina presto
+> 🌡️ **Strategia anti-caldo:** Central Park la mattina (fresco), pausa indoor nelle ore peggiori (14-16), 5th Ave e Times Square la sera quando è più fresco e le luci sono accese.
 
-**7:45** Sveglia. A New York si cammina tantissimo — non saltare la colazione.
+### 🥯 9:30 — Colazione
 
-**8:15** 🥯 Colazione
-🅰️ **Liberty Bagels (Greenwich Ave)** — 58 Greenwich Ave, West Village. 10 min a piedi dall'hotel. Bagel con cream cheese ⭐.
+🅰️ **Liberty Bagels (Greenwich Ave)** — 58 Greenwich Ave, West Village. 🚶 10 min dall'hotel. Bagel con cream cheese ⭐. ⏱ coda 5-10 min.
 
-**🚇 8:45** Hotel → Central Park (Columbus Circle)
+**🚇 10:00** Hotel → Central Park (Columbus Circle)
 🚶 3 min → Franklin St station → **1 train** (uptown) → 59th St-Columbus Circle (12 min, 6 stops).
 Oppure: 🚶 8 min → Canal St → **A/C/E** → 59th St-Columbus Circle (10 min).
 ⏱ **Totale: ~18-20 min**
 
-Arrivo: Columbus Circle (SW corner del parco).
+### 🌳 10:20-13:00 — Central Park
 
-### 🌳 9:00-12:30 — Central Park
-
-Percorso consigliato (nord → sud recuperando):
+Percorso consigliato (sud → nord):
 1. **The Pond** (15 min) — primo scorcio iconico
 2. **Gapstow Bridge** (10 min) — 📸 migliori punti foto, vista lago + Plaza Hotel + skyline
 3. **The Mall** (15 min) — viale alberato famoso
@@ -198,63 +214,47 @@ Percorso consigliato (nord → sud recuperando):
 6. **Strawberry Fields** (15 min) — omaggio a John Lennon
 7. **Belvedere Castle** (20 min) — vista sul parco
 
-### ☕ 12:30 — Pausa
+### 🍔 13:00-14:00 — Pranzo
 
 Uscita lato Upper West Side.
+🅰️ **JG Melon** — Hamburger con patatine. Storico, diverso dai classici smash burger. ⏱ coda 10-15 min.
+🅱️ **Shake Shack** — Upper West Side, veloce. ⏱ coda 15-20 min.
 
-**🍔 Pranzo**
-🅰️ **JG Melon** — Hamburger con patatine. Storico, diverso dai classici smash burger.
-🅱️ **Shake Shack** — Upper West Side, veloce.
+### 🥵 14:00-16:00 — Pausa caldo (obbligatoria)
 
-### ☀️ 14:00-17:00 — Ore calde: Fifth Avenue
+Rientro in hotel (🚇 ~20 min). Doccia fresca, riposo. **In agosto a quest'ora fa 30-35°C — non è il momento per 5th Ave.**
+
+*Alternativa se non volete tornare in hotel:* Apple Store 5th Ave o St Patrick's Cathedral (aria condizionata + belle).
+
+### 🌆 16:30-18:30 — Fifth Avenue (sera, fresca)
 
 Percorso a piedi con pause indoor:
 - 🛍️ **Apple Fifth Avenue** (10-15 min)
 - 🧸 **FAO Schwarz** — divertente anche da adulti
-- 🧱 **St Patrick's Cathedral** — entrate, aria fresca + bellissima
+- 🧱 **St Patrick's Cathedral** — entrate, aria fresca
 - 🏢 **Rockefeller Center** (esterno)
 - 🛍️ **Nintendo Store / LEGO Store** — pause perfette
 
-### 🌆 17:30-18:15 — Times Square
+### 🌃 18:30-19:15 — Times Square al tramonto
 
-Momento migliore: le luci accese ma non troppo tardi. 30-40 minuti bastano.
+Momento migliore: le luci si accendono, il cielo si tinge. 30-40 minuti bastano.
+🍪 **Levain Bakery** — cookie gigante ⭐. ⏱ coda 10-15 min.
 
-🍪 **Dolce:** Levain Bakery — cookie gigante.
+### 🍔 19:15-20:00 — Cena
 
-### 🍔 18:15-18:45 — Cena da asporto
+🅰️ **7th Street Burger** (varie sedi Midtown) — smash burger. ⏱ coda 5-10 min.
+🅱️ **Shake Shack** (Midtown) — ⏱ coda 10-15 min.
+🅲 **Junior's** (1515 Broadway) — cheesecake + comfort food.
 
-Per la serata cinema al parco, prendete la cena **da asporto**:
+### 🌃 20:30-22:00 — Times Square by night
 
-🅰️ **7th Street Burger** (varie sedi Midtown) — smash burger veloce, perfetto da portare.
-🅱️ **Burger Joint** (119 W 56th St, Le Parker Meridien) — burger nascosto dietro una tenda anonima. 🚶 10 min.
-🅲 **Shake Shack** (Midtown) — classico portabile.
+La vera magia di Times Square è la sera inoltrata: meno folla, luci al massimo. Camminate tra le vie, sedetevi sugli scalini, fotografate.
 
-+ **Pranzo/extra:** patatine, snack e acqua per il picnic serale.
-
-### 🎬 18:45 — Verso Hunter's Point South Park
-
-**Route 7 train:** 🚇 da **Times Sq-42nd St** → **Vernon Blvd-Jackson Ave** (7 min, primo stop in Queens). Poi 🚶 **8-10 min a piedi** fino al parco (Center Blvd).
-⏱ **Totale: ~20 min** con attesa.
-
-### 🌉 19:10-20:00 — Arrivo al parco e sistemazione
-
-**Hunter's Point South Park** (Long Island City, Queens) — trovate un posto su **The Oval** (il grande prato al centro del parco). ⚠️ **Arrivate presto** — alle proiezioni passate c'erano oltre 1.000 persone.
-
-📍 Vista spettacolare: **skyline di Manhattan** illuminata dall'altra parte dell'East River.
-
-### 🎬 ~20:00 — Jurassic Park (gratuito)
-
-**Free outdoor movie** — Jurassic Park originale sullo schermo gonfiabile da 30ft, con Manhattan come sfondo. 🦖
-
-- **Costo:** GRATIS
-- **Inizio:** al tramonto (~20:00; il 22 Ago il sole tramonta alle ~19:45)
-- **Portate:** plaid/teli, snack, giacchetto (di sera sulla riva fa fresco)
-- **Durata:** 2h07
+> 💡 **Extra curioso:** dopo mezzanotte alcuni dei maxi-schermi pubblicitari si spengono e lasciano spazio a installazioni artistiche. Se siete ancora in zona, vale la pena passarci.
 
 ### 🚇 22:30 — Rientro
 
-**7 train** da Vernon Blvd-Jackson Ave → Times Sq (7 min). Poi **1 train** → Franklin St (13 min) + 🚶 5 min. 
-⏱ **~30 min** fino all'hotel.
+**1 train** da Times Sq → Franklin St (13 min) + 🚶 5 min. ⏱ **~20 min** fino all'hotel.
 
 ---
 
@@ -281,8 +281,8 @@ Oppure: 🚶 8 min → Canal St → **A/C/E** (uptown) → 14th St (5 min). Poi 
 
 ### 🌮 12:00 — Pranzo
 
-🅰️ **Los Tacos No. 1** — dentro Chelsea Market. Adobada taco ⭐, Carne asada ⭐
-🅱️ **Cena** — più avanti
+🅰️ **Los Tacos No. 1** — dentro Chelsea Market. Adobada taco ⭐, Carne asada ⭐. ⏱ coda 10-15 min.
+🅱️ **The Lobster Place** (Chelsea Market) — 🦞 lobster roll. ⏱ coda 15-20 min.
 
 ### 🌿 13:00 — High Line
 
@@ -306,14 +306,14 @@ Percorso: Washington Square Park → Bleecker Street → MacDougal Street
 
 ### 🍕 Cena
 
-🅰️ **Bleecker Street Pizza** (69 7th Ave S) — NY slice, classic village pizzeria. ⭐
-🅱️ **Joe's Pizza** (7 Carmine St) — iconica dal 1975, coal-fired.
+🅰️ **Bleecker Street Pizza** (69 7th Ave S) — NY slice, classic village pizzeria. ⭐ ⏱ coda 10-15 min.
+🅱️ **Joe's Pizza** (7 Carmine St) — iconica dal 1975, coal-fired. ⏱ coda 10-15 min.
 🅲 **Joe's Shanghai** — soup dumplings in Chinatown (aperto tutti i giorni)
 🅳 **Rosas Pizza** — altra NY slice option
 
 ### 🌃 Dopo cena
 
-Passeggiata: Washington Square Park illuminato. Poi rientro: 15 min a piedi verso hotel.
+Passeggiata: Washington Square Park illuminato. Poi rientro: 15 min a piedi verso hotel. Rientro entro le **22:30-23:00**.
 
 ---
 
@@ -346,8 +346,8 @@ Partenza da **Battery Park**. ⚠️ **Arrivare almeno 30 min prima (8:30)** per
 
 ### 🍔 13:00 — Pranzo
 
-🅰️ **Los Tacos No. 1** (se non fatto domenica)
-🅱️ **Shake Shack** (Battery Park / Downtown) — veloce, aria condizionata
+🅰️ **Los Tacos No. 1** (se non fatto domenica) — ⏱ coda 10-15 min.
+🅱️ **Shake Shack** (Battery Park / Downtown) — veloce, aria condizionata. ⏱ coda 15-20 min.
 🅲 **Brown Bag Company** (sandwich, panini)
 
 ### ☀️ 14:00-16:30 — Financial District
@@ -374,7 +374,7 @@ Manhattan davanti, Brooklyn Bridge, tramonto, skyline che cambia colore. Momento
 
 ### 🍕 19:30 — Merenda / Cena
 
-🅰️ **L'Industrie Pizzeria** (1 Water St, DUMBO) — burrata slice ⭐. 🚶 5 min.
+🅰️ **L'Industrie Pizzeria** (1 Water St, DUMBO) — burrata slice ⭐. 🚶 5 min. ⏱ coda 10-15 min.
 🅱️ **Cecconi's DUMBO** — se volete seduti con vista.
 🅲 Tornate a Manhattan per **Prince Street Pizza**.
 
@@ -414,9 +414,9 @@ Arrivo prima dell'affollamento. Priorità:
 
 ### 🍴 13:30 — Pranzo
 
-🅰️ **Shake Shack** (Upper West Side)
-🅱️ **7th Street Burger** — smash burger
-🅲 **JG Melon** (se non fatto Day 2)
+🅰️ **Shake Shack** (Upper West Side) — ⏱ coda 15-20 min.
+🅱️ **7th Street Burger** — smash burger. ⏱ coda 5-10 min.
+🅲 **JG Melon** (se non fatto Day 2) — ⏱ coda 10-15 min.
 
 ### 🚇 14:30 — Spostamento a Midtown
 
@@ -436,7 +436,7 @@ Rockefeller Center (5th Ave tra 49th-50th). 🚶 5 min da Bryant Park. Vista su 
 
 ### 🍪 17:00 — Snack
 
-🅰️ **Magnolia Bakery** (Rockefeller Center) — Banana Pudding ⭐
+🅰️ **Magnolia Bakery** (Rockefeller Center) — Banana Pudding ⭐. ⏱ coda 10-15 min.
 🅱️ **Caffè veloce** al The Weather Room Cafe & Bar dentro Top of the Rock
 
 ### 🎭 18:30 — Verso Lyric Theatre
@@ -449,9 +449,11 @@ Durata: 2h55min con 1 intervallo.
 
 ### 🍽 22:00 — Cena post-spettacolo
 
-🅰️ **Ippudo NY** (321 W 51st St) — ramen, aperto fino a tardi
-🅱️ **Junior's** (1515 Broadway) — cheesecake + cena leggera
-🅲 **Taco Bell / pizza slice veloce** in zona
+Dopo lo show, il Theatre District è pieno — **prenotate in anticipo** o andate con largo margine.
+🅰️ **Ippudo NY** (321 W 51st St) — ramen, cucina fino a tardi. ⏱ coda 10-15 min.
+🅱️ **Junior's** (1515 Broadway) — cheesecake + cena leggera.
+🅲 **Taco Bell / pizza slice veloce** in zona.
+🅳 **Katz's Delicatessen** (205 E Houston St) — 🚇 20 min, aperto fino a 22:00 (se volete pastrami di notte).
 
 ---
 
@@ -459,9 +461,9 @@ Durata: 2h55min con 1 intervallo.
 
 **Difficoltà:** 🟡 Moderato
 
-**Tema:** 🌿 Little Island + 🏘 Brooklyn (Williamsburg) + 🥩 BBQ
+**Tema:** 🌿 Little Island + 🛍 Chelsea Market + 🏬 Century 21 outlet
 
-⚠️ **MET Museum CHIUSO il mercoledì.** Giornata leggera: Little Island al mattino, Brooklyn pomeriggio/sera, niente crociera.
+⚠️ **MET Museum CHIUSO il mercoledì.** Giornata Manhattan: acqua e shopping, nessuna crociera. Niente Brooklyn oggi.
 
 ### ☕ 9:30 — Colazione
 
@@ -471,38 +473,45 @@ Durata: 2h55min con 1 intervallo.
 
 ### 🌿 10:30-12:00 — Little Island + Hudson River Greenway
 
-**Little Island** (Pier 55, Hudson River a 13th St) — parco galleggiante su piloni a forma di tulipano, aperto nel 2021. Ingresso gratuito. Vista spettacolare sul fiume e sul New Jersey.
+**Little Island** (Pier 55, Hudson River a 13th St) — parco galleggiante su piloni a forma di tulipano, aperto nel 2021. Ingresso gratuito. Vista spettacolare sul fiume.
 
 🚇 **Route:** 1 train → 14th St (8 min) + 🚶 10 min a ovest. Oppure 🚶 25 min dall'hotel lungo la Hudson River Greenway.
 
-Dopo Little Island: passeggiata sulla **Hudson River Greenway** verso nord (10-15 min) fino a **Chelsea** o rientro verso l'hotel.
+### 🛒 12:00-14:00 — Chelsea Market + Pranzo
 
-### 🛍 12:00-14:00 — Chelsea / Shopping libero
+**Chelsea Market** (75 9th Ave) — food hall storico (le Oreo sono state inventate qui). Giro dei negozi e bancarelle.
 
-Se siete già in zona: giro al **Chelsea Market** (negozi, bancarelle) o shopping sulle **8th-9th Ave**. Opzionale: **The Edge** (Hudson Yards, $40 sky deck).
+🍽 **Pranzo:**
+🅰️ **Los Tacos No. 1** (dentro Chelsea Market) — adobata ⭐, carne asada. ⏱ coda 10-15 min.
+🅱️ **The Lobster Place** (dentro Chelsea Market) — 🦞 **lobster roll** ⭐. ⏱ coda 15-20 min.
+🅲 **Shake Shack** (Chelsea) — ⏱ coda 15-20 min.
 
-🅰️ **Pranzo veloce:** Los Tacos No. 1 (Chelsea Market) o Shake Shack.
-🅱️ **Katz's Delicatessen** (205 E Houston St) — se volete pastrami.
+### 🚇 14:30 — Verso Century 21
 
-### 🚇 14:30 — Verso Brooklyn (Williamsburg)
+**Route:** 🚶 8 min → 14th St (A/C/E) → **A train** (downtown) → **Fulton St** (8 min). 🚶 5 min a 22 Cortlandt St.
+⏱ **~25 min**
 
-**Route:** 🚶 8 min → Canal St → **A train** → 14th St → transfer **L train** → **Bedford Ave** (Williamsburg). ⏱ **~35 min.**
+### 🏬 15:00-17:30 — Century 21 (outlet shopping)
 
-### 15:00-17:00 — Williamsburg
+**Century 21** (22 Cortlandt St, Financial District) — il celebre **outlet di design** di NYC. Marchi di lusso (Gucci, Prada, Saint Laurent) a prezzi scontati fino al 65%. 
 
-Il quartiere hipster di Brooklyn: **Bedford Ave** (negozi vintage, street art), **Domino Park** (vista su Manhattan), birrerie artigianali. Vibe completamente diversa da DUMBO.
+- Idealmente arrivarci **subito dopo l'apertura dell'ultimo turno** (meno ressa pomeridiana)
+- ⚠️ Organizzazione caotica: decidete in anticipo cosa cercate (scarpe, borse, abbigliamento)
+- Se siete in zona, il **Westfield Oculus** (WTC) è a 2 minuti per un giro veloce
 
-### 🍕 17:00-18:30 — Snack / Happy hour
+### 🥵 17:30-19:00 — Pausa / rientro
 
-🅰️ **L'Industrie Pizzeria** (1 Water St, DUMBO) — 🚇 **L train** → Bedford → **G train** → Nassau Ave (20 min). Burrata slice ⭐.
-🅱️ **Ristoranti su Bedford Ave** — scegliete al volo.
+Rientro in hotel (🚇 A/C da Fulton → Canal St, ~5 min). Doccia, riposo.
 
-### 🥩 19:00 — Cena BBQ
+### 🍽 19:30-21:00 — Cena
 
-🅰️ **Hometown BBQ** (454 Van Brunt St, Red Hook) — 🚇 da Williamsburg: **L → 1 train → B61 bus**. Brisket ⭐, ribs, pulled pork. Il miglior BBQ di NYC. ⚠ Porzioni enormi.
-🅱️ **Fletcher's Brooklyn BBQ** (433 Graham Ave, Williamsburg) — 🚶 15 min. Più vicino, ottimo BBQ texano.
+🅰️ **Katz's Delicatessen** (205 E Houston St) — pastrami sandwich ⭐. ⏱ coda 15-25 min. ⚠ Condividete, porzioni enormi.
+🅱️ **Prince Street Pizza** (18 Prince St) — spicy pepperoni square. ⏱ coda 10-15 min.
+🅲 **Los Tacos No. 1** (se non a pranzo) — taco veloce.
 
-🌃 **Rientro:** 🚇 L train → 14th St → A/C/E → Canal St. ⏱ ~30 min. Serata leggera.
+### 🌃 21:30 — Serata libera / rientro
+
+Passeggiata serale in SoHo (luci, vetrine) o rientro in hotel. Rientro entro le **23:00-23:30**.
 
 ---
 
@@ -510,62 +519,64 @@ Il quartiere hipster di Brooklyn: **Bedford Ave** (negozi vintage, street art), 
 
 **Difficoltà:** 🟡 Moderato
 
-**Tema:** 👣 Mattina libera + ✨ SUMMIT One Vanderbilt al tramonto
+**Tema:** 🛍 Midtown shopping (opzione C) + ✨ SUMMIT tramonto→sera
 
-> 🏛 **Niente musei oggi.** L'unico museo del viaggio è AMNH (Day 5). Oggi è la giornata più libera — sfruttatela per quello che vi siete persi, o per rilassarvi prima del SUMMIT.
+> 🏛 **Niente musei oggi.** L'unico museo del viaggio è AMNH (Day 5). Mattina dedicata al Midtown shopping, pomeriggio riposo, serata al SUMMIT.
 
-### ☕ 9:00 — Colazione rilassata
+### ☕ 9:30 — Colazione
 
-🅰️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min)
-🅱️ **Russ & Daughters** (179 E Houston St) — bagel con salmon ⭐
+🅰️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min). ⏱ coda 5-10 min.
+🅱️ **Russ & Daughters** (179 E Houston St) — bagel con salmon ⭐.
 
-### 10:00-14:00 — Mattina libera (scegliete)
+### 🛍 10:00-13:00 — Opzione C: Lato Est / Midtown
 
-**Opzione A — Extra Brooklyn:** se Day 4 o Day 6 non vi sono bastati, esplorate **Park Slope** (brownstones, 5th Ave per shopping) o **Coney Island** (🚇 D/F, 45 min, Luna Park boardwalk, Nathan's hot dog).
+**Route:** 🚶 5 min → Franklin St → **1 train** → 42nd St-Times Sq (13 min). 🚶 6 min a Grand Central.
 
-**Opzione B — Hudson Yards / The Edge:** 🚇 1 train → 42nd St + M42 bus. **The Edge** ($40) è l'osservatorio a cielo aperto più alto dell'emisfero occidentale (100° piano, pavimento di vetro). In alternativa: shopping a Hudson Yards o al **Macy's Herald Square**.
+Percorso:
+- 🏛 **Grand Central Terminal** — soffitto stellato della Main Concourse
+- 🧸 **FAO Schwarz** (giocattoli, divertente anche da adulti)
+- 🛍️ **Nintendo Store / LEGO Store** (Rockefeller Center)
+- 🛍️ **5th Ave shopping** — Macy's, Victoria's Secret, boutiques
+- 🏢 **Rockefeller Center** (foto dall'esterno)
 
-**Opzione C — Lato est / Midtown:** Grand Central, 5th Ave shopping, **FAO Schwarz** (giocattoli), **Nintendo Store**, **LEGO Store** in Rockefeller Center. Tutti quei posti che avete visto di sfuggita al Day 2.
+### 🍴 13:00-14:00 — Pranzo
 
-**Opzione D — Relax:** Pigiate, camminate senza meta per SoHo, ultimate lo shopping. Dopo 6 giorni di cammino, una mattina lenta ci sta.
+🅰️ **Shake Shack** (Rockefeller Center o Midtown) — ⏱ coda 15-20 min.
+🅱️ **7th Street Burger** — smash burger. ⏱ coda 5-10 min.
+🅲 **Magnolia Bakery** (Rockefeller Center) — banana pudding + pranzo leggero.
 
-### 🍴 13:00-14:30 — Pranzo
+### 🥵 14:00-16:30 — Pausa caldo / riposo
 
-🅰️ **Katz's Delicatessen** (205 E Houston) — ultima possibilità pastrami.
-🅱️ **Prince Street Pizza** (18 Prince St) — spicy pepperoni square.
-🅲 **7th Street Burger** — smash burger veloce.
+Rientro in hotel (🚇 ~25 min). Doccia, cambio, riposo. **Non arrivate stanchi al SUMMIT.**
 
-### 14:30-16:00 — Pausa / preparazione per SUMMIT
+### 🚇 17:30 — Spostamento verso SUMMIT
 
-Rientro in hotel. Doccia, cambio. Oggi il clou è il SUMMIT al tramonto — non arrivateci stanchi.
-
-### 🚇 16:00 — Spostamento verso SUMMIT
-
-**Route 1 train:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St-Times Sq (13 min). 🚶 6 min a Grand Terminal (via 42nd St). Oppure S shuttle.
+**Route 1 train:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St-Times Sq (13 min). 🚶 6 min a Grand Central.
 ⏱ **~25 min.**
 
-### 16:30-17:00 — Arrivo a Grand Central
+### 18:00-18:30 — Arrivo a Grand Central
 
-Fermata per foto al **Grand Central Terminal** (soffitto stellato). Poi ingresso SUMMIT One Vanderbilt dal concourse sotterraneo.
+Fermata per foto al soffitto stellato. Poi ingresso **SUMMIT One Vanderbilt** (45 E 42nd St) dal concourse sotterraneo — non serve uscire all'aperto.
 
-### 16:30-17:00 — Arrivo a SUMMIT One Vanderbilt
+### ✨ 18:30-20:30 — SUMMIT One Vanderbilt ($44-63)
 
-45 E 42nd St, ingresso dal Main Concourse di Grand Central Terminal.
+⚠️ **Ingresso prenotato per 18:30-19:00.** È il momento perfetto perché vedete **tutte e tre le fasi**:
+- ☀️ **18:30-19:30** — luce diurna sulle installazioni immersive + terrazza
+- 🌇 **19:35** — tramonto (il sole tramonta alle ~19:35 in agosto)
+- 🌃 **20:00-20:30** — aspettate 20-30 min dopo il tramonto: città illuminata, vista spettacolare
+- ⏱ Durata totale: **1.5-2h**
 
-### ✨ 17:00-19:30 — SUMMIT One Vanderbilt ($44-63)
+### 🍽 21:00 — Cena (zona Midtown)
 
-⚠ **Spostato qui dal Day 5** (conflitto con Harry Potter). Prenotate ingresso ~17:00 per:
-- ☀️ Luce piena sulle installazioni immersive (piano basso)
-- 🌇 Tramonto ~19:35 dalla terrazza — vista spettacolare
-- 🌃 Aspettate 20-30 min dopo il tramonto per la città illuminata
-- Durata totale: 1.5-2h
+Dopo SUMMIT siete a Grand Central/Midtown:
+🅰️ **Emily** (35 W 32nd St) — hamburger serio. ⏱ prenotare in giornata.
+🅱️ **Keens Steakhouse** (72 W 36th St) — $$$, la steakhouse più antica di NYC (1885).
+🅲 **Ippudo NY** (321 W 51st St) — ramen. ⏱ coda 10-15 min.
+🅳 **Katz's Delicatessen** (LES) — 🚇 20 min, se volete pastrami.
 
-### 🍽 20:00 — Cena
+### 🌃 22:30 — Rientro
 
-🅰️ **Emily** (Midtown) — hamburger serio, vicino SUMMIT
-🅱️ **Keens Steakhouse** (72 W 36th St) — $$$, storica, mutton chop famosa. La steakhouse più antica di NYC.
-🅲 **5 Napkin Burger** — hamburger, più casual
-🅳 **Ippudo NY** (ramen) o **Prince Street Pizza** (slice)
+🚇 **1 train** da 42nd St → Franklin St (13 min) + 🚶 5 min. ⏱ **~20 min**.
 
 ---
 
@@ -573,67 +584,67 @@ Fermata per foto al **Grand Central Terminal** (soffitto stellato). Poi ingresso
 
 **Difficoltà:** 🟡 Moderato
 
-**Tema:** ⛴ Circle Line Best of NYC (CP) + 🏢 ESB AM/PM (CP) + 🌃 Ultima cena
+**Tema:** 🏢 ESB AM (CP) + ⛴ Circle Line al tramonto (CP) + 🏢 ESB PM rientro
 
-> 🕊 **9/11 Memorial:** Già visto al Day 4. **Circle Line Cruise** (CityPASS) spostata qui dalla sera del Day 6 — la facciamo di giorno per vedere NYC dall'acqua.
+> 🕊 **9/11 Memorial:** Già visto al Day 4. **Strategy ESB AM/PM:** visita di giorno al mattino + rientro notturno dopo la crociera (incluso nel CityPASS). **Circle Line** spostata qui — si fa al **tramonto** per lo skyline illuminato.
 
-### ☕ 9:00 — Colazione
+### ☕ 9:30 — Colazione
 
-🅰️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min) — bagel con cream cheese.
+🅰️ **Liberty Bagels** (Greenwich Ave, 🚶 10 min) — bagel con cream cheese. ⏱ coda 5-10 min.
 🅱️ **Russ & Daughters** (179 E Houston St, 🚶 15 min) — bagel con salmon.
 
-### 🚇 9:45 — Hotel → Pier 83
+### 🚇 10:00 — Hotel → Empire State Building
 
-**Route 1 + M42 bus:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St-Times Sq (13 min). **M42 bus** (crosstown westbound) → 12th Ave (8 min). 🚶 2 min.
+**Route 1 train:** 🚶 5 min → Franklin St → **1 train** (uptown) → 34th St-Penn Station (14 min). 🚶 8 min east su 34th St.
 ⏱ **~30 min.**
 
-### ⛴ 10:30-13:00 — CityPASS: Circle Line Best of NYC Cruise
+### 🏢 10:30-12:00 — CityPASS: Empire State Building (parte DAY ☀️)
 
-**Best of NYC** (2.5h) — giro completo dell'isola di Manhattan. Partenza da Pier 83. Vedrete:
-- 🗽 **Statua della Libertà** da vicino
-- 🌉 **Brooklyn Bridge** e altri 20 ponti
-- 🏙 **Skyline a 360°** di Manhattan
-- ⚾ **Yankee Stadium** dalla sponda del Bronx
+86° piano + Museo al 2° piano. **Al mattino c'è poca coda** (meglio che nel pomeriggio). Luce fresca e limpida.
 
-### 🍴 13:00 — Pranzo
+### 🍴 12:00-13:00 — Pranzo
 
-Dopo lo sbarco a Pier 83 (42nd St & 12th Ave): 
-🅰️ **Shake Shack** (Hudson Yards) — 🚶 10 min.
-🅱️ **Katz's Delicatessen** (LES, 🚇 25 min) — ultimo pastrami.
-🅲 **Los Tacos No. 1** (Chelsea Market) — 🚇 15 min.
+🅰️ **Shake Shack** (Midtown, vicino ESB) — ⏱ coda 15-20 min.
+🅱️ **7th Street Burger** — smash burger. ⏱ coda 5-10 min.
+🅲 **Emily** (35 W 32nd St) — se volete un pranzo più seduti.
 
-### 🥵 14:00-15:30 — Pausa pre-ESB
+### 🥵 13:00-16:30 — Pausa caldo / free time
 
-Rientro in hotel. Doccia, cambio per l'ultima sera. Lasciate i bagagli in ordine per la partenza di domani.
+Rientro in hotel. Doccia, riposo, riordino bagagli per domani.
+*Alternativa:* ultimo shopping (SoHo o Century 21 se non fatto al Day 6).
 
-### 🚇 15:30 — Spostamento verso ESB
+### 🚇 17:00 — Verso Pier 83 (Circle Line)
 
-**Route 1 train:** 🚶 5 min → Franklin St → **1 train** (uptown, attesa 5-8 min) → 34th St-Penn Station (14 min). 🚶 8 min east su 34th St.
-⏱ **Totale: ~32 min**
+**Route 1 + M42 bus:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St-Times Sq (13 min). **M42 bus** → 12th Ave (8 min). 🚶 2 min.
+⏱ **~35 min.**
 
-Oppure: **B/D/F/M** da Broadway-Lafayette → 34th St-Herald Sq (~15 min).
+### 🍽 17:45-18:45 — Cena pre-crociera
 
-### 🏢 16:00-17:30 — CityPASS: Empire State Building (parte DAY)
+🅰️ **Shake Shack** (Hudson Yards, 🚶 10 min da Pier 83) — veloce prima della crociera.
+🅱️ **Ippudo NY** (321 W 51st St) — 🚇 15 min, ramen.
+🅲 **7th Street Burger** (Midtown) — veloce.
 
-86° piano + Museo al 2° piano. ☀️ Luce piena del tardo pomeriggio.
+### ⛴ 19:00-21:00 — CityPASS: Circle Line Harbor Lights (🌇 tramonto)
 
-### 🥵 17:30-19:00 — Passeggiata + Ultimo snack
+**Harbor Lights** (2h) — la crociera serale perfetta. Partenza da Pier 83. Vedrete:
+- 🌇 **Tramonto sulla Statua della Libertà** (~19:35)
+- 🌃 **Skyline di Manhattan che si illumina**
+- 🌉 **Brooklyn Bridge** con le luci
+- 🏙 **ESB, Chrysler e One WTC** nello skyline notturno
 
-🚶 Passeggiata sulla 5th Ave fino a Rockefeller Center. 🍪 **Magnolia Bakery** (banana pudding). 📸 Foto finale a Times Square (a quest'ora le luci sono già accese ma non c'è troppa folla).
+> 🧥 Portate un giacchetto — sul fiume la sera fa fresco anche ad agosto.
 
-### 🍽 19:00-20:30 — Ultima cena
+### 🌃 21:15-22:30 — CityPASS: Empire State Building (parte PM 🌃)
 
-🅰️ **Keens Steakhouse** (72 W 36th St, 🚶 10 min da ESB) — $$$ **Ultima cena speciale.** La steakhouse più antica di NYC (1885). Mutton chop famosa. ⚠ **PRENOTATE** (anche last minute).
-🅱️ **Emily** (35 W 32nd St, 🚶 10 min) — hamburger serio.
-🅲 **Ippudo NY** (321 W 51st St) — ramen, se preferite qualcosa di più leggero.
+**Rientro notturno incluso (same-night).** Da Pier 83: 🚇 M42 + **1 train** → 34th St (30 min). 
 
-### 🌃 20:30-22:00 — CityPASS: Empire State Building (parte PM)
+Salite all'86° piano per l'ultima vista di NYC illuminata. ⚠️ **Ultimo ingresso 23:00** — entrate entro le 22:00. Portate un giacchetto.
 
-**Same-night return incluso.** 🌃 Salite all'86° piano per l'ultima vista di NYC illuminata. Portate un giacchetto.
+> ✨ È l'ultima immagine che porterete a casa. Città al massimo dello splendore.
 
-> ✨ **Consiglio:** Andate dopo cena (20:30-21:00) — meno folla, città al massimo dello splendore. È l'ultima immagine che porterete a casa.
+### 🚇 23:00 — Rientro
 
-**22:00-22:30** — Rientro hotel. Preparate i bagagli per domani.
+**1 train** → Franklin St (13 min) + 🚶 5 min. ⏱ **~20 min.** Preparate i bagagli per domani.
 
 ---
 
@@ -703,7 +714,7 @@ Red-eye notturno → arrivo domattina in Italia. 🇮🇹
 | ✈️ Voli A/R Roma ↔ JFK | ✅ Fatto | Arr 21 Ago 14:00 — Part 29 Ago 20:30 |
 | 🎭 Harry Potter Cursed Child | ✅ Fatto | Lyric Theatre, 25 Ago 19:00 |
 | 🎫 CityPASS New York (×3) | ✅ Acquistato | ⚠️ **DA PRENOTARE ORARI** (vedi tabella sotto) |
-| ✨ SUMMIT One Vanderbilt (×3) | ❌ Da prenotare | $44-63/persona, Gio 27 Ago ingresso ~17:00 |
+| ✨ SUMMIT One Vanderbilt (×3) | ❌ Da prenotare | $44-63/persona, Gio 27 Ago ingresso **18:30-19:00** |
 | 📱 eSIM | ⚠️ Da fare | Vedi [[Info/NewYork/eSIM]] |
 | 🛡️ Assicurazione Heymondo | ✅ Fatto | Già attiva |
 | 💰 Budget totale (volo escluso) | | **~€1.400/persona** |
@@ -717,8 +728,8 @@ Tutte le attrazioni CityPASS richiedono **prenotazione orario obbligatoria**. Fa
 | 1 | [[Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà]] | Lun 24 Ago | traghetto **9:00** | 🔴 SÌ |
 | 2 | [[Locations/UnitedStates/NewYork/Museums/AMNH]] | Mar 25 Ago | ingresso **9:30** | 🔴 SÌ |
 | 3 | [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock]] | Mar 25 Ago | ingresso **16:00-16:30** | 🔴 SÌ |
-| 4 | [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] | Ven 28 Ago | **Best of NYC 10:30** (2.5h) | 🔴 SÌ |
-| 5 | [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building]] | Ven 28 Ago | DAY **16:00** + PM rientro 20:30 | 🔴 SÌ |
+| 4 | [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] | Ven 28 Ago | **Harbor Lights ~19:00** (tramonto) | 🔴 SÌ |
+| 5 | [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building]] | Ven 28 Ago | DAY **10:30** + PM rientro **21:15** | 🔴 SÌ |
 
 > ⚠️ **Come prenotare:** Apri l'app My CityPASS, seleziona ogni attrazione, scegli data e ora dalla tabella sopra. Per ESB e Statua della Libertà gli slot serali/mattutini sono i primi a esaurirsi.
 
@@ -727,7 +738,7 @@ Tutte le attrazioni CityPASS richiedono **prenotazione orario obbligatoria**. Fa
 | Cosa | Dettaglio |
 |---|---|
 | Data | **Gio 27 Agosto** |
-| Ora | **17:00** (per tramonto ~19:35 + città illuminata) |
+| Ora | **18:30-19:00** (per vedere luce diurna → tramonto ~19:35 → sera illuminata) |
 | Biglietti | $44 (General Admission) o $63 (Ascent, con elevatore vetrato esterno) |
 | Durata | 1.5-2h |
 | Sito | summitov.com |
@@ -759,7 +770,7 @@ Ogni luogo menzionato nell'itinerario ha una pagina dedicata con info dettagliat
 - [[Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà]] — Day 4
 - [[Locations/UnitedStates/NewYork/Attrazioni/Ellis Island]] — Day 4
 - [[Locations/UnitedStates/NewYork/Attrazioni/9-11 Memorial & Museum]] — Day 4 (Memorial gratuito)
-- [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] — Day 8 (Best of NYC)
+- [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] — Day 8 (Harbor Lights tramonto)
 - [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge]] — Day 4
 - [[Locations/UnitedStates/NewYork/Attrazioni/Grand Central Terminal]] — Day 5
 - [[Locations/UnitedStates/NewYork/Attrazioni/Times Square]] — Day 2
@@ -813,7 +824,7 @@ La bozza originale posizionava SUMMIT One Vanderbilt il 25 Ago (Mar) alle 18:30-
 **Scelte (3 di 6):**
 3. ✅ Statue of Liberty + Ellis Island — Day 4
 4. ✅ Top of the Rock — Day 5
-5. ✅ Circle Line Cruise (Best of NYC) — Day 8
+5. ✅ Circle Line Cruise (Harbor Lights, tramonto) — Day 8
 
 **Non selezionate:** 9/11 Memorial & Museum (✅ **visitiamo solo il Memorial gratuito** al Day 4), Intrepid Museum, Guggenheim
 
@@ -821,9 +832,9 @@ La bozza originale posizionava SUMMIT One Vanderbilt il 25 Ago (Mar) alle 18:30-
 
 | Rooftop | Orario | Day | Vista |
 |---|---|---|---|
-| 🏢 Top of the Rock | Giorno (16:30) | 5 | Central Park + ESB nello skyline |
-| ✨ SUMMIT One Vanderbilt | Tramonto (17:00-19:30) | 7 | NYC a 360° + installazioni immersive |
-| 🗽 Empire State Building | Sera (20:00-22:00) | 8 | NYC illuminata dall'86° piano |
+| 🏢 Top of the Rock | Giorno (16:00-17:00) | 5 | Central Park + ESB nello skyline |
+| ✨ SUMMIT One Vanderbilt | Tramonto→sera (18:30-20:30) | 7 | Luce diurna → tramonto ~19:35 → città illuminata |
+| 🗽 Empire State Building | Mattina (10:30) + Sera (21:15) | 8 | AM/PM Experience: giorno + notte |
 
 ### CityPASS: Weekend Rule
 

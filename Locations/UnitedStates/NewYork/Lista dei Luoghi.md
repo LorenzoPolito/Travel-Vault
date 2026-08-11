@@ -2,7 +2,7 @@
 type: master-list
 destination: New York
 updated: 2026-07-29
-total_locations: 42
+total_locations: 57
 tags: [usa, newyork, master-list]
 ---
 

@@ -44,12 +44,12 @@ Itinerari/UnitedStates/NewYork/
 
 | Giorno | Data | Zona | Budget | Passi |
 | --- | --- | --- | --- | --- |
-| 1 | Ven 21 Ago | Arrivo + SoHo, Nolita, Chinatown | € | 8-10k |
-| 2 | Sab 22 Ago | Central Park + Fifth Ave + Times Square | € | 18-20k |
-| 3 | Dom 23 Ago | Chelsea + High Line + Greenwich Village | € | 14-16k |
-| 4 | Lun 24 Ago | Statua Libertà + FiDi + Brooklyn (CityPASS) | €€ | 18-22k |
-| 5 | Mar 25 Ago | AMNH + Midtown + Top of the Rock + Harry Potter (CityPASS) | €€ | 14-16k |
-| 6 | Mer 26 Ago | Circle Line Cruise + High Line / MoMA (CityPASS) | €€ | 12-14k |
-| 7 | Gio 27 Ago | MET + Upper East Side + SUMMIT tramonto | €€€ | 14-16k |
-| 8 | Ven 28 Ago | 9/11 Museum + ESB AM/PM (CityPASS) + Ultima sera | €€ | 16-18k |
-| 9 | Sab 29 Ago | Partenza | € | — |
+| 1 | Ven 21 Ago | SoHo → Nolita → Greenwich Village → Hudson River | € | 8-10k |
+| 2 | Sab 22 Ago | East Village → Lower East Side → Williamsburg | € | 15-18k |
+| 3 | Dom 23 Ago | Roosevelt Island → Midtown → FiDi → Red Hook → DUMBO | €€ | 16-19k |
+| 4 | Lun 24 Ago | Central Park → AMNH → Upper East Side → 5th Ave (CP) | €€ | 15-18k |
+| 5 | Mar 25 Ago | Midtown → Top of the Rock → Harry Potter → McGee's (CP) | €€ | 14-16k |
+| 6 | Mer 26 Ago | Chelsea → High Line → Hudson Yards → Circle Line (CP) | €€ | 12-14k |
+| 7 | Gio 27 Ago | ESB AM → Flatiron → SUMMIT → ESB PM (CP) | €€€ | 12-14k |
+| 8 | Ven 28 Ago | Statua → WTC → Tribeca → Tramonto Hudson (CP) | €€ | 15-18k |
+| 9 | Sab 29 Ago | Chinatown → Little Italy → SoHo → JFK | € | 8-10k |

@@ -43,4 +43,4 @@ source: brooklynbridgepark.org
 
 - [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge]] — collegamento con Manhattan
 - [[Locations/UnitedStates/NewYork/Quartieri/DUMBO]] — quartiere adiacente
-- [[Locations/UnitedStates/NewYork/Ristoranti/LIndustrie Pizzeria]] — cena nel quartiere
+- [[Locations/UnitedStates/NewYork/Ristoranti/L'Industrie Pizzeria]] — cena nel quartiere

@@ -702,19 +702,19 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 > 💰 **Budget totale stimato:** ~2.766–2.876 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
-| Voce | Stima | Reale | Delta | Note |
-|---|---|---|---|---|
-| Volo A/R | 1.096 € | 🔵 **PRENOTATO** | — | China Eastern open-jaw: FCO→KIX 23/10, HND→FCO 6/11 (09/08/26) |
-| Alloggio (14 notti, camera/3) | ~380 € | ✅ Calcolato | — | Izumisano ✅ + Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati
-| Cibo (15 gg × ~30 €) | ~435 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
-| JR Kansai-Hiroshima Area Pass 5gg | ~99 € | ❌ Da acquistare | — | — |
-| Kyoto→Tokyo Shinkansen | ~81 € | ❌ Da acquistare | — | — |
-| Trasporti locali (14 gg × ~10 €) | ~130 € | ❌ Da tenere traccia | — | Suica/Icoca |
-| Attrazioni (USJ, templi, TeamLab…) | ~230 € | ❌ Da calcolare | — | Vedi |Attività e Prenotazioni| |
-| Spese personali | ~400 € | ❌ Da tenere traccia | — | Souvenir, extra |
-| Assicurazione (Heymondo Premium) | ~27 €/persona | ❌ Da stipulare | — | Vedi |Assicurazione Heymondo| |
-| eSIM 15gg | ~15–25 € | ❌ Da comprare | — | Klook o Airalo |
-| **TOTALE** | **~2.751–2.851 €** | **🔵 Voli prenotati** | — | — |
+| Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
+| ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
+| Volo A/R                           | 1.096 €            | 🔵 **PRENOTATO**      | —     | China Eastern open-jaw: FCO→KIX 23/10, HND→FCO 6/11 (09/08/26) |                         |     |
+| Alloggio (14 notti, camera/3)      | ~380 €             | ✅ Calcolato           | —     | Izumisano ✅ + Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati    |                         |     |
+| Cibo (15 gg × ~30 €)               | ~435 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
+| JR Kansai-Hiroshima Area Pass 5gg  | ~99 €              | ❌ Da acquistare       | —     | —                                                              |                         |     |
+| Kyoto→Tokyo Shinkansen             | ~81 €              | ❌ Da acquistare       | —     | —                                                              |                         |     |
+| Trasporti locali (14 gg × ~10 €)   | ~130 €             | ❌ Da tenere traccia   | —     | Suica/Icoca                                                    |                         |     |
+| Attrazioni (USJ, templi, TeamLab…) | ~230 €             | ❌ Da calcolare        | —     | Vedi                                                           | Attività e Prenotazioni |     |
+| Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
+| Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | Assicurazione Heymondo  |     |
+| eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
+| **TOTALE**                         | **~2.751–2.851 €** | **🔵 Voli prenotati** | —     | —                                                              |                         |     |
 
 ### Budget Rebecca (extra cibo)
 

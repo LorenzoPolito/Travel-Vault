@@ -71,9 +71,8 @@ Travel-Vault/
 ├── Itinerari/
 │   ├── Calabria/[ARCHIVIATO]
 │   ├── Japan/
-│   │   ├── 2026/                         ★ Itinerari ATTIVI (2 varianti)
-│   │   │   ├── Itinerario-Giappone-24ott-7nov2026.md      ★ Variante A (23ott-7nov)
-│   │   │   └── Itinerario-Giappone-27ott-11nov2026.md     ★ Variante B (27ott-11nov)
+│   │   ├── 2026/                         ★ Itinerario ATTIVO (23ott-6nov)
+│   │   │   └── Itinerario-Giappone-23ott-6nov2026.md      ★ Variante A (23ott-6nov) — ATTIVO, voli prenotati
 │   │   ├── Esterni/
 │   │   └── Solo con i luoghi/
 │           ├── 7 giorni/    (×2)

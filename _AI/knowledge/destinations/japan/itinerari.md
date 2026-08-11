@@ -9,7 +9,7 @@ tags: [japan, itineraries, tokyo, kyoto, osaka, hiroshima, planning]
 source_files:
   - Itinerari/Japan/
 ai_notes: "File modulare Giappone. Nessun itinerario è definitivo — tutti sono varianti di lavoro."
-total_itineraries: 20
+total_itineraries: 19
 ---
 
 # Itinerari — Giappone
@@ -22,9 +22,9 @@ total_itineraries: 20
 
 ## Stato Generale
 
-Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 7 Nov 2026** (15gg/14notti), arrivo 24 a Izumisano. Itinerario in `Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md`.
+Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 6 Nov 2026** (15gg/14notti), arrivo 24 a Izumisano. Itinerario in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`.
 
-Viaggio **variante B** (date spostate): **27 Ott (partenza) — 11 Nov 2026** (15gg/14notti), arrivo 28 sera a Izumisano, ritorno 11 mattina. Itinerario in `Itinerari/Japan/2026/Itinerario-Giappone-27ott-11nov2026.md`. Stesse tappe, USJ al 30 ott (HHN), Kyoto scambiata per Bunka no Hi (3 nov).
+> ⚠️ **Variante B (27 ott — 11 nov)** rimossa: file eliminato, non più considerata (voli prenotati per la variante A).
 
 ---
 
@@ -33,8 +33,7 @@ Viaggio **variante B** (date spostate): **27 Ott (partenza) — 11 Nov 2026** (1
 ```
 Itinerari/Japan/
 ├── 2026/                         ← Itinerari principali (dettagliati)
-│   ├── Itinerario-Giappone-24ott-7nov2026.md      ← Variante A (24ott-7nov)
-│   └── Itinerario-Giappone-27ott-11nov2026.md     ← Variante B (27ott-11nov)
+│   ├── Itinerario-Giappone-23ott-6nov2026.md      ← Variante A (23ott-6nov) — ATTIVO
 ├── Esterni/
 │   ├── Itinerario Ossama Valentina.md
 │   └── Rail Adventure SiVola.it (14 gg).md
@@ -52,7 +51,7 @@ Itinerari/Japan/
 
 ## Itinerario Principale — Variante A (23 Ott partenza — 7 Nov 2026)
 
-**Path:** `Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md`
+**Path:** `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 
 **Persone:** Lorenzo, Davide, Rebecca
 
@@ -77,39 +76,13 @@ Itinerari/Japan/
 
 ---
 
-## Itinerario Principale — Variante B (27 Ott partenza — 11 Nov 2026)
-
-**Path:** `Itinerari/Japan/2026/Itinerario-Giappone-27ott-11nov2026.md`
-
-**Persone:** Lorenzo, Davide, Rebecca · **Note:** stesse tappe della variante A, date spostate di 4 giorni
-
-| Città | Date | Notti |
-| --- | --- | --- |
-| Partenza Italia (volo notturno, 1 scalo) | 27 Ott | — |
-| Arrivo KIX ~21:00 + Izumisano | 28 Ott | 1 |
-| Osaka (USJ + città) | 29 Ott – 2 Nov | 4 |
-| Hiroshima + Miyajima (day trip) | 1 Nov | — |
-| Nara (half day) → Kyoto | 2 Nov | 3 |
-| Kyoto (Arashiyama 3nov / Higashiyama 4nov) | 2-5 Nov | — |
-| Tokyo | 5-10 Nov | 5 |
-| Fujiyoshida (day trip) | 8 Nov | — |
-| Partenza da Tokyo (mattina) | 11 Nov | — |
-
-**Differenze chiave vs variante A:**
-- Ritorno l'**11 mattina** (non sera) → l'11 è solo volo, ultimo giorno pieno il 10 nov
-- **USJ al 30 ott** (venerdì, HHN) — il 31 è Halloween, sabato, troppo affollato
-- **Bunka no Hi (3 nov)** → Arashiyama/Kinkakuji quel giorno, Higashiyama il 4 (feriale)
-- Voli **con 1 scalo** (andata e ritorno) per risparmiare
-- ⚠️ Alloggi attuali (variante A) NON validi per queste date — da riprenotare
-
 ---
 
 ## Tabella Itinerari (14 giorni)
 
 | Nome file (abbreviato) | Percorso | Note |
 | --- | --- | --- |
-| **Itinerario-Giappone-24ott-7nov2026** | O→H→N→K→T | **Variante A** — 23ott-7nov, più dettagliato |
-| **Itinerario-Giappone-27ott-11nov2026** | O→H→N→K→T | **Variante B** — 27ott-11nov, date spostate |
+| **Itinerario-Giappone-23ott-6nov2026** | O→H→N→K→T | **Variante A** — 23ott-6nov, ATTIVO (voli prenotati) |
 | Tokyo-Kyoto-Osaka-Hiroshima-Tokyo (15feb-1mar) | T→K→O→H→K→T | Variante Feb 2026 (archiviata) |
 | Osaka-Hiroshima-Kyoto-Tokyo 22 Ott (15gg) | O→H→K→T | Include Miyajima |
 | Osaka-Hiroshima-Myajima-Kyoto-Tokyo | O→H→M→K→T | Osaka-first |

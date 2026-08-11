@@ -181,5 +181,5 @@ tags:
 
 ## Riferimenti Itinerari
 
-- Variante A: `Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md`
+- Variante A: `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 - Variante B: `Itinerari/Japan/2026/Itinerario-Giappone-27ott-11nov2026.md`

@@ -544,10 +544,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - JR Nakano → Shinjuku → Shibuya (~15 min)
 
 **Tardo Pomeriggio | Shibuya:**
-- [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)]] (attraversalo dalla folla!)
-- [[Shibuya (渋谷区)]] #4/5 ⭐ (¥2.000, vista 360°) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)]] (gratis con consumazione)
+- [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)|Shibuya Crossing]] (attraversalo dalla folla!)
+- [[Shibuya (渋谷区)|Shibuya Sky]] #4/5 ⭐ (¥2.000, vista 360°) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)|Magnet by Shibuya109]] (gratis con consumazione)
 - [[Pokemon center Shibuya]] #5/5 🟢 — merchandise esclusivo
-- 🟡 **Pokémon Café** — prenotare online con MESI di anticipo
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
@@ -622,7 +621,6 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Sera:**
 - Cena a Odaiba con vista Rainbow Bridge illuminato
-- [[Mario kart ride]] #2/5 🟡 (~€100, patente necessaria) — prenotare con largo anticipo ⚪
 
 🅿 **PIANO B:** TeamLab sold-out → anticipa visita mattutina a Tsukiji e pomeriggio a Odaiba
 
@@ -744,21 +742,19 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 ## Booking Checklist
 
-| Cosa | Da fare entro | Stato | Note |
-|---|---|---|---|
-| Volo A/R Roma→KIX (23/10, 21:10) / HND→Roma (6/11, 08:40) | ✅ **FATTO** | 🔵 **PRENOTATO** | China Eastern MU788+FM3051 / MU576+MU787 — 1.096,33 €/pax. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
-| Alloggio Izumisano 1 notte (24–25 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]] — kitchenette ✅, self check-in |
-| Alloggio Osaka 4 notti (25–29 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] — angolo cottura ✅ |
-| Alloggio Kyoto 3 notti (29 ott–1 nov) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅ |
-| Alloggio Tokyo 5 notti (1–6 nov) | ✅ **CONFERMATO** | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅ |
-| JR Kansai-Hiroshima Area Pass | Entro 1 mese | ❌ Da acquistare | Klook o JR West online |
-| Universal Studios Japan biglietti | **URGENTE (2+ mesi)** | ❌ Da prenotare | Klook — Halloween season si esaurisce |
-| TeamLab Planets | 1 mese prima | ❌ Da prenotare | teamlab.art |
-| Pokémon Café | 1 mese prima | ❌ Da prenotare | Sito ufficiale Pokémon |
-| Mario Kart Ride | 1 mese prima | ❌ Da prenotare | ~€100, patente guida necessaria |
-| eSIM / SIM | 2 settimane prima | ❌ Da comprare | Klook.com o Airalo |
-| Assicurazione viaggio | **URGENTE** | ❌ Da stipulare | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie |
-| Prenotazione Fuji Excursion treno | 1 mese prima | ❌ Da prenotare | JR East online |
-| Controllo maree Miyajima | Giorno prima | ❌ Da fare | Alta marea = torii nell'acqua |
-| Assicurazione Heymondo | **Agosto 2026** | ❌ Da stipulare | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]] |
+| Cosa                                                      | Da fare entro         | Stato            | Note                                                                                                                                     |
+| --------------------------------------------------------- | --------------------- | ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Volo A/R Roma→KIX (23/10, 21:10) / HND→Roma (6/11, 08:40) | ✅ **FATTO**           | 🔵 **PRENOTATO** | China Eastern MU788+FM3051 / MU576+MU787 — 1.096,33 €/pax. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
+| Alloggio Izumisano 1 notte (24–25 ott)                    | ✅ **FATTO**           | 🔵 **PRENOTATO** | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]] — kitchenette ✅, self check-in                                                            |
+| Alloggio Osaka 4 notti (25–29 ott)                        | ✅ **FATTO**           | 🔵 **PRENOTATO** | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] — angolo cottura ✅                                                      |
+| Alloggio Kyoto 3 notti (29 ott–1 nov)                     | ✅ **FATTO**           | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅                                                                            |
+| Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
+| JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | Klook o JR West online                                                                                                                   |
+| Universal Studios Japan biglietti                         | **URGENTE (2+ mesi)** | ❌ Da prenotare   | Klook — Halloween season si esaurisce                                                                                                    |
+| TeamLab Planets                                           | 1 mese prima          | ❌ Da prenotare   | teamlab.art                                                                                                                              |
+| eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
+| Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |
+| Prenotazione Fuji Excursion treno                         | 1 mese prima          | ❌ Da prenotare   | JR East online                                                                                                                           |
+| Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |
+| Assicurazione Heymondo                                    | **Agosto 2026**       | ❌ Da stipulare   | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]]                                                                      |
 

@@ -521,7 +521,6 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 **Sera | [[Akihabara (秋葉原)]] #4/5 🟢:**
 - [[Nakano Broadway (中野ブロードウェイ)]] — manga e action figure usate
 - [[Akihabara (秋葉原)]] — 9 piani di elettronica
-- Maid café (~¥500–1.000 + consumazione) ⚪
 
 🅿 **PIANO B (pioggia):** Skytree è coperto (al chiuso), Akihabara è coperto — zero impatto!
 

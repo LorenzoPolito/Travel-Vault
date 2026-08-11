@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c7ce68458554259a",
+        "id": "c35ca36e5acc535a",
         "type": "tabs",
         "children": [
           {
-            "id": "75ddb2c9d520f8ce",
+            "id": "6b9ae6a0a6845756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md",
+                "file": "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov"
+              "title": "Itinerario-Giappone-23ott-6nov2026"
             }
           }
         ]
@@ -59,10 +59,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Esplora risorse"
+              "title": "Esplora file"
             }
           },
           {
@@ -96,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278
+    "width": 445.20001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -113,13 +116,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md",
+                "file": "Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov"
+              "title": "Struttura di Itinerario-Giappone-24ott-7nov2026"
             }
           },
           {
@@ -155,7 +158,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md",
+                "file": "Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +186,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Grafo di Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov"
+              "title": "Grafo di Itinerario-Giappone-24ott-7nov2026"
             }
           }
         ]
@@ -268,13 +271,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
       "bases:Crea nuova Base": false,
       "obsidian-day-planner:Open Timeline": false,
       "obsidian-day-planner:Open Multi-Day View": false,
-      "switcher:Apri selezione rapida": false,
       "graph:Apri vista grafo": false,
       "canvas:Crea nuova lavagna": false,
-      "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "markdown-importer:Apri importazione Markdown": false,
@@ -289,53 +292,53 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "75ddb2c9d520f8ce",
+  "active": "6b9ae6a0a6845756",
   "lastOpenFiles": [
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov (1).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-(14notti)-24ott-7nov.md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario-Osaka-Hiroshima-Kyoto-Tokyo-dettagliato-(14notti)-24ott-7nov.md",
-    "Senza nome.base",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario Osaka-Hiroshima-Kyoto-Tokyo (14gg) 22 Ottobre - 7 Novembre.md",
-    "Locations/Japan/Castles/Castello di Osaka (大阪城).md",
-    "Itinerari/Japan/Solo con i luoghi/14 giorni/Itinerario_Giappone_24ott-7nov (1).md",
-    "_templates/Città.md",
-    "_website/dist/itineraries/rail-adventure-sivolait/index.html",
-    "_website/dist/itineraries/kanban-view/index.html",
-    "_website/dist/itineraries/parghelia-2025/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-osaka-kyoto-tokyo-dist-based/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-kyoto-versione-2/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-kyoto-tokyo-dist-based-1/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-kyoto-osaka-hiroshima-tokyo/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-kyoto-hiroshima-tokyo-dist-based/index.html",
-    "_website/dist/itineraries/itinerario-tokyo-kyoto-hiroshima-tokyo/index.html",
-    "_website/src/content/itineraries/kanban-view.md",
-    "_website/src/content/itineraries/itinerario-osaka-hiroshima-kyoto-tokyo-22-ottobre-7-novembre.md",
-    "_website/src/content/locations/itsukushima-shrine.md",
-    "_website/src/content/locations/fushimi-inari.md",
-    "_website/src/content/locations/daikaku-ji-temple.md",
-    "_website/src/content/locations/chureito-pagoda.md",
-    "_website/src/content/locations/adashino-nenbutsuji.md",
-    "_website/src/content/locations/hiroshima.md",
-    "_website/src/content/locations/fujiyoshida.md",
-    "_website/src/content/locations/hondori-street.md",
-    "_website/src/content/locations/harajuku.md",
-    "_website/src/content/locations/golden-gai.md",
-    "_website/src/content/locations/ginza.md",
-    "_website/src/content/locations/dotonbori.md",
-    "_website/src/content/locations/asakusa.md",
-    "_website/src/content/locations/akihabara.md",
-    "_website/src/content/locations/castello-di-osaka.md",
-    "_website/src/content/locations/universal-studios-japan.md",
-    "_website/src/content/locations/umeda-sky-building.md",
+    "_website/dist/manifest_BW9cvMvp.mjs",
+    "_website/dist/renderers.mjs",
+    "_website/dist/noop-entrypoint.mjs",
+    "_website/dist/_noop-middleware.mjs",
+    "_website/dist/chunks/astro/server_BAkmgMx3.mjs",
+    "_website/dist/chunks/_astro_data-layer-content_kVzCvPPs.mjs",
+    "_website/dist/chunks/_astro_content_DpnoNuyw.mjs",
+    "_website/dist/chunks/TopicImage_BpxhCq6M.mjs",
+    "_website/dist/chunks/_astro_assets_CGW6DMJ4.mjs",
+    "_website/dist/chunks/sharp_qwgWGEx3.mjs",
+    "_website/dist/chunks/EmptyState_BWilJ1qY.mjs",
+    "_website/dist/images/vault/WhatsApp Image 2026-07-11 at 17.02.44.jpeg",
+    "_website/dist/images/vault/Pasted image 20260711174602.png",
+    "_website/dist/images/vault/Pasted image 20260711174419.png",
     "_website/dist/images/vault/Pasted image 20250615160211.png",
     "_website/dist/images/vault/Pasted image 20250615160003.png",
     "_website/dist/images/vault/Pasted image 20250106151504.png",
     "_website/dist/images/vault/Pasted image 20240523103142.png",
-    "_website/dist/images/vault/Pasted image 20240405125139.png",
-    "_website/dist/images/vault/Pasted image 20240405124412.png",
-    "_website/dist/images/vault/Pasted image 20240315151037.png",
-    "_website/dist/images/vault/Pasted image 20240315143605.png",
     "_website/dist/images/vault/Pasted image 20240315143551.png",
-    "_website/dist/images/vault/Pasted image 20240315143301.png"
+    "_website/dist/images/vault/Pasted image 20240315151037.png",
+    "_website/dist/images/vault/Pasted image 20240405125139.png",
+    "_website/src/content/locations/teamlab-planets.md",
+    "_website/src/content/locations/pokepark-kanto.md",
+    "Locations/Japan/Parks-nature/TeamLab Planets (豊洲).md",
+    "Locations/Japan/Parks-nature/PokéPark KANTO.md",
+    "_website/src/content/locations/pokemon-center-skytree-town.md",
+    "Locations/Japan/Stores/Pokemon Center Skytree Town.md",
+    "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
+    "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
+    "Locations/Japan/Hotels/KURA Hotel Izumisano.md",
+    "_website/src/content/itineraries/itinerario-giappone-23ott-6nov2026.md",
+    "Itinerari/Japan/2026/Itinerario-Giappone-24ott-7nov2026.md",
+    "_website/src/content/locations/west-bank-gourmet.md",
+    "_website/src/content/locations/village-square-pizza.md",
+    "_website/src/content/locations/unregular-pizza.md",
+    "_website/src/content/locations/salt-hanks.md",
+    "_website/src/content/locations/raising-canes.md",
+    "_website/src/content/locations/pastrami-queen.md",
+    "_website/src/content/locations/nathans-famous.md",
+    "_website/src/content/locations/mei-lai-wah.md",
+    "_website/src/content/locations/mcgeegs-pub.md",
+    "_website/src/content/locations/krispy-kreme.md",
+    "_website/src/content/locations/jg-melon.md",
+    "_website/src/content/locations/hometown-bbq.md",
+    "_website/src/content/locations/fried-dumpling.md",
+    "_website/src/content/locations/danny-coops.md"
   ]
 }

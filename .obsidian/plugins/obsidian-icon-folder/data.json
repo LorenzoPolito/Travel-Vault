@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsCity",
+      "LiStar",
       "TiPepper",
       "LiJapaneseYen",
-      "LiStretchVertical",
-      "TiBuildingChurch",
-      "RiBuildingFill"
+      "LiStretchVertical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -47,5 +47,7 @@
   "Info/Japan": "LiJapaneseYen",
   "Locations/Japan": "LiJapaneseYen",
   "Itinerari/Japan": "LiJapaneseYen",
-  "Itinerari/Calabria": "TiPepper"
+  "Itinerari/Calabria": "TiPepper",
+  "Itinerari/UnitedStates": "LiStar",
+  "Itinerari/UnitedStates/NewYork": "BoBxsCity"
 }

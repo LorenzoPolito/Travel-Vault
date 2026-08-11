@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-08-09
+last_updated: 2026-08-11
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -47,9 +47,10 @@ Tessere RFID ricaricabili per metro, treni locali, bus e acquisti in combini/dis
 - Osaka→Hiroshima A/R: coperto da JR Kansai-Hiroshima Pass
 - Kyoto→Tokyo singola: ~14.000 yen (~81€)
 
-**Raccomandazione:**
-- **JR Kansai-Hiroshima Area Pass (5 giorni, ~99€)** — copre Osaka→Hiroshima A/R, traghetto Miyajima, Osaka→Nara→Kyoto
-- **Biglietto singolo Kyoto→Tokyo (~81€)** — Shinkansen Hikari
+**Raccomandazione (aggiornata 11/08/2026):**
+- **JR Kansai-Hiroshima Area Pass (5 giorni, 17.000 ¥ ≈ 92€)** — copre Shinkansen Sanyo Shin-Osaka⇔Hiroshima (posti riservati), traghetto JR Miyajima (tassa visita 100¥ a parte), linee JR West (incl. JR Nara Line Nara→Kyoto). **Attivare il 28 ott** (giorno di Hiroshima) → valido 28 ott–1 nov. Prezzo ufficiale: westjr.co.jp
+- **Alternativa da valutare:** due biglietti one-way scontati per turisti Shin-Osaka⇔Hiroshima (¥7.900 a tratta, tot. ¥15.800 < pass) + traghetto + Nara→Kyoto. Il pass conviene per posti riservati e praticità.
+- **Biglietto singolo Kyoto→Tokyo (~13.320 ¥ ≈ 72€)** — Shinkansen Hikari, posto libero
 - **Suica/Icoca** per trasporti locali
 
 ---
@@ -104,13 +105,17 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | --- | --- |
 | ✅ Voli A/R (China Eastern, prenotati) | **1.096 €** |
 | ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
-| Cibo (14gg × 30€) | ~435 € |
-| JR Kansai-Hiroshima Area Pass (5gg) | ~99 € |
-| Kyoto→Tokyo Shinkansen | ~81 € |
-| Trasporti locali (14gg × 12€) | ~145 € |
-| Attrazioni (USJ, templi, TeamLab) | ~230 € |
+| Cibo (15gg × ~30€) | ~425 € |
+| JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
+| Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
+| Fuji Excursion A/R | ~46 € (8.400 ¥) |
+| Trasporti locali (15gg) | ~127 € |
+| Attrazioni (USJ, PokéPark, templi, TeamLab, torri) | ~241 € |
 | Spese personali | ~400 € |
-| **TOTALE** | **~2.766-2.876 €** |
+| Assicurazione + eSIM | ~47 € |
+| **TOTALE** | **~2.936 €** (~2.880–2.990 €) |
+
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~921 € e includono shinkansen, Fuji Excursion A/R, USJ, PokéPark KANTO e TeamLab.
 
 ---
 
@@ -120,12 +125,13 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | --- | --- | --- |
 | ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
-| Universal Studios Japan | Alta | Biglietti online (Klook) — Halloween season |
-| TeamLab Planets (Tokyo) | Alta | Online, sold out spesso |
-| JR Kansai-Hiroshima Area Pass | Media | Attivare il giorno di Hiroshima (1 nov) |
-| Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione |
+| Universal Studios Japan | Alta | Biglietti online (Klook) — **acquisto anticipato OBBLIGATORIO** (¥8.400–9.400) |
+| TeamLab Planets (Tokyo) | Alta | ¥3.600 · **biglietti novembre da fine agosto 2026** · slot 19:00 del 5 nov · teamlab.art |
+| PokéPark KANTO (Yomiuriland) | **Inizio settembre** | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · 5 nov |
+| JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |
+| Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione (~13.320 ¥) |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
-| Fuji Excursion treno | Media | Prenotazione JR East |
+| Fuji Excursion treno | Media | ¥4.200 · **prenotazione posto obbligatoria** JR East |
 | Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
 | Assicurazione viaggio | Media | Da stipulare |
 

@@ -104,7 +104,7 @@ Contiene tutti i luoghi con voti, orari e cluster geografici.
 **Cluster 1 (Est/Asakusa):**
 - Asakusa + Tempio Senso-ji (6:30-17:00) `#5/5`
 - Akihabara `#4/5`
-- Tokyo Skytree + Pokemon Center Asakusa (10:00-21:00) `#3/5`
+- Tokyo Skytree + Pokemon Center Skytree Town (Solamachi, 10:00-21:00) `#3/5`
 - Parco Ueno `#2/5`
 
 **Cluster 2 (Centro):**

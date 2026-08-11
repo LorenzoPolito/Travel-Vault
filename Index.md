@@ -82,7 +82,7 @@
 - [[Mercato del pesce di Tsukiji (築地場外市場)]]
 - [[Nakano Broadway (中野ブロードウェイ)]]
 - [[Nishiki Market (錦市場)]]
-- [[Pokemon center Asakusa]]
+- [[Pokemon Center Skytree Town]]
 - [[Pokemon center Shibuya]]
 - [[Adashino nenbutsuji (化野念仏寺)]]
 - [[Chureito Pagoda (忠霊塔)]]

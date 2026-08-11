@@ -51,11 +51,11 @@ export const GUIDE_CAT_EMOJI: Record<string, string> = {
 }
 
 export const PRETTY_NAMES: Record<string, string> = {
-  'itinerario-giappone-24ott-7nov2026': 'Giappone 2026 — 24 Ott · 7 Nov',
+  'itinerario-giappone-23ott-6nov2026': 'Giappone 2026 — 23 Ott · 6 Nov',
   'new-york-21-29-agosto-2026-itinerario-dettagliato': 'New York 2026 — 21 · 29 Ago',
 }
 
-export const ACTIVE_ITIN_PREFIX = 'itinerario-giappone-24ott'
+export const ACTIVE_ITIN_PREFIX = 'itinerario-giappone-23ott'
 
 export function slugToName(slug: string): string {
   const name = slug.split('/').pop() || ''

@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: itineraries
 language: it
-last_updated: 2026-08-09
+last_updated: 2026-08-11
 destination: Japan
 tags: [japan, itineraries, tokyo, kyoto, osaka, hiroshima, planning]
 source_files:
@@ -25,6 +25,9 @@ total_itineraries: 19
 Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 6 Nov 2026** (15gg/14notti), arrivo 24 a Izumisano. Itinerario in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`.
 
 > ⚠️ **Variante B (27 ott — 11 nov)** rimossa: file eliminato, non più considerata (voli prenotati per la variante A).
+
+> ✅ **Fact-check 11/08/2026:** prezzi/orari/tariffe verificati su fonti ufficiali (JR West, teamlab.art, todaiji.or.jp, japan-guide, xe.com). **Nishiki Market NON è chiuso di domenica** (correzione). Prezzi aggiornati: TeamLab ¥3.600, Skytree ¥2.400, Shibuya Sky ¥2.700, pass 17.000 ¥, Fuji Excursion ¥4.200.
+> 🎡 **Aggiunto (11/08/26):** **PokéPark KANTO** (primo parco Pokémon permanente, Yomiuriland, aperto feb 2026) al Giorno 13 (5 nov) — mattina PokéPark + sera TeamLab. Palazzo Imperiale e Tsukiji rimossi dal giorno 13.
 
 ---
 
@@ -55,22 +58,20 @@ Itinerari/Japan/
 
 **Persone:** Lorenzo, Davide, Rebecca
 
-| Città | Date | Notti |
+| Tappa | Date | Notti |
 | --- | --- | --- |
 | Partenza Italia (volo notturno) | 23 Ott | — |
-| Arrivo KIX + Izumisano | 24 Ott | 1 |
-| Osaka (USJ + città) | 25-28 Ott | 4 |
-| Hiroshima + Miyajima (day trip) | 28 Ott | — |
-| Nara (half day) → Kyoto | 29 Ott | 3 |
-| Kyoto | 29-30 Ott | — |
-| Tokyo | 31 Ott — 5 Nov | 5 |
-| Fujiyoshida (day trip) | 1 Nov | — |
-| Partenza da Tokyo (volo MU) | 6 Novembre | — |
+| Izumisano (KIX, notte d'arrivo) | 24 Ott | 1 |
+| Osaka (incl. USJ) + day trip Hiroshima/Miyajima | 25–29 Ott | 4 |
+| Nara (half day) → Kyoto | 29 Ott | — |
+| Kyoto | 29 Ott – 1 Nov | 3 |
+| Tokyo (+ day trip Fujiyoshida il 4 nov) | 1–6 Nov | 5 |
+| Partenza (volo MU da HND) | 6 Nov | — |
 
 **Caratteristiche chiave:**
 - Orari al minuto, livello difficoltà fisica (1-4), indicazioni mezzo di trasporto
 - ✅ **VOLI PRENOTATI** (09/08/26): China Eastern open-jaw 1.096,33 €/pax — FCO→KIX 23/10 21:10, HND→FCO 6/11 08:40
-- Budget dettagliato: ~2.766-2.876 €/persona (voli inclusi)
+- Budget dettagliato: ~2.936 €/persona (voli inclusi)
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
 - 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
 
@@ -136,6 +137,6 @@ Budget:
 
 - Nuovo itinerario → `Itinerari/Japan/<sottocartella>/NomeFile.md`
 - Template Kanban pasti → `Itinerario Kanban Template.md` nella root
-- Per il viaggio Ott 2026: **non serve il JR Pass nazionale** — usa JR Kansai-Hiroshima Area Pass (attivare il 1 nov)
+- Per il viaggio Ott 2026: **non serve il JR Pass nazionale** — usa JR Kansai-Hiroshima Area Pass (**17.000 ¥, attivare il 28 ott** — giorno di Hiroshima; valido 28 ott–1 nov)
 - ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Hotel prenotati
 - Attività rimosse dal piano: Mario Kart Ride, Pokémon Café, Maid café

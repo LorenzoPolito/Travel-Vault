@@ -111,7 +111,7 @@ tags:
 - Quartiere di [[Shinjuku (新宿区)]]
 ### Giorno 4 (6 Dicembre 2025) (4° Tokyo)
 
-- [[Pokemon center Asakusa]]
+- [[Pokemon Center Skytree Town]]
 - Quartiere di [[Shibuya (渋谷区)]]
 - [[Santuario Meiji (明治神宮)]] ( 10:00 - 16:30 )
 ### Giorno 5 (7 Dicembre 2025) (5° Tokyo)
@@ -272,7 +272,7 @@ Dicembre in Giappone offre alcune attività e attrazioni uniche legate alla stag
 ### Tokyo(東京)
 1. Quartiere di Asakusa(浅草) e Tempio Senso-Ji (浅草寺) ( 6:30-17:00 ) #5/5
 2. Quartiere di Akihabara (秋葉原) #4/5
-3. Tokyo skytree (東京スカイツリー) e Pokemon center Asakusa ( 10:00 - 21:00 ) #3/5
+3. Tokyo skytree (東京スカイツリー) e Pokemon Center Skytree Town ( 10:00 - 21:00 ) #3/5
 4. Quartiere Ueno e Parco di Ueno (上野恩賜公園) #2/5 //
 5. Santuario Kanda (神田明神) ( 24H ) #3/5
 6. Kodokan dojo judo (講道館) ( 16:00-20:00 ) #1/5 //

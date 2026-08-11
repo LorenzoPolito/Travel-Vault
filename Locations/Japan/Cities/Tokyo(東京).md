@@ -26,7 +26,7 @@ marker: default,35.69039215333176,139.776763971895,Tokyo東京
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
 2. Quartiere di [[Akihabara (秋葉原)]] #4/5
-3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
+3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town]] ( 10:00 - 21:00 ) #3/5
 4. Quartiere di [[Parco di Ueno (上野恩賜公園)]] e [[Parco di Ueno (上野恩賜公園)]] #2/5
 //
 1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5

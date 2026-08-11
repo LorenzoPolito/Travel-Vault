@@ -50,7 +50,7 @@ tags:
 1. [[Tempio Ginkakuji (慈照寺（銀閣寺))]] ( 8:30-17:00 ) #1/5
 //
 1. [[Kiyomizu-dera (清水寺)]] ( 6:00-18:00 ) #5/5
-2. [[Nishiki Market (錦市場)]] ( 9:00-17:30 **chiuso domenica**) #4/5
+2. [[Nishiki Market (錦市場)]] ( 9:00-17:30 ⚠️ singoli negozi chiusi in giorni variabili — molti di mercoledì; di domenica aperto) #4/5
 3. zona [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] #4/5
 4. [[Santuario Yasaka (八坂神社)]] ( 24H ) #4/5 
 5. [[Tempio Kodai-ji (高台寺)]] ( 9:00-17:00 ) #3/5
@@ -71,7 +71,7 @@ tags:
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5
 2. Quartiere di [[Akihabara (秋葉原)]] #4/5
-3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]] ( 10:00 - 21:00 ) #3/5
+3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town|Pokemon Center Skytree Town (Solamachi)]] ( 10:00 - 21:00 ) #3/5
 4. Quartiere Ueno e [[Parco di Ueno (上野恩賜公園)]] #2/5
 //
 1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5
@@ -95,6 +95,7 @@ tags:
 6. Quartiere di [[Ginza (銀座)]] #1/5
 //
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
+2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente ) #5/5
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5

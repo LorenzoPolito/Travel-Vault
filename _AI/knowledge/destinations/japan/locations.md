@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: locations
 language: it
-last_updated: 2026-08-09
+last_updated: 2026-08-11
 destination: Japan
 tags: [japan, locations, tokyo, kyoto, osaka, hiroshima, temples, parks, stores]
 source_files:
@@ -105,7 +105,7 @@ total_locations: 76
 
 **Cluster 2 — Higashiyama (Est):**
 - Kiyomizu-dera (6:00-18:00) `#5/5`
-- Nishiki Market (9:00-17:30, ⚠️ chiuso domenica) `#4/5`
+- Nishiki Market (9:00-17:30, ⚠️ singoli negozi chiusi in giorni variabili — molti di **mercoledì**; di domenica aperto) `#4/5`
 - Sannenzaka & Ninenzaka `#4/5`
 - Santuario Yasaka (24H) `#4/5`
 - Tempio Kodai-ji (9:00-17:00) `#3/5`
@@ -136,7 +136,7 @@ total_locations: 76
 **Cluster 1 — Est / Asakusa:**
 - Asakusa + Tempio Senso-ji (6:30-17:00) `#5/5`
 - Akihabara `#4/5`
-- Tokyo Skytree + Pokemon Center Asakusa (10:00-21:00) `#3/5`
+- Tokyo Skytree (¥2.400 feriale/¥2.600 weekend, 10:00-22:00) + Pokemon Center Skytree Town (Solamachi) `#3/5`
 - Parco Ueno `#2/5`
 
 **Cluster 2 — Centro / Kanda:**
@@ -165,6 +165,7 @@ total_locations: 76
 
 **Day trip:**
 - Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(lontano)*
+- **PokéPark KANTO** (Yomiuriland, Tokyo ovest) `#5/5` *(Lorenzo — primo parco Pokémon permanente al mondo, feb 2026; Trainer's Pass ¥7.900–9.400, prenotazione online ~2 mesi prima, NO walk-in)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
 
@@ -178,7 +179,7 @@ total_locations: 76
 ### 🦌 Nara *(day trip da Kyoto/Osaka, ~35-45min)*
 
 - Parco di Nara / cervi sika liberi
-- Tempio Todaiji / Gran Buddha (8:00-17:00 nov-mar, 600¥)
+- Tempio Todaiji / Gran Buddha (7:30-17:30 apr-ott; 8:00-17:00 nov-mar, ¥800)
 - Santuario Kasuga Taisha
 - Kofukuji (pagoda 5 piani)
 - Museo Nazionale di Nara
@@ -191,4 +192,6 @@ total_locations: 76
 - **Gion:** comunicare il divieto dei vicoli privati (multa 70€)
 - **Lorenzo:** judo (Kodokan) + anime/manga (Akihabara, Nakano Broadway)
 - **Damiano:** Harry Potter Studio → prenotazione obbligatoria con mesi di anticipo
-- **TeamLab Planets:** prenotazione online obbligatoria in anticipo
+- **TeamLab Planets:** ¥3.600 · prenotazione online obbligatoria · **biglietti novembre da fine agosto 2026**
+- **USJ:** ¥8.400–9.400 · **acquisto anticipato obbligatorio** (dal 2025 non si vendono al parco)
+- **Fuji Excursion:** ~¥4.200 Shinjuku→Fujiyoshida/Kawaguchiko · prenotazione posto obbligatoria

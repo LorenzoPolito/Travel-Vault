@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-07-11
+last_updated: 2026-08-09
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -98,19 +98,19 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 
 ---
 
-## Budget di Riferimento (Ott 2026, 14 notti, 3 persone)
+## Budget di Riferimento (Ott-Nov 2026, 14 notti, 3 persone)
 
 | Voce | Stima/persona |
 | --- | --- |
-| Voli A/R | 800-1.000 € |
-| Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
-| Cibo (12gg × 30€) | ~360 € |
+| ✅ Voli A/R (China Eastern, prenotati) | **1.096 €** |
+| ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
+| Cibo (14gg × 30€) | ~435 € |
 | JR Kansai-Hiroshima Area Pass (5gg) | ~99 € |
 | Kyoto→Tokyo Shinkansen | ~81 € |
-| Trasporti locali (12gg × 12€) | ~150 € |
-| Attrazioni (USJ, Skytree, templi, TeamLab) | ~200 € |
+| Trasporti locali (14gg × 12€) | ~145 € |
+| Attrazioni (USJ, templi, TeamLab) | ~230 € |
 | Spese personali | ~400 € |
-| **TOTALE** | **~2.440-2.640 €** |
+| **TOTALE** | **~2.766-2.876 €** |
 
 ---
 
@@ -118,12 +118,15 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 
 | Attività | Urgenza | Note |
 | --- | --- | --- |
-| Voli A/R | Alta | Ancora da prenotare |
-| Hotel (alta stagione autunnale) | Alta | Solo link Booking.com candidati |
-| Universal Studios Japan | Alta | Biglietti online |
+| ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
+| ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
+| Universal Studios Japan | Alta | Biglietti online (Klook) — Halloween season |
 | TeamLab Planets (Tokyo) | Alta | Online, sold out spesso |
-| Pokemon Cafe | Media | Prenotazione online |
-| Mario Kart Ride | Media | ~100€, patente richiesta |
-| eSIM | Media | Comprare prima della partenza |
-| Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Dal 2023 tassa visita 100¥ per possessori pass (a parte al terminal) |
+| JR Kansai-Hiroshima Area Pass | Media | Attivare il giorno di Hiroshima (1 nov) |
+| Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione |
+| eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
+| Fuji Excursion treno | Media | Prenotazione JR East |
+| Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
 | Assicurazione viaggio | Media | Da stipulare |
+
+> 🚫 **Non in programma (rimossi):** Mario Kart Ride, Pokémon Café, Maid café

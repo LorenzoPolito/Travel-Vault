@@ -4,7 +4,7 @@ scope: global
 vault: Travel-Vault
 vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
 language: it
-last_updated: 2026-02-23
+last_updated: 2026-08-09
 authors: [Lorenzo, Damiano]
 tags: [metadata, vault, conventions, obsidian, travel]
 ai_role: "Leggi questo file per capire la struttura e le convenzioni del vault prima di operare."
@@ -44,7 +44,8 @@ Attualmente focalizzato su **Giappone** (contenuto principale) e con **Italia** 
 
 | Destinazione | Stato | Cartelle principali |
 | --- | --- | --- |
-| 🇯🇵 Giappone | **In pianificazione** (feb-mar 2026) | `Locations/Japan/`, `Itinerari/Japan/`, `Info/Japan/` |
+| 🇯🇵 Giappone | **Confermato — voli e alloggi prenotati** (23 ott — 6 nov 2026) | `Locations/Japan/`, `Itinerari/Japan/`, `Info/Japan/` |
+| 🇺🇸 New York | **In pianificazione** (21-29 ago 2026) | `Itinerari/UnitedStates/NewYork/`, `Locations/UnitedStates/NewYork/`, `Info/NewYork/` |
 | 🇮🇹 Italia | **Archiviato** (ago 2025) | `Itinerari/Calabria/` |
 
 ---

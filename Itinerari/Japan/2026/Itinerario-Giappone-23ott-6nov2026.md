@@ -212,7 +212,7 @@ xychart-beta
 | 15 | 7 Nov | 15 € | 15 € | — | 30 € |
 | **TOT** | | **~435 €** | **~235 €** | **~230 €** | **~880 €** |
 
-+ Volo A/R 1.096 € (PRENOTATO) + Alloggio ~380 € (incl. 1 notte Izumisano) + Spese personali ~400 € = **~2.756 € totali**
++ Volo A/R 1.096 € (PRENOTATO) + Alloggio ~380 € + Spese personali ~400 € = **~2.756 €** (+ pass ~180 € + attrazioni ~230 € → **~2.766-2.876 € totali**)
 
 ### Alloggi
 
@@ -711,7 +711,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | Assicurazione Heymondo  |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.751–2.851 €** | **🔵 Voli prenotati** | —     | —                                                              |                         |     |
+| **TOTALE**                         | **~2.766–2.876 €** | **🔵 Voli prenotati** | —     | —                                                              |                         |     |
 
 ### Budget Rebecca (extra cibo)
 

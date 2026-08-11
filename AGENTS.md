@@ -13,11 +13,11 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 
 ## Viaggio Attivo
 
-- **Giappone**: 24 Ott — 7 Nov 2026 (15gg/14notti)
+- **Giappone**: 23 Ott (partenza) — 6 Nov 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
-- **Route**: Osaka → Hiroshima → Nara → Kyoto → Tokyo
-- **Budget**: ~2.440-2.640 €/persona
-- **Stato**: Pianificazione definita, prenotazioni da fare
+- **Route**: Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo
+- **Budget**: ~2.766-2.876 €/persona
+- **Stato**: ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Alloggi prenotati · ❌ attività da prenotare (USJ, TeamLab, pass)
 
 ## Convenzioni Vault
 
@@ -49,11 +49,13 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 - `sync:content` — Solo sync vault → Astro
 - `dev:website` — Sito in development mode
 
-## Monitoraggio Voli (check ogni 2 giorni)
+## Monitoraggio Voli ✅ COMPLETATO
 
-Ogni 2 giorni (15, 17, 19, 21, 23, 25, 27, 29, 31 Lug + 1-3 Ago), l'agente DEVE:
-1. Cercare **FCO→KIX 24 Ott** su Google Flights (cercare "Rome to Tokyo" come proxy — KIX non dà risultati)
-2. Cercare **TYO→FCO 6 Nov** su Google Flights
-3. Aggiornare `Calendario Monitoraggio` nell'itinerario
-4. Se il prezzo totale A/R scende sotto **€1.000/pax**, segnalare come 🎯 **OFFERTA**
-5. Target prenotazione: **inizio Agosto 2026**
+I voli sono stati **prenotati il 09/08/26** (China Eastern open-jaw, 1.096,33 €/pax). Il monitoraggio periodico non è più necessario.
+
+**Prenotazione:**
+- 🛫 FCO→KIX 23/10 21:10 (MU788 + FM3051, via Shanghai PVG) → arrivo 24/10 21:00
+- 🛬 HND→FCO 6/11 08:40 (MU576 + MU787, via Shanghai PVG) → arrivo 18:15
+- Prezzo: 575,54 € andata + 520,79 € ritorno = 1.096,33 €/pax · tot. 3.289 € (3 pax)
+
+**Attività ancora da prenotare:** USJ, TeamLab Planets, JR Kansai-Hiroshima Pass, Fuji Excursion, eSIM, assicurazione.

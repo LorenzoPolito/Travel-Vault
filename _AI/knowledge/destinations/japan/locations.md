@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: locations
 language: it
-last_updated: 2026-02-23
+last_updated: 2026-08-09
 destination: Japan
 tags: [japan, locations, tokyo, kyoto, osaka, hiroshima, temples, parks, stores]
 source_files:

@@ -22,7 +22,7 @@ Se Obsidian CLI è attivo, usa `bash: obsidian search/read/daily/create` per int
 
 ## Vault Overview
 
-Vault modulare per pianificazione viaggi. Focus primario: **Giappone, 24 Ott — 7 Nov 2026** per Lorenzo + Davide + Rebecca. Lingua: Italiano.
+Vault modulare per pianificazione viaggi. Focus primario: **Giappone, 23 Ott — 6 Nov 2026** per Lorenzo + Davide + Rebecca. Lingua: Italiano.
 
 ## Entry Points (leggi sempre prima questi)
 
@@ -113,13 +113,14 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 
 ## Current Trip Status
 
-- **Destinazione**: Giappone (Osaka, Hiroshima, Nara, Kyoto, Tokyo)
-- **Date**: 24 Ottobre — 7 Novembre 2026 (15gg/14notti)
+- **Destinazione**: Giappone (KIX → Izumisano → Osaka, Hiroshima, Nara, Kyoto, Tokyo)
+- **Date**: 23 Ottobre (partenza) — 6 Novembre 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
-- **Budget stimato**: ~2.440-2.640 €/persona (voli inclusi ~800-1.000€)
-- **Stato**: Pianificazione definita, NIENTE ancora prenotato (voli, hotel, attività)
+- **Budget stimato**: ~2.766-2.876 €/persona (voli inclusi 1.096 €)
+- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · ❌ attività da prenotare (USJ, TeamLab, JR Kansai-Hiroshima Pass, Fuji Excursion, eSIM, assicurazione)
+- **Voli**: FCO→KIX 23/10 21:10 (via Shanghai) · HND→FCO 6/11 08:40 (via Shanghai)
 - **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~99€) + biglietto singolo Kyoto→Tokyo (~81€)
-- **Itinerari**: 19 varianti totali, la principale è in `Itinerari/Japan/2026/`
+- **Itinerari**: itinerario attivo in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 
 ## Website Publishing
 

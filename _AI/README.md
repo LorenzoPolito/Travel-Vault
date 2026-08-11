@@ -26,8 +26,12 @@ _AI/
 │   └── destinations/           ← Modulare per destinazione
 │       ├── japan/
 │       │   ├── locations.md    ← 76 luoghi con voti, orari, cluster
-│       │   ├── itinerari.md    ← 18+ varianti, tempi percorrenza
+│       │   ├── itinerari.md    ← 19 varianti, tempi percorrenza
 │       │   └── logistica.md    ← IC Cards, JR Pass, budget, prenotazioni
+│       ├── newyork/
+│       │   ├── logistica.md    ← Trasporti, OMNY, CityPASS, budget
+│       │   ├── locations.md    ← Cluster NYC
+│       │   └── itinerari.md    ← Riferimento itinerario attivo
 │       └── italia/
 │           └── itinerari.md    ← Calabria 2025 (archiviato)
 │

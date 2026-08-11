@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: itineraries
 language: it
-last_updated: 2026-08-07
+last_updated: 2026-08-09
 destination: Japan
 tags: [japan, itineraries, tokyo, kyoto, osaka, hiroshima, planning]
 source_files:
@@ -49,7 +49,7 @@ Itinerari/Japan/
 
 ---
 
-## Itinerario Principale — Variante A (23 Ott partenza — 7 Nov 2026)
+## Itinerario Principale — Variante A (23 Ott partenza — 6 Nov 2026)
 
 **Path:** `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 
@@ -73,8 +73,6 @@ Itinerari/Japan/
 - Budget dettagliato: ~2.766-2.876 €/persona (voli inclusi)
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
 - 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
-
----
 
 ---
 
@@ -138,6 +136,6 @@ Budget:
 
 - Nuovo itinerario → `Itinerari/Japan/<sottocartella>/NomeFile.md`
 - Template Kanban pasti → `Itinerario Kanban Template.md` nella root
-- Per il viaggio Ott 2026: **non serve il JR Pass nazionale** — usa JR Kansai-Hiroshima Area Pass
-- Budget voli: ancora da verificare per Ott 2026
-- Hotel: ancora da prenotare (Booking.com link candidati)
+- Per il viaggio Ott 2026: **non serve il JR Pass nazionale** — usa JR Kansai-Hiroshima Area Pass (attivare il 1 nov)
+- ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Hotel prenotati
+- Attività rimosse dal piano: Mario Kart Ride, Pokémon Café, Maid café

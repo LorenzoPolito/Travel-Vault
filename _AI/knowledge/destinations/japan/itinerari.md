@@ -64,13 +64,14 @@ Itinerari/Japan/
 | Hiroshima + Miyajima (day trip) | 28 Ott | — |
 | Nara (half day) → Kyoto | 29 Ott | 3 |
 | Kyoto | 29-30 Ott | — |
-| Tokyo | 31 Ott — 6 Nov | 5 |
+| Tokyo | 31 Ott — 5 Nov | 5 |
 | Fujiyoshida (day trip) | 1 Nov | — |
-| Partenza da Tokyo | 7 Novembre | — |
+| Partenza da Tokyo (volo MU) | 6 Novembre | — |
 
 **Caratteristiche chiave:**
 - Orari al minuto, livello difficoltà fisica (1-4), indicazioni mezzo di trasporto
-- Budget dettagliato: ~2.555-2.755 €/persona
+- ✅ **VOLI PRENOTATI** (09/08/26): China Eastern open-jaw 1.096,33 €/pax — FCO→KIX 23/10 21:10, HND→FCO 6/11 08:40
+- Budget dettagliato: ~2.766-2.876 €/persona (voli inclusi)
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
 - 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
 

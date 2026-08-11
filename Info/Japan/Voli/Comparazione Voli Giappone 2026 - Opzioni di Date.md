@@ -12,19 +12,44 @@ tags:
 
 # Comparazione Voli Giappone 2026 — Opzioni di Date
 
-> **Data ricerca:** 7 Agosto 2026 · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
+> **Data ricerca:** 7-9 Agosto 2026 · **Passeggeri:** 1 adulto, economy · **Valuta:** EUR
 > **Fonte:** Google Flights API (script `search_flights_2026.py`) + verifica manuale Skyscanner
-> **Vincolo:** ritorno entro **9 Novembre 2026**
+> ✅ **ESITO: voli PRENOTATI il 09/08/26** — China Eastern open-jaw, 1.096,33 €/pax
 > ⚠️ I prezzi sono indicativi e cambiano rapidamente — confermare su Google Flights/Skyscanner/Trip.com prima della prenotazione.
+
+---
+
+## 🎫 VOLI PRENOTATI (09/08/26) — China Eastern
+
+| Tratta | Data | Orari | Volo | Costo/pax |
+|---|---|---|---|---|
+| 🛫 **Andata** FCO → KIX | 23 Ott | 21:10 → 24 Ott 21:00 | MU788 + FM3051 (via PVG) · **16h50** | 575,54 € |
+| 🛬 **Ritorno** HND → FCO | 6 Nov | 08:40 → 18:15 | MU576 + MU787 (via PVG) · **17h35** | 520,79 € |
+| **Totale A/R** | | | | **1.096,33 €** |
+
+### Dettaglio itinerari
+
+**Andata (Viaggio 1):**
+- MU788 China Eastern · FCO 21:10 → **PVG Shanghai** 14:40 (+1) · 11h30
+- ⏳ Cambio a Shanghai **2h45**
+- FM3051 Shanghai Airlines (operato MU) · PVG 17:25 → **KIX Osaka** 21:00 · 2h35
+
+**Ritorno (Viaggio 2):**
+- MU576 China Eastern · HND 08:40 → **PVG Shanghai** 11:05 · 3h25
+- ⏳ Cambio a Shanghai **1h35**
+- MU787 China Eastern · PVG 12:40 → **FCO Roma** 18:15 · 12h35
+
+> ✅ Pagato con Mastercard Debit · ordine 09/08/26 · Rebecca/Davide/Lorenzo · tot. 3.289 € · Economy
+> ⚠️ **Nota tecnica:** Google Flights via API NON espone i prezzi China Eastern ("0" — limitazione API). La ricerca è stata fatta su Skyscanner. Verifica sempre MU sul sito ufficiale [it.ceair.com](https://it.ceair.com/it/booking.html).
 
 ---
 
 ## 📌 Percorso del viaggio (open-jaw)
 
 🛫 **Andata:** Roma Fiumicino (FCO) → Osaka (KIX)
-🛬 **Ritorno:** Tokyo (TYO = HND/NRT) → Roma (FCO) — il viaggio finisce a Tokyo
+🛬 **Ritorno:** Tokyo (HND) → Roma (FCO) — il viaggio finisce a Tokyo
 
-> ℹ️ **Open-jaw** = andata e ritorno su aeroporti diversi. I biglietti "A/R insieme" (es. 938 € MU) sono spesso **round-trip sulla stessa tratta** FCO↔KIX — per il ritorno da Tokyo il prezzo può differire.
+> ℹ️ **Open-jaw confermato:** andata su KIX, ritorno da Tokyo/HND — come da voli China Eastern prenotati.
 
 ---
 
@@ -96,7 +121,8 @@ tags:
 
 | Opzione | Notti | Andata | Ritorno | **TOTALE A/R** | vs Originale |
 |---|---|---|---|---|---|
-| **29 ott → 9 nov (MU)** 🏆 | 10 | — | — | **~938 €** *(da confermare open-jaw)* | **−584 €** |
+| **23 ott → 6 nov (MU) ✅ PRENOTATO** 🏆 | 13 | 575,54 € | 520,79 € | **~1.096 €** | **−426 €** |
+| **29 ott → 9 nov (MU)** | 10 | — | — | ~938 € *(stima Skyscanner)* | −584 € |
 | **27 ott → 8 nov** ⭐ | 11 | 696 € (KL) | 670 € (QR) | **~1.366 €** | −156 € |
 | **27 ott → 9 nov** ⭐ | 12 | 696 € (KL) | 670 € (QR) | **~1.366 €** | −156 € |
 | 27 ott → 7 nov | 10 | 696 € (KL) | 617 € (QR) | **~1.313 €** | −209 € |
@@ -110,19 +136,20 @@ tags:
 
 > ℹ️ **Notti** = notti in Giappone (dal giorno di arrivo al giorno prima del ritorno).
 > I prezzi del ritorno usano il QR **670 €** (scalo breve Doha 3h40) — non i 590 € con scali lunghi.
+> 🏆 **La combinazione prenotata (23 ott → 6 nov MU, 1.096 €) è la migliore tra quelle verificate.**
 
 ---
 
 ## 🎯 Conclusioni
 
-1. **🏆 Migliore in assoluto: China Eastern 29 ott → 9 nov ~938 €/pax** — ma è un **round-trip FCO↔KIX** (Skyscanner). **Da confermare** se esiste come open-jaw (ritorno da Tokyo) o se si chiude il giro a Osaka.
-2. **Migliore confermata (open-jaw): 27 ott → 8/9 nov = ~1.366 €/pax** (KL 696 + QR 670) — risparmio ~156 € vs originale.
+1. **🏆 PRENOTATO: China Eastern 23 ott → 6 nov = ~1.096 €/pax** (open-jaw FCO→KIX + HND→FCO, via Shanghai) — ottimo prezzo.
+2. **Migliore alternativa (se non MU): 27 ott → 8/9 nov = ~1.366 €/pax** (KL 696 + QR 670) — risparmio ~156 € vs originale.
 3. **Andata più economica: 27 ottobre (KLM 696 €, Amsterdam 1h30).**
 4. **Ritorno più economico con scalo breve: 8/9 novembre (Qatar 670 €, Doha 3h40).** I 590 € hanno scali di 10h+.
 5. **Il ritorno da Tokyo (QR 617-670 €) è più economico che da KIX (~770-850 €)** — conferma la scelta di chiudere il giro a Tokyo.
 6. ⚠️ **MU (China Eastern) e HU (Hainan) vanno verificate su Skyscanner/Trip.com** — Google non ne espone i prezzi via API.
 
-> ⚠️ **Impatto sul budget:** con **MU 938 €** (se confermato open-jaw) il volo rientra nel budget 800-1.000 €. Con KL+QR (1.366 €) sarebbe sopra di ~366 €.
+> ✅ **Budget voli confermato:** il volo MU prenotato (1.096 €) è leggermente sopra il target iniziale 800-1.000 € ma resta la miglior opzione tra tutte quelle verificate.
 
 ---
 

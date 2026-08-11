@@ -4,14 +4,14 @@ destination: Japan
 durata_giorni: 15
 durata_notti: 14
 data_partenza: "2026-10-23"
-data_ritorno: "2026-11-07"
+data_ritorno: "2026-11-06"
 status: pianificato
 autori:
   - Lorenzo
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "2.555-2.755 €/persona"
+budget_totale_stimato: "2.766-2.876 €/persona"
 tags:
   - itinerario
   - japan
@@ -20,12 +20,39 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** Pianificazione completa — ✅ alloggi prenotati, ❌ voli e attività da prenotare
+> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · ❌ attività da prenotare
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
-# Giappone 2026 — 23 Ottobre (partenza) · 7 Novembre
+# Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
 
 Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni / 14 notti
+
+## 🎫 Voli Prenotati — China Eastern (09/08/26, tot. 3.289 € / 3 pax)
+
+| Tratta | Data | Orari | Volo | Costo/pax |
+|---|---|---|---|---|
+| 🛫 **Andata** FCO → KIX | 23 Ott | 21:10 → 24 Ott 21:00 | MU788 + FM3051 (via PVG) · **16h50** | 575,54 € |
+| 🛬 **Ritorno** HND → FCO | 6 Nov | 08:40 → 18:15 | MU576 + MU787 (via PVG) · **17h35** | 520,79 € |
+| **Totale A/R** | | | | **1.096,33 €** |
+
+### ✈️ Andata — Viaggio 1 (23→24 Ott, 16h50)
+
+| Volo | Compagnia | Tratta | Orari | Durata |
+|---|---|---|---|---|
+| **MU788** | China Eastern | Roma FCO → Shanghai PVG | 23/10 21:10 → 24/10 14:40 | 11h30 |
+| ⏳ **Cambio a Shanghai (PVG)** | | | 2h45 | |
+| **FM3051** | Shanghai Airlines (operato MU) | Shanghai PVG → Osaka KIX | 17:25 → 21:00 | 2h35 |
+
+### ✈️ Ritorno — Viaggio 2 (6 Nov, 17h35)
+
+| Volo | Compagnia | Tratta | Orari | Durata |
+|---|---|---|---|---|
+| **MU576** | China Eastern | Tokyo HND → Shanghai PVG | 08:40 → 11:05 | 3h25 |
+| ⏳ **Cambio a Shanghai (PVG)** | | | 1h35 | |
+| **MU787** | China Eastern | Shanghai PVG → Roma FCO | 12:40 → 18:15 | 12h35 |
+
+> ✅ **Pagato con Mastercard Debit** — ordine 09/08/26 · Rebecca/Davide/Lorenzo · Economy
+> ⚠️ **Rebecca:** pasto speciale prenotato (no soia, no pesce, no crostacei, no frutta secca) — verificare all'imbarco e sugli scali PVG
 
 ```mermaid
 flowchart LR
@@ -88,7 +115,8 @@ gantt
     Ultimo giorno          :2026-11-06, 1d
 
     section ✈️ Ritorno
-    Margine + Volo         :2026-11-07, 1d
+    Volo HND→FCO 08:40      :2026-11-06, 1d
+    Rientro a casa           :2026-11-07, 1d
 ```
 
 ## Budget Trend
@@ -118,7 +146,7 @@ xychart-beta
 | [[Nara (奈良市)]] (half day) | 0.5 | — | 29 Ott |
 | [[Kyoto(京都)]] | 3 | 3 | 29 Ott – 1 Nov |
 | [[Tokyo(東京)]] | 6 | 5 | 1–6 Nov |
-| Ritorno Italia | — | — | 6–7 Nov |
+| Ritorno Italia | — | — | 6 Nov |
 
 ---
 
@@ -184,7 +212,7 @@ xychart-beta
 | 15 | 7 Nov | 15 € | 15 € | — | 30 € |
 | **TOT** | | **~435 €** | **~235 €** | **~230 €** | **~880 €** |
 
-+ Volo A/R ~900 € + Alloggio ~380 € (incl. 1 notte Izumisano) + Spese personali ~400 € = **~2.560 € totali**
++ Volo A/R 1.096 € (PRENOTATO) + Alloggio ~380 € (incl. 1 notte Izumisano) + Spese personali ~400 € = **~2.756 € totali**
 
 ### Alloggi
 
@@ -230,6 +258,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 - 🅿 **PIANO B:** Se il volo è in ritardo, nessun impatto — il giorno 2 è volutamente leggero
 
 **Sabato 24 — Arrivo a KIX:**
+- 🛬 **Volo prenotato:** MU788 (FCO→PVG 11h30) + FM3051 (PVG→KIX 2h35) · cambio a Shanghai 2h45 · arrivo KIX **21:00**
 - Ritira **[[Icoca]]** alle macchinette JR in aeroporto (o carica Suica digitale)
 - [[E-sim panoramica delle disponibili\|eSIM]] — attivala subito all'arrivo
 - **Nankai Airport Express** → [[Osaka(大阪市)#Izumisano|Izumisano]] (~8-10 min, ¥520)
@@ -570,9 +599,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 **Difficoltà:** 2/4 · **Budget:** ~55 € · **Meteo:** 14–18°C, 20% pioggia
 
-**Mattina (opzionale):**
+**Mattina:**
+- [[Palazzo Imperiale di Tokyo (皇居)]] #4/5 🟢 (9:00–11:15, GRATIS) — tour guidato del palazzo, giardini orientali (**giovedì = APERTO**)
+- ⚪ Ultimi acquisti: [[Ginza (銀座)]] #1/5 🟢 (se si vuole)
 - ⚪ [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — solo chi si sveglia presto. Colazione di sushi per Lorenzo&Davide, frutta fresca e konbini per Rebecca
-- ⚪ Riposo o passeggiata nel quartiere
 
 **Pomeriggio | TeamLab Planets:**
 - Yurikamome monorotaia da Shimbashi → Toyosu (~15 min, ¥330)
@@ -598,53 +628,47 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) via Dubai/Doha
 
 ---
 
-## Giorno 14 — Venerdì 6 Novembre — Tokyo: Ultimo Giorno + Partenza
-
-**Difficoltà:** 2/4 · **Budget:** ~92 € · **Meteo:** 14–18°C, 20% pioggia
-
-**Cibo oggi — Alternative:**
-- 🅰️ **Colazione Lorenzo&Davide:** [[Mercato del pesce di Tsukiji (築地場外市場)]] — sushi fresco al banco (¥1.000–3.000)
-- 🅱️ **Colazione Rebecca:** konbini — yogurt bianco, mela/pera ✅ (niente banana/kiwi/arancia)
-- 🅲 **Pranzo ultimo:** [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu, ¥1.000–1.500)
-- 🅳 **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|bills]] (Ginza, pancake ✅)
-- 🅴 **Cena tutti:** [[Mangiare in Giappone#Depachika|depachika Daimaru Tokyo Station]] (bento di qualità da portare sul volo) · aeroporto (¥1.000–2.000)
-- 🅵 **Rebecca cena:** volo — **pasto speciale prenotato** (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
-
-**Mattina:**
-- [[Palazzo Imperiale di Tokyo (皇居)]] #4/5 🟢 (9:00–11:15, GRATIS) — tour guidato del palazzo, giardini orientali
-- Ultimi acquisti: [[Ginza (銀座)]] #1/5 🟢 o [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (se non fatto)
-
-**Pomeriggio:**
-- 🟢 **Rientro hotel → preparazione bagagli**
-- *Spostamento aeroporto:* Narita Express (~60 min, ¥3.000+) o bus (~90 min, ¥1.200)
-
-**Sera/Notte:**
-- Volo ritorno Tokyo → Italia
-
-🅿 **PIANO B:** Se partite il 7 mattina (non sera), avete la giornata intera libera il 6 — suggerito [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]] #1/5 🟡 DA PRENOTARE
-
----
-
-## Giorno 15 — Sabato 7 Novembre — Margine
+## Giorno 14 — Venerdì 6 Novembre — Partenza da Tokyo (volo MU 08:40)
 
 **Difficoltà:** 1/4 · **Budget:** ~30 €
 
-Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o zona Shibuya/[[Parco di Ueno (上野恩賜公園)]]. Se già rientrati, niente.
+> 🛫 **Volo prenotato:** MU576 (HND→PVG 3h25) + MU787 (PVG→FCO 12h35) · cambio a Shanghai 1h35 · arrivo FCO **18:15**
+
+**Mattina presto (sveglia ~04:30-05:00):**
+- Check-out hotel (preparare i bagagli la sera prima)
+- **Trasferimento aeroporto:** Narita Express o bus per HND/NRT — arrivare ~2h prima (06:30)
+- Imbarco e volo
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Colazione:** [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (colazione ¥300–500) · konbini (onigiri, yogurt) · volo (pasto speciale)
-- 🅱️ **Rebecca:** colazione konbini/volo (pasto speciale). Pranzo aeroporto (konbini — riso bianco, yogurt, frutta sicura). Cena: **a casa in Italia** 🎉
+- 🅰️ **Colazione:** konbini (onigiri, yogurt) · aeroporto (¥500-1.000)
+- 🅱️ **Rebecca:** konbini/volo — **pasto speciale prenotato** (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
+- 🅲 **Pranzo in scalo (PVG):** konbini/ristorante — per Rebecca: riso bianco, frutta sicura, yogurt
+- 🅳 **Cena:** a casa in Italia 🎉
+
+**Sera:**
+- Arrivo FCO 18:15 · rientro a casa
+
+🅿 **PIANO B (volo in ritardo):** lo scalo a Shanghai/PVG assorbe eventuali ritardi del primo segmento
+
+---
+
+## Giorno 15 — Sabato 7 Novembre — Rientro 🏠
+
+**Difficoltà:** 1/4 · **Budget:** 0 €
+
+Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività pianificata — recupero del sonno e riorganizzazione.
 
 ---
 
 ## Monitoraggio Voli e Prenotazioni
 
-> 🎯 **Obiettivo:** Prenotare tutto entro **inizio Agosto 2026**. Da oggi (11 Lug) controllare prezzi voli ogni 2 giorni.
+> 🎯 **STATO: VOLI PRENOTATI (09/08/26)** — China Eastern open-jaw, 1.096,33 €/pax.
 
-### Calendario Monitoraggio
+### Calendario Monitoraggio (storico)
 
-| Data | Stato | 🛫 Andata FCO→KIX 23-24 Ott | 🛬 Ritorno TYO→FCO 6-7 Nov | 💰 TOT A/R | 📎 Fonti |
+| Data | Stato | 🛫 Andata FCO→KIX 23-24 Ott | 🛬 Ritorno TYO→FCO 6 Nov | 💰 TOT A/R | 📎 Fonti |
 |---|---|---|---|---|---|
+| **09 Ago** | 🔵 | **PRENOTATO** — China Eastern MU788+FM3051 (21:10→21:00) | **PRENOTATO** — China Eastern MU576+MU787 (08:40→18:15) | **1.096,33 €/pax** (3.289 € tot) | Ordine CE 09/08/26 |
 | 11 Lug | ✅ | **€290-600** · China Eastern via PVG (15h, da €290) · Finnair via HEL (18h) · Emirates via DXB (16h, da €450) | **€250-750** · Finnair via HEL (17h40, da €250) · KLM via AMS (17h30, da €270) · ITA **diretto** HND→FCO (14h45, €550-750) | **~€650-1.100** | [Rome2Rio FCO→KIX](https://www.rome2rio.com/s/Rome/Osaka) · [Rome2Rio TYO→FCO](https://www.rome2rio.com/s/Tokyo/Rome) |
 | 13 Lug | ✅ | **€685 reale** — Etihad via AUH→NRT (18h10) · **€804** LOT via WAW→NRT (16h20) · **€838** EgyptAir (17h10) · **€863** Qatar via DOH (18h45) · **€901** Turkish (17h15) — tutti sotto 21h. **Attenzione:** arrivano a TYO, non KIX. Da TYO a Osaka: Shinkansen ~2,5h + ~€81 | **€601 reale** 🏆 — Qatar Airways via DOH (HND→FCO, 20h05 ✅) · **€664** Asiana via ICN (NRT→FCO) · **€740** Emirates via DXB | **~€685-601 = ~€1.286** | Fonte: [Google Flights FCO→TYO 23 Ott](https://www.google.com/travel/flights?q=Roma+a+Tokyo+23+ottobre+2026+one+way) + [Google Flights TYO→FCO 6 Nov](https://www.google.com/travel/flights?q=flights+from+tokyo+to+rome+on+2026-11-06+one+way) |
 | 15 Lug | ⬜ | — | — | — | — |
@@ -659,8 +683,8 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | 1-3 Ago 🎯 | ⬜ | **Target: €300-500** · 1 scalo (DXB, DOH, IST) · max 20h totali | **Target: €300-500** · ITA diretto se ~€500, Finnair/KLM se <€350 | **Target: €700-1.000** | Controllare: Skyscanner, Momondo, Google Flights |
 
 **Criteri volo:**
-- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), **partenza 23 sera, arrivo 24 Ottobre**. **NON diretto** — 1 scalo (Dubai, Doha, Istanbul). Durata: ~16-20h totali. **Evitare scali lunghi >6h che portano a 24-30h totali.** Notte del 24 a Izumisano.
-- 🛬 **Ritorno:** Tokyo (HND) → Roma (FCO), partenza 6-7 Novembre. **DIRETTO ITA disponibile** (~13h) oppure 1 scalo economico (Dubai/Doha, ~16-18h).
+- 🛫 **Andata:** Roma (FCO) → Osaka (KIX), **prenotata 23 sera 21:10** (China Eastern via Shanghai, arrivo 24 ~21:00). Notte del 24 a Izumisano.
+- 🛬 **Ritorno:** Tokyo (HND) → Roma (FCO), **prenotato 6 Nov 08:40** (China Eastern via Shanghai, arrivo 18:15).
 - 💰 **Target prezzo:** 800–1.000 €/persona A/R
 - ✅ **Rebecca:** pasto speciale obbligatorio (no soia, no pesce, no crostacei, no frutta secca)
 - 🔍 **Skyscanner, Momondo, Google Flights** con alert di prezzo per tratte separate
@@ -676,11 +700,11 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.555–2.755 €/persona · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.766–2.876 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce | Stima | Reale | Delta | Note |
 |---|---|---|---|---|
-| Volo A/R | 800–1.000 € | ❌ Da prenotare | — | **Partenza 23 sera** → arrivo KIX 24 |
+| Volo A/R | 1.096 € | 🔵 **PRENOTATO** | — | China Eastern open-jaw: FCO→KIX 23/10, HND→FCO 6/11 (09/08/26) |
 | Alloggio (14 notti, camera/3) | ~380 € | ✅ Calcolato | — | Izumisano ✅ + Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati
 | Cibo (15 gg × ~30 €) | ~435 € | ❌ Da tenere traccia | — | Rebecca cucina = risparmio |
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € | ❌ Da acquistare | — | — |
@@ -690,7 +714,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Spese personali | ~400 € | ❌ Da tenere traccia | — | Souvenir, extra |
 | Assicurazione (Heymondo Premium) | ~27 €/persona | ❌ Da stipulare | — | Vedi |Assicurazione Heymondo| |
 | eSIM 15gg | ~15–25 € | ❌ Da comprare | — | Klook o Airalo |
-| **TOTALE** | **~2.555–2.755 €** | **❌ Da compilare** | — | — |
+| **TOTALE** | **~2.751–2.851 €** | **🔵 Voli prenotati** | — | — |
 
 ### Budget Rebecca (extra cibo)
 
@@ -706,7 +730,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 | Voce | Stima |
 |---|---|
-| Volo A/R | 800–1.000 € |
+| Volo A/R (China Eastern, open-jaw) | 1.096 € |
 | Alloggio (14 notti, camera condivisa/3) | ~380 € |
 | Cibo (15 gg × ~30 €) | ~435 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~99 € |
@@ -714,7 +738,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 | Trasporti locali (15 gg × ~10 €) | ~145 € |
 | Attrazioni (USJ, SkyTree, TeamLab, templi…) | ~230 € |
 | Spese personali | ~400 € |
-| **TOTALE** | **~2.570–2.770 €** |
+| **TOTALE** | **~2.766–2.876 €** |
 
 ---
 
@@ -722,7 +746,7 @@ Giorno cuscinetto. Se partenza è il 7, si ha la mattina per ultimi acquisti o z
 
 | Cosa | Da fare entro | Stato | Note |
 |---|---|---|---|
-| Volo A/R Roma→KIX (partenza **23 sera**, arrivo 24 ott) / NRT→Roma | **URGENTE** | ❌ Da prenotare | Cerca su Skyscanner, Momondo. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
+| Volo A/R Roma→KIX (23/10, 21:10) / HND→Roma (6/11, 08:40) | ✅ **FATTO** | 🔵 **PRENOTATO** | China Eastern MU788+FM3051 / MU576+MU787 — 1.096,33 €/pax. **Pasto speciale Rebecca (no soia, no pesce, no crostacei, no frutta secca)** |
 | Alloggio Izumisano 1 notte (24–25 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]] — kitchenette ✅, self check-in |
 | Alloggio Osaka 4 notti (25–29 ott) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] — angolo cottura ✅ |
 | Alloggio Kyoto 3 notti (29 ott–1 nov) | ✅ **FATTO** | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅ |

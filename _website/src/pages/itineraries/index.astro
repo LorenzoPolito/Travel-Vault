@@ -2,7 +2,7 @@
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
 import Icon from '../../components/Icon.astro';
-import { R, url, slugToName } from '../../constants';
+import { R, url, PRETTY_NAMES, slugToName } from '../../constants';
 import { getActiveItinerary, getOtherItineraries } from '../../data';
 
 const [activeItin, otherItins] = await Promise.all([
@@ -27,23 +27,33 @@ const $ = (p: string) => url(base, p);
         <p>{activeItin ? otherItins.length + 1 : otherItins.length} itinerari{activeItin ? ' — 1 attivo' : ''}</p>
       </div>
 
-      {activeItin && (
-        <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain mb-2xl">
-          <div class="featured-glow"></div>
-          <div class="featured-badge"><Icon name="active" size={10} class="icon-tag" /> Viaggio Attivo — Giappone 2026</div>
-          <div class="featured-content">
-            <h3 class="card-title" style="font-size: 1.5rem;">Giappone 2026 — 23 Ott · 6 Nov</h3>
-            <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
-            <div class="card-meta">
-              <span class="tag tag--success">attivo</span>
-              <span class="tag">Giappone</span>
-              <span class="tag tag--info">15 giorni</span>
-              <span class="tag"><Icon name="users" size={14} class="icon-tag" /> Lorenzo, Davide, Rebecca</span>
-              <span class="tag"><Icon name="coin" size={14} class="icon-tag" /> ~2.936 €/pax</span>
+      {activeItin && (() => {
+        const name = PRETTY_NAMES[activeItin.id.replace(/\.md$/, '')] || slugToName(activeItin.id);
+        const percorso = activeItin.data.percorso || '';
+        const cities = percorso ? percorso.split('→').filter((s: string) => !/roma|kix/i.test(s)).map((s: string) => s.trim()) : [];
+        const durata = activeItin.data.durata_giorni
+          ? `${activeItin.data.durata_giorni} giorni${activeItin.data.durata_notti ? `, ${activeItin.data.durata_notti} notti` : ''}`
+          : activeItin.data.durata || '';
+        const autori = activeItin.data.autori?.join(', ') || '';
+        const budget = activeItin.data.budget_totale_stimato || '';
+        return (
+          <a href={$(R.itinerary(activeItin.id))} class="card card--featured animate-in a--plain mb-2xl">
+            <div class="featured-glow"></div>
+            <div class="featured-badge"><Icon name="active" size={10} class="icon-tag" /> Viaggio Attivo — {activeItin.data.destination || name}</div>
+            <div class="featured-content">
+              <h3 class="card-title" style="font-size: 1.5rem;">{name}</h3>
+              <p class="featured-desc">{cities.length > 0 ? cities.join(' → ') : ''} {durata ? `· ${durata}` : ''}</p>
+              <div class="card-meta">
+                <span class="tag tag--success">attivo</span>
+                {activeItin.data.destination && <span class="tag">{activeItin.data.destination}</span>}
+                {activeItin.data.durata_giorni && <span class="tag tag--info">{activeItin.data.durata_giorni} giorni</span>}
+                {autori && <span class="tag"><Icon name="users" size={14} class="icon-tag" /> {autori}</span>}
+                {budget && <span class="tag"><Icon name="coin" size={14} class="icon-tag" /> {budget}</span>}
+              </div>
             </div>
-          </div>
-        </a>
-      )}
+          </a>
+        );
+      })()}
 
       {otherItins.length > 0 && (
         <>

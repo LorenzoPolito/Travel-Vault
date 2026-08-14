@@ -1,14 +1,14 @@
 ---
 import Base from '../../../layouts/Base.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
-import { R, url, slugToName, starsFromRating, getCategoryEmoji, getDestinationEmoji } from '../../../constants';
+import { R, url, slugToName, starsFromRating, getCategoryEmoji, getDestinationEmoji, destSlug } from '../../../constants';
 import { getLocationsByDest, getItinerariesByDest } from '../../../data';
 
 export async function getStaticPaths() {
   const { getDestinations } = await import('../../../data');
   const dests = await getDestinations();
   return dests.map(dest => ({
-    params: { dest: dest.toLowerCase() },
+    params: { dest: destSlug(dest) },
     props: { destination: dest },
   }));
 }

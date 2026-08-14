@@ -2,7 +2,7 @@
 import { getCollection, render } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Breadcrumbs from '../../components/Breadcrumbs.astro';
-import { R, url, slugToName, starsFromRating, getTypeEmoji } from '../../constants';
+import { R, url, slugToName, starsFromRating, getTypeEmoji, destSlug } from '../../constants';
 
 export async function getStaticPaths() {
   const entries = await getCollection('locations');
@@ -31,7 +31,7 @@ const ratingStars = entry.data.rating ? starsFromRating(entry.data.rating) : '';
           { label: 'Destinazioni', href: R.destinations },
         ];
         if (entry.data.destination) {
-          items.push({ label: entry.data.destination, href: R.destination(entry.data.destination.toLowerCase()) });
+          items.push({ label: entry.data.destination, href: R.destination(destSlug(entry.data.destination)) });
         }
         items.push({ label: displayName });
         return items;

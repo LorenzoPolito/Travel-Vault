@@ -93,7 +93,7 @@ export async function getActiveItinerary() {
 /** Itinerari non attivi */
 export async function getOtherItineraries() {
   const [all, active] = await Promise.all([getItineraries(), getActiveItinerary()]);
-  return active ? all.filter((i: any) => i !== active) : all;
+  return active ? all.filter((i: any) => i.id !== active.id) : all;
 }
 
 /** Filtra locations per destinazione */

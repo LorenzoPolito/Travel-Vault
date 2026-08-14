@@ -1,9 +1,12 @@
 ---
+type: city
+destination: Japan
 locations:
   - Hiroshima
 tags:
   - city
   - map
+  - japan
 ---
 
 

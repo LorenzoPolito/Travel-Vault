@@ -2,7 +2,7 @@
 import Icon from '../components/Icon.astro';
 import EmptyState from '../components/EmptyState.astro';
 import CountryImage from '../illustrations/CountryImage.astro';
-import { R, url, extractCoverImage, slugToName, getDestTheme } from '../constants';
+import { R, url, PRETTY_NAMES, extractCoverImage, slugToName, getDestTheme } from '../constants';
 
 interface Itinerary {
   id: string;
@@ -31,18 +31,22 @@ const $ = (p: string) => url(base, p);
 
     {active && (() => {
       const durata = active.data.durata_giorni ? `${active.data.durata_giorni} giorni` : active.data.durata || '';
+      const percorso = active.data.percorso || '';
+      const cities = percorso ? percorso.split('→').filter((s: string) => !/roma|kix/i.test(s)).map((s: string) => s.trim()) : [];
+      const autori = active.data.autori?.join(', ') || '';
+      const name = PRETTY_NAMES[active.id.replace(/\.md$/, '')] || slugToName(active.id);
       return (
         <a href={$(R.itinerary(active.id))} class="card card--featured animate-in a--plain mb-2xl">
           <div class="featured-glow"></div>
           <div class="featured-badge"><Icon name="active" size={10} class="icon-tag" /> Viaggio Attivo</div>
           <div class="featured-content">
-            <h3 class="card-title" style="font-size: 1.6rem;">Giappone 2026 — 23 Ott · 6 Nov</h3>
-            <p class="featured-desc">Osaka → Hiroshima → Nara → Kyoto → Tokyo · 15 giorni, 14 notti</p>
+            <h3 class="card-title" style="font-size: 1.6rem;">{name}</h3>
+            <p class="featured-desc">{cities.length > 0 ? cities.join(' → ') : ''} {durata ? `· ${durata}` : ''}</p>
             <div class="card-meta">
               <span class="tag tag--success">attivo</span>
-              <span class="tag">Giappone</span>
+              {active.data.destination && <span class="tag">{active.data.destination}</span>}
               <span class="tag tag--info">{durata}</span>
-              <span class="tag"><Icon name="users" size={14} class="icon-tag" /> Lorenzo, Davide, Rebecca</span>
+              {autori && <span class="tag"><Icon name="users" size={14} class="icon-tag" /> {autori}</span>}
             </div>
           </div>
         </a>

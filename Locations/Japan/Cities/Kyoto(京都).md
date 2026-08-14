@@ -1,9 +1,12 @@
 ---
+type: city
+destination: Japan
 locations:
   - Kyoto
 tags:
   - city
   - map
+  - japan
 ---
 
 ```leaflet

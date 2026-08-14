@@ -1,6 +1,6 @@
 ---
 import EmptyState from '../components/EmptyState.astro';
-import { R, url, getDestinationEmoji } from '../constants';
+import { R, url, getDestinationEmoji, destSlug } from '../constants';
 
 interface Props {
   destinations: string[];
@@ -29,7 +29,7 @@ const destEmoji = (d: string) => getDestinationEmoji(d);
           const destItineraries = itineraries.filter((i: any) => i.data.destination === dest);
           const destCities = destLocations.filter((l: any) => l.data.type === 'city');
           return (
-            <a href={$(R.destination(dest.toLowerCase()))} class="card animate-in a--plain">
+            <a href={$(R.destination(destSlug(dest)))} class="card animate-in a--plain">
               <div class="card-emoji">{destEmoji(dest)}</div>
               <h3 class="card-title">{dest}</h3>
               <p class="card-description">

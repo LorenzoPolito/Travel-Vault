@@ -4,7 +4,7 @@ import Icon from '../components/Icon.astro';
 import HomeItineraries from '../sections/HomeItineraries.astro';
 import HomeDestinations from '../sections/HomeDestinations.astro';
 import HomeGuides from '../sections/HomeGuides.astro';
-import { R, url } from '../constants';
+import { R, url, PRETTY_NAMES, slugToName } from '../constants';
 import { getDestinations, getLocations, getItineraries, getInfo, getCities, getActiveItinerary, getOtherItineraries } from '../data';
 
 const [locations, itineraries, infoEntries, cities, activeItin, otherItins, destinations] = await Promise.all([
@@ -24,12 +24,15 @@ const $ = (p: string) => url(base, p);
 <Base title="Home">
   <section class="hero">
     <div class="container">
-      {activeItin && (
-        <div class="hero-badge animate-in">
-          <span class="badge-dot"></span>
-          Viaggio attivo: Giappone 2026 — 23 Ott · 6 Nov
-        </div>
-      )}
+      {activeItin && (() => {
+        const name = PRETTY_NAMES[activeItin.id.replace(/\.md$/, '')] || slugToName(activeItin.id);
+        return (
+          <div class="hero-badge animate-in">
+            <span class="badge-dot"></span>
+            Viaggio attivo: {name}
+          </div>
+        );
+      })()}
       <h1>Esplora il mondo con<br/><span class="text-gradient">Travel-Vault</span></h1>
       <p class="hero-subtitle">
         {destinations.length} destinazioni, {cities.length} città, {locations.length} luoghi da scoprire —

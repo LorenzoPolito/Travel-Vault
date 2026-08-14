@@ -69,6 +69,12 @@ export function getDestinationEmoji(dest: string): string {
   return DEST_EMOJI[dest.toLowerCase()] || '🌍'
 }
 
+/** Canonical URL slug per una destinazione (es. "New York" → "newyork").
+ *  Usare SEMPRE per generare path destinazione, mai dest.toLowerCase() diretto. */
+export function destSlug(dest: string): string {
+  return dest.toLowerCase().replace(/\s+/g, '')
+}
+
 export function getTypeEmoji(type: string | undefined | null): string {
   if (!type) return '📍'
   return TYPE_EMOJI[type.toLowerCase()] || '📍'

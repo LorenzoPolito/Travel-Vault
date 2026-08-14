@@ -1,4 +1,5 @@
 import { getCollection } from 'astro:content';
+import { destSlug } from '../constants';
 
 export async function GET() {
   const locations = await getCollection('locations');
@@ -12,13 +13,12 @@ export async function GET() {
     `${siteUrl}/destinations/`,
     `${siteUrl}/itineraries/`,
     `${siteUrl}/guides/`,
-    `${siteUrl}/locations/`,
   ];
 
   const dests = new Set<string>();
   locations.forEach((l: any) => { if (l.data?.destination) dests.add(l.data.destination); });
   itineraries.forEach((i: any) => { if (i.data?.destination) dests.add(i.data.destination); });
-  dests.forEach((d: string) => pages.push(`${siteUrl}/destinations/${d.toLowerCase()}/`));
+  dests.forEach((d: string) => pages.push(`${siteUrl}/destinations/${destSlug(d)}/`));
 
   itineraries.forEach((i: any) => {
     const slug = i.id.replace(/\.md$/, '');

@@ -20,6 +20,13 @@ const EXCLUDED_FILES = [
   'Senza nome',
   'Lista dei Luoghi',
   'lista-dei-luoghi',
+  'Test per riferimento',
+];
+
+// Tipi frontmatter che NON vanno pubblicati come guide (ricerche web, note interne)
+const EXCLUDED_TYPES = [
+  'web_reference',
+  'web_reference_note',
 ];
 
 const URL_PREFIXES = {
@@ -222,6 +229,11 @@ function shouldExcludeFile(filePath) {
   );
 }
 
+function hasExcludedType(content) {
+  const typeMatch = content.match(/^type:\s*(\S+)/m);
+  return typeMatch && EXCLUDED_TYPES.includes(typeMatch[1].replace(/['"]/g, ''));
+}
+
 async function sync() {
   console.log('Syncing vault content to Astro...\n');
 
@@ -266,6 +278,11 @@ async function sync() {
       const content = await readFile(filePath, 'utf-8');
 
       if (!content.trim()) {
+        skipped++;
+        continue;
+      }
+
+      if (hasExcludedType(content)) {
         skipped++;
         continue;
       }

@@ -23,7 +23,7 @@ tags:
 
 **9 giorni / 8 notti** — 3 persone: Lorenzo, Davide, Rebecca
 
-Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
+Base: [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 
 ---
 
@@ -31,31 +31,31 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 
 | Giorno | Data | Zona | Sveglia | Passi |
 |:---|:---:|---|:---:|---:|
-| 1 | Ven 21 Ago | SoHo → Nolita → Greenwich Village → Hudson River | 15:30 arrivo | 8-10k |
-| 2 | Sab 22 Ago | East Village → Lower East Side → Williamsburg | 08:30 | 15-18k |
-| 3 | Dom 23 Ago | Roosevelt Island → Midtown → FiDi → Red Hook → DUMBO | 08:00 | 16-19k |
-| 4 | Lun 24 Ago | Central Park → AMNH → Upper East Side → 5th Ave | 09:00 | 15-18k |
-| 5 | Mar 25 Ago | Midtown → Top of the Rock → Harry Potter → McGee's | 09:30 | 14-16k |
-| 6 | Mer 26 Ago | Chelsea → High Line → Hudson Yards → ⛴ Circle Line | 09:30 | 12-14k |
+| 1 | Ven 21 Ago | [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] → [[Locations/UnitedStates/NewYork/Quartieri/Nolita|Nolita]] → [[Locations/UnitedStates/NewYork/Quartieri/Greenwich Village|Greenwich Village]] → Hudson River | 15:30 arrivo | 8-10k |
+| 2 | Sab 22 Ago | [[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]] → [[Locations/UnitedStates/NewYork/Quartieri/Lower East Side|Lower East Side]] → [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]] | 08:30 | 15-18k |
+| 3 | Dom 23 Ago | [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]] → Midtown → FiDi → [[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]] → [[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]] | 08:00 | 16-19k |
+| 4 | Lun 24 Ago | [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]] → AMNH → [[Locations/UnitedStates/NewYork/Quartieri/Upper East Side|Upper East Side]] → 5th Ave | 09:00 | 15-18k |
+| 5 | Mar 25 Ago | Midtown → [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]] → Harry Potter → McGee's | 09:30 | 14-16k |
+| 6 | Mer 26 Ago | [[Locations/UnitedStates/NewYork/Quartieri/Chelsea|Chelsea]] → [[Locations/UnitedStates/NewYork/Parchi/High Line|High Line]] → [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards|Hudson Yards]] → ⛴ [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]] | 09:30 | 12-14k |
 | 7 | Gio 27 Ago | ESB AM → Flatiron → Union Sq → SUMMIT → ESB PM | 10:00 | 12-14k |
 | 8 | Ven 28 Ago | Statua → WTC → Tribeca → tramonto Hudson | 07:30 | 15-18k |
-| 9 | Sab 29 Ago | Chinatown → Little Italy → SoHo → JFK | 08:00 | 8-10k |
+| 9 | Sab 29 Ago | [[Locations/UnitedStates/NewYork/Quartieri/Chinatown|Chinatown]] → [[Locations/UnitedStates/NewYork/Quartieri/Little Italy|Little Italy]] → [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] → JFK | 08:00 | 8-10k |
 
 ---
 
 ## 📌 Info Generali
 
 - **Fuso orario:** -6 ore rispetto all'Italia (Roma)
-- **Valuta:** Dollaro USA ($). Carte ovunque (contanti per JG Melon, Fried Dumpling)
+- **Valuta:** Dollaro USA ($). Carte ovunque (contanti per JG Melon, [[Locations/UnitedStates/NewYork/Ristoranti/Fried Dumpling|Fried Dumpling]])
 - **CityPASS New York:** ✅ **Acquistato** ($164/adulto × 3). 5 attrazioni (ESB AM/PM + AMNH + scegli 3). Valido 9 giorni. **Prenotazioni orario via app My CityPASS.** [citypass.com/new-york](https://www.citypass.com/new-york)
-- **Trasporti:** OMNY tap-to-pay. $2.90/corsa, cap settimanale $35. **NYC Ferry $4.50/corsa** (separato da OMNY). **Tram Roosevelt Island $3** (accetta OMNY)
+- **Trasporti:** OMNY tap-to-pay. $2.90/corsa, cap settimanale $35. **NYC Ferry $4.50/corsa** (separato da OMNY). **Tram [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]] $3** (accetta OMNY)
 - **eSIM / SIM:** Vedi [[Info/NewYork/eSIM]]
 - **Harry Potter Cursed Child:** ✅ Biglietti già acquistati — Lyric Theatre, 214 W 43rd St, Mar 25 Ago 19:00
-- **SUMMIT One Vanderbilt:** ✅ **Prenotato** — Gio 27 Ago ore **18:30** (⚠️ arrivare lì **30 min prima, alle 18:00**)
+- **[[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]]:** ✅ **Prenotato** — Gio 27 Ago ore **18:30** (⚠️ arrivare lì **30 min prima, alle 18:00**)
 - **Voli:** ✅ Già acquistati (Roma ↔ JFK, arr 14:00 21 Ago, part 20:30 29 Ago)
 - **Assicurazione:** ✅ Heymondo — già attiva
 
-### 🚇 Stazioni Metro di Riferimento (Hotel → SoHo 54)
+### 🚇 Stazioni Metro di Riferimento (Hotel → [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54)
 
 | Stazione | Linee | Distanza hotel | Direzione |
 |---|---|---|---|
@@ -72,8 +72,8 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 |---|---|---|
 | OMNY (9 giorni, ~20-25 corse) | ~$35-45 | Dopo 12 corse nei primi 7gg gratis ($35 cap) |
 | AirTrain JFK (A/R, $8.25 × 2) | $16.50 | Via Jamaica Station |
-| Tram Roosevelt Island ($3 × 2) | $6 | Accetta OMNY |
-| NYC Ferry Pier 11→Red Hook→DUMBO ($4.50 × 2) | $9 | Separato da OMNY |
+| Tram [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]] ($3 × 2) | $6 | Accetta OMNY |
+| NYC Ferry Pier 11→[[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]]→[[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]] ($4.50 × 2) | $9 | Separato da OMNY |
 | Taxi JFK→hotel + hotel→JFK (condiviso 3p) | ~$50/persona | ~$70-85 a tratta diviso 3 |
 | **TOTALE** | **~$117-127/persona** | |
 
@@ -104,14 +104,14 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | Giorno | Sveglia | Perché |
 |:---:|:---:|---|
 | 1 | — (arrivo 15:30) | Giornata di viaggio |
-| 2 | 08:30 | East Village + Williamsburg |
+| 2 | 08:30 | [[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]] + [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]] |
 | 3 | 08:00 | Tram + ferry + 2 quartieri Brooklyn |
-| 4 | 09:00 | Central Park + AMNH |
+| 4 | 09:00 | [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]] + AMNH |
 | 5 | 09:30 | Midtown + teatro la sera |
-| 6 | 09:30 | Chelsea + crociera sera |
+| 6 | 09:30 | [[Locations/UnitedStates/NewYork/Quartieri/Chelsea|Chelsea]] + crociera sera |
 | 7 | 10:00 | ESB doppio + SUMMIT |
 | 8 | 07:30 | Statua della Libertà (ferry) |
-| 9 | 08:00 | Chinatown + partenza |
+| 9 | 08:00 | [[Locations/UnitedStates/NewYork/Quartieri/Chinatown|Chinatown]] + partenza |
 
 > 🥵 **Pausa caldo:** nei giorni con partenza mattutina, prevedete comunque 1-2 ore di pausa AC tra le 14:00 e le 16:30 quando possibile.
 > 🌧️ **Pioggia:** si va comunque con k-way/ombrello — i temporali di agosto passano in 30-60 min.
@@ -127,8 +127,8 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | 2 | Sab 22 | $40 | $0 | $6 | ~$46 |
 | 3 | Dom 23 | $45 | $0 | $15 (tram+ferry+metro) | ~$60 |
 | 4 | Lun 24 | $40 | CP (AMNH) | $6 | ~$46 |
-| 5 | Mar 25 | $60 | CP (Top of the Rock) + HP ✅ | $6 | ~$66 |
-| 6 | Mer 26 | $45 | CP (Circle Line) | $6 | ~$51 |
+| 5 | Mar 25 | $60 | CP ([[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]]) + HP ✅ | $6 | ~$66 |
+| 6 | Mer 26 | $45 | CP ([[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]]) | $6 | ~$51 |
 | 7 | Gio 27 | $30 | $50 (SUMMIT) + CP (ESB) | $6 | ~$86 |
 | 8 | Ven 28 | $35 | CP (Statua) | $6 | ~$41 |
 | 9 | Sab 29 | $15 | $0 | $30 (taxi) | ~$45 |
@@ -136,7 +136,7 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 | 💰 Mance (~15% ristoranti) | | | | | **~$70** |
 | | | | | **TOTALE** | **~$556** |
 
-**Alloggio:** €550/persona (8 notti, SoHo 54 Hotel)
+**Alloggio:** €550/persona (8 notti, [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel)
 
 ---
 
@@ -146,31 +146,31 @@ Base: SoHo 54 Hotel (8 notti, €1.650 totale = ~€550/persona)
 
 **Difficoltà:** 🟢 Facile
 
-**Tema:** SoHo → Nolita → Greenwich Village → Hudson River
+**Tema:** [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] → [[Locations/UnitedStates/NewYork/Quartieri/Nolita|Nolita]] → [[Locations/UnitedStates/NewYork/Quartieri/Greenwich Village|Greenwich Village]] → Hudson River
 
 ### ✈️ 14:00 — Arrivo a JFK
 
 Controllo passaporti + bagagli (30-60 min) → **Taxi giallo** (consigliato per 3, $52-70 flat + pedaggi + mancia, 35-60 min) → hotel.
 
-### 🏨 15:30 — Check-in SoHo 54 Hotel
+### 🏨 15:30 — Check-in [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel
 
 Deposito bagagli, sistemazione, disfatta valigie.
 
-### 🚶 16:30 — SoHo
+### 🚶 16:30 — [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]]
 
 Passeggiata tra **Broadway**, **Prince St** e le strade del quartiere. 📸 Foto e shopping (la zona è letteralmente sotto l'hotel).
 
-### 🍩 17:15 — Dominique Ansel Bakery (189 Spring St)
+### 🍩 17:15 — [[Locations/UnitedStates/NewYork/Ristoranti/Dominique Ansel Bakery|Dominique Ansel Bakery]] (189 Spring St)
 
 **Cronut** ⭐ — l'inventore del cronut (croissant+donut). ⏱ coda 10-15 min. A 5 min da hotel.
 
-### 🏘️ 17:45 — Nolita
+### 🏘️ 17:45 — [[Locations/UnitedStates/NewYork/Quartieri/Nolita|Nolita]]
 
 Passeggiata per le viuzze (Elizabeth St, Mott St). Boutique e street art.
 
-### 🌳 18:15 — Washington Square Park (Greenwich Village)
+### 🌳 18:15 — [[Locations/UnitedStates/NewYork/Parchi/Washington Square Park|Washington Square Park]] ([[Locations/UnitedStates/NewYork/Quartieri/Greenwich Village|Greenwich Village]])
 
-L'arco, la fontana, i musicisti. 🚶 15 min da Nolita. Uno dei luoghi più iconici del Village.
+L'arco, la fontana, i musicisti. 🚶 15 min da [[Locations/UnitedStates/NewYork/Quartieri/Nolita|Nolita]]. Uno dei luoghi più iconici del Village.
 
 ### 🍕 19:00 — Cena (da dividere)
 
@@ -179,13 +179,13 @@ L'arco, la fontana, i musicisti. 🚶 15 min da Nolita. Uno dei luoghi più icon
 
 ### 🌇 20:00 — Passeggiata verso Hudson River Park
 
-Attraversate Greenwich Village verso ovest fino al fiume.
+Attraversate [[Locations/UnitedStates/NewYork/Quartieri/Greenwich Village|Greenwich Village]] verso ovest fino al fiume.
 
 ### 🌅 20:30 — Tramonto al Pier 34
 
 **Pier 34** (Hudson River Park, a Canal St/Tribeca) — pontile panoramico silenzioso con vista sulla Holland Tunnel ventilation building. Bellissimo al tramonto.
 
-### 🏨 21:30 — Rientro al SoHo 54
+### 🏨 21:30 — Rientro al [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54
 
 🚶 15 min a piedi lungo Hudson St.
 
@@ -195,60 +195,60 @@ Attraversate Greenwich Village verso ovest fino al fiume.
 
 **Difficoltà:** 🔵 Impegnativo
 
-**Tema:** East Village → Lower East Side → Williamsburg
+**Tema:** [[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]] → [[Locations/UnitedStates/NewYork/Quartieri/Lower East Side|Lower East Side]] → [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]]
 
 ### ☕ 08:30 — Sveglia e colazione
 
-🅰️ **Coffee + snack veloce** in zona East Village.
+🅰️ **Coffee + snack veloce** in zona [[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]].
 🅱️ **Liberty Bagels** (Greenwich Ave) — 🚶 10 min dall'hotel.
 
-### 🚇 09:30 — Verso East Village
+### 🚇 09:30 — Verso [[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]]
 
 **Route:** 🚶 8 min → Spring St → **6 train** (uptown) → Astor Pl (8 min). ⏱ ~18 min.
 
-### 🌳 10:00 — Tompkins Square Park
+### 🌳 10:00 — [[Locations/UnitedStates/NewYork/Parchi/Tompkins Square Park|Tompkins Square Park]]
 
-Il cuore verde dell'East Village (memoriale di John Lennon al viale nord).
+Il cuore verde dell'[[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]] (memoriale di John Lennon al viale nord).
 
-### 🎸 10:30 — St. Mark's Place
+### 🎸 10:30 — [[Locations/UnitedStates/NewYork/Attrazioni/St. Mark's Place|St. Mark's Place]]
 
 La strada storica dello punk rock: tatuaggi, piercing, negozi vintage.
 
-### 📍 11:00 — Astor Place + Cooper Square
+### 📍 11:00 — [[Locations/UnitedStates/NewYork/Attrazioni/Astor Place|Astor Place]] + Cooper Square
 
-L'Alamo Cube (cubo nero rotante), Astor Place Theatre, **Cooper Union**.
+L'Alamo Cube (cubo nero rotante), [[Locations/UnitedStates/NewYork/Attrazioni/Astor Place|Astor Place]] Theatre, **Cooper Union**.
 
 ### 🚶 11:20 — First Avenue → Alphabet City
 
 Camminata lungo First Ave verso l'Alphabet City (Avenues A, B, C).
 
-### 🍔 12:00-12:45 — Danny & Coop's (151 Avenue A)
+### 🍔 12:00-12:45 — [[Locations/UnitedStates/NewYork/Ristoranti/Danny & Coop's|Danny & Coop's]] (151 Avenue A)
 
-**Philly cheesesteak** ⭐ — il cheesesteak più famoso dell'East Village. ⚠️ Apre alle 12:00 — arrivate all'apertura. ⏱ coda 10-15 min.
+**Philly cheesesteak** ⭐ — il cheesesteak più famoso dell'[[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]]. ⚠️ Apre alle 12:00 — arrivate all'apertura. ⏱ coda 10-15 min.
 
-### 🏙️ 13:30 — Lower East Side
+### 🏙️ 13:30 — [[Locations/UnitedStates/NewYork/Quartieri/Lower East Side|Lower East Side]]
 
 Passeggiata su **Orchard St** → **Ludlow St** → **Essex St**: il quartiere delle gallerie, street art, negozi vintage ed esperienze culinarie.
 
-### 🥪 14:00-15:00 — Katz's Delicatessen (205 E Houston St)
+### 🥪 14:00-15:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Katzs Delicatessen|Katz's Delicatessen]] (205 E Houston St)
 
-**Pastrami sandwich** ⭐ — l'icona assoluta. ⏱ coda 15-25 min. ⚠️ Porzioni enormi: **dividete un sandwich in 2**. A 10 min a piedi dall'East Village.
+**Pastrami sandwich** ⭐ — l'icona assoluta. ⏱ coda 15-25 min. ⚠️ Porzioni enormi: **dividete un sandwich in 2**. A 10 min a piedi dall'[[Locations/UnitedStates/NewYork/Quartieri/East Village|East Village]].
 
-### 🚇 15:30 — Verso Williamsburg
+### 🚇 15:30 — Verso [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]]
 
 **Route:** 🚶 10 min → 1st Ave → **L train** (downtown) → Bedford Ave (10 min). ⏱ ~25 min.
 
-### 🚶 16:00 — Williamsburg
+### 🚶 16:00 — [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]]
 
 Percorso: **Bedford Ave** (shopping e caffè) → **N 7th St** → **N 6th St** → **Kent Ave** → **North 5th Street Pier** → **Marsha P. Johnson State Park** (vista su Manhattan).
 
-### 🍕 18:00-19:30 — L'Industrie Pizzeria (254 S 5th St, Williamsburg)
+### 🍕 18:00-19:30 — [[Locations/UnitedStates/NewYork/Ristoranti/L'Industrie Pizzeria|L'Industrie Pizzeria]] (254 S 5th St, [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg|Williamsburg]])
 
 **Burrata slice** ⭐. Una delle migliori NY slice. ⏱ coda 10-15 min. 🚶 10 min dal Marsha P. Johnson Park.
 
-### 🌅 19:45 — Domino Park + Waterfront (tramonto)
+### 🌅 19:45 — [[Locations/UnitedStates/NewYork/Parchi/Domino Park|Domino Park]] + Waterfront (tramonto)
 
-**Domino Park** (S 5th St & Kent Ave) — prato con vista spettacolare su Manhattan. Tramonto sulle ciminiere restaurate. ⏱ ~10 min da L'Industrie.
+**[[Locations/UnitedStates/NewYork/Parchi/Domino Park|Domino Park]]** (S 5th St & Kent Ave) — prato con vista spettacolare su Manhattan. Tramonto sulle ciminiere restaurate. ⏱ ~10 min da L'Industrie.
 
 ### 🚇 20:45 — Rientro
 
@@ -261,7 +261,7 @@ Percorso: **Bedford Ave** (shopping e caffè) → **N 7th St** → **N 6th St** 
 
 **Difficoltà:** ⚪ Intenso
 
-**Tema:** Roosevelt Island Tram → Midtown → FiDi → Red Hook → DUMBO
+**Tema:** [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]] Tram → Midtown → FiDi → [[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]] → [[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]]
 
 ### ☕ 08:00 — Sveglia e colazione
 
@@ -271,66 +271,66 @@ Percorso: **Bedford Ave** (shopping e caffè) → **N 7th St** → **N 6th St** 
 
 **Route:** 🚶 5 min → Franklin St → **1 train** (uptown) → 59th St-Columbus Circle (12 min). Poi 🚶 10 min a est su 59th St → **Tramway Plaza (2nd Ave tra 59th-60th)**.
 
-### 🚠 09:30 — Roosevelt Island Tramway ($3, OMNY ok)
+### 🚠 09:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]] Tramway ($3, OMNY ok)
 
 Funivia panoramica su Manhattan. ⏱ **Ride ~4 min.** Partenze ogni ~7-15 min. Vista spettacolare sull'East River e sulla skyline.
 
-### 🚶 09:40-11:00 — Passeggiata a Roosevelt Island
+### 🚶 09:40-11:00 — Passeggiata a [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island|Roosevelt Island]]
 
 Camminata lungo il fiume est, vista su Queens e Manhattan. Fari di Franklin D. Roosevelt (Four Freedoms Park all'estremo sud, se volete).
 
 ### 🚠 11:00 — Rientro con il Tramway
 
-### 🏛️ 11:30 — Grand Central Terminal
+### 🏛️ 11:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Grand Central Terminal|Grand Central Terminal]]
 
 **Route:** 🚶 15 min a piedi da 59th/2nd a Grand Central (via 42nd St), oppure 🚇 **4/5/6 train** → Grand Central (5 min).
 
 Soffitto stellato della Main Concourse.
 
-### 🍔 12:30 — Shake Shack (Grand Central, lower level)
+### 🍔 12:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Shake Shack|Shake Shack]] (Grand Central, lower level)
 
 ⏱ coda 15-20 min.
 
-### 🚇 13:30 — Verso il Financial District
+### 🚇 13:30 — Verso il [[Locations/UnitedStates/NewYork/Quartieri/Financial District|Financial District]]
 
 **Route 4/5:** 🚶 3 min → Grand Central → **4/5 train** (downtown express) → **Wall St** (10 min).
 
-### 🏙️ 14:00 — Wall Street
+### 🏙️ 14:00 — [[Locations/UnitedStates/NewYork/Attrazioni/Wall Street|Wall Street]]
 
-📍 **Wall Street** → 📍 **Fearless Girl** → 🐂 **Charging Bull** → ⛪ **Trinity Church** → 🏛️ **Federal Hall National Memorial**.
+📍 **[[Locations/UnitedStates/NewYork/Attrazioni/Wall Street|Wall Street]]** → 📍 **Fearless Girl** → 🐂 **[[Locations/UnitedStates/NewYork/Attrazioni/Charging Bull|Charging Bull]]** → ⛪ **Trinity Church** → 🏛️ **Federal Hall National Memorial**.
 ⏱ **~45-60 min.**
 
 ### 🚶 15:30 — Verso Pier 11
 
 Passeggiata a sud-est lungo Water St → **Pier 11** (Gouverneur Lane, South St & FDR Dr).
 
-### ⛴️ 16:00 — Ferry Pier 11 → Red Hook ($4.50, ~17 min)
+### ⛴️ 16:00 — Ferry Pier 11 → [[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]] ($4.50, ~17 min)
 
-**NYC Ferry South Brooklyn route.** Scendete a **Red Hook** (Atlantic Basin, Ferris St & Clinton Wharf).
+**NYC Ferry South Brooklyn route.** Scendete a **[[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]]** (Atlantic Basin, Ferris St & Clinton Wharf).
 
-### 🚶 16:30 — Red Hook
+### 🚶 16:30 — [[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]]
 
 Passeggiata lungo Van Brunt St (negozi e gallerie).
 
-### 🍖 18:30 — Hometown Bar-B-Que (454 Van Brunt St)
+### 🍖 18:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Hometown BBQ|Hometown Bar-B-Que]] (454 Van Brunt St)
 
 **Brisket ⭐, ribs, pulled pork** — il miglior BBQ di NYC (Texas-style, affumicato a legna). ⏱ coda 15-30 min, porzioni enormi (dividete). Domenica: 12:00-21:00. 🚶 ~13 min dal ferry.
 
-> ⚠️ **Tappa flessibile:** se siete in ritardo o il collegamento ferry non è comodo, **saltate Hometown** e andate direttamente a DUMBO.
+> ⚠️ **Tappa flessibile:** se siete in ritardo o il collegamento ferry non è comodo, **saltate Hometown** e andate direttamente a [[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]].
 
-### ⛴️ 20:00 — Ferry Red Hook → DUMBO ($4.50, ~27 min)
+### ⛴️ 20:00 — Ferry [[Locations/UnitedStates/NewYork/Quartieri/Red Hook|Red Hook]] → [[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]] ($4.50, ~27 min)
 
-**South Brooklyn Extension — SOLO WEEKEND.** Domenica ✅. Scendete a **Pier 1 / Fulton Ferry Landing** (Brooklyn Bridge Park).
+**South Brooklyn Extension — SOLO WEEKEND.** Domenica ✅. Scendete a **Pier 1 / Fulton Ferry Landing** ([[Locations/UnitedStates/NewYork/Parchi/Brooklyn Bridge Park|Brooklyn Bridge Park]]).
 
-### 📸 20:30 — DUMBO — Washington Street
+### 📸 20:30 — [[Locations/UnitedStates/NewYork/Quartieri/DUMBO|DUMBO]] — Washington Street
 
 La foto iconica: **Manhattan Bridge** incorniciato dai palazzi.
 
-### 🌅 21:00 — Brooklyn Bridge Park (tramonto)
+### 🌅 21:00 — [[Locations/UnitedStates/NewYork/Parchi/Brooklyn Bridge Park|Brooklyn Bridge Park]] (tramonto)
 
-Vista su Manhattan, Brooklyn Bridge, skyline che si illumina.
+Vista su Manhattan, [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge|Brooklyn Bridge]], skyline che si illumina.
 
-### 🌉 21:30 — Brooklyn Bridge a piedi
+### 🌉 21:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge|Brooklyn Bridge]] a piedi
 
 Attraversamento **Brooklyn → Manhattan** (~40-45 min). Skyline illuminato davanti.
 
@@ -348,21 +348,21 @@ Scendete sul lato Manhattan e passeggiate verso **Pier 15**.
 
 **Difficoltà:** 🔵 Impegnativo
 
-**Tema:** Central Park → AMNH → Upper East Side → 5th Avenue
+**Tema:** [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]] → AMNH → [[Locations/UnitedStates/NewYork/Quartieri/Upper East Side|Upper East Side]] → [[Locations/UnitedStates/NewYork/Attrazioni/5th Avenue|5th Avenue]]
 
 ### ☕ 09:00 — Sveglia e colazione
 
-🅰️ **Levain Bakery (UWS)** — 351 Amsterdam Ave (77th St). Da asporto dopo l'arrivo in zona.
+🅰️ **[[Locations/UnitedStates/NewYork/Ristoranti/Levain Bakery|Levain Bakery]] (UWS)** — 351 Amsterdam Ave (77th St). Da asporto dopo l'arrivo in zona.
 
-### 🚇 09:30 — Verso Central Park
+### 🚇 09:30 — Verso [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]]
 
-**Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 79th St (20 min). 🚶 4 min → Central Park.
+**Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 79th St (20 min). 🚶 4 min → [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]].
 
-### 🍪 10:00 — Levain Bakery (351 Amsterdam Ave)
+### 🍪 10:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Levain Bakery|Levain Bakery]] (351 Amsterdam Ave)
 
 **Cookie gigante** ⭐ (6 once!). ⏱ coda 10-15 min. 🚶 5 min dall'entrata del parco.
 
-### 🌳 10:30-13:00 — Central Park
+### 🌳 10:30-13:00 — [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]]
 
 Punti principali:
 1. **Sheep Meadow** — il grande prato
@@ -371,28 +371,28 @@ Punti principali:
 4. **Bow Bridge** ⭐ — foto obbligatoria
 5. **Strawberry Fields** — memoriale di John Lennon
 
-### 🍔 13:00 — Shake Shack (UWS)
+### 🍔 13:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Shake Shack|Shake Shack]] (UWS)
 
 ⏱ coda 15-20 min. 🚶 10 min dal parco.
 
-### 🦖 14:00 — CityPASS: American Museum of Natural History
+### 🦖 14:00 — CityPASS: [[Locations/UnitedStates/NewYork/Museums/AMNH|AMNH]]
 
 (AMNH apre alle 10:00 — arrivare entro le 14:00 va bene.)
 Priorità: ⭐ Sala dinosauri · ⭐ Balena blu · ⭐ Spazio e pianeti. ⏱ 2-2.5h.
 
-### 🌳 16:30 — Attraversamento di Central Park (a piedi)
+### 🌳 16:30 — Attraversamento di [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]] (a piedi)
 
 Camminata attraverso il parco dal lato ovest (AMNH) al lato est (Guggenheim). ~25 min, bella luce pomeridiana.
 
-### 🏛️ 17:00 — Guggenheim Museum (SOLO ESTERNO)
+### 🏛️ 17:00 — [[Locations/UnitedStates/NewYork/Museums/Guggenheim Museum|Guggenheim Museum]] (SOLO ESTERNO)
 
 L'architettura di Frank Lloyd Wright (88th St & 5th Ave). 📸 Foto dall'esterno.
 
-### 🏘️ 17:15 — Upper East Side
+### 🏘️ 17:15 — [[Locations/UnitedStates/NewYork/Quartieri/Upper East Side|Upper East Side]]
 
 Passeggiata tra le brownstone e le boutique.
 
-### 🛍️ 17:45 — 5th Avenue
+### 🛍️ 17:45 — [[Locations/UnitedStates/NewYork/Attrazioni/5th Avenue|5th Avenue]]
 
 Vetrine e shopping lungo Museum Mile e verso il basso.
 
@@ -414,58 +414,58 @@ Vetrine e shopping lungo Museum Mile e verso il basso.
 
 **Difficoltà:** 🔵 Impegnativo
 
-**Tema:** Midtown → Top of the Rock → Harry Potter → Times Square → McGee's
+**Tema:** Midtown → [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]] → Harry Potter → [[Locations/UnitedStates/NewYork/Attrazioni/Times Square|Times Square]] → McGee's
 
 ### ☕ 09:30 — Sveglia e colazione
 
-🅰️ **Levain Bakery** (UWS o Midtown) — cookie ⭐.
+🅰️ **[[Locations/UnitedStates/NewYork/Ristoranti/Levain Bakery|Levain Bakery]]** (UWS o Midtown) — cookie ⭐.
 🅱️ **Liberty Bagels** (Greenwich Ave).
 
 ### 🚇 10:15 — Verso Midtown
 
 **Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 50th St (14 min).
 
-### ⛪ 10:45 — St. Patrick's Cathedral (5th Ave)
+### ⛪ 10:45 — [[Locations/UnitedStates/NewYork/Attrazioni/St. Patrick's Cathedral|St. Patrick's Cathedral]] (5th Ave)
 
 Entrate — è bellissima e fresca. ⏱ 20-30 min.
 
-### 🏢 11:30 — Rockefeller Center (esterno)
+### 🏢 11:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Rockefeller Center|Rockefeller Center]] (esterno)
 
 Rink, statue, architecture.
 
-### 📻 12:00 — Radio City Music Hall (esterno)
+### 📻 12:00 — [[Locations/UnitedStates/NewYork/Attrazioni/Radio City Music Hall|Radio City Music Hall]] (esterno)
 
 📸 Foto all'esterno del teatro Art Déco.
 
-### ✨ 12:30 — Top of the Rock (CityPASS)
+### ✨ 12:30 — [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]] (CityPASS)
 
-Rockefeller Center. Vista su Central Park + ESB nello skyline. ⏱ 1-1.5h.
+[[Locations/UnitedStates/NewYork/Attrazioni/Rockefeller Center|Rockefeller Center]]. Vista su [[Locations/UnitedStates/NewYork/Parchi/Central Park|Central Park]] + ESB nello skyline. ⏱ 1-1.5h.
 
-### 🥩 14:00 — Keens Steakhouse (72 W 36th St)
+### 🥩 14:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Keens Steakhouse|Keens Steakhouse]] (72 W 36th St)
 
 **Mutton chop** ⭐ o prime steak — la steakhouse più antica di NYC (1885). 🚶 10 min da Rockefeller. 💰$$$.
 
-### 📚 15:30 — New York Public Library
+### 📚 15:30 — [[Locations/UnitedStates/NewYork/Attrazioni/New York Public Library|New York Public Library]]
 
 I leoni "Patience & Fortitude", la Rose Main Reading Room.
 
-### 🌳 16:00 — Bryant Park
+### 🌳 16:00 — [[Locations/UnitedStates/NewYork/Parchi/Bryant Park|Bryant Park]]
 
 Pausa nel parco davanti alla biblioteca.
 
-### 🚶 16:30 — Broadway → Times Square
+### 🚶 16:30 — Broadway → [[Locations/UnitedStates/NewYork/Attrazioni/Times Square|Times Square]]
 
 Camminata fino alle luci.
 
-### 🍗 16:45-17:00 — Raising Cane's (1501 Broadway)
+### 🍗 16:45-17:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Raising Canes|Raising Cane's]] (1501 Broadway)
 
 **Chicken fingers** + **Cane's Sauce** ⭐ — da dividere. Il flagship più grande della catena.
 
-### 🍩 17:20 — Krispy Kreme (1601 Broadway, W 48th)
+### 🍩 17:20 — [[Locations/UnitedStates/NewYork/Ristoranti/Krispy Kreme|Krispy Kreme]] (1601 Broadway, W 48th)
 
 **Original Glazed** caldo ⭐ — dolce da dividere.
 
-### 🚶 17:45 — Times Square → Lyric Theatre
+### 🚶 17:45 — [[Locations/UnitedStates/NewYork/Attrazioni/Times Square|Times Square]] → Lyric Theatre
 
 ### 🎭 18:15-18:30 — Arrivo al Lyric Theatre (214 W 43rd St)
 
@@ -473,15 +473,15 @@ Camminata fino alle luci.
 
 Durata: ~3h con intervallo.
 
-### 🌃 22:45 — Times Square di notte
+### 🌃 22:45 — [[Locations/UnitedStates/NewYork/Attrazioni/Times Square|Times Square]] di notte
 
 📸 Foto e passeggiata — meno folla, luci al massimo.
 
-### 🕛 00:00 — Times Square
+### 🕛 00:00 — [[Locations/UnitedStates/NewYork/Attrazioni/Times Square|Times Square]]
 
 Se volete, aspettate il momento degli **schermi di mezzanotte** (alcuni maxi-schermi cambiano/artistici).
 
-### 🍺 00:15-00:30 — McGee's Pub (240 W 55th St)
+### 🍺 00:15-00:30 — [[Locations/UnitedStates/NewYork/Ristoranti/McGeegs Pub|McGee's Pub]] (240 W 55th St)
 
 Il pub che ha ispirato il **MacLaren's** di *How I Met Your Mother*. Una birra/cocktail veloce, foto e visita. Aperto fino alle 02:00. 🚇 5 min da Times Sq (o 🚶 12 min).
 
@@ -495,44 +495,44 @@ Il pub che ha ispirato il **MacLaren's** di *How I Met Your Mother*. Una birra/c
 
 **Difficoltà:** 🟡 Moderato
 
-**Tema:** Chelsea → High Line → Hudson Yards → Crociera Harbor Lights
+**Tema:** [[Locations/UnitedStates/NewYork/Quartieri/Chelsea|Chelsea]] → [[Locations/UnitedStates/NewYork/Parchi/High Line|High Line]] → [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards|Hudson Yards]] → Crociera Harbor Lights
 
 ### ☕ 09:30 — Sveglia e colazione
 
 🅰️ **The Doughnut Project** (donut) o **Sunday Morning** (cinnamon roll).
 🅱️ **Liberty Bagels** (Greenwich Ave).
 
-### 🚇 10:15 — Verso il Meatpacking District
+### 🚇 10:15 — Verso il [[Locations/UnitedStates/NewYork/Quartieri/Meatpacking District|Meatpacking District]]
 
 **Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 14th St (8 min). 🚶 8 min a ovest.
 
-### 🏘️ 10:45 — Meatpacking District
+### 🏘️ 10:45 — [[Locations/UnitedStates/NewYork/Quartieri/Meatpacking District|Meatpacking District]]
 
 Le strade acciottolate, le vecchie fabbriche di carne trasformate in showroom.
 
-### 🦞 11:00 — Chelsea Market (75 9th Ave)
+### 🦞 11:00 — [[Locations/UnitedStates/NewYork/Attrazioni/Chelsea Market|Chelsea Market]] (75 9th Ave)
 
 Giro del food hall (le Oreo sono nate qui). **Lobster Place** — 🦞 **lobster roll** ⭐. ⏱ coda 15-20 min.
 
-### 🌊 12:30 — Pier 57
+### 🌊 12:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Pier 57|Pier 57]]
 
 Il pontile con tetto verde — vista sul fiume.
 
-### 🏝️ 13:00 — Little Island
+### 🏝️ 13:00 — [[Locations/UnitedStates/NewYork/Parchi/Little Island|Little Island]]
 
 Il parco galleggiante a forma di tulipano. Ingresso gratuito. Vista sul fiume.
 
-### 🌿 13:45 — High Line
+### 🌿 13:45 — [[Locations/UnitedStates/NewYork/Parchi/High Line|High Line]]
 
-Camminata sopraelevata da Gansevoort St verso Hudson Yards. ⏱ 40-60 min.
+Camminata sopraelevata da Gansevoort St verso [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards|Hudson Yards]]. ⏱ 40-60 min.
 
-### 🏙️ 14:45 — Hudson Yards
+### 🏙️ 14:45 — [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards|Hudson Yards]]
 
 **The Vessel** (vista dall'esterno) + The Shops.
 
-### 🥯 15:30 — Russ & Daughters
+### 🥯 15:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Russ & Daughters|Russ & Daughters]]
 
-*Nota:* l'originale è a **179 E Houston St (LES)** — 🚇 15 min. Se preferite restare in zona, sostituite con un gelato/snack a Hudson Yards o Chelsea Market.
+*Nota:* l'originale è a **179 E Houston St (LES)** — 🚇 15 min. Se preferite restare in zona, sostituite con un gelato/snack a [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards|Hudson Yards]] o [[Locations/UnitedStates/NewYork/Attrazioni/Chelsea Market|Chelsea Market]].
 
 ### 🥵 16:30-18:00 — Pausa / riposo
 
@@ -542,11 +542,11 @@ Rientro in hotel (🚇 ~20 min). Doccia, cambio. ⚠️ Per la crociera sera.
 
 **Route 1 + M42 bus:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St (13 min). **M42 bus** → 12th Ave (8 min). 🚶 2 min. ⏱ ~30 min.
 
-### ⛴️ 18:30-21:00 — CityPASS: Circle Line Harbor Lights
+### ⛴️ 18:30-21:00 — CityPASS: [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]] Harbor Lights
 
-**Harbor Lights** (2h) — crociera serale da Pier 83. Tramonto (~19:35) sulla Statua, skyline che si illumina, Brooklyn Bridge con le luci. 🧥 Giacchetto — sul fiume fa fresco.
+**Harbor Lights** (2h) — crociera serale da Pier 83. Tramonto (~19:35) sulla Statua, skyline che si illumina, [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge|Brooklyn Bridge]] con le luci. 🧥 Giacchetto — sul fiume fa fresco.
 
-### 🍔🔝 21:30 — Emily (35 W 32nd St)
+### 🍔🔝 21:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Emily|Emily]] (35 W 32nd St)
 
 **Emilia burger** + Detroit pizza. ⏱ prenotare in giornata. 🚇 15 min da Pier 83.
 
@@ -565,21 +565,21 @@ Rientro in hotel (🚇 ~20 min). Doccia, cambio. ⚠️ Per la crociera sera.
 ### ☕ 10:00 — Sveglia e colazione
 
 🅰️ **Liberty Bagels** (Greenwich Ave).
-🅱️ **Russ & Daughters** (LES) — bagel con salmon.
+🅱️ **[[Locations/UnitedStates/NewYork/Ristoranti/Russ & Daughters|Russ & Daughters]]** (LES) — bagel con salmon.
 
-### 🚇 10:30 — Verso l'Empire State Building
+### 🚇 10:30 — Verso l'[[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building|Empire State Building]]
 
 **Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 34th St (14 min). 🚶 8 min east.
 
-### 🏢 11:00-12:15 — CityPASS: Empire State Building (parte DAY ☀️)
+### 🏢 11:00-12:15 — CityPASS: [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building|Empire State Building]] (parte DAY ☀️)
 
 86° piano + museo. ⏱ Al mattino poca coda.
 
-### 🚶 12:30 — Union Square
+### 🚶 12:30 — [[Locations/UnitedStates/NewYork/Attrazioni/Union Square|Union Square]]
 
-Passeggiata fino a Union Square (mercato dei contadini, verde).
+Passeggiata fino a [[Locations/UnitedStates/NewYork/Attrazioni/Union Square|Union Square]] (mercato dei contadini, verde).
 
-### 🍕 13:00 — Unregular Pizza (135 4th Ave)
+### 🍕 13:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Unregular Pizza|Unregular Pizza]] (135 4th Ave)
 
 **Roman-style square pizza** — Burrapizza ⭐, Diavolona con hot honey. ⏱ coda 10-15 min. 🚶 5 min da Union Sq.
 
@@ -587,23 +587,23 @@ Passeggiata fino a Union Square (mercato dei contadini, verde).
 
 *(Nota: la sede confermata è la pizzeria di 135 4th Ave — il banco panetteria è nello stesso locale / Essex Market.)*
 
-### 🏢 14:00 — Flatiron Building
+### 🏢 14:00 — [[Locations/UnitedStates/NewYork/Grattacieli/Flatiron Building|Flatiron Building]]
 
-Il grattacielo a ferro da stiro. 📸 Foto da Madison Square Park.
+Il grattacielo a ferro da stiro. 📸 Foto da [[Locations/UnitedStates/NewYork/Parchi/Madison Square Park|Madison Square Park]].
 
-### 🌳 14:15 — Madison Square Park
+### 🌳 14:15 — [[Locations/UnitedStates/NewYork/Parchi/Madison Square Park|Madison Square Park]]
 
 Pausa nel parco di fronte al Flatiron.
 
-### 🏟️ 14:45 — Madison Square Garden (esterno)
+### 🏟️ 14:45 — [[Locations/UnitedStates/NewYork/Attrazioni/Madison Square Garden|Madison Square Garden]] (esterno)
 
 Il tempio dello sport — 📸 esterno (7th Ave & 33rd).
 
-### 🏙️ 15:15 — Chrysler Building (esterno)
+### 🏙️ 15:15 — [[Locations/UnitedStates/NewYork/Grattacieli/Chrysler Building|Chrysler Building]] (esterno)
 
 Art Déco iconico. 📸 Da Grand Central o 42nd St.
 
-### 🍔 16:00 — 7th Street Burger (Bryant Park)
+### 🍔 16:00 — [[Locations/UnitedStates/NewYork/Ristoranti/7th Street Burger|7th Street Burger]] ([[Locations/UnitedStates/NewYork/Parchi/Bryant Park|Bryant Park]])
 
 Smash burger veloce. ⏱ coda 5-10 min.
 
@@ -611,18 +611,18 @@ Smash burger veloce. ⏱ coda 5-10 min.
 
 **Route 1:** 🚶 5 min → Franklin St → **1 train** (uptown) → 42nd St (13 min). 🚶 6 min a Grand Central. ⏱ ~25 min.
 
-### ⚠️ 18:00 — Arrivo a SUMMIT One Vanderbilt
+### ⚠️ 18:00 — Arrivo a [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]]
 
 **Arrivare alle 18:00** (30 min prima dell'orario prenotato) per check-in.
 
-### ✨ 18:30-21:00 — SUMMIT One Vanderbilt (✅ prenotato 18:30)
+### ✨ 18:30-21:00 — [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]] (✅ prenotato 18:30)
 
 - ☀️ 18:30-19:30 luce diurna + terrazza
 - 🌇 19:35 tramonto
 - 🌃 20:00-21:00 città illuminata
 - 💡 Suggerimento: terrazza subito, installazioni dopo, terrazza di nuovo al tramonto.
 
-### 🌃 22:00-23:00 — CityPASS: Empire State Building (parte PM 🌃)
+### 🌃 22:00-23:00 — CityPASS: [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building|Empire State Building]] (parte PM 🌃)
 
 **Rientro notturno incluso (same-night AM/PM).** Da SUMMIT: 🚇 4/5/6 da Grand Central → 33rd St (5 min) + 🚶 8 min. Salite all'86° piano. ⚠️ Ultimo ingresso 23:00 — entrate entro le 22:00.
 
@@ -643,35 +643,35 @@ Smash burger veloce. ⏱ coda 5-10 min.
 Colazione veloce da asporto.
 🅰️ **Liberty Bagels** (Greenwich Ave).
 
-### 🚇 08:15 — Verso Battery Park
+### 🚇 08:15 — Verso [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]]
 
-**Route 1:** 🚶 5 min → Franklin St → **1 train** (downtown) → South Ferry (8 min). 🚶 3 min a Battery Park. ⏱ ~16 min.
+**Route 1:** 🚶 5 min → Franklin St → **1 train** (downtown) → South Ferry (8 min). 🚶 3 min a [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]]. ⏱ ~16 min.
 
-### 🗽 09:00 — CityPASS: Statua della Libertà + Ellis Island
+### 🗽 09:00 — CityPASS: Statua della Libertà + [[Locations/UnitedStates/NewYork/Attrazioni/Ellis Island|Ellis Island]]
 
-⚠️ Arrivare 30 min prima per security. Traghetto da Battery Park.
+⚠️ Arrivare 30 min prima per security. Traghetto da [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]].
 - 🗽 **Liberty Island** (~1.5h): Statua, museo, vista Manhattan.
-- 🏝️ **Ellis Island** (visita breve, ~45 min): il museo dell'immigrazione, giro veloce.
+- 🏝️ **[[Locations/UnitedStates/NewYork/Attrazioni/Ellis Island|Ellis Island]]** (visita breve, ~45 min): il museo dell'immigrazione, giro veloce.
 
-### ⛴️ 12:30 — Rientro a Manhattan (Battery Park)
+### ⛴️ 12:30 — Rientro a Manhattan ([[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]])
 
-### 🌳 13:00 — Battery Park
+### 🌳 13:00 — [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]]
 
 Passeggiata nel parco sul fiume.
 
 ### 🌭 13:30 — Nathan's Famous (4 South St, Whitehall terminal)
 
-L'unico Nathan's a Manhattan sud — al terminal del ferry Staten Island. Hot dog ⭐ veloce. 🚶 10 min da Battery Park.
+L'unico Nathan's a Manhattan sud — al terminal del ferry Staten Island. Hot dog ⭐ veloce. 🚶 10 min da [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]].
 
-### 🥪 14:00 — West Bank Gourmet Deli (Battery Park)
+### 🥪 14:00 — West Bank Gourmet Deli ([[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]])
 
 Sandwich/deli veloce per il pranzo completo.
 
-### 🕊️ 14:45 — World Trade Center
+### 🕊️ 14:45 — [[Locations/UnitedStates/NewYork/Attrazioni/World Trade Center|World Trade Center]]
 
-- **9/11 Memorial** (esterno, gratis) — le piscine commemorative. ⏱ 30-45 min.
+- **[[Locations/UnitedStates/NewYork/Attrazioni/9-11 Memorial & Museum|9/11 Memorial]]** (esterno, gratis) — le piscine commemorative. ⏱ 30-45 min.
 - **Oculus** (architettura di Calatrava) — 📸 + negozi.
-- **One World Trade Center** — 📸 esterno.
+- **One [[Locations/UnitedStates/NewYork/Attrazioni/World Trade Center|World Trade Center]]** — 📸 esterno.
 - 🛍️ **Century 21** (22 Cortlandt St) — outlet design, shopping.
 
 ### 🔬 17:00 — Mercer Labs (21 Dey St) — FACOLTATIVO
@@ -691,13 +691,13 @@ Percorso:
 - 🌊 **Pier 26 Tide Deck** — il pontile sulle maree
 - 🌅 **Tramonto sull'Hudson**
 
-### 🚶 20:30 — Battery Park City
+### 🚶 20:30 — [[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]] City
 
-Percorso: **Battery Park City Fields** → **Teardrop Park** → **Rockefeller Park**.
+Percorso: **[[Locations/UnitedStates/NewYork/Parchi/Battery Park|Battery Park]] City Fields** → **Teardrop Park** → **Rockefeller Park**.
 
 ### 🌮 21:30 — Los Tacos No. 1
 
-Tacos adobada/carne asada ⭐. (Sede più vicina: Financial District, 39 Broadway.)
+Tacos adobada/carne asada ⭐. (Sede più vicina: [[Locations/UnitedStates/NewYork/Quartieri/Financial District|Financial District]], 39 Broadway.)
 
 ### 🏛️ 22:15 — New York City Hall
 
@@ -713,33 +713,33 @@ Tacos adobada/carne asada ⭐. (Sede più vicina: Financial District, 39 Broadwa
 
 **Difficoltà:** 🟢 Facile
 
-**Tema:** Chinatown → Little Italy → SoHo → JFK
+**Tema:** [[Locations/UnitedStates/NewYork/Quartieri/Chinatown|Chinatown]] → [[Locations/UnitedStates/NewYork/Quartieri/Little Italy|Little Italy]] → [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] → JFK
 
 ### ☕ 08:00 — Sveglia
 
-### 🚶 08:45 — Chinatown
+### 🚶 08:45 — [[Locations/UnitedStates/NewYork/Quartieri/Chinatown|Chinatown]]
 
 A piedi dall'hotel (~10 min) — Mott St, Doyers St, Columbus Park.
 
-### 🥟 09:00 — Mei Lai Wah (64 Bayard St / 41 Mott St)
+### 🥟 09:00 — [[Locations/UnitedStates/NewYork/Ristoranti/Mei Lai Wah|Mei Lai Wah]] (64 Bayard St / 41 Mott St)
 
 **Baked roast pork bun** ⭐ (~$2) e pineapple bun. Apre alle 8:30.
 
-### 🥟 09:30 — Fried Dumpling (106 Mosco St)
+### 🥟 09:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Fried Dumpling|Fried Dumpling]] (106 Mosco St)
 
 Dumplings da ~$1 — il chiosco leggendario a 5 min. ⚠️ Contanti.
 
-### 🇮🇹 10:00 — Little Italy
+### 🇮🇹 10:00 — [[Locations/UnitedStates/NewYork/Quartieri/Little Italy|Little Italy]]
 
 Mulberry St — l'atmosfera italo-americana.
 
-### 🍕 10:30 — Prince Street Pizza (18 Prince St)
+### 🍕 10:30 — [[Locations/UnitedStates/NewYork/Ristoranti/Prince Street Pizza|Prince Street Pizza]] (18 Prince St)
 
-**Spicy Pepperoni Square** ⭐ — da dividere/assaggio. 🚶 10 min da Little Italy.
+**Spicy Pepperoni Square** ⭐ — da dividere/assaggio. 🚶 10 min da [[Locations/UnitedStates/NewYork/Quartieri/Little Italy|Little Italy]].
 
 ### 🏨 11:30 — Rientro in hotel
 
-Ritiro bagagli. Ultimo giro a **SoHo** se c'è tempo (il quartiere è dietro l'hotel).
+Ritiro bagagli. Ultimo giro a **[[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]]** se c'è tempo (il quartiere è dietro l'hotel).
 
 ### 🚗 15:00 — Partenza verso JFK
 
@@ -762,13 +762,13 @@ Red-eye notturno → arrivo domattina in Italia. 🇮🇹
 
 | Voce | Stima |
 |---|---|
-| CityPASS New York (5 attrazioni: ESB AM/PM, AMNH, Statua, Top of the Rock, Circle Line) | $164 (~€150) |
-| SUMMIT One Vanderbilt | ~$50 (~€46) |
+| CityPASS New York (5 attrazioni: ESB AM/PM, AMNH, Statua, [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]], [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]]) | $164 (~€150) |
+| [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]] | ~$50 (~€46) |
 | Trasporti (OMNY + AirTrain + tram + ferry + taxi A/R) | ~$120 (~€110) |
 | Pasti (~$45/giorno × 9) | ~$410 (~€375) |
 | Mancia pasti (~15%) | ~$70 (~€64) |
 | Harry Potter Cursed Child | ✅ Già acquistato |
-| Alloggio (8 notti, SoHo 54 Hotel, camera condivisa) | **€550** (€1.650 ÷ 3) |
+| Alloggio (8 notti, [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel, camera condivisa) | **€550** (€1.650 ÷ 3) |
 | Volo A/R | ✅ Già acquistato |
 | **TOTALE (volo escluso, mance incluse)** | **~€1.295/persona** |
 | Arrotondato (imprevisti ~10%) | **~€1.400-1.500/persona** |
@@ -783,10 +783,10 @@ Red-eye notturno → arrivo domattina in Italia. 🇮🇹
 
 | Cosa | Stato | Dettaglio |
 |---|---|---|
-| 🏨 Hotel SoHo 54 | ✅ Fatto | €1.650 totale, 8 notti |
+| 🏨 Hotel [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 | ✅ Fatto | €1.650 totale, 8 notti |
 | ✈️ Voli A/R Roma ↔ JFK | ✅ Fatto | Arr 21 Ago 14:00 — Part 29 Ago 20:30 |
 | 🎭 Harry Potter Cursed Child | ✅ Fatto | Lyric Theatre, 25 Ago 19:00 |
-| ✨ SUMMIT One Vanderbilt (×3) | ✅ **Prenotato** | Gio 27 Ago 18:30 — ⚠️ arrivare alle 18:00 |
+| ✨ [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]] (×3) | ✅ **Prenotato** | Gio 27 Ago 18:30 — ⚠️ arrivare alle 18:00 |
 | 🎫 CityPASS New York (×3) | ✅ Acquistato | ⚠️ **DA PRENOTARE ORARI** (tabella sotto) |
 | 🛡️ Assicurazione Heymondo | ✅ Fatto | Già attiva |
 | 📱 eSIM | ⚠️ Da fare | Vedi [[Info/NewYork/eSIM]] |
@@ -795,11 +795,11 @@ Red-eye notturno → arrivo domattina in Italia. 🇮🇹
 
 | # | Attrazione | Giorno | Ora suggerita |
 |:---:|---|---|---|
-| 1 | Statua della Libertà + Ellis Island | Ven 28 Ago | traghetto **9:00** |
-| 2 | American Museum of Natural History | Lun 24 Ago | ingresso **14:00** |
-| 3 | Top of the Rock | Mar 25 Ago | ingresso **12:30** |
-| 4 | Circle Line (Harbor Lights) | Mer 26 Ago | **18:30-21:00** |
-| 5 | Empire State Building (AM/PM) | Gio 27 Ago | DAY **11:00** + PM **22:00** |
+| 1 | Statua della Libertà + [[Locations/UnitedStates/NewYork/Attrazioni/Ellis Island|Ellis Island]] | Ven 28 Ago | traghetto **9:00** |
+| 2 | [[Locations/UnitedStates/NewYork/Museums/AMNH|AMNH]] | Lun 24 Ago | ingresso **14:00** |
+| 3 | [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]] | Mar 25 Ago | ingresso **12:30** |
+| 4 | [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]] (Harbor Lights) | Mer 26 Ago | **18:30-21:00** |
+| 5 | [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building|Empire State Building]] (AM/PM) | Gio 27 Ago | DAY **11:00** + PM **22:00** |
 
 > ⚠️ **Come prenotare:** app My CityPASS → seleziona attrazione → data e ora dalla tabella. ESB e Statua si esauriscono per primi.
 
@@ -819,39 +819,106 @@ Vedi guida dedicata: [[Info/NewYork/eSIM]]
 - [[Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà]] — Day 8
 - [[Locations/UnitedStates/NewYork/Attrazioni/Ellis Island]] — Day 8
 - [[Locations/UnitedStates/NewYork/Attrazioni/9-11 Memorial & Museum]] — Day 8 (Memorial gratuito)
-- [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] — Day 6 (Harbor Lights)
-- [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge]] — Day 3
+- [[Locations/UnitedStates/NewYork/Attrazioni/World Trade Center]] — Day 8 (One WTC + Oculus)
+- [[Locations/UnitedStates/NewYork/Parchi/Battery Park]] — Day 8
+- [[Locations/UnitedStates/NewYork/Attrazioni/Charging Bull]] — Day 3 (Wall St)
+- [[Locations/UnitedStates/NewYork/Attrazioni/Wall Street]] — Day 3
+- [[Locations/UnitedStates/NewYork/Attrazioni/Roosevelt Island]] — Day 3 (tramway)
 - [[Locations/UnitedStates/NewYork/Attrazioni/Grand Central Terminal]] — Day 3
-- [[Locations/UnitedStates/NewYork/Attrazioni/Times Square]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/Brooklyn Bridge]] — Day 3
+- [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line]] — Day 6 (Harbor Lights)
 - [[Locations/UnitedStates/NewYork/Attrazioni/Chelsea Market]] — Day 6
+- [[Locations/UnitedStates/NewYork/Attrazioni/Pier 57]] — Day 6
+- [[Locations/UnitedStates/NewYork/Attrazioni/Hudson Yards]] — Day 6 (The Vessel)
+- [[Locations/UnitedStates/NewYork/Attrazioni/Times Square]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/Radio City Music Hall]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/Rockefeller Center]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/St. Patrick's Cathedral]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/New York Public Library]] — Day 5
+- [[Locations/UnitedStates/NewYork/Attrazioni/Lyric Theatre]] — Day 5 (Harry Potter)
+- [[Locations/UnitedStates/NewYork/Attrazioni/5th Avenue]] — Day 4
+- [[Locations/UnitedStates/NewYork/Attrazioni/Union Square]] — Day 7
+- [[Locations/UnitedStates/NewYork/Attrazioni/Madison Square Garden]] — Day 7
+- [[Locations/UnitedStates/NewYork/Attrazioni/New York City Hall]] — Day 8
+- [[Locations/UnitedStates/NewYork/Attrazioni/St. Mark's Place]] — Day 2
+- [[Locations/UnitedStates/NewYork/Attrazioni/Astor Place]] — Day 2
+- [[Locations/UnitedStates/NewYork/Attrazioni/Broadway]] — Day 5 (Theatre District)
 
 ### Grattacieli
-- [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building]] — Day 7
+- [[Locations/UnitedStates/NewYork/Grattacieli/Empire State Building]] — Day 7 (AM + PM)
+- [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt]] — Day 7 (18:30 prenotato)
 - [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock]] — Day 5
-- [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt]] — Day 7
+- [[Locations/UnitedStates/NewYork/Grattacieli/Chrysler Building]] — Day 7 (esterno)
+- [[Locations/UnitedStates/NewYork/Grattacieli/Flatiron Building]] — Day 7 (esterno)
 
 ### Musei
-- [[Locations/UnitedStates/NewYork/Museums/AMNH]] — Day 4
+- [[Locations/UnitedStates/NewYork/Museums/AMNH]] — Day 4 (CityPASS)
+- [[Locations/UnitedStates/NewYork/Museums/MET]] — alternativa Day 4
+- [[Locations/UnitedStates/NewYork/Museums/Guggenheim Museum]] — Day 4 (solo esterno)
 
 ### Parchi
 - [[Locations/UnitedStates/NewYork/Parchi/Central Park]] — Day 4
 - [[Locations/UnitedStates/NewYork/Parchi/High Line]] — Day 6
 - [[Locations/UnitedStates/NewYork/Parchi/Brooklyn Bridge Park]] — Day 3
+- [[Locations/UnitedStates/NewYork/Parchi/Little Island]] — Day 6
+- [[Locations/UnitedStates/NewYork/Parchi/Bryant Park]] — Day 5
+- [[Locations/UnitedStates/NewYork/Parchi/Madison Square Park]] — Day 7
+- [[Locations/UnitedStates/NewYork/Parchi/Washington Square Park]] — Day 1
+- [[Locations/UnitedStates/NewYork/Parchi/Tompkins Square Park]] — Day 2
+- [[Locations/UnitedStates/NewYork/Parchi/Domino Park]] — Day 2 (tramonto)
+- [[Locations/UnitedStates/NewYork/Parchi/Battery Park]] — Day 8
+- [[Locations/UnitedStates/NewYork/Parchi/Battery Park City]] — Day 8
+- [[Locations/UnitedStates/NewYork/Parchi/Hudson River Park]] — Day 1 (Pier 34)
 
 ### Quartieri
 - [[Locations/UnitedStates/NewYork/Quartieri/SoHo]] — Base hotel, Day 1/9
+- [[Locations/UnitedStates/NewYork/Quartieri/Nolita]] — Day 1
+- [[Locations/UnitedStates/NewYork/Quartieri/Greenwich Village]] — Day 1
+- [[Locations/UnitedStates/NewYork/Quartieri/East Village]] — Day 2
+- [[Locations/UnitedStates/NewYork/Quartieri/Lower East Side]] — Day 2
+- [[Locations/UnitedStates/NewYork/Quartieri/Williamsburg]] — Day 2
+- [[Locations/UnitedStates/NewYork/Quartieri/Meatpacking District]] — Day 6
+- [[Locations/UnitedStates/NewYork/Quartieri/Chelsea]] — Day 6
 - [[Locations/UnitedStates/NewYork/Quartieri/Financial District]] — Day 3/8
+- [[Locations/UnitedStates/NewYork/Quartieri/Red Hook]] — Day 3
+- [[Locations/UnitedStates/NewYork/Quartieri/DUMBO]] — Day 3
+- [[Locations/UnitedStates/NewYork/Quartieri/Upper East Side]] — Day 4
+- [[Locations/UnitedStates/NewYork/Quartieri/Upper West Side]] — Day 4
+- [[Locations/UnitedStates/NewYork/Quartieri/Chinatown]] — Day 9
+- [[Locations/UnitedStates/NewYork/Quartieri/Little Italy]] — Day 9
 
 ### Ristoranti
-- [[Locations/UnitedStates/NewYork/Ristoranti/Prince Street Pizza]] — Day 9
+- [[Locations/UnitedStates/NewYork/Ristoranti/Dominique Ansel Bakery]] — Day 1 (cronut)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Salt Hank's]] — Day 1 (chiude 16:00)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Village Square Pizza]] — Day 1
+- [[Locations/UnitedStates/NewYork/Ristoranti/Danny & Coop's]] — Day 2 (apre 12:00)
 - [[Locations/UnitedStates/NewYork/Ristoranti/Katzs Delicatessen]] — Day 2
-- [[Locations/UnitedStates/NewYork/Ristoranti/Levain Bakery]] — Day 4/5
-- [[Locations/UnitedStates/NewYork/Ristoranti/Liberty Bagels]] — colazione
-- [[Locations/UnitedStates/NewYork/Ristoranti/Russ & Daughters]] — Day 6
-- [[Locations/UnitedStates/NewYork/Ristoranti/Keens Steakhouse]] — Day 5
 - [[Locations/UnitedStates/NewYork/Ristoranti/L'Industrie Pizzeria]] — Day 2
+- [[Locations/UnitedStates/NewYork/Ristoranti/Hometown BBQ]] — Day 3
+- [[Locations/UnitedStates/NewYork/Ristoranti/Levain Bakery]] — Day 4/5
+- [[Locations/UnitedStates/NewYork/Ristoranti/JG Melon]] — Day 4 (cash only)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Pastrami Queen]] — Day 4
+- [[Locations/UnitedStates/NewYork/Ristoranti/Keens Steakhouse]] — Day 5
+- [[Locations/UnitedStates/NewYork/Ristoranti/Raising Canes]] — Day 5
+- [[Locations/UnitedStates/NewYork/Ristoranti/Krispy Kreme]] — Day 5
+- [[Locations/UnitedStates/NewYork/Ristoranti/McGeegs Pub]] — Day 5 (HIMYM)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Russ & Daughters]] — Day 6
+- [[Locations/UnitedStates/NewYork/Ristoranti/Emily]] — Day 6
+- [[Locations/UnitedStates/NewYork/Ristoranti/Shake Shack]] — Day 3/4
+- [[Locations/UnitedStates/NewYork/Ristoranti/Unregular Pizza]] — Day 7
+- [[Locations/UnitedStates/NewYork/Ristoranti/7th Street Burger]] — Day 7
+- [[Locations/UnitedStates/NewYork/Ristoranti/Nathans Famous]] — Day 8
+- [[Locations/UnitedStates/NewYork/Ristoranti/West Bank Gourmet]] — Day 8
 - [[Locations/UnitedStates/NewYork/Ristoranti/Los Tacos No. 1]] — Day 8
-- [[Locations/UnitedStates/NewYork/Ristoranti/Dominique Ansel Bakery]] — Day 1
+- [[Locations/UnitedStates/NewYork/Ristoranti/Mei Lai Wah]] — Day 9
+- [[Locations/UnitedStates/NewYork/Ristoranti/Fried Dumpling]] — Day 9 (cash only)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Prince Street Pizza]] — Day 9
+- [[Locations/UnitedStates/NewYork/Ristoranti/Liberty Bagels]] — colazione
+- [[Locations/UnitedStates/NewYork/Ristoranti/Bleecker Street Pizza]] — Day 1 (Village)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Joe's Shanghai]] — Day 9 (soup dumplings)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Lombardi's Pizza]] — alternativa Day 1/9
+- [[Locations/UnitedStates/NewYork/Ristoranti/Magnolia Bakery]] — Day 5 (banana pudding)
+- [[Locations/UnitedStates/NewYork/Ristoranti/Ippudo NY]] — Day 5 (ramen)
 
 ### Guide e Info
 - [[Info/NewYork/Trasporti]] — Metro, OMNY, taxi

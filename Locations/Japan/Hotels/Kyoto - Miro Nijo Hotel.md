@@ -54,3 +54,7 @@ Supermarket nelle vicinanze: zona Nijo Castle ha diversi konbini e un supermarke
 - Zona tranquilla e ben collegata
 - A piedi dal Castello di Nijo (visita consigliata)
 - Bus per Kyoto Station frequenti
+
+## Mappa
+
+<iframe src="https://www.google.com/maps?q=20-1%20Nishinokyokangakuincho%20Nakagyo%20Kyoto%20Japan&output=embed" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

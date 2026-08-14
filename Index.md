@@ -7,7 +7,7 @@
 ## Index
 
 - [[Itinerario Kanban Template]]
-- [[202007-travel_care(PREVENTIVO).pdf]]
+- 202007-travel_care(PREVENTIVO).pdf
 - [[E-SIM panoramica delle disponibili]]
 - [[IC Cards]]
 - [[Icoca]]

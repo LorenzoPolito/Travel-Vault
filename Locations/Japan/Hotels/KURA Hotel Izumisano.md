@@ -56,3 +56,7 @@ Per cena il 24 sera: konbini nelle vicinanze o izakaya locali a Izumisano.
 - Ideale per la **notte di arrivo** (24 ott): niente trasferimento notturno fino al centro di Osaka
 - Nessun deposito bagagli: al check-out (25, entro 10:00) si prosegue direttamente per Osaka con Nankai
 - Il giorno 25 il check-in ad Hanazonocho è dalle 16:00 — possibilità di deposito bagagli ai coin locker di Namba/Hanazonocho
+
+## Mappa
+
+<iframe src="https://www.google.com/maps?q=Uemachi%203-10-11%20Izumisano%20Osaka%20Japan&output=embed" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

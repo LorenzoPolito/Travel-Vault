@@ -50,7 +50,7 @@ tags:
 ##### Pomeriggio
 - Check-in all'hotel
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
+- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town]]
 ##### Sera
 - [[Asakusa(浅草)]] di notte
 ## Giorno 3 (1° Kyoto)

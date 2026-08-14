@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.936 €/persona"
+budget_totale_stimato: "~2.902 €/persona"
 tags:
   - itinerario
   - japan
@@ -64,7 +64,7 @@ flowchart LR
     C -->|Kintetsu 40min| E[🦌 Nara half day]
     E -->|JR 50min| F[⛩️ Kyoto 3 notti]
     F -->|Shinkansen 2.5h| G[🗼 Tokyo 5 notti]
-    G -->|Giorno| H[🏔️ Fujiyoshida day trip]
+    G -->|Giorno| H[🎡 PokéPark KANTO]
     G -->|Volo ~12h| I[🇮🇹 Ritorno]
 
     style A fill:#ce2b37,color:#fff
@@ -110,8 +110,8 @@ gantt
     section 🗼 Tokyo
     Asakusa + Akihabara    :2026-11-02, 1d
     Shibuya + Nakano + Shinjuku :2026-11-03, 1d
-    🏔️ Fujiyoshida          :2026-11-04, 1d
-    PokéPark + TeamLab + Odaiba :2026-11-05, 1d
+    🎡 PokéPark + TeamLab  :2026-11-04, 1d
+    Ultimo giorno libero  :2026-11-05, 1d
     Ultimo giorno          :2026-11-06, 1d
 
     section ✈️ Ritorno
@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,53,90,30,47,56,58,124,53,60,86,125,45,30]
+    bar [25,39,53,90,30,47,56,58,124,53,60,137,40,45,30]
 ```
 
 ---
@@ -176,7 +176,6 @@ xychart-beta
 | Osaka → Nara | Kintetsu Line | ~40 min | ~570 ¥ | **Non JR** — Suica/Icoca |
 | Nara → Kyoto | JR Nara Line | ~50 min | ~720 ¥ | **JR Pass** |
 | Kyoto → Tokyo | Shinkansen Hikari | ~2h 40m | ~13.320 ¥ | Biglietto singolo |
-| Tokyo → Fujiyoshida | Fuji Excursion | ~2h | ~4.200 ¥ a tratta (A/R ~8.400 ¥) | Prenotazione posto obbligatoria |
 
 **Soluzione consigliata:** [[JR pass|JR Kansai-Hiroshima Area Pass]] (**17.000 ¥ ≈ 92 €**) + biglietto singolo Kyoto→Tokyo (**~13.320 ¥ ≈ 72 €**) + Suica/Icoca per trasporti locali. **Risparmio: ~270 €/persona vs JR Pass 14gg** (80.000 ¥ ≈ 435 €). *Tasso di riferimento: ~184 ¥/€ (agosto 2026).*
 
@@ -209,22 +208,22 @@ xychart-beta
 |    9    |   1 Nov   |    30 €    |    84 €    |    10 €    |   124 €    |
 |   10    |   2 Nov   |    30 €    |    10 €    |    13 €    |    53 €    |
 |   11    |   3 Nov   |    35 €    |    10 €    |    15 €    |    60 €    |
-|   12    |   4 Nov   |    30 €    |    51 €    |    5 €     |    86 €    |
-|   13    |   5 Nov   |    35 €    |    15 €    |    75 €    |   125 €    |
+|   12    |   4 Nov   |    35 €    |    27 €    |    75 €    |   137 €    |
+|   13    |   5 Nov   |    30 €    |    10 €    |     —      |    40 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
-| **TOT** |           | **~430 €** | **~250 €** | **~241 €** | **~921 €** |
+| **TOT** |           | **~430 €** | **~221 €** | **~236 €** | **~887 €** |
 
-> Spese giornaliere **~921 €/persona** (cibo 430 + trasporti 250 + ingressi 241 — inclusi shinkansen Kyoto→Tokyo, **Fuji Excursion A/R ~8.400 ¥**, USJ, **PokéPark KANTO**, TeamLab). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.936 €/persona** (~2.880–2.990 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~887 €/persona** (cibo 430 + trasporti 221 + ingressi 236 — inclusi shinkansen Kyoto→Tokyo, USJ, **PokéPark KANTO + TeamLab il 4 nov**; **Fuji day trip rimosso**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.902 €/persona** (~2.850–2.950 €). *Tasso: ~184 ¥/€ (ag. 2026).*
 
 ### Alloggi
 
-| #   | Città          | Struttura                                                        | Date         | Notti | Cucina              | Ref              |
-| --- | -------------- | ---------------------------------------------------------------- | ------------ | ----- | ------------------- | ---------------- |
-| 0   | [[Osaka(大阪市)#Izumisano|Izumisano (KIX)]] | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]]                    | 24–25 Ott    | 1     | ✅ Kitchenette       | 🔵 **PRENOTATO** |
-| 1   | [[Osaka(大阪市)]] | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott    | 4     | ✅ Angolo cottura    | 🔵 **PRENOTATO** |
-| 2   | [[Kyoto(京都)]]  | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]]               | 29 Ott–1 Nov | 3     | ✅ Cucina attrezzata | 🔵 **PRENOTATO** |
-| 3 | [[Tokyo(東京)]] | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] | 1–6 Nov | 5 | ✅ Cucina condivisa (1° piano) | 🔵 **PRENOTATO** |
+| #   | Città                  | Struttura                                                        | Date                                           | Notti     | Cucina                        | Ref              |                  |
+| --- | ---------------------- | ---------------------------------------------------------------- | ---------------------------------------------- | --------- | ----------------------------- | ---------------- | ---------------- |
+| 0   | [[Osaka(大阪市)#Izumisano | Izumisano (KIX)]]                                                | [[KURA Hotel Izumisano\|KURA Hotel Izumisano]] | 24–25 Ott | 1                             | ✅ Kitchenette    | 🔵 **PRENOTATO** |
+| 1   | [[Osaka(大阪市)]]         | [[Osaka - Hanazonocho Apartment 103\|Hanazonocho Apartment 103]] | 25–29 Ott                                      | 4         | ✅ Angolo cottura              | 🔵 **PRENOTATO** |                  |
+| 2   | [[Kyoto(京都)]]          | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]]               | 29 Ott–1 Nov                                   | 3         | ✅ Cucina attrezzata           | 🔵 **PRENOTATO** |                  |
+| 3   | [[Tokyo(東京)]]          | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]]         | 1–6 Nov                                        | 5         | ✅ Cucina condivisa (1° piano) | 🔵 **PRENOTATO** |                  |
 >
 > 🏠 Ogni alloggio ha una pagina dedicata con indirizzo, servizi, e note per Rebecca.
 
@@ -565,46 +564,15 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ---
 
-## Giorno 12 — Mercoledì 4 Novembre — Fujiyoshida & Chureito Pagoda
+## Giorno 12 — Mercoledì 4 Novembre — PokéPark KANTO + TeamLab + Odaiba
 
-**Difficoltà:** 2/4 (camminata, non scalata) · **Budget:** ~86 € · **Meteo Fuji:** 8–14°C (fresco, porta giacca) · 25% pioggia
+**Difficoltà:** 4/4 (giornata lunga) · **Budget:** ~137 € · **Meteo:** 12–17°C, 25% pioggia
 
-> 🟢 **Miglior periodo per Fuji:** fine Ott–inizio Nov = foliage + prima neve in cima + cielo più limpido
-
-**Come arrivare:** Shinjuku → **Fuji Excursion** (~2h, **¥4.200 a tratta — A/R ~¥8.400**) — 🟡 **prenotazione posto OBBLIGATORIA** (pochi treni diretti al giorno)
-
-**Mattina:**
-- Arrivo [[Fujiyoshida (富士吉田市)]] (~10:00)
-- [[Chureito Pagoda (忠霊塔)]] #3/5 🟢 — da **stazione Shimo-Yoshida** ~10 min a piedi + salita (~400 gradini): pagoda a 5 piani + Fuji sullo sfondo = iconico
-- [[Kanandorii (金鳥居)]] #3/5 🟢 — grande torii rosso a Fujiyoshida
-
-**Pomeriggio:**
-- ⚪ **Lago Kawaguchiko** (Fujikyu Railway da Fujiyoshida ~20 min, extra ~¥230) — riflesso del Fuji sul lago. Solo se in anticipo: il rientro a Tokyo dura ~2h
-- Rientro Tokyo entro 16:00–17:00
-
-**Cibo oggi — Alternative:**
-- 🅰️ **Pranzo Fujiyoshida:** konbini (onigiri ¥100–200, frutta) · [[Mangiare in Giappone#Catene e Cibo Economico|Nakau]] (udon ¥300–600) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
-- 🅱️ **Pranzo Rebecca:** konbini (riso bianco + frutta) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (riso+uovo+carne non marinata ✅)
-- 🅲 **Cena Shinjuku:** [[Shinjuku (新宿区)]] — yakitori (¥200–500/spiedino) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000)
-- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, ¥500–1.500) · **cucina in hotel**
-- 🍽️ **Dopo cena:** hōjicha · sakè a [[Golden Gai (ゴールデン街 )]] (¥500–1.500)
-
-**Sera:**
-- [[Shinjuku (新宿区)]] 🟢 (GRATIS, fino ~22:00) — vista su tutta Tokyo ⚪ se ancora luce
-
-🅿 **PIANO B (nuvoloso — Fuji non visibile):** Kamakura day trip (#3/5) invece — JR Yokosuka Line ~1h
-
----
-
-## Giorno 13 — Giovedì 5 Novembre — Tokyo: PokéPark KANTO + TeamLab + Odaiba
-
-**Difficoltà:** 3/4 · **Budget:** ~125 € · **Meteo:** 12–17°C, 25% pioggia
-
-> 🎡 **Nuovo (11/08/26):** mattina al **PokéPark KANTO** — il primo parco a tema Pokémon permanente al mondo (aperto feb 2026) — poi sera al **TeamLab Planets**. Il [[Palazzo Imperiale di Tokyo (皇居)|Palazzo Imperiale]] e la sosta a Tsukiji escono da questo giorno per fare spazio al PokéPark.
+> 🎡 **Nuovo (11/08/26):** il day trip a [[Fujiyoshida (富士吉田市)|Fujiyoshida]] è stato **rimosso** — al suo posto **PokéPark KANTO** (primo parco Pokémon permanente, aperto feb 2026) di mattina + **TeamLab Planets** di sera (slot 19:00). Mercoledì = feriale, più economico.
 
 **Mattina | PokéPark KANTO (Yomiuriland, Tokyo ovest):**
-- **08:00** Taito → Shinjuku (metro ~30 min) → **Keio-Yomiuriland** (Keio Line ~25 min, ¥314) → gondola Sky Shuttle (¥300) o bus (¥240)
-- **10:00–16:30** [[PokéPark KANTO]] 🟡 **DA PRENOTARE** — **Trainer's Pass ¥7.900–9.400** (~43–51 €; include Yomiuriland + 1 ingresso orario Foresta) — **stare il più possibile** (chiusura ~18:00, verificare orario di novembre)
+- **08:30** Taito → Shinjuku (metro ~30 min) → **Keio-Yomiuriland** (Keio Line ~25 min, ¥314) → gondola Sky Shuttle (¥300) o bus (¥240)
+- **10:00–16:30** [[PokéPark KANTO]] 🟡 **DA PRENOTARE** — **Trainer's Pass ¥7.900–9.400** (~43–51 €; include Yomiuriland + 1 ingresso orario Foresta)
   - **Pokémon Forest** — sentiero ~500 m con 600+ Pokémon, ~110 gradini (solo 5+; scarpe comode)
   - **Sedge Town** — giostre **Pika Pika Paradise / Vee Vee Voyage** (¥1.200 a testa extra), show *Pika Pika Sparks!*, parata, Pokémon Center, Daisuki Shop
   - ⚠️ **Scaricare l'app ufficiale**: show, giostre e Playhouse si prenotano da lì appena entrati (limited-access ticket)
@@ -615,8 +583,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Sera | TeamLab Planets + Odaiba:**
 - **19:00–21:00** [[TeamLab Planets (豊洲)]] 🟡 **DA PRENOTARE** (**¥3.600**, biglietti novembre da **fine agosto 2026**, **slot 19:00**) — esperienza immersiva nell'acqua, a piedi nudi (8:00–22:00, ultimo ingresso 21:00)
-- **21:00+** [[Odaiba (お台場 )]] #2/5 🟢 — [[Rainbow Bridge (レインボーブリッジ)]] illuminata, Gundam gigante, DiverCity (breve) o rientro in hotel
-- [[Odaiba Beach]] #3/5 ⭐ — vista Rainbow Bridge notturna (⚠️ TeamLab serale = niente tramonto)
+- **21:00+** [[Odaiba (お台場 )]] #2/5 🟢 — [[Rainbow Bridge (レインボーブリッジ)]] illuminata, Gundam gigante, DiverCity
+- [[Odaiba Beach]] #3/5 ⭐ — vista Rainbow Bridge notturna (⚠️ slot serale = niente tramonto)
 
 **Cibo oggi — Alternative:**
 > 🍽️ **Timing cena:** o **cena anticipata ~18:00** a Odaiba / LaLaport Toyosu prima del TeamLab, oppure **cena tardi ~21:15** dopo (TeamLab fino alle 22:00).
@@ -625,7 +593,31 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - 🅲 **Cena Odaiba:** ristoranti con vista baia (¥2.000–4.000) · [[Mangiare in Giappone#Per Fasce di Budget|Saizeriya]] (¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant ¥500–1.500) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|bills]] (Odaiba, pancake ✅)
 - 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Odaiba, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
 
-🅿 **PIANO B (pioggia):** PokéPark è all'aperto → anticipa TeamLab al pomeriggio (slot 15:00) e Odaiba coperto (DiverCity/indoor). **PIANO B (TeamLab sold-out):** mattina PokéPark + pomeriggio Odaiba/Toyosu
+🅿 **PIANO B (pioggia):** PokéPark è all'aperto → anticipa TeamLab al pomeriggio (slot 15:00) e Odaiba coperto (DiverCity/indoor)
+
+---
+
+## Giorno 13 — Giovedì 5 Novembre — Ultimo giorno libero
+
+**Difficoltà:** 1/4 · **Budget:** ~40 € · **Meteo:** 12–17°C, 25% pioggia
+
+> 🎡 **PokéPark + TeamLab accorpati al 4 nov** (11/08/26) — il 5 nov è l'**ultimo giorno pieno prima del volo**: si gira liberi **senza attrazioni a pagamento**, rientro presto per i bagagli.
+
+**Giornata libera:**
+- Passeggiata e ultimi acquisti (a scelta): [[Asakusa(浅草)]] · [[Parco di Ueno (上野恩賜公園)|Ueno]] · [[Akihabara (秋葉原)]] · [[Ginza (銀座)]] · [[Nakano Broadway (中野ブロードウェイ)]]
+- ⚪ [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — solo per chi si sveglia presto (colazione di sushi per Lorenzo&Davide)
+- **Preparare i bagagli** (volo 6 nov 08:40 — sveglia ~04:30)
+
+**Sera:**
+- Cena leggera e rientro presto — volo all'alba
+
+**Cibo oggi — Alternative:**
+- 🅰️ **Colazione/presto:** [[Mangiare in Giappone#Mercati e Street Food|Tsukiji]] (sushi per Lorenzo&Davide) · konbini (onigiri, yogurt)
+- 🅱️ **Rebecca:** konbini (yogurt, frutta, uovo sodo) · **cucina in hotel**
+- 🅲 **Pranzo/cena:** konbini · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · depachika
+- 🅳 **Rebecca:** **cucina in hotel**
+
+🅿 **PIANO B (pioggia):** quartieri coperti (Akihabara, Ginza, Tokyo Station) — zero impatto
 
 ---
 
@@ -702,12 +694,14 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Prezzi aggiornati: TeamLab ¥3.600, Skytree ¥2.400, Shibuya Sky ¥2.700, Tenryu-ji ¥500-800, Todaiji ¥800 | 11 Ago 2026 | Agente | — |
 | **Aggiunto PokéPark KANTO al Giorno 13** (5 nov): mattina PokéPark + sera TeamLab (slot 19:00) + Odaiba | 11 Ago 2026 | Agente | Palazzo Imperiale e Tsukiji rimossi dal giorno 13 per fare spazio |
 | Budget aggiornato a ~2.936 €/pax (PokéPark incluso) | 11 Ago 2026 | Agente | — |
+| **Fuji day trip rimosso del tutto** (4 nov) | 11 Ago 2026 | Agente | Togliere il trip a Fujiyoshida |
+| **PokéPark + TeamLab accorpati al 4 nov**; 5 nov = ultimo giorno libero senza attrazioni | 11 Ago 2026 | Agente | TeamLab slot 19:00 del 4 nov · budget a ~2.902 €/pax |
 
 ---
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.936 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.902 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
 | ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
@@ -716,13 +710,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Cibo (15 gg × ~30 €)               | ~430 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
-| Fuji Excursion A/R                  | ~46 € (8.400 ¥)    | ❌ Da prenotare        | —     | Prenotazione posto obbligatoria                                 |                         |     |
-| Trasporti locali (15 gg)            | ~127 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)                       |                         |     |
-| Attrazioni (USJ, PokéPark, templi, TeamLab…) | ~241 €             | ❌ Da calcolare        | —     | Vedi                                                           | Attività e Prenotazioni |     |
+| Trasporti locali (15 gg)            | ~149 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, PokéPark, TeamLab)     |                         |     |
+| Attrazioni (USJ, PokéPark, templi, TeamLab…) | ~236 €             | ❌ Da calcolare        | —     | Vedi                                                           | Attività e Prenotazioni |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | Assicurazione Heymondo  |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.936 €**       | **🔵 Voli prenotati** | —     | ~2.880–2.990 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
+| **TOTALE**                         | **~2.902 €**       | **🔵 Voli prenotati** | —     | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
 ### Budget Rebecca (extra cibo)
 
@@ -740,12 +733,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Volo A/R (China Eastern, open-jaw) — PRENOTATO | 1.096 € |
 | Alloggio (13 notti, camera condivisa/3) | ~380 € |
-| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~921 € |
+| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~887 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~92 € |
 | Spese personali (souvenir, extra) | ~400 € |
 | Assicurazione viaggio | ~27 € |
 | eSIM | ~20 € |
-| **TOTALE** | **~2.936 €** (~2.880–2.990 €) |
+| **TOTALE** | **~2.902 €** (~2.850–2.950 €) |
 
 ---
 
@@ -760,11 +753,10 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · Klook o JR West online                                                                |
 | Universal Studios Japan biglietti                         | **URGENTE (2+ mesi)** | ❌ Da prenotare   | ¥8.400–9.400 · **acquisto anticipato OBBLIGATORIO** (dal 2025 niente biglietti al parco) · Klook                             |
-| TeamLab Planets                                           | **Fine agosto 2026**  | ❌ Da prenotare   | ¥3.600 · biglietti novembre in vendita da fine agosto · **slot 19:00 del 5 nov** · teamlab.art                                       |
-| PokéPark KANTO (Yomiuriland)                              | **Inizio settembre**  | ❌ Da prenotare   | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · max 2 biglietti/persona · 5 nov     |
+| TeamLab Planets                                           | **Fine agosto 2026**  | ❌ Da prenotare   | ¥3.600 · biglietti novembre in vendita da fine agosto · **slot 19:00 del 4 nov** · teamlab.art                                       |
+| PokéPark KANTO (Yomiuriland)                              | **Inizio settembre**  | ❌ Da prenotare   | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · max 2 biglietti/persona · 4 nov     |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
 | Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |
-| Prenotazione Fuji Excursion treno                         | 1 mese prima          | ❌ Da prenotare   | ¥4.200 · **prenotazione posto OBBLIGATORIA** · JR East online                                                                  |
 | Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |
 | Assicurazione Heymondo                                    | **Agosto 2026**       | ❌ Da stipulare   | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]]                                                                      |
 

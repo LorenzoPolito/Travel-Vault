@@ -49,7 +49,7 @@ tags:
 ##### Pomeriggio
 - Check-in all'hotel
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
+- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town]]
 ##### Sera
 - [[Asakusa(浅草)]] di notte
 
@@ -124,7 +124,7 @@ tags:
 ##### Mattina
 - *Lavanderia* ?
 - Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]]
-- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon center Asakusa]]
+- [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town]]
 ##### Pomeriggio
 - #gruppoA Quartiere di [[Akihabara (秋葉原)]]  
 - #gruppoB [[The making of harry potter (ワーナー ブラザース スタジオツアー東京 - メイキング・オブ・ハリー・ポッター)]]

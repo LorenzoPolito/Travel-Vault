@@ -204,7 +204,7 @@ Un ristorante stellato per tutto il viaggio — scegliete quale:
 | **Noguchi Tsunagu** ⭐ | 1★ Kaiseki | Kyoto (Gion) | ¥15.000–25.000 | Kappo-style, carne A5, atmosfera esclusiva |
 | **Udatsu Sushi** ⭐ | 1★ Sushi | Tokyo (Ginza) | ¥15.000–30.000 | Galleria d'arte, nigiri creativi, esperienza totale |
 
-> **Consiglio:** Se volete fare uno stellato, [[Sushiroku]] a Osaka è il più accessibile come prezzo e atmosfera. Per un'esperienza completa, [[Noguchi Tsunagu]] a Kyoto è indimenticabile.
+> **Consiglio:** Se volete fare uno stellato, **Sushiroku** a Osaka è il più accessibile come prezzo e atmosfera. Per un'esperienza completa, **Noguchi Tsunagu** a Kyoto è indimenticabile.
 
 ---
 

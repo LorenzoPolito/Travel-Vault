@@ -14,6 +14,8 @@ tags:
 
 # PokéPark KANTO
 
+![PokéPark KANTO — Pokémon Forest, ingresso al Sekkoku Research Lab](https://upload.wikimedia.org/wikipedia/commons/f/f5/ProfSekkokuLab_20260205.jpg)
+
 > Il **primo parco a tema Pokémon permanente al mondo** — aperto il **5 febbraio 2026** dentro Yomiuriland (Tokyo ovest). 600+ Pokémon, ~26.000 m².
 
 ## Info pratiche

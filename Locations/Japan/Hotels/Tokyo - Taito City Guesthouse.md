@@ -66,3 +66,7 @@ Cucina **al primo piano, condivisa** — Rebecca può cucinare. Portare:
 - Atmosfera tradizionale giapponese — esperienza autentica
 - Zona tranquilla, lontana dal caos di Shinjuku/Shibuya
 - Ben collegata con Asakusa e Ueno
+
+## Mappa
+
+<iframe src="https://www.google.com/maps?q=4-27-6%20Senzoku%20Taito%20Tokyo%20Japan&output=embed" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

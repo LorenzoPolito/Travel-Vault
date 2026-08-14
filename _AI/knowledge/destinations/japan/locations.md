@@ -164,7 +164,7 @@ total_locations: 76
 - Ginza `#1/5`
 
 **Day trip:**
-- Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(lontano)*
+- Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(rimosso dal piano attivo 11/08/26 — resta come day trip opzionale)*
 - **PokéPark KANTO** (Yomiuriland, Tokyo ovest) `#5/5` *(Lorenzo — primo parco Pokémon permanente al mondo, feb 2026; Trainer's Pass ¥7.900–9.400, prenotazione online ~2 mesi prima, NO walk-in)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
@@ -194,4 +194,4 @@ total_locations: 76
 - **Damiano:** Harry Potter Studio → prenotazione obbligatoria con mesi di anticipo
 - **TeamLab Planets:** ¥3.600 · prenotazione online obbligatoria · **biglietti novembre da fine agosto 2026**
 - **USJ:** ¥8.400–9.400 · **acquisto anticipato obbligatorio** (dal 2025 non si vendono al parco)
-- **Fuji Excursion:** ~¥4.200 Shinjuku→Fujiyoshida/Kawaguchiko · prenotazione posto obbligatoria
+- ~~**Fuji Excursion:** ~¥4.200 Shinjuku→Fujiyoshida/Kawaguchiko · prenotazione posto obbligatoria~~ *(rimosso dal piano attivo 11/08/26)*

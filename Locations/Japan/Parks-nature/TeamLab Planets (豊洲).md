@@ -13,6 +13,8 @@ tags:
 
 # TeamLab Planets (豊洲)
 
+![TeamLab Planets TOKYO — Toyosu](https://upload.wikimedia.org/wikipedia/commons/0/0e/Teamlab_toyosu.jpg)
+
 > Museo di arte digitale immersiva a Toyosu — si cammina nell'acqua a piedi nudi. Tra i musei più visitati al mondo (2,5M visitatori/anno).
 
 ## Info pratiche

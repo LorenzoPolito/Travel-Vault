@@ -52,3 +52,7 @@ Supermarket più vicino: meglio verificare su Google Maps all'arrivo, ma nella z
 - Nuova apertura, biancheria di qualità alberghiera
 - Vicinissimo alla metro (1 min), comodo per spostamenti
 - Zona Nishinari — più popolare ma ben collegata
+
+## Mappa
+
+<iframe src="https://www.google.com/maps?q=1-2-35%20Bainan%20Nishinari%20Osaka%20Japan&output=embed" allow="fullscreen" allowfullscreen="" style="height:100%;width:100%; aspect-ratio: 16 / 9; "></iframe>

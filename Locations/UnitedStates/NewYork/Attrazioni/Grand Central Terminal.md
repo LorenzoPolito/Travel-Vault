@@ -11,6 +11,9 @@ source: grandcentralterminal.com
 
 **Rating:** `#4/5`
 
+![[nyc-grand-central-1.jpg]]
+![[nyc-grand-central-2.jpg]]
+
 ## Info
 
 | | |
@@ -19,6 +22,12 @@ source: grandcentralterminal.com
 | **Orari** | 5:30-2:00 (gratuito) |
 | **Linee metro** | 4/5/6/7/S |
 | **Sito** | grandcentralterminal.com |
+
+## Perché Visitarlo
+
+La **Grand Central Terminal** è la stazione ferroviaria più famosa del mondo: inaugurata nel 1913, è un capolavoro architettonico con il Main Concourse a volta, il soffitto stellato con lo zodiaco in foglia d'oro e l'orologio a quattro facce al centro. È anche il punto d'incontro più celebre di New York.
+
+Oltre a essere una stazione funzionante, è un monumento gratuito da visitare: entrate, alzate lo sguardo e godetevi l'atmosfera d'epoca. La Whispering Gallery, il ristorante storico The Oyster Bar e il collegamento diretto con il SUMMIT One Vanderbilt la rendono una tappa da non perdere in centro.
 
 ## Come Arrivare
 

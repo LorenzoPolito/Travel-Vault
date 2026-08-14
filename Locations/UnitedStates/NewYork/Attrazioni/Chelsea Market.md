@@ -10,6 +10,10 @@ status: confirmed
 
 **Rating:** `#4/5`
 
+![[nyc-chelsea-market-1.jpg]]
+![[nyc-chelsea-market-2.jpg]]
+![[nyc-chelsea-market-3.jpg]]
+
 ## Info
 
 | | |
@@ -18,6 +22,12 @@ status: confirmed
 | **Orari** | 7:00-23:00 (gratuito) |
 | **Metro** | A/C/E → 14th St. 1 → 18th St |
 | **Sito** | chelseamarket.com |
+
+## Perché Visitarlo
+
+Il **Chelsea Market** è un food hall e mercato coperto dentro un ex stabilimento industriale di biscotti (qui è stato inventato l'Oreo!), nel cuore del Meatpacking District. Un labirinto di bancarelle gastronomiche, negozi di specialità e ristoranti lo rendono una delle mete food più amate di New York.
+
+Oltre a essere perfetto per una pausa pranzo veloce e varia, ha un'atmosfera industriale unica con i soffitti alti e le insegne vintage. La sua posizione è strategica: l'ingresso sud della High Line parte proprio sopra il market, quindi i due luoghi si visitano naturalmente insieme.
 
 ## Da Non Perdere
 

@@ -11,6 +11,10 @@ source: esbnyc.com
 
 **Rating:** `#5/5`
 
+![[nyc-empire-state-1.jpg]]
+![[nyc-empire-state-2.jpg]]
+![[nyc-empire-state-3.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +25,12 @@ source: esbnyc.com
 | **Biglietto** | $75 (86°+museo) |
 | **CityPASS** | ✅ **Incluso (AM/PM Experience)** — visita giorno + rientro stessa notte gratis |
 | **Sito** | esbnyc.com |
+
+## Perché Visitarlo
+
+L'**Empire State Building** è il grattacielo più iconico del mondo: inaugurato nel 1931, i suoi 102 piani hanno dominato la skyline di New York per decenni. Salire all'osservatorio all'aperto dell'86° piano regala una vista a 360° su tutta la città, dalla Statua della Libertà fino al Central Park.
+
+Con il CityPASS è inclusa l'AM/PM Experience: si visita di giorno e si rientra la stessa notte senza coda per vedere la città illuminata. Portate un giacchetto — al 86° piano all'aperto il vento è forte anche in estate — e scegliete gli orari meno affollati per evitare la folla.
 
 ## Come Arrivare
 

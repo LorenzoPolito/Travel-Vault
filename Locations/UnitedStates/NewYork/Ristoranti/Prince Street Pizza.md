@@ -11,6 +11,8 @@ source: Google Maps reviews
 
 **Rating:** `#5/5`
 
+![[nyc-soho-1.jpg]]
+
 ## Info
 
 | | |
@@ -22,6 +24,12 @@ source: Google Maps reviews
 | **Paga** | Carte accettate |
 | **Metro** | 1 → Prince St. R/W → Prince St |
 | **Da hotel** | 🚶 5 min (è dietro l'angolo!) |
+
+## Perché Ci Va Bene / Descrizione
+
+Prince Street Pizza è il tempio della **Spicy Pepperoni Square** ⭐, la slice più famosa di NYC: base spessa e soffice, formaggio filante e pepperoni croccanti che diventano a tazza durante la cottura. È un'istituzione di SoHo che ogni food-tourista deve provare almeno una volta.
+
+Non è un ristorante: si ordina al banco e si mangia in piedi o da asporto. C'è sempre coda ma va veloce (10-15 min). 🚶 A 5 min dall'hotel — perfetta per una cena veloce la prima sera.
 
 ## Cosa Ordinare
 

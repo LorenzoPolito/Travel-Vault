@@ -1,6 +1,7 @@
 import { readdir, readFile, writeFile, mkdir, copyFile, stat, rm } from 'fs/promises';
 import { join, dirname, basename, extname, relative, resolve } from 'path';
 import { existsSync } from 'fs';
+import { slug as sluggerSlug } from 'github-slugger';
 
 const VAULT_ROOT = resolve(dirname(new URL(import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1')), '../..');
 const WEBSITE_ROOT = resolve(dirname(new URL(import.meta.url).pathname.replace(/^\/([A-Z]:)/, '$1')), '..');
@@ -52,9 +53,13 @@ async function buildSlugTypeMap() {
 }
 
 function resolveWikilink(page, section) {
-  const slug = slugify(page);
+  // Page may be a full Obsidian path (e.g. "Locations/UnitedStates/NewYork/Attrazioni/Statua della Libertà").
+  // We must resolve against the BASENAME slug, because slugs are generated from file basenames.
+  const pageBase = page.split('/').pop();
+  const slug = slugify(pageBase);
   const prefix = slugTypeMap?.[slug] ? URL_PREFIXES[slugTypeMap[slug]] : '/Travel-Vault/locations/';
-  const sectionAnchor = section ? '#' + slugify(section) : '';
+  // Section anchors must match Astro's github-slugger heading IDs (keeps parens & accents).
+  const sectionAnchor = section ? '#' + sluggerSlug(section.trim()) : '';
   return `${prefix}${slug}/${sectionAnchor}`;
 }
 
@@ -110,6 +115,10 @@ function extractRating(content) {
 function transformContent(content, filePath) {
   let result = content;
 
+  // Coordinate/rating extraction is only meaningful for location pages
+  // (itineraries mention "#X/5" ratings of locations and must NOT get a rating).
+  const isLocation = result.includes('type: location') || result.includes('type: city');
+
   const mapviewCoords = extractMapviewCoords(result);
   const leafletCoords = extractLeafletCoords(result);
   const gpsMatch = result.match(/^gps:\s*(-?\d+\.\d+),\s*(-?\d+\.\d+)/m);
@@ -130,12 +139,12 @@ function transformContent(content, filePath) {
   result = result.replace(/```(mapview|leaflet)[\s\S]*?```/g, '');
 
   // Extract highest rating from content
-  const topRating = extractRating(result);
+  const topRating = isLocation ? extractRating(result) : null;
 
   // Inject location and rating into frontmatter (only if not already present)
   const frontmatterLines = [];
-  if (lat && lon && !result.match(/^location:\s*/m)) frontmatterLines.push(`location: [${lat}, ${lon}]`);
-  if (topRating && !result.match(/^rating:\s*/m)) frontmatterLines.push(`rating: "${topRating}/5"`);
+  if (isLocation && lat && lon && !result.match(/^location:\s*/m)) frontmatterLines.push(`location: [${lat}, ${lon}]`);
+  if (isLocation && topRating && !result.match(/^rating:\s*/m)) frontmatterLines.push(`rating: "${topRating}/5"`);
 
   if (frontmatterLines.length > 0) {
     const injection = '\n' + frontmatterLines.join('\n') + '\n';
@@ -156,6 +165,16 @@ function transformContent(content, filePath) {
     return `![${imgName}](/Travel-Vault/images/vault/${imgName})`;
   });
 
+  // Transform section-only in-page wikilinks: [[#Section|Display]] → [Display](#anchor)
+  result = result.replace(/\[\[#([^\]|]+)\|([^\]]+)\]\]/g, (_, section, display) => {
+    return `[${display}](#${sluggerSlug(section.trim())})`;
+  });
+
+  // Transform section-only in-page wikilinks: [[#Section]] → [Section](#anchor)
+  result = result.replace(/\[\[#([^\]|]+)\]\]/g, (_, section) => {
+    return `[${section}](#${sluggerSlug(section.trim())})`;
+  });
+
   // Transform wikilinks with alias and optional section: [[Page#Section|Display]] → [Display](/prefix/slug/#section)
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\|([^\]]+)\]\]/g, (_, page, section, display) => {
     return `[${display}](${resolveWikilink(page, section)})`;
@@ -165,6 +184,9 @@ function transformContent(content, filePath) {
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\]\]/g, (_, page, section) => {
     return `[${page}](${resolveWikilink(page, section)})`;
   });
+
+  // Remove orphaned Obsidian brackets left by malformed wikilinks in source (e.g. stray "]]")
+  result = result.replace(/\]\]/g, '').replace(/\[\[/g, '');
 
   // Remove Obsidian comments: %% ... %%
   result = result.replace(/%%[\s\S]*?%%/g, '');

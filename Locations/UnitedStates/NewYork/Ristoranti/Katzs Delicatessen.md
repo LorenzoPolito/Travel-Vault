@@ -11,6 +11,8 @@ source: Google Maps reviews, The Infatuation
 
 **Rating:** `#5/5`
 
+![[nyc-lower-east-side-1.jpg]]
+
 ## Info
 
 | | |
@@ -22,6 +24,12 @@ source: Google Maps reviews, The Infatuation
 | **Paga** | Carte accettate |
 | **Metro** | 6 → Bleecker St. F → 2nd Ave |
 | **Sito** | katzsdelicatessen.com |
+
+## Perché Ci Va Bene / Descrizione
+
+Katz's Delicatessen è la **deli più iconica di New York**, aperta dal 1888. Famosa in tutto il mondo per il pastrami sandwich affumicato per settimane e tagliato a mano, è la location della scena cult di *Harry Met Sally* ("I'll have what she's having"). Un pezzo di storia ebraico-newyorkese che va visitato almeno una volta.
+
+C'è **sempre coda**, ma si muove in fretta (15-25 min): prendete il numero al banco, ordinate e aspettate il vostro turno. Le porzioni sono enormi — un sandwich basta per due. Atmosfera da vecchia New York, chiassosa e autentica.
 
 ## Cosa Ordinare
 

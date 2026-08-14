@@ -11,6 +11,10 @@ source: amnh.org
 
 **Rating:** `#5/5`
 
+![[nyc-amnh-1.jpg]]
+![[nyc-amnh-2.jpg]]
+![[nyc-amnh-3.jpg]]
+
 ## Info
 
 | | |
@@ -20,6 +24,12 @@ source: amnh.org
 | **Biglietto** | $43 (include ingresso generale + 1 mostra speciale) |
 | **CityPASS** | ✅ **Incluso** (prenotazione orario obbligatoria) |
 | **Sito** | amnh.org |
+
+## Perché Visitarlo
+
+L'**American Museum of Natural History** è uno dei musei più grandi e famosi al mondo: 33 milioni di reperti tra fossili di dinosauri, minerali, animali e cultura. La sala dei dinosauri con il T-Rex è considerata la migliore al mondo, e la balena blu della Hall of Ocean Life è l'icona assoluta del museo.
+
+Si trova proprio di fronte a Central Park ed è incluso nel CityPASS con prenotazione obbligatoria. Tre ore bastano per le sale principali, ma il museo è enorme: arrivate all'apertura per godervelo senza folla e prendete la mappa all'ingresso.
 
 ## Come Arrivare
 

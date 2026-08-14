@@ -11,6 +11,9 @@ source: rockefellercenter.com
 
 **Rating:** `#5/5`
 
+![[nyc-top-of-the-rock-1.jpg]]
+![[nyc-top-of-the-rock-2.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +24,12 @@ source: rockefellercenter.com
 | **Biglietto** | $72 |
 | **CityPASS** | ✅ **Opzione choice** (prenotazione orario obbligatoria) |
 | **Sito** | rockefellercenter.com |
+
+## Perché Visitarlo
+
+Il **Top of the Rock** è l'osservatorio panoramico del Rockefeller Center, al 70° piano, con tre terrazze a più livelli. Ha un vantaggio unico: è l'unico punto da cui si vede l'Empire State Building in tutta la sua imponenza, incorniciato nella skyline di Midtown — la foto perfetta.
+
+Da qui si gode anche l'unica vista completa su Central Park dall'alto. È incluso nel CityPASS come opzione, con code più brevi rispetto all'Empire State Building: consigliato nel tardo pomeriggio, quando la luce piena illumina i grattacieli.
 
 ## Come Arrivare
 

@@ -11,6 +11,8 @@ source: Google Maps reviews
 
 **Rating:** `#5/5`
 
+![[nyc-upper-west-side-1.jpg]]
+
 ## Info
 
 | | |
@@ -20,6 +22,12 @@ source: Google Maps reviews
 | **Specialità** | Cookie gigante ⭐ |
 | **Prezzo** | ~$5/cookie |
 | **Orari** | Lun-Dom 8:00-21:00 |
+
+## Perché Ci Va Bene / Descrizione
+
+Levain Bakery è la pasticceria dei **cookie più famosi di NYC**: enormi (6 once l'uno), croccanti fuori e morbidi e caldi dentro. Il Chocolate Chip Walnut è diventato un'icona della città, con code quasi sempre presenti ma veloci (5-10 min).
+
+La sede UWS è a 5 min da AMNH, perfetta per la colazione prima o dopo il museo. I cookie sono così grandi che **uno basta per 2 persone** — prendetene 2 per 3 e condividete.
 
 ## Cosa Ordinare
 

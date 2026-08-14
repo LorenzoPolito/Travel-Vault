@@ -11,6 +11,9 @@ source: brooklynbridgepark.org
 
 **Rating:** `#5/5`
 
+![[nyc-brooklyn-bridge-park-1.jpg]]
+![[nyc-brooklyn-bridge-park-2.jpg]]
+
 ## Info
 
 | | |
@@ -18,6 +21,12 @@ source: brooklynbridgepark.org
 | **Indirizzo** | 334 Furman St, Brooklyn, NY 11201 (lungo l'East River) |
 | **Lunghezza** | 1.3 mi lungo il fiume |
 | **Orari** | 6:00-1:00 (gratuito) |
+
+## Perché Visitarlo
+
+Il **Brooklyn Bridge Park** è un parco di 34 ettari che si estende per 1.3 miglia lungo l'East River, sotto il ponte di Brooklyn. Offre la vista più spettacolare su Manhattan: la skyline di Lower Manhattan, i ponti e il fiume, con prati, moli e la storica giostra Jane's Carousel.
+
+È il posto perfetto per il tramonto: Manhattan si illumina proprio davanti a voi mentre le famiglie e i locali si godono l'aria di Brooklyn. Il percorso consigliato parte da Washington Street (la foto iconica del Manhattan Bridge), passa da Pebble Beach e finisce con la vista dal Main Street Park.
 
 ## Come Arrivare
 

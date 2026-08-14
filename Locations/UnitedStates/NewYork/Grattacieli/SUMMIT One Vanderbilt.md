@@ -11,6 +11,10 @@ source: summitov.com
 
 **Rating:** `#5/5`
 
+![[nyc-summit-one-vanderbilt-1.jpg]]
+![[nyc-summit-one-vanderbilt-2.jpg]]
+![[nyc-summit-one-vanderbilt-3.jpg]]
+
 ## Info
 
 | | |
@@ -22,6 +26,12 @@ source: summitov.com
 | **CityPASS** | ❌ **Non incluso** |
 | **Prenotazione** | ✅ Obbligatoria (sito: summitov.com) |
 | **Sito** | summitov.com |
+
+## Perché Visitarlo
+
+Il **SUMMIT One Vanderbilt** è il più recente e spettacolare osservatorio di New York, al 91° piano di One Vanderbilt, proprio sopra la Grand Central. Non è solo un belvedere: le installazioni immersive con specchi, luci e le terrazze con vetrate a ponte creano un'esperienza sensoriale unica al mondo.
+
+È considerato da molti il miglior punto panoramico della città, con una vista che spazia dal Central Park all'East River. Non è incluso nel CityPASS e richiede una prenotazione obbligatoria: consigliamo il tramonto, quando il cielo si colora e la città si accende sotto di voi.
 
 ## Come Arrivare
 

@@ -11,6 +11,10 @@ source: timessquarenyc.org
 
 **Rating:** `#3/5`
 
+![[nyc-times-square-1.jpg]]
+![[nyc-times-square-2.jpg]]
+![[nyc-times-square-3.jpg]]
+
 ## Info
 
 | | |
@@ -18,6 +22,12 @@ source: timessquarenyc.org
 | **Indirizzo** | Tra 42nd-47th St & Broadway-7th Ave |
 | **Orari** | 24/7, gratuito |
 | **Metro** | 1/2/3/7/N/Q/R/W/S → Times Sq-42nd St |
+
+## Perché Visitarlo
+
+**Times Square** è il "Crossroads of the World": un incrocio tra Broadway e la 7th Avenue dove i maxi-schermi LED trasformano la notte in giorno. È il cuore pulsante dell'energia di New York, pieno di luci, teatro e folla che non si ferma mai.
+
+Anche se non è il posto più rilassante della città, vedere Times Square accendersi al tramonto è un'esperienza che non esiste in nessun altro luogo al mondo. Venti minuti bastano per assorbirla, e da lì si raggiungono a piedi Broadway, Grand Central e il Rockefeller Center.
 
 ## Da Non Perdere
 

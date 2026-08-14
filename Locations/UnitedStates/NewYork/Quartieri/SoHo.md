@@ -10,6 +10,10 @@ status: confirmed
 
 **Rating:** `#5/5`
 
+![[nyc-soho-1.jpg]]
+![[nyc-soho-2.jpg]]
+![[nyc-soho-3.jpg]]
+
 ## Info
 
 | | |

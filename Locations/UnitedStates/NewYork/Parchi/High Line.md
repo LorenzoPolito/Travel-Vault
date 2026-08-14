@@ -11,6 +11,10 @@ source: thehighline.org
 
 **Rating:** `#4/5`
 
+![[nyc-high-line-1.jpg]]
+![[nyc-high-line-2.jpg]]
+![[nyc-high-line-3.jpg]]
+
 ## Info
 
 | | |
@@ -20,6 +24,12 @@ source: thehighline.org
 | **Orari** | 7:00-23:00 (gratuito) |
 | **Accessi principali** | Gansevoort St, 14th St, 23rd St, 30th St, 34th St |
 | **Sito** | thehighline.org |
+
+## Perché Visitarlo
+
+La **High Line** è un parco sopraelevato di 2.3 km costruito su una vecchia linea ferroviaria abbandonata, trasformato in un giardino pubblico con flora spontanea e installazioni d'arte. Camminare sospesi tra gli edifici di Chelsea regala una prospettiva unica sulla città e sul fiume Hudson.
+
+È un'esperienza gratuita che unisce natura, arte e urbanistica: la passeggiata parte dall'ingresso sud sopra il Chelsea Market e arriva fino a Hudson Yards. Al mattino o al tramonto si evita il caldo e ci si gode la vista migliore in 45-60 minuti.
 
 ## Come Arrivare
 

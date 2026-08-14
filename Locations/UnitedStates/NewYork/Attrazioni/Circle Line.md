@@ -11,6 +11,10 @@ source: circleline.com
 
 **Rating:** `#5/5`
 
+![[nyc-circle-line-1.jpg]]
+![[nyc-circle-line-2.jpg]]
+![[nyc-circle-line-3.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +25,12 @@ source: circleline.com
 | **Biglietto** | $55 (Best of NYC) |
 | **CityPASS** | ✅ Incluso (prenotazione orario obbligatoria) — scegli tra tutti i tour regolari |
 | **Sito** | circleline.com |
+
+## Perché Visitarlo
+
+La **Circle Line** è la storica compagnia di crociere turistiche che gira intorno a Manhattan: dal molo si sale a bordo e si ammira la città dal punto di vista più spettacolare, quello dell'acqua. Con il CityPASS la crociera è inclusa, scegliendo tra i tour regolari della giornata.
+
+È il modo migliore per vedere la Statua della Libertà, i ponti illuminati e l'intera skyline senza camminare: una pausa perfetta dopo giorni di passeggiate. Il tour consigliato è Harbor Lights, di 2 ore, al tramonto, quando Manhattan si accende di fronte a voi.
 
 ## Come Arrivare (a Pier 83)
 

@@ -11,6 +11,10 @@ source: centralparknyc.org
 
 **Rating:** `#5/5`
 
+![[nyc-central-park-1.jpg]]
+![[nyc-central-park-2.jpg]]
+![[nyc-central-park-3.jpg]]
+
 ## Info
 
 | | |
@@ -19,6 +23,12 @@ source: centralparknyc.org
 | **Orari** | 6:00-1:00 (gratuito) |
 | **Ingresso consigliato** | Columbus Circle (59th St & 8th Ave) o Grand Army Plaza (59th & 5th) |
 | **Sito** | centralparknyc.org |
+
+## Perché Visitarlo
+
+Il **Central Park** è il polmone verde di New York: 341 ettari di boschi, laghi, prati e sentieri nel cuore di Manhattan. Progettato nell'Ottocento, è il parco urbano più famoso del mondo e un contrasto meraviglioso con i grattacieli che lo circondano.
+
+Il percorso consigliato in 3 ore parte da Columbus Circle e tocca i luoghi iconici: The Pond, Gapstow Bridge, Bethesda Terrace, Bow Bridge, Strawberry Fields e Belvedere Castle. Gratuito e aperto dalle 6:00, è perfetto la mattina presto in estate, quando il caldo è ancora sopportabile.
 
 ## Come Arrivare
 

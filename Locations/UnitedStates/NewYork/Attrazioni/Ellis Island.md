@@ -11,6 +11,9 @@ source: nps.gov
 
 **Rating:** `#4/5`
 
+![[nyc-ellis-island-1.jpg]]
+![[nyc-ellis-island-3.jpg]]
+
 ## Info
 
 | | |
@@ -20,6 +23,12 @@ source: nps.gov
 | **Orari** | 8:30-16:30 |
 | **Biglietto** | Incluso nel biglietto della Statua della Libertà |
 | **CityPASS** | ✅ Incluso |
+
+## Perché Visitarlo
+
+**Ellis Island** è il portale attraverso cui, dal 1892 al 1954, sono passati oltre 12 milioni di immigrati prima di entrare negli Stati Uniti. Oggi ospita il National Museum of Immigration, una delle esperienze più commoventi di New York: la Great Hall restaurata, le foto d'epoca e le storie personali raccontano le origini dell'America.
+
+Si raggiunge con lo stesso traghetto della Statua della Libertà, quindi le due visite si abbinano perfettamente in un'unica mezza giornata. L'audio tour è incluso nel biglietto e disponibile in italiano: un viaggio nella storia che vale la pena fare almeno una volta.
 
 ## Da Non Perdere
 

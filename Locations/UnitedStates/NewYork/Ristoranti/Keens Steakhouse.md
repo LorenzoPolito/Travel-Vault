@@ -11,6 +11,8 @@ source: Google Maps reviews
 
 **Rating:** `#5/5`
 
+![[nyc-rockefeller-center-1.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +23,12 @@ source: Google Maps reviews
 | **Orari** | Lun-Dom 11:30-22:00 |
 | **Prenotazione** | Consigliata |
 | **Sito** | keens.com |
+
+## Perché Ci Va Bene / Descrizione
+
+Keens è la **steakhouse più antica di NYC** (1885), un'istituzione con pareti piene di pipe di argilla appartenute a clienti famosi. Atmosfera tradizionale e maschile, con bar in legno e camerieri in giacca nera — si respira la New York di un secolo fa. È la scelta perfetta per l'ultima cena in città.
+
+Il conto è alto ($$$$), ma la **Mutton Chop** è una specialità rara e il locale è a 10 min a piedi dall'Empire State Building. Consigliata la prenotazione; non serve la giacca ma non è il posto per shorts e infradito.
 
 ## Cosa Ordinare
 

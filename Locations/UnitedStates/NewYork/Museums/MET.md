@@ -11,6 +11,10 @@ source: metmuseum.org
 
 **Rating:** `#5/5`
 
+![[nyc-met-museum-1.jpg]]
+![[nyc-met-museum-2.jpg]]
+![[nyc-met-museum-3.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +25,12 @@ source: metmuseum.org
 | **Biglietto** | $30 adulto |
 | **CityPASS** | ❌ Non incluso |
 | **Sito** | metmuseum.org |
+
+## Perché Visitarlo
+
+Il **Metropolitan Museum of Art** è il museo d'arte più importante degli Stati Uniti: oltre 2 milioni di opere che vanno dall'antico Egitto ai maestri moderni. Qui si trovano il Tempio di Dendur, i Van Gogh, i Jackson Pollock e il celebre Washington Crossing the Delaware — un patrimonio che basterebbe a riempire un'intera giornata.
+
+Si affaccia su Central Park lungo la Museum Mile ed è una delle tappe imperdibili di New York. Il biglietto è valido per 3 giorni consecutivi e il venerdì sera (aperto fino alle 21:00) è il momento più tranquillo: concentratevi su due ali al massimo per non perdersi.
 
 ## Come Arrivare
 

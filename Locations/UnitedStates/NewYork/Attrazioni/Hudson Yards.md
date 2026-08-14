@@ -9,6 +9,10 @@ rating: 3/5
 
 **Rating:** `#3/5`
 
+![[nyc-hudson-yards-1.jpg]]
+![[nyc-hudson-yards-2.jpg]]
+![[nyc-hudson-yards-3.jpg]]
+
 Complesso moderno a 34th & 11th Ave. Fine nord della [[Locations/UnitedStates/NewYork/Parchi/High Line]].
 
 - **The Vessel** — struttura a nido d'ape (vista gratis dall'esterno)

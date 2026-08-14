@@ -11,6 +11,9 @@ source: nyc.gov
 
 **Rating:** `#5/5`
 
+![[nyc-brooklyn-bridge-1.jpg]]
+![[nyc-brooklyn-bridge-2.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +24,12 @@ source: nyc.gov
 | **Orari** | 24/7, gratuito |
 | **Ingresso lato Brooklyn** | Tillary St & Cadman Plaza (vicino stazione High St) |
 | **Ingresso lato Manhattan** | Centre St & Chambers St (City Hall) |
+
+## Perché Visitarlo
+
+Il **Brooklyn Bridge** è uno dei ponti più iconici del mondo: inaugurato nel 1883, ha collegato per la prima volta Manhattan a Brooklyn sospeso sull'East River con le sue caratteristiche torri in pietra e i cavi d'acciaio. Attraversarlo a piedi regala la vista più famosa della skyline di Lower Manhattan, con la Statua della Libertà sullo sfondo.
+
+È una passeggiata gratuita di 40-45 minuti su un percorso pedonale sopraelevato, percorribile a qualsiasi ora. Il momento migliore è il tramonto, quando il sole illumina i grattacieli e la folla si dirada: un'esperienza imprescindibile per chi visita New York.
 
 ## Come Arrivare
 

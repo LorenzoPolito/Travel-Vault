@@ -11,6 +11,10 @@ source: 911memorial.org
 
 **Rating:** `#5/5`
 
+![[nyc-9-11-memorial-1.jpg]]
+![[nyc-9-11-memorial-2.jpg]]
+![[nyc-9-11-memorial-3.jpg]]
+
 ## Info
 
 | | |
@@ -20,6 +24,12 @@ source: 911memorial.org
 | **Orari Memorial** | Tutti i giorni 8:00-20:00 (gratuito) |
 | **Biglietto** | $36 adulto |
 | **CityPASS** | ❌ Non incluso — **visitiamo solo il Memorial gratuito** (piscine esterne) |
+
+## Perché Visitarlo
+
+Il **9/11 Memorial & Museum** è il luogo di commemorazione dell'attentato dell'11 settembre 2001, costruito nel cuore di Lower Manhattan nel punto esatto dove sorgevano le Torri Gemelle. Due grandi piscine riflettenti, circondate dai nomi delle vittime incisi nella pietra, trasformano il sito in uno spazio di silenzio e raccoglimento in mezzo al caos della città.
+
+È una delle esperienze più toccanti di New York: il Memorial esterno è gratuito e aperto a tutti, mentre il museo sotterraneo conserva oggetti personali, testimonianze e la celebre Last Column. Vale la pena dedicarci almeno un'ora, con una pausa emotiva prevista dopo la visita.
 
 ## Come Arrivare
 

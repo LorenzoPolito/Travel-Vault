@@ -11,6 +11,8 @@ source: Google Maps reviews
 
 **Rating:** `#5/5`
 
+![[nyc-lower-east-side-1.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +23,12 @@ source: Google Maps reviews
 | **Orari** | Lun-Dom 8:00-22:00 |
 | **Paga** | Carte accettate |
 | **Metro** | F → 2nd Ave |
+
+## Perché Ci Va Bene / Descrizione
+
+Russ & Daughters è un'**istituzione ebraico-newyorkese dal 1914** (6 generazioni): la deli più amata per bagel con smoked salmon e cream cheese di altissima qualità. Un pezzo di storia del Lower East Side, ancora gestito con spirito familiare.
+
+Servizio al banco in stile deli — non è un ristorante seduti, si ordina e si aspetta il numero. I prezzi sono alti per un bagel, ma la qualità superiore e l'atmosfera d'altri tempi lo giustificano. A 5 min da Katz's sulla stessa strada.
 
 ## Cosa Ordinare
 

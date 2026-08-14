@@ -11,6 +11,9 @@ source: nps.gov, citypass.com
 
 **Rating:** `#5/5`
 
+![[nyc-statua-liberta-1.jpg]]
+![[nyc-statua-liberta-2.jpg]]
+
 ## Info
 
 | | |
@@ -21,6 +24,12 @@ source: nps.gov, citypass.com
 | **Biglietto** | $26 adulto (traghetto + museo + audioguida) |
 | **CityPASS** | ✅ Incluso (prenotazione orario obbligatoria) |
 | **Sito** | nps.gov/stli |
+
+## Perché Visitarlo
+
+La **Statua della Libertà** è il simbolo universale di New York e degli Stati Uniti: donata dalla Francia nel 1886, accoglie dal porto chiunque arrivi in città. Il traghetto da Battery Park conduce a Liberty Island, dove si può ammirare da vicino il monumento e godere di una vista spettacolare su Lower Manhattan.
+
+Vale la pena dedicarle una mezza giornata: il museo nel piedistallo racconta la storia della costruzione e del restauro, mentre l'audio tour incluso guida la visita in italiano. Con il CityPASS è inclusa, ma va prenotato l'orario del traghetto: consigliamo il primo, per godere dell'isola con meno folla.
 
 ## Come Arrivare
 

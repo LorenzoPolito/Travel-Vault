@@ -62,12 +62,22 @@ const destEmoji = getDestinationEmoji(destination);
           <div class="cards-grid">
             {cities.map((city: any) => {
               const cityName = slugToName(city.id);
+              // POIs della città: prima match sul campo `city` (convenzione Japan),
+              // poi fallback sui wikilink presenti nel body della pagina città
+              // (convenzione New York: POI con `destination` + link dalla city page).
               const cityPois = pois.filter((p: any) => p.data.city && cityName.toLowerCase().includes(p.data.city.toLowerCase()));
+              let cityPoiList = cityPois;
+              if (cityPois.length === 0 && city.body) {
+                const linked = new Set(
+                  [...city.body.matchAll(/\/locations\/([^/]+?)\//g)].map(m => m[1])
+                );
+                cityPoiList = pois.filter((p: any) => linked.has(p.id.replace(/\.md$/, '')));
+              }
               return (
                 <a href={$(R.location(city.id))} class="card animate-in a--plain">
                   <div class="card-emoji">🏙️</div>
                   <h3 class="card-title">{cityName}</h3>
-                  <p class="card-description">{cityPois.length} punti di interesse</p>
+                  <p class="card-description">{cityPoiList.length} punti di interesse</p>
                 </a>
               );
             })}

@@ -67,20 +67,22 @@ OMNY con carta contactless o telefono. Nessuna registrazione necessaria. Il cap 
 
 ## Budget Stimato
 
+> ✅ **Margine sottostima +$5** su ogni spesa non ancora pagata (pasti, trasporti, Zoo+carousel). Voci già pagate (CityPASS, SUMMIT, HP, volo, alloggio) senza margine.
+
 | Voce | Stima per persona |
 | --- | --- |
 | Volo A/R | Da prenotare |
 | Alloggio (8 notti, SoHo 54 Hotel) | **€550** (€1.650 ÷ 3) |
-| CityPASS (5 attrazioni) | $164 (~€150) |
-| SUMMIT One Vanderbilt | $50 (~€46) |
-| Central Park Zoo + carousel (Day 4) | ~$24 (~€22) |
-| Trasporti (OMNY + AirTrain + taxi JFK A/R) | ~$117-127 (~€107-116) |
-| Pasti (~$46/giorno × 9) | ~$412 (~€376) |
-| Mance (~15%) | ~$85 (~€77) |
+| CityPASS (5 attrazioni) | $164 (~€150) ✅ pagato |
+| SUMMIT One Vanderbilt | $50 (~€46) ✅ pagato |
+| Central Park Zoo + carousel (Day 4) | ~$29 (~€27) *(+$5 margine)* |
+| Trasporti (OMNY + AirTrain + taxi JFK A/R) | ~$152 (~€140) *(+$5/voce margine)* |
+| Pasti (~$51/giorno × 9) | ~$457 (~€420) *(+$5/giorno margine)* |
+| Mance (~15%) | ~$69 (~€63) |
 | Harry Potter Cursed Child | ✅ Già acquistato |
 | Spese personali / shopping | ~$300 (~€275) |
-| **TOTALE STIMATO (volo escluso, shopping e mance inclusi)** | **~€1.550-1.650/persona** |
-| (senza shopping) | ~€1.340/persona (+10% → ~€1.450-1.550) |
+| **TOTALE STIMATO (volo escluso, shopping e mance inclusi)** | **~€1.700-1.800/persona** |
+| (senza shopping, mance incluse) | ~€1.397/persona (+10% → ~€1.500-1.600) |
 
 ---
 

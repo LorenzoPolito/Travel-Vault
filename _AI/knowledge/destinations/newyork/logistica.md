@@ -2,7 +2,7 @@
 type: logistics
 destination: New York
 status: confirmed
-last_updated: 2026-07-29
+last_updated: 2026-08-20
 tags: [usa, newyork, transport, budget, logistics]
 source_files:
   - Info/NewYork/
@@ -86,12 +86,13 @@ OMNY con carta contactless o telefono. Nessuna registrazione necessaria. Il cap 
 
 | Attività | Urgenza | Note |
 | --- | --- | --- |
-| CityPASS New York | ✅ Acquistato | ⚠️ **Da prenotare orari** via app My CityPASS |
+| CityPASS New York | ✅ Acquistato | Orari **prenotati 20/08** via app My CityPASS |
 | SUMMIT One Vanderbilt | ✅ Prenotato | Gio 27 Ago ore 18:30 (⚠️ arrivare alle 18:00, 30 min prima) |
 | Harry Potter Cursed Child | ✅ Già fatto | Lyric Theatre, 25 Ago 19:00 |
-| Empire State Building (CityPASS) | ⚠️ Da prenotare | Day 28 Ago ~14:30 + PM stessa notte |
-| Top of the Rock (CityPASS) | ⚠️ Da prenotare | Day 25 Ago ~16:30 |
-| Statue of Liberty (CityPASS) | ⚠️ Da prenotare | Day 24 Ago ~9:00 |
-| AMNH (CityPASS) | ⚠️ Da prenotare | Day 25 Ago ~9:30 |
-| Circle Line Cruise (CityPASS) | ⚠️ Da prenotare | Day 28 Ago ~19:00 (Harbor Lights, tramonto) |
-| 9/11 Memorial (gratuito, solo piscine) | ✅ Gratuito | Incluso nel giro FiDi Day 4 — nessun biglietto |
+| Empire State Building (CityPASS) | ✅ Prenotato | Gio 27 Ago DAY 14:00 + PM 22:00 |
+| Top of the Rock (CityPASS) | ✅ Prenotato | Mar 25 Ago ingresso 10:00 |
+| Statue of Liberty (CityPASS) | ✅ Prenotato | Ven 28 Ago traghetto 9:00 |
+| AMNH (CityPASS) | ✅ Prenotato | Lun 24 Ago ingresso 14:00 |
+| Circle Line Cruise (CityPASS) | ✅ Prenotato | Mer 26 Ago 18:45-21:00 (Harbor Lights, tramonto) |
+| 9/11 Memorial (gratuito, solo piscine) | ✅ Gratuito | Incluso nel giro FiDi Day 8 — nessun biglietto |
+| eSIM | 🟡 In programma | Da fare il 20/08 — Airalo 3GB/30gg (~$12), vedi [[Info/NewYork/eSIM]] |

@@ -73,12 +73,14 @@ OMNY con carta contactless o telefono. Nessuna registrazione necessaria. Il cap 
 | Alloggio (8 notti, SoHo 54 Hotel) | **€550** (€1.650 ÷ 3) |
 | CityPASS (5 attrazioni) | $164 (~€150) |
 | SUMMIT One Vanderbilt | $50 (~€46) |
-| Trasporti (OMNY + AirTrain + taxi JFK A/R) | ~$107-112 (~€100) |
-| Pasti (~$50/giorno × 9) | ~$450 (~€410) |
+| Central Park Zoo + carousel (Day 4) | ~$24 (~€22) |
+| Trasporti (OMNY + AirTrain + taxi JFK A/R) | ~$117-127 (~€107-116) |
+| Pasti (~$46/giorno × 9) | ~$412 (~€376) |
+| Mance (~15%) | ~$85 (~€77) |
 | Harry Potter Cursed Child | ✅ Già acquistato |
 | Spese personali / shopping | ~$300 (~€275) |
-| **TOTALE STIMATO (volo escluso)** | **~€1.500-1.600/persona** |
-| **TOTALE ARROTONDATO** | **~€1.400/persona (+10% imprevisti)** |
+| **TOTALE STIMATO (volo escluso, shopping e mance inclusi)** | **~€1.550-1.650/persona** |
+| (senza shopping) | ~€1.340/persona (+10% → ~€1.450-1.550) |
 
 ---
 

@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: New York (Manhattan + Brooklyn)
-budget_totale_stimato: ~€1.400-1.500/persona (volo escluso, mance incluse)
+budget_totale_stimato: ~€1.450-1.550/persona (volo escluso, mance incluse)
 tags:
   - itinerario
   - newyork
@@ -125,18 +125,21 @@ Base: [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel (8 notti, 
 
 | Giorno | Data | Pasti | Ingressi | Trasporti | TOT |
 |:---:|:---:|:---:|:---:|:---:|---:|
-| 1 | Ven 21 | $50 (Emily + pizza + cronut) | $0 | $15 (taxi) | ~$65 |
-| 2 | Sab 22 | $50 (Danny + Katz's + L'Industrie/Smorgasburg) | $0 | $6 | ~$56 |
-| 3 | Dom 23 | $55 (Los Tacos + Hometown BBQ) | $0 | $15 (tram+ferry+metro) | ~$70 |
-| 4 | Lun 24 | $45 (Shake Shack + Magnolia + Pastrami/JG Melon) | CP (AMNH) | $6 | ~$51 |
-| 5 | Mar 25 | $55 (Gallagher's lunch + Canes/Krispy) | CP ([[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]]) + HP ✅ | $6 | ~$61 |
-| 6 | Mer 26 | $55 (Salt Hank's + Lobster + L'Industrie) | CP ([[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]]) | $6 | ~$61 |
-| 7 | Gio 27 | $70 (Keens + 7th St Burger) | $50 (SUMMIT) + CP (ESB) | $6 | ~$126 |
-| 8 | Ven 28 | $45 (Nathan's + Smorgasburg + Hamburger America) | CP (Statua) | $6 | ~$51 |
-| 9 | Sab 29 | $25 (Chinatown + Shake Shack JFK) | $0 | $30 (taxi) | ~$55 |
-| | | | | **TOT** | **~$596** |
+| 1 | Ven 21 | ~$42 (Emily* + cronut + pizza + Magnolia) | $0 | ~$25 (taxi JFK) | ~$67 |
+| 2 | Sab 22 | ~$45 (bagel + Danny & Coop's + Katz's/2 + L'Industrie/Smorg) | $0 | ~$6 | ~$51 |
+| 3 | Dom 23 | ~$44 (bagel + Los Tacos + Hometown BBQ) | $0 | ~$18 (metro+tram+ferry) | ~$62 |
+| 4 | Lun 24 | ~$42 (Levain + Shake Shack + Magnolia + Pastrami/2 + JG Melon/2) | ~$24 (Zoo 🐾 + carousel) + CP (AMNH) | ~$6 | ~$72 |
+| 5 | Mar 25 | ~$50 (Magnolia + Gallagher's + Canes* + Krispy* + McGee's*) | CP (Top of the Rock) + HP ✅ | ~$6 | ~$56 |
+| 6 | Mer 26 | ~$51 (bagel + Salt Hank's/2 + Lobster* + L'Industrie) | CP (Circle Line) | ~$6 | ~$57 |
+| 7 | Gio 27 | ~$80 (Unregular + Keens + 7th St Burger) | ~$50 (SUMMIT) + CP (ESB) | ~$6 | ~$136 |
+| 8 | Ven 28 | ~$36 (Nathan's + Smorgasburg* + Hamburger America*) | CP (Statua) | ~$6 | ~$42 |
+| 9 | Sab 29 | ~$22 (Mei Lai Wah + Fried Dumpling + Prince St + Shake JFK) | $0 | ~$28 (taxi + metro) | ~$50 |
+| | | | | **TOT** | **~$593** |
 | 💰 Mance (~15% ristoranti) | | | | | **~$85** |
-| | | | | **TOTALE** | **~$680** |
+| | | | | **TOTALE** | **~$678** |
+
+> ⚠️ **Voci stimate (*)** — prezzo non verificato nel vault: Emily (~$22), Raising Cane's (~$11), Krispy Kreme (~$3), McGee's (~$9), Lobster Place (~$25), Smorgasburg (~$18), Hamburger America (~$13), carousel (~$3.50). Keens è $$$$ ($60-100): pranzo stimato ~$65.
+> ✅ **Aggiunto:** Central Park Zoo **~$20/persona** (non incluso nel CityPASS) + carousel ~$3.50 (Day 4).
 
 **Alloggio:** €550/persona (8 notti, [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel)
 
@@ -776,16 +779,18 @@ Gate che apre per le 20:15-20:30. Red-eye notturno → arrivo domattina in Itali
 |---|---|
 | CityPASS New York (5 attrazioni: ESB AM/PM, AMNH, Statua, [[Locations/UnitedStates/NewYork/Grattacieli/Top of the Rock|Top of the Rock]], [[Locations/UnitedStates/NewYork/Attrazioni/Circle Line|Circle Line]]) | $164 (~€150) |
 | [[Locations/UnitedStates/NewYork/Grattacieli/SUMMIT One Vanderbilt|SUMMIT One Vanderbilt]] | ~$50 (~€46) |
-| Trasporti (OMNY + AirTrain + tram + ferry + taxi A/R) | ~$120 (~€110) |
-| Pasti (~$55/giorno × 9) | ~$500 (~€455) |
+| Central Park Zoo + carousel (Day 4) | ~$24 (~€22) |
+| Trasporti (OMNY + AirTrain + tram + ferry + taxi A/R) | ~$117-127 (~€107-116) |
+| Pasti (~$46/giorno × 9) | ~$412 (~€376) |
 | Mancia pasti (~15%) | ~$85 (~€77) |
 | Harry Potter Cursed Child | ✅ Già acquistato |
 | Alloggio (8 notti, [[Locations/UnitedStates/NewYork/Quartieri/SoHo|SoHo]] 54 Hotel, camera condivisa) | **€550** (€1.650 ÷ 3) |
 | Volo A/R | ✅ Già acquistato |
-| **TOTALE (volo escluso, mance incluse)** | **~€1.390/persona** |
-| Arrotondato (imprevisti ~10%) | **~€1.400-1.500/persona** |
+| **TOTALE (volo escluso, mance incluse)** | **~$862 (~€790)** |
+| **+ Alloggio €550** | **~€1.340/persona** |
+| Arrotondato (imprevisti ~10%) | **~€1.450-1.550/persona** |
 
-> 💡 **Mance:** 15-20% al ristorante, $1-2 per drink, $2-5 per taxi.
+> 💡 **Mance:** 15-20% al ristorante, $1-2 per drink, $2-5 per taxi. Contanti: **JG Melon** (Day 4) e **Fried Dumpling** (Day 9).
 
 ---
 

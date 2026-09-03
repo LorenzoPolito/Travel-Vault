@@ -13,8 +13,20 @@ https://www.usj.co.jp/web/en/us
 
 2-1-33 Sakurajima, Konohana-ku, Osaka-shi, Osaka-fu
 
-- [Visualizzare su Google Maps](https://maps.google.com/?cid=3892796888607511210) 
+- [Visualizzare su Google Maps](https://maps.google.com/?cid=3892796888607511210) 
 - [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Universal%20Studios%20Japan)
+
+## Info pratiche — Biglietti (verifica 03/09/2026)
+
+| Info | Dettaglio |
+|---|---|
+| **Biglietto 1 giorno** | **¥8.400–9.400** (~46–51 €) — **prezzo dinamico per data** · ⚠️ **acquisto anticipato OBBLIGATORIO**: dal 2025 **i biglietti non si vendono al parco** |
+| **Dove prenotare** | Sito ufficiale `usj.co.jp` o Klook — prenotare con 2–3 mesi di anticipo (Halloween season si esaurisce) |
+| **Express Pass** | Extra, numero limitato: ~¥8.000–12.000 (4 attrazioni) / ~¥12.000–18.000 (7 attrazioni) — prezzi da verificare per la data |
+| **Orari** | Variabili per giorno/stagione (novembre indicativo 9:00–20:00) — verificare il **27 ott** sul calendario ufficiale |
+| **Rebecca** | ⚠️ Nessun cibo sicuro dentro il parco (soia + pesce) → entrare con **pranzo al sacco** (riso, pollo freddo, frutta, uova sode) |
+
+> ⚠️ Il prezzo esatto del 27/10 è disponibile solo sul calendario interattivo (sito SPA): confermare a ridosso dell'acquisto su `usj.co.jp` o Klook.
 
 La salute e la sicurezza degli ospiti e del personale sono la priorità assoluta degli Universal Studios Japan. Sono state adottate misure sanitarie speciali. Per ulteriori informazioni, visita il sito Web di Universal Studios Japan.
 

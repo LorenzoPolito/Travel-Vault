@@ -4,7 +4,7 @@ scope: vault-root
 vault: Travel-Vault
 vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
 language: it
-last_updated: 2026-07-29
+last_updated: 2026-09-03
 tags: [index, ai, vault-map, travel]
 ai_role: "Master index del vault e della cartella _AI. Entry point principale per agenti."
 ---
@@ -40,7 +40,7 @@ Travel-Vault/
 │   │   ├── workspace.md                  ← Metadati vault-wide
 │   │   └── destinations/
 │   │       ├── japan/
-│   │       │   ├── locations.md          ← 76 luoghi JP con voti e cluster
+│   │       │   ├── locations.md          ← 86 luoghi JP con voti e cluster
 │   │       │   ├── itinerari.md          ← Itinerari JP (19 varianti)
 │   │       │   └── logistica.md          ← IC Cards, JR Pass, budget JP
 │   │       ├── italia/

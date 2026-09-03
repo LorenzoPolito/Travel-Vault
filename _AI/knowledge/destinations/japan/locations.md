@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: locations
 language: it
-last_updated: 2026-08-11
+last_updated: 2026-09-03
 destination: Japan
 tags: [japan, locations, tokyo, kyoto, osaka, hiroshima, temples, parks, stores]
 source_files:
@@ -14,7 +14,7 @@ source_files:
   - Locations/Japan/Buildings/
   - Locations/Japan/Stores/
 ai_notes: "File modulare Giappone. Per nuova destinazione, copia da _AI/templates/locations.md"
-total_locations: 76
+total_locations: 86
 ---
 
 # 📍 Locations — Giappone
@@ -43,14 +43,14 @@ total_locations: 76
 
 | Categoria | Cartella | N° |
 | --- | --- | --- |
-| Città | `Locations/Japan/Cities/` | 9 |
-| Templi & Santuari | `Locations/Japan/Temples/` | 25 |
-| Parchi & Natura | `Locations/Japan/Parks-nature/` | 11 |
-| Edifici Iconici | `Locations/Japan/Buildings/` | 5 |
+| Città | `Locations/Japan/Cities/` | 9 (+ 18 quartieri/strade in `Cities/blocks/`) |
+| Templi & Santuari | `Locations/Japan/Temples/` | 27 |
+| Parchi & Natura | `Locations/Japan/Parks-nature/` | 14 |
+| Edifici Iconici | `Locations/Japan/Buildings/` | 7 |
 | Negozi & Mercati | `Locations/Japan/Stores/` | 5 |
 | Castelli | `Locations/Japan/Castles/` | 2 |
-| Hotel | `Locations/Japan/Hotels/` | 1 |
-| Ristoranti | `Locations/Japan/Restaurants/` | 1 |
+| Hotel (pagine alloggi) | `Locations/Japan/Hotels/` | 4 (più guida `Hotel-Hostel-Case-Appartamenti`) |
+| Ristoranti | `Locations/Japan/Restaurants/` | 0 (riferimento: `Info/Japan/Mangiare in Giappone.md`) |
 
 ---
 
@@ -138,6 +138,8 @@ total_locations: 76
 - Akihabara `#4/5`
 - Tokyo Skytree (¥2.400 feriale/¥2.600 weekend, 10:00-22:00) + Pokemon Center Skytree Town (Solamachi) `#3/5`
 - Parco Ueno `#2/5`
+- Yanaka Ginza `#3/5` ⭐ Rebecca
+- Monzennakacho `#3/5` ⭐ Rebecca
 
 **Cluster 2 — Centro / Kanda:**
 - Santuario Kanda (24H) `#3/5`
@@ -161,11 +163,13 @@ total_locations: 76
 - Mercato Tsukiji (apertura 5:00-6:15) `#4/5`
 - Roppongi *(notturno)* `#3/5`
 - Odaiba + Rainbow Bridge `#2/5`
+- Odaiba Beach `#3/5` ⭐ Rebecca
 - Ginza `#1/5`
+- Azabudai Hills (Mori JP Tower) `#4/5` ⭐ Rebecca
 
 **Day trip:**
 - Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(rimosso dal piano attivo 11/08/26 — resta come day trip opzionale)*
-- **PokéPark KANTO** (Yomiuriland, Tokyo ovest) `#5/5` *(Lorenzo — primo parco Pokémon permanente al mondo, feb 2026; Trainer's Pass ¥7.900–9.400, prenotazione online ~2 mesi prima, NO walk-in)*
+- **PokéPark KANTO** (Yomiuriland, Tokyo ovest) `#5/5` *(Lorenzo — primo parco Pokémon permanente al mondo, feb 2026; Trainer's Pass ¥7.900–9.400, prenotazione online ~2 mesi prima, NO walk-in, **max 2 biglietti/persona** → per 3 persone servono 2 ordini)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
 
@@ -188,6 +192,7 @@ total_locations: 76
 
 ## ⚠️ Note Critiche per Agenti AI
 
+- **Tokyo ⭐ Rebecca (aggiunte 03/09/26):** Azabudai Hills (`#4/5`), Odaiba Beach (`#3/5`), Yanaka Ginza (`#3/5`), Monzennakacho (`#3/5`) — allineate in master list, KB e city note
 - **Miyajima:** verificare sempre orari maree — il Torii è più scenico con alta marea
 - **Gion:** comunicare il divieto dei vicoli privati (multa 70€)
 - **Lorenzo:** judo (Kodokan) + anime/manga (Akihabara, Nakano Broadway)

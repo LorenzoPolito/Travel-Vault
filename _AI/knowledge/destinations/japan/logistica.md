@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-08-11
+last_updated: 2026-09-03
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -125,8 +125,8 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
 | Universal Studios Japan | Alta | Biglietti online (Klook) — **acquisto anticipato OBBLIGATORIO** (¥8.400–9.400) |
-| TeamLab Planets (Tokyo) | Alta | ¥3.600 · **biglietti novembre da fine agosto 2026** · slot 19:00 del 4 nov · teamlab.art |
-| PokéPark KANTO (Yomiuriland) | **Inizio settembre** | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · 4 nov |
+| TeamLab Planets (Tokyo) | Alta | ¥3.600+ adulti (studenti ¥2.800, bambini ¥1.500) · **store ufficiale DMM** · vendita a lotti ~2-3 mesi prima (novembre da fine agosto) · **slot 19:00 del 4 nov** |
+| PokéPark KANTO (Yomiuriland) | **Inizio settembre — ORA APERTA** | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · **max 2 biglietti/persona → 2 ordini per 3 pax** · 4 nov |
 | JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |
 | Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione (~13.320 ¥) |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |

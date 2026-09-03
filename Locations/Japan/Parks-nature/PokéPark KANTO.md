@@ -28,6 +28,9 @@ tags:
 | **Giostre** | Pika Pika Paradise / Vee Vee Voyage: **¥1.200** adulto a testa (extra) |
 | **Prenotazione** | ⚠️ **NO walk-in** · online ~2 mesi prima · stranieri: `ticket-en.pokepark-kanto.co.jp` · solo carta, **max 2 biglietti/persona**, niente rimborsi |
 | **Età Foresta** | 5+ (sentiero ~500 m, ~110 gradini) |
+| **Finestra 4 nov** | ⏰ ~**inizio settembre 2026** (2 mesi prima) — **ORA APERTA**. Per 3 persone (Lorenzo/Davide/Rebecca) servono **2 ordini** (max 2 biglietti/ordine) |
+
+> ✅ **Verificato 03/09/2026:** portale biglietteria raggiungibile (`ticket-en.pokepark-kanto.co.jp`). Il prezzo Trainer's Pass varia per data — confermare al momento dell'acquisto.
 
 ## Come arrivare
 

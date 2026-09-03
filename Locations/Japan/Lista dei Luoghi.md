@@ -73,6 +73,8 @@ tags:
 2. Quartiere di [[Akihabara (秋葉原)]] #4/5
 3. [[Tokyo skytree (東京スカイツリー)]] e [[Pokemon Center Skytree Town|Pokemon Center Skytree Town (Solamachi)]] ( 10:00 - 21:00 ) #3/5
 4. Quartiere Ueno e [[Parco di Ueno (上野恩賜公園)]] #2/5
+5. [[Yanaka Ginza]] #3/5 ⭐ Rebecca
+6. [[Monzennakacho (門前仲町)]] #3/5 ⭐ Rebecca
 //
 1. [[Santuario Kanda (神田明神)]] ( 24H ) #3/5
 2. [[Kodokan dojo judo (講道館)]] ( 16:00-20:00 ) #1/5
@@ -92,10 +94,12 @@ tags:
 3. [[Mercato del pesce di Tsukiji (築地場外市場)]] ( apertura 5:00/6:15 ) #4/5
 4. Quartiere [[Roppongi (六本木)]] (notturno) #3/5
 5. [[Odaiba (お台場 )]] e [[Rainbow Bridge (レインボーブリッジ)]] #2/5
-6. Quartiere di [[Ginza (銀座)]] #1/5
+6. [[Odaiba Beach]] #3/5 ⭐ Rebecca
+7. Quartiere di [[Ginza (銀座)]] #1/5
+8. [[Azabudai Hills (麻布台ヒルズ)]] #4/5 ⭐ Rebecca
 //
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
-2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente ) #5/5
+2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente, feb 2026 · Trainer's Pass ¥7.900–9.400 · prenotazione online ~2 mesi prima · NO walk-in · max 2 biglietti/persona ) #5/5
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5

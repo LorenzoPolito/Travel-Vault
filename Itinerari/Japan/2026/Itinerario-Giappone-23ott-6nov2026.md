@@ -137,16 +137,16 @@ xychart-beta
 
 ## Riepilogo Tappe
 
-| Tappa                                            |               Giorni               | Notti | Date           |           |
-| :----------------------------------------------- | :--------------------------------: | :---: | :------------- | --------- |
-| Partenza Italia (volo notturno)                  |                 —                  |   —   | 23 Ott         |           |
-| [[Osaka(大阪市)#Izumisano]]                         | Izumisano (KIX, notte di arrivo)]] |   1   | 1              | 24–25 Ott |
-| [[Osaka(大阪市)]]                                   |                 4                  |   4   | 25–29 Ott      |           |
-| [[Hiroshima(広島)]] + [[Miyajima (宮島)]] (day trip) |                 1                  |   —   | 28 Ott         |           |
-| [[Nara (奈良市)]] (half day)                        |                0.5                 |   —   | 29 Ott         |           |
-| [[Kyoto(京都)]]                                    |                 3                  |   3   | 29 Ott – 1 Nov |           |
-| [[Tokyo(東京)]]                                    |                 6                  |   5   | 1–6 Nov        |           |
-| Ritorno Italia                                   |                 —                  |   —   | 6 Nov          |           |
+| Tappa | Giorni | Notti | Date |
+|:---|:---:|:---:|:---|
+| Partenza Italia (volo notturno) | — | — | 23 Ott |
+| [[Osaka(大阪市)#Izumisano\|Izumisano (KIX, notte di arrivo)]] | 1 | 1 | 24–25 Ott |
+| [[Osaka(大阪市)]] (base per Hiroshima e Nara) | 4 | 4 | 25–29 Ott |
+| [[Hiroshima(広島)]] + [[Miyajima (宮島)]] (day trip) | 1 | — | 28 Ott |
+| [[Nara (奈良市)]] (half day) | 0.5 | — | 29 Ott |
+| [[Kyoto(京都)]] | 3 | 3 | 29 Ott – 1 Nov |
+| [[Tokyo(東京)]] | 6 | 5 | 1–6 Nov |
+| Ritorno Italia | — | — | 6 Nov |
 
 ---
 
@@ -687,6 +687,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| Fix tabella "Riepilogo Tappe" rotta + allineamento fonti (Attività e Prenotazioni, master list ↔ KB ↔ city note) + verifica prenotazioni imminenti | 03 Set 2026 | Agente | TeamLab adulti ¥3.600+ (store DMM ufficiale, vendita a lotti ~2-3 mesi prima) · USJ acquisto anticipato obbligatorio confermato · PokéPark finestra 4 nov ORA APERTA (max 2 biglietti/persona → 2 ordini per 3 pax) · nuove pagine Azabudai Hills + Monzennakacho (⭐ Rebecca) |
 | Fact-check completo (prezzi, trasporti, orari, date) + correzione budget | 11 Ago 2026 | Agente | Fonti: JR West, teamlab.art, todaiji.or.jp, japan-guide, xe.com — vedi report critico |
 | Corretti Day 1 (volo via Shanghai) e Day 14 (aeroporto HND) | 11 Ago 2026 | Agente | Narita Express serve NRT, non HND |
 | JR Kansai-Hiroshima Pass: prezzo 17.000 ¥, attivazione 28 ott | 11 Ago 2026 | Agente | — |
@@ -711,9 +712,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
 | Trasporti locali (15 gg)            | ~149 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, PokéPark, TeamLab)     |                         |     |
-| Attrazioni (USJ, PokéPark, templi, TeamLab…) | ~236 €             | ❌ Da calcolare        | —     | Vedi                                                           | Attività e Prenotazioni |     |
+| Attrazioni (USJ, PokéPark, templi, TeamLab…) | ~236 €             | ❌ Da calcolare        | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
-| Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | Assicurazione Heymondo  |     |
+| Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
 | **TOTALE**                         | **~2.902 €**       | **🔵 Voli prenotati** | —     | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
@@ -752,9 +753,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Kyoto 3 notti (29 ott–1 nov)                     | ✅ **FATTO**           | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅                                                                            |
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · Klook o JR West online                                                                |
-| Universal Studios Japan biglietti                         | **URGENTE (2+ mesi)** | ❌ Da prenotare   | ¥8.400–9.400 · **acquisto anticipato OBBLIGATORIO** (dal 2025 niente biglietti al parco) · Klook                             |
-| TeamLab Planets                                           | **Fine agosto 2026**  | ❌ Da prenotare   | ¥3.600 · biglietti novembre in vendita da fine agosto · **slot 19:00 del 4 nov** · teamlab.art                                       |
-| PokéPark KANTO (Yomiuriland)                              | **Inizio settembre**  | ❌ Da prenotare   | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · max 2 biglietti/persona · 4 nov     |
+| Universal Studios Japan biglietti                         | **URGENTE (2+ mesi)** | ❌ Da prenotare   | ¥8.400–9.400 (dinamico per data) · **acquisto anticipato OBBLIGATORIO** (dal 2025 niente biglietti al parco) · Klook o `usj.co.jp` |
+| TeamLab Planets                                           | **Fine agosto 2026 — vendita aperta** | ❌ Da prenotare   | Adulti ¥3.600+ (studenti ¥2.800, bambini ¥1.500) · store ufficiale `teamlabplanets.dmm.com` · **slot 19:00 del 4 nov** · cambio orario fino a 2h prima |
+| PokéPark KANTO (Yomiuriland)                              | **Inizio settembre — ORA APERTA** | ❌ Da prenotare   | Trainer's Pass ¥7.900–9.400 · **NO walk-in** · ~2 mesi prima · `ticket-en.pokepark-kanto.co.jp` · **max 2 biglietti/persona → 2 ordini per 3 pax** · 4 nov     |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
 | Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |
 | Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |

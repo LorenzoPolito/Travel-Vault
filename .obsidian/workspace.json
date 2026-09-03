@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dfad4df56e92e174",
+        "id": "3a16562ea023d014",
         "type": "tabs",
         "children": [
           {
-            "id": "91ab148198a0a15e",
+            "id": "0e08c9bbb1bff156",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/UnitedStates/NewYork/2026/New York - 21-29 Agosto 2026 - Itinerario Dettagliato.md",
+                "file": "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New York - 21-29 Agosto 2026 - Itinerario Dettagliato"
+              "title": "Itinerario-Giappone-23ott-6nov2026"
             }
           }
         ]
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.20001220703125
+    "width": 241.20001220703125,
+    "collapsed": true
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -291,29 +292,33 @@
       "obsidian-kanban:Crea nuova bacheca": false
     }
   },
-  "active": "91ab148198a0a15e",
+  "active": "0e08c9bbb1bff156",
   "lastOpenFiles": [
+    "_website/dist/_pagefind/pagefind-entry.json",
+    "_website/dist/_pagefind/pagefind-ui.css",
+    "_website/dist/_pagefind/pagefind-modular-ui.css",
+    "_website/dist/_pagefind/pagefind-highlight.js",
+    "_website/dist/_pagefind/wasm.unknown.pagefind",
+    "_website/dist/_pagefind/pagefind-modular-ui.js",
+    "_website/dist/_pagefind/pagefind-ui.js",
     "_website/dist/_pagefind/pagefind.js",
-    "_website/dist/_pagefind/fragment/it_c4239d5.pf_fragment",
-    "_website/dist/manifest_C1fXWGIF.mjs",
-    "_website/dist/renderers.mjs",
-    "_website/dist/_noop-middleware.mjs",
-    "_website/dist/noop-entrypoint.mjs",
-    "_website/dist/chunks/astro/server_BAkmgMx3.mjs",
-    "_website/dist/chunks/_astro_data-layer-content_BrzW24Bd.mjs",
-    "_website/dist/chunks/_astro_content_Di-tdZx6.mjs",
-    "_website/dist/chunks/_astro_assets_DNC3jx2b.mjs",
-    "_website/dist/chunks/TopicImage_DFsUwlHd.mjs",
-    "_website/public/images/vault/nyc-pier-57-2.jpg",
-    "_website/public/images/vault/nyc-pier-57-1.jpg",
-    "_website/public/images/vault/nyc-nyc-city-hall-2.png",
-    "_website/public/images/vault/nyc-nyc-city-hall-2.jpg",
-    "_website/public/images/vault/nyc-nyc-city-hall-1.jpg",
-    "_website/public/images/vault/nyc-hudson-yards-2.jpg",
-    "_website/public/images/vault/nyc-hudson-yards-1.jpg",
-    "_website/public/images/vault/nyc-high-line-3.jpg",
-    "_website/public/images/vault/nyc-high-line-2.jpg",
-    "_website/public/images/vault/nyc-high-line-1.jpg",
+    "_website/dist/_pagefind/fragment/it_f046332.pf_fragment",
+    "_website/dist/_pagefind/fragment/it_fd63729.pf_fragment",
+    "_website/dist/_pagefind/fragment/it_d496bb7.pf_fragment",
+    "_website/dist/images/vault/nyc-st-marks-place-1.jpg",
+    "_website/dist/images/vault/nyc-soho-3.jpg",
+    "_website/dist/images/vault/nyc-soho-2.jpg",
+    "_website/dist/images/vault/nyc-soho-1.jpg",
+    "_website/dist/images/vault/nyc-quartiere-williamsburg-2.jpg",
+    "_website/dist/images/vault/nyc-quartiere-williamsburg-1.jpg",
+    "_website/dist/images/vault/nyc-quartiere-upper-east-side-3.jpg",
+    "_website/dist/images/vault/nyc-quartiere-upper-east-side-2.jpg",
+    "_website/dist/images/vault/nyc-quartiere-upper-east-side-1.jpg",
+    "_website/dist/images/vault/nyc-quartiere-red-hook-3.jpg",
+    "_website/src/content/locations/monzennakacho.md",
+    "_website/src/content/locations/azabudai-hills.md",
+    "Locations/Japan/Cities/blocks/Monzennakacho (門前仲町).md",
+    "Locations/Japan/Buildings/Azabudai Hills (麻布台ヒルズ).md",
     "Itinerari/UnitedStates/NewYork/2026/New York - 21-29 Agosto 2026 - Itinerario Dettagliato.md",
     "_website/src/content/locations/world-trade-center.md",
     "_website/src/content/locations/washington-square-park.md",
@@ -334,10 +339,6 @@
     "_website/src/content/locations/madison-square-park.md",
     "_website/src/content/locations/madison-square-garden.md",
     "_website/src/content/locations/lyric-theatre.md",
-    "_website/src/content/locations/little-italy.md",
-    "_website/src/content/locations/little-island.md",
-    "_website/src/content/locations/guggenheim-museum.md",
-    "_website/src/content/locations/greenwich-village.md",
-    "_website/src/content/locations/flatiron-building.md"
+    "_website/src/content/locations/little-italy.md"
   ]
 }

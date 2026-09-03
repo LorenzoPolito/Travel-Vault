@@ -3,7 +3,7 @@ type: ai-readme
 scope: ai-folder
 vault: Travel-Vault
 language: it
-last_updated: 2026-02-23
+last_updated: 2026-09-03
 tags: [ai, readme, conventions, entry-point]
 ai_role: "Entry point per agenti AI. Leggere prima di qualsiasi altro file _AI."
 ---
@@ -25,7 +25,7 @@ _AI/
 │   ├── workspace.md            ← Metadati globali, convenzioni, plugin
 │   └── destinations/           ← Modulare per destinazione
 │       ├── japan/
-│       │   ├── locations.md    ← 76 luoghi con voti, orari, cluster
+│       │   ├── locations.md    ← 86 luoghi con voti, orari, cluster
 │       │   ├── itinerari.md    ← 19 varianti, tempi percorrenza
 │       │   └── logistica.md    ← IC Cards, JR Pass, budget, prenotazioni
 │       ├── newyork/

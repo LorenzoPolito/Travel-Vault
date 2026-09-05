@@ -8,14 +8,34 @@ tags:
   - parco
   - japan
 ---
-https://global.toei-eigamura.com/
+**Sito ufficiale:** [en.eigamura.com](https://en.eigamura.com/) · [Attrazioni](https://en.eigamura.com/attraction/) · [Evangelion Kyoto Base](https://en.eigamura.com/attraction/evangelion/) · [Special site EVA](https://en.eigamura.com/eva/) · [Orari/tariffe](https://en.eigamura.com/hours-tickets/)
 
 ![takagamine & murasakino area](https://res-3.cloudinary.com/jnto/image/upload/w_2064,h_1300,c_fill,f_auto,fl_lossy,q_auto/v1514372707/kyoto/Kyoto1107_3)
 
 > 10 Uzumasa Higashihachioka-cho, Ukyo-ku, Kyoto-shi, Kyoto-fu
 
-- [Visualizzare su Google Maps](https://maps.google.com/?cid=3150840243035149927) 
-- [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Toei%20Kyoto%20Studio%20Park) 
+- [Visualizzare su Google Maps](https://maps.google.com/?cid=3150840243035149927) 
+- [Ricevere informazioni del traffico](https://maps.google.com/maps?ie=UTF8&f=d&dirflg=t&saddr=Your%20Location&daddr=Toei%20Kyoto%20Studio%20Park) 
+
+## Info pratiche — Uzumasa Kyoto Village (ex Toei Kyoto Studio Park)
+
+> ⚠️ **Rinominato e rinnovato (2026):** da marzo 2026 il parco si chiama **Uzumasa Kyoto Village** (Uzumasa Eigamura) dopo un grande rinnovo (fase 1). Sito ufficiale: `en.eigamura.com` · fonte verifica: japan-guide (2026).
+
+| Info | Dettaglio |
+|---|---|
+| **Orari** | Tipicamente **10:00–21:00** (ultimo ingresso 1h prima) |
+| **Chiuso** | **Alcuni martedì** (verificare il calendario) |
+| **Ingresso** | **¥2.800** giornata intera · **¥2.000 dopo le 17:00** · attrazioni extra ¥400–800 |
+| **Accesso** | Uzumasa-Koryuji (Randen ~10 min, ¥250 da Shijo-Omiya) o JR Hanazono (10 min, ¥200 da Kyoto St) |
+
+**Cosa c'è (rinnovo 2026, fase 1):**
+- 🎫 **Evangelion Kyoto Base** ✅ (inclusa nel biglietto d'ingresso): **EVA Unit-01 gigante CAVALCABILE** (unica al mondo) + test da pilota NERV (misura sincronizzazione). ⚠️ **Ultimo ingresso all'attrazione: 17:15** → per farla conviene entrare nel parco entro le ~16:00 (biglietto giornata ¥2.800), non col solo serale delle 17
+- Villaggio d'epoca samurai + studio cinematografico Toei · live drama nel villaggio · scuola samurai · museo oggetti di scena
+- **Attrazioni anime** (Toei: Kamen Rider, ecc.) · **Museo Anime** (storico) · spettacolo ninja, labirinto ninja, casa stregata (a pagamento, solo diurne)
+- Noleggio kimono/costumi · **Sera**: lanterne e atmosfera romantica + intrattenimento 18+ (gambling finto, "interrogatorio")
+
+> ✅ Verifica 05/09/26 su sito ufficiale `en.eigamura.com` (attraction/evangelion): ultimo ingresso EVA 17:15 · fonte orari/tariffe japan-guide + sito.
+
 ## Un'allegra giornata in un divertente parco a tema cinematografico
 
 Toei Kyoto Studio Park è un parco a tema e studio cinematografico gestito dalla Toei Company, produttrice di film e programmi televisivi giapponesi.

@@ -126,7 +126,7 @@ total_locations: 87
 
 **Cluster 6:**
 - Adashino Nenbutsuji (9:00-16:30) `#2/5`
-- TOEI Kyoto Studio Park (9:00-17:00) `#1/5`
+- TOEI Kyoto Studio Park / Uzumasa Kyoto Village (10:00-21:00 · chiuso alcuni mar · ¥2.000 dopo le 17 · area anime/EVA) `#3/5`
 
 **Hotel (MagicTravel):** Karasuma Rokujo Hotel · West Japan Kyoto Kiyomizu
 

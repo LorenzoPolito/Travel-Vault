@@ -406,17 +406,20 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **⏱️ Orari indicativi:**
 - **05:30** Sveglia · colazione
-- **06:20** Metro/Shinkansen → Shin-Osaka
+- **06:10** Metro → Shin-Osaka (attivare JR Pass + **prenotare posti riservati** andata e ritorno)
 - **06:45–08:15** Shinkansen Sakura Shin-Osaka → Hiroshima (~1h30)
 - **08:30–08:55** JR Sanyo Line → Miyajimaguchi (~25 min, incluso pass)
 - **09:00–09:15** Traghetto JR → Miyajima (~10 min, + tassa 100¥)
 - **09:30–12:00** Miyajima: Itsukushima Shrine + Daisho-in (controllare maree)
 - **12:00–13:00** Pranzo a Miyajima
 - **13:15–13:30** Traghetto ritorno · **13:40–14:05** JR → Hiroshima
-- **14:15–17:00** Memorial Park + Museo della Pace (~2h)
-- **17:00–17:45** Castello di Hiroshima / Hondori (⚪)
-- **18:00–19:30** Shinkansen ritorno → Shin-Osaka
-- **20:15** Rientro Osaka · cena (konbini/alternative)
+- **14:15** Bus Meipuru-pu (coperto da pass) o tram → Peace Park (~15 min)
+- **14:30–16:30** Museo della Pace (~2h — nov: orario 8:30–18:00)
+- **16:30–17:15** Genbaku Dome + parco
+- **17:15–17:45** Hondori street (momiji manju da portare a casa) ⚪
+- **18:00** Tram → Hiroshima St (~12 min) → **18:15–18:30** Shinkansen riservato → Shin-Osaka (~1h30)
+- **~20:00** Rientro Osaka · cena Namba
+
 
 > 🟡 **Da attivare oggi (28 ott):** [[JR pass|JR Kansai-Hiroshima Area Pass]] (**17.000 ¥ ≈ 92 €**) — copre Shinkansen A/R Shin-Osaka→Hiroshima + traghetto JR Miyajima + linee JR West per i prossimi 4 giorni (**valido 28 ott–1 nov**)
 
@@ -437,13 +440,14 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **13:40–14:05** JR Sanyo Line → Hiroshima
 
 **Pomeriggio a Hiroshima:**
-**14:15–17:00** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
-  - [[Memorial Park Hiroshima|Museo della Pace di Hiroshima]] (7:30–19:00, ¥200, ~2h) — emotivamente intenso, 🟡 consigliato biglietto online
+**14:15–17:15** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
+  - [[Memorial Park Hiroshima|Museo della Pace di Hiroshima]] (nov: 8:30–18:00, ultimo ingresso 17:30, ¥200, ~2h) — emotivamente intenso, 🟡 consigliato biglietto online
   - [[Memorial Park Hiroshima|Genbaku Dome]] — simbolo UNESCO
-**17:00–17:45** [[Hiroshima(広島)|Castello di Hiroshima]] 🟢 (¥370, opzionale) o [[Hondori street]] — momiji manju da portare a casa ⚪
+**17:15–17:45** [[Hondori street]] ⚪ — shopping + momiji manju da portare a casa
+> ⚠️ **Castello di Hiroshima:** il mastio è **chiuso al pubblico da marzo 2026** (rischio sismico) — restano solo giardini + Ninomaru (gratis, fino 16:30 in autunno). Meglio dedicare il tempo a Hondori.
 
-**18:00–19:30** Shinkansen ritorno → Shin-Osaka
-🅿 **PIANO B (stanchi/pioggia):** Salta il Castello e rientra entro le 17:00. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
+**18:15–18:30** Shinkansen riservato ritorno → Shin-Osaka (~1h30, arrivo ~20:00)
+🅿 **PIANO B (stanchi/pioggia):** Salta Hondori e rientra entro le 17:30. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
 
 ---
 
@@ -452,27 +456,31 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 3/4 · **Budget:** ~47 € · **Meteo:** 15–22°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **07:00** Sveglia · colazione · check-out (takkyubin valigie → Kyoto, facoltativo)
-- **08:30–09:15** Kintetsu Namba → Kintetsu Nara (~40 min, ¥570, non-JR)
-- **09:15–12:45** Nara: Parco + Todaiji (Gran Buddha) + Kasuga Taisha (~3h)
-- **13:00–14:00** Pranzo Nara
-- **14:00–14:50** JR Nara → Kyoto (~50 min, incluso pass)
-- **15:00** Check-in hotel Kyoto (deposito bagagli)
+- **07:30** Sveglia · colazione veloce · check-out (self)
+- **08:30–09:10** Kintetsu Namba → Kintetsu Nara (~40 min, ¥570, non-JR)
+- **09:15** Deposito valigie nei **coin locker** di Kintetsu Nara
+- **09:30–12:30** Nara: Parco + Todaiji (Gran Buddha) + Kasuga Taisha (~3h)
+- **12:30–13:15** Pranzo Nara (zona stazione)
+- **13:20** Ripresa valigie dai locker
+- **13:25–13:45** A piedi/bus → JR Nara (~20 min)
+- **13:50–14:40** JR Nara → Kyoto (~50 min, **incluso pass**)
+- **14:50** Metro → check-in Miro Nijo Hotel (deposito bagagli)
 - **16:00–17:45** Fushimi Inari (JR 5 min, 24h) — torii nel tardo pomeriggio
 - **18:15** Cena Kyoto Station (depachika / alternative)
 - **21:00** Rientro hotel
 
-**08:00** Check-out Osaka
-**08:30–09:15** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR)
+**08:00** Check-out Osaka (self)
+**08:30–09:10** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR)
+**09:15** Deposito valigie nei **coin locker** di Kintetsu Nara (grandi, ¥500–700)
 
-> 📦 **Takkyubin (spedizione bagagli):** In Giappone puoi spedire le valigie da un hotel all'altro con corriere (takkyubin). L'hotel di Osaka organizza la spedizione verso Kyoto — consegna in 24h. Costa ~¥1.500-2.000 per valigia. Vedi [[Hotel-Hostel-Case-Appartamenti|guida spedizione bagagli]].
+> 🧳 **Bagagli (Opzione B):** le valigie restano ai **coin locker di Kintetsu Nara** durante la visita; a fine Nara si riprendono e si va a piedi/bus a **JR Nara** (~20 min) per il **JR fino a Kyoto (incluso nel pass)**. Takkyubin non necessario (solo alternativa se non trovi locker: spedizione same-day da confermare). Vedi [[Hotel-Hostel-Case-Appartamenti|guida bagagli]].
 
 **Mattina | [[Nara (奈良市)]]:**
 - [[Nara (奈良市)#Parco di Nara|Parco di Nara]] 🟢 — cervi Sika, shika senbei (¥150)
 - [[Nara (奈良市)#Tempio Todaiji|Tempio Todaiji]] 🟢 (¥800) — Daibutsu (Buddha in bronzo 15m)
 - [[Nara (奈良市)]] 🟢 — 3.000 lanterne di pietra
 
-**13:00–14:00** JR Nara Line → Kyoto (~50 min, ¥720, **incluso JR Pass**)
+**13:20–14:40** Ripresa valigie ai locker + spostamento a JR Nara (~20 min) → Kyoto (~50 min, **incluso JR Pass**)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nara:** [[Mangiare in Giappone#Budget|kakinoha-zushi]] (sushi in foglia di cachi, ¥800–1.200) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · konbini (onigiri ¥100–200)
@@ -492,26 +500,27 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 4/4 · **Budget:** ~56 € · **Meteo:** 15–22°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **06:30** Sveglia (alba ~06:20) · colazione
-- **07:00** Uscita → Higashiyama (bus/metro ~20 min)
-- **07:30–09:00** Kiyomizu-dera (apertura 6:00 — luce e poca folla)
-- **09:00–09:45** Sannenzaka / Ninenzaka
-- **10:00–11:00** Tempio Kodai-ji
-- **11:30–13:00** Pranzo Nishiki Market (street food)
+- **08:30** Sveglia · colazione
+- **09:30** Uscita → Higashiyama (bus/metro ~20 min)
+- **10:00–10:45** Sannenzaka / Ninenzaka
+- **11:00–12:00** Tempio Kodai-ji
+- **12:15–13:15** Pranzo (Nishiki Market / zona Gion)
 - **13:30–14:30** Santuario Yasaka
 - **14:45–16:00** Gion (Hanamikoji — niente vicoli privati/geisha)
-- **16:15–17:15** Pontocho / fiume Kamo (⚪)
+- **16:15–17:45** **Kiyomizu-dera al tramonto** (tramonto ~17:15; uscita entro 18:00)
 - **19:00** Cena Gion
 - **21:30** Rientro hotel
 
-**Mattina presto | Cluster Higashiyama:**
-- [[Kiyomizu-dera (清水寺)]] #5/5 🟢 (6:00–18:00, ¥500) — entro 8:00 per luce e folla minima. Terrazza in legno senza chiodi, vista su Kyoto. Foliage autunnale in corso
-- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] #4/5 🟢 — viuzze acciottolate, matcha gelato
-- [[Tempio Kodai-ji (高台寺)]] #3/5 🟢 (9:00–17:00, ¥600) — giardino zen, boschetto bambù
+**Mattina | Higashiyama (Sannenzaka & Kodai-ji):**
+- [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] #4/5 🟢 — viuzze acciottolate, matcha gelato (negozi aperti da ~10:00)
+- [[Tempio Kodai-ji (高台寺)]] #3/5 🟢 (9:00–17:00, ¥600) — giardino zen, boschetto bambù (chiude 17:00)
 
-**Pomeriggio | Gion:**
+**Pomeriggio | Yasaka & Gion:**
 - [[Santuario Yasaka (八坂神社)]] #4/5 🟢 (24h, GRATIS)
 - [[Quartiere Gion (祇園)]] #1/5 🟢 ⚠️ **Vietato entrare nei vicoli privati (multa 70€)** — via principale Hanamikoji OK. Rispetta le geisha (niente foto)
+
+**Tramonto | Kiyomizu-dera (16:15–17:45):**
+- [[Kiyomizu-dera (清水寺)]] #5/5 🟢 (6:00–18:00, ¥500) — **al tramonto (~17:15)**: terrazza in legno e vista su Kyoto che si accende. ⚠️ Ultimo ingresso ~17:30, uscita entro le 18:00. Foliage autunnale in corso
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo street food:** [[Nishiki Market (錦市場)]] — yakitori, tsukemono, dolci matcha, tofu (¥200–1.000). **Bib Gourmand:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Men-ya Inoichi]] (ramen, Pontochō, ¥1.000–2.000)
@@ -526,45 +535,45 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ---
 
-## Giorno 8 — Sabato 31 Ottobre — Kyoto: Arashiyama & Kinkakuji
+## Giorno 8 — Sabato 31 Ottobre — Kyoto: Templi del Nord + Uzumasa Kyoto Village + Gion
 
 **Difficoltà:** 3/4 · **Budget:** ~58 € · **Meteo:** 15–22°C, 25% pioggia · 🎃 **Halloween**
 
 **⏱️ Orari indicativi:**
-- **06:30** Sveglia · colazione
-- **07:00** Treno Sagano Line → Arashiyama (~15 min)
-- **07:40–08:30** Foresta di bambù (luce migliore, poca folla)
-- **08:45–10:00** Tenryu-ji (apertura 8:30)
-- **10:15–11:15** Arashiyama: fiume Katsura / zona ⚪
-- **11:30–12:30** Pranzo Arashiyama
-- **12:45** Bus/treno → Kinkaku-ji (~40 min)
-- **13:30–14:30** Kinkaku-ji
-- **14:45–15:45** Ryoan-ji (a ~15 min a piedi)
-- **16:15** Rientro centro Kyoto (~40 min)
-- **18:00** Cena / atmosfera Halloween a Gion (⚪ illuminazioni autunnali)
-- **21:30** Rientro hotel
+- **09:00** Sveglia · colazione (niente fretta)
+- **10:00** Bus → nord Kyoto (~30 min)
+- **10:35–11:35** [[Kinkaku-ji (金閣寺)]] (¥500)
+- **11:50–12:40** [[Ryoan-ji (龍安寺方丈庭園)]] (⚪, ¥600, a ~15 min a piedi)
+- **13:00–14:00** Pranzo (zona nord o di rientro)
+- **14:30–15:30** Rientro in centro · pausa breve
+- **15:45** Randen (Keifuku) da Shijo-Omiya o bus → **Uzumasa**
+- **16:15–19:00** [[TOEI Kyoto studio park (東映太秦映画村)|Uzumasa Kyoto Village]] — **biglietto giornata ¥2.800**: subito **EVA** (ultimo ingresso 17:15) + altre attrazioni anime
+- **19:15** Ritorno verso est (~40 min) → **Gion**
+- **20:00** Cena a Gion / Ponto-chō
+- **21:00–22:30** **Halloween**: Gion, vicoli, fiume Kamo (verificare eventi serali)
+- **23:00** Rientro hotel
 
-**Mattina presto | [[Arashiyama (嵐山)]] #5/5:**
-- Treno Sagano Line da Kyoto → Arashiyama (~15 min)
-- **Foresta di bambù** 🟢 — entro 8:00 per evitare la folla, luce magica
-- [[Arashiyama (嵐山)]] 🟢 — panorama sul fiume Katsura
-- [[Arashiyama (嵐山)]] — **Tenryu-ji** (giardino **¥500** + edifici **¥300** = ¥800, 8:30–17:00) — giardino zen patrimonio UNESCO
-
-**Pomeriggio | Cluster Nord:**
+**Mattina | Templi del Nord:**
 - [[Kinkaku-ji (金閣寺)]] #3/5 🟢 (9:00–17:00, ¥500) — Padiglione d'Oro ricoperto di foglia d'oro
-- [[Ryoan-ji (龍安寺方丈庭園)]] #2/5 🟢 (8:00–17:00, ¥600) — giardino zen di rocce, meditazione
+- [[Ryoan-ji (龍安寺方丈庭園)]] #2/5 🟢 (8:00–17:00, ¥600) — giardino zen di rocce, meditazione (⚪)
+
+**Tardo pomeriggio | [[TOEI Kyoto studio park (東映太秦映画村)|Uzumasa Kyoto Village]] (16:15–19:00):**
+- Villaggio-samurai/parco a tema cinematografico, **riaperto a marzo 2026 dopo il rinnovo** (ex Toei Kyoto Studio Park) · orario tipico 10:00–21:00 (ultimo ingresso 1h prima) · chiuso alcuni martedì
+- 🎫 **Biglietto giornata ¥2.800** (serale ¥2.000 solo dopo le 17) · attrazioni extra ¥400–800
+- 🎫 **Evangelion Kyoto Base** ✅ **inclusa nel biglietto**: EVA Unit-01 **cavalcabile** (unica al mondo) + test pilota. ⚠️ **Ultimo ingresso 17:15** → entrare entro ~16:00 e fare l'EVA subito
+- Altre attrazioni anime (Toei: Kamen Rider ecc.) · **Museo Anime** · ninja/casa stregata (diurne, a pagamento) · noleggio kimono
+- *Accesso:* Uzumasa-Koryuji (Randen ~10' da Shijo-Omiya) o JR Hanazono · sito: `en.eigamura.com`
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo Arashiyama:** soba (¥1.000–1.500) · [[Mangiare in Giappone#Mercati e Street Food|dolci matcha]] (¥300–500) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Omen]] (Bib Gourmand, udon, Ginkakuji, ¥1.000–2.000)
-- 🅱️ **Pranzo economico:** [[Mangiare in Giappone#Catene e Cibo Economico|Nakau]] (udon ¥300–600) · konbini (onigiri ¥100–200)
-- 🅲 **Cena Halloween:** izakaya a [[Quartiere Gion (祇園)]] (¥2.000–4.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Depachika|depachika Daimaru Kyoto]] (bento takeaway)
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (Arashiyama, riso+uovo ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, Arashiyama, ¥500–1.500) · **cucina in hotel**
+- 🅰️ **Pranzo (nord/rientro):** soba/udon (¥800–1.500) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Omen]] (Bib Gourmand, udon, Ginkakuji, ¥1.000–2.000) · konbini
+- 🅱️ **Cena Halloween a Gion:** izakaya a [[Quartiere Gion (祇園)]] (¥2.000–4.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Depachika|depachika Daimaru Kyoto]] (bento)
+- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shijo, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · **cucina in hotel**
 
-**Sera — Halloween:**
-- Rientro a [[Quartiere Gion (祇園)]] per cena
-- Alcuni templi hanno illuminazioni autunnali serali (momiji illumination) — chiedere in hotel
+**Sera — Halloween a Gion:**
+- Cena a [[Quartiere Gion (祇園)]] / Ponto-chō, poi passeggiata tra i vicoli (solo vie principali, niente vicoli privati)
+- Alcuni templi possono avere illuminazioni autunnali serali — chiedere in hotel
 
-🅿 **PIANO B:** Se pioggia → [[Nishiki Market (錦市場)]] #4/5 🟢 (9:00–17:30, chiuso dom) + [[TOEI Kyoto studio park (東映太秦映画村)]] (#1/5)
+🅿 **PIANO B (pioggia):** Uzumasa ha molte aree al coperto (nessun problema per la sera); se piove di mattina si salta Ryoan-ji. Cena al coperto a Gion (izakaya con ombrelloni/aree coperte).
 
 ---
 
@@ -610,17 +619,17 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 4/4 · **Budget:** ~53 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **07:30** Sveglia · colazione
-- **08:15** Passeggiata ad Asakusa (Kaminarimon, Nakamise)
-- **08:30–10:00** Tempio Senso-ji (apertura 6:30)
-- **10:00–10:45** A piedi lungo il fiume Sumida → Oshiage/Skytree
-- **11:00–12:30** Tokyo Skytree (apertura 10:00) + Pokemon Center Skytree Town
-- **12:45–13:45** Pranzo Solamachi
-- **14:00** Metro → Akihabara (~15 min)
-- **14:15–17:30** Akihabara (elettronica, anime)
-- **17:45–18:45** Ameyoko (Ueno) — street food
-- **19:30** Cena zona Ueno (Rebecca: alternative sicure/cucina)
-- **21:00** Rientro guesthouse
+- **08:00** Sveglia · colazione
+- **08:45** Passeggiata ad Asakusa (Kaminarimon, Nakamise)
+- **09:00–10:15** Tempio Senso-ji (apertura 6:30)
+- **10:30–11:15** A piedi lungo il fiume Sumida → Oshiage/Skytree
+- **11:30–13:00** Tokyo Skytree (apertura 10:00) + Pokemon Center Skytree Town
+- **13:15–14:15** Pranzo Solamachi
+- **14:30** Metro → Akihabara (~15 min)
+- **14:45–18:00** Akihabara (elettronica, anime)
+- **18:15–19:15** Ameyoko (Ueno) — street food
+- **20:00** Cena zona Ueno (Rebecca: alternative sicure/cucina)
+- **21:30** Rientro guesthouse
 
 **Mattina | Cluster Est:**
 - [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)]] (porta lanterna), [[Asakusa(浅草)]] (via shopping)
@@ -652,17 +661,17 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 3/4 · **Budget:** ~60 € · **Meteo:** 12–17°C, 25% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
 
 **⏱️ Orari indicativi:**
-- **07:30** Sveglia · colazione
-- **08:30** Metro → Meiji (~25 min)
-- **09:00–10:30** Santuario Meiji
-- **10:45–11:45** Harajuku (Takeshita Street)
-- **12:00** JR Harajuku → Shinjuku → Nakano (~15 min)
-- **12:15–14:00** Nakano Broadway (pranzo incluso) ⭐ Lorenzo
-- **14:30** JR Nakano → Shinjuku → Shibuya (~15 min)
-- **15:00–17:30** Shibuya: crossing, Pokemon Center · **Shibuya Sky** (⚪ slot tramonto ~16:00–16:30)
-- **18:00** Metro/JR → Shinjuku
-- **18:15–21:00** Shinjuku: vista notturna, Golden Gai (⚪), cena
-- **21:30** Rientro guesthouse
+- **08:30** Sveglia · colazione
+- **09:30** Metro → Meiji (~25 min)
+- **10:00–11:30** Santuario Meiji
+- **11:45–12:45** Harajuku (Takeshita Street)
+- **13:00** JR Harajuku → Shinjuku → Nakano (~15 min)
+- **13:15–15:00** Nakano Broadway (pranzo incluso) ⭐ Lorenzo
+- **15:30** JR Nakano → Shinjuku → Shibuya (~15 min)
+- **16:00–18:30** Shibuya: crossing, Pokemon Center · **Shibuya Sky** (⚪ slot tramonto ~16:30)
+- **19:00** Metro/JR → Shinjuku
+- **19:15–21:30** Shinjuku: vista notturna, Golden Gai (⚪), cena
+- **22:00** Rientro guesthouse
 
 > 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza.
 
@@ -742,9 +751,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 1/4 · **Budget:** ~40 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **07:30** Sveglia (⚪ Tsukiji 06:00 per chi vuole la colazione di sushi)
-- **09:00–16:30** Ultimo giro libero a scelta: Asakusa · Ueno · Akihabara · Ginza · Nakano Broadway
-- **12:30** Pranzo (a scelta)
+- **09:00** Sveglia (⚪ chi vuole la colazione sushi a Tsukiji parte ~06:00)
+- **10:00–16:30** Ultimo giro libero a scelta: Asakusa · Ueno · Akihabara · Ginza · Nakano Broadway
+- **12:45** Pranzo (a scelta)
 - **16:30** Rientro guesthouse · preparazione bagagli
 - **18:30** Cena leggera vicino all'alloggio
 - **20:00** Riposo presto (domattina sveglia 04:30)
@@ -847,6 +856,10 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Giorno 8 ridisegnato: Arashiyama tolta** → mattina templi del Nord + **Uzumasa Kyoto Village** (biglietto giornata ¥2.800, **EVA ultimo ingresso 17:15**) + cena/atmosfera **Halloween a Gion** | 05 Set 2026 | Gruppo | Parco aperto sab 31 (chiuso alcuni mar) · orario 10–21 · sveglia 09:00 · **Evangelion Kyoto Base** inclusa nel biglietto, entrare ~16:00 |
+| **Giorno 7 riordinato: Kiyomizu-dera al tramonto** | 05 Set 2026 | Lorenzo | Sveglia 08:30 · mattina Sannenzaka+Kodai-ji → pomeriggio Yasaka+Gion → Kiyomizu 16:15–17:45 (tramonto ~17:15, uscita entro 18:00) |
+| **Giorno 5 verificato** — fattibile con accorgimenti | 05 Set 2026 | Agente | ⚠️ Castello Hiroshima CHIUSO (mar 2026) → rimosso, sostituito da Hondori · Museo Pace orari nov 8:30–18:00 · attivare JR Pass a Shin-Osaka ~06:10 e prenotare posti riservati (andata+ritorno) · bus Meipuru-pu coperto da pass per il Peace Park · fonte japan-guide |
+| **Sveglie riviste (presto solo se necessario)** | 05 Set 2026 | Agente | G6 07:30 · G7 07:00 · G8 06:45 · G10 08:00 · G11 08:30 · G13 09:00 — orari di giornata ricalibrati di conseguenza |
 | Aggiunto timeline orari indicativi a tutti i giorni (trasporti + visite) | 05 Set 2026 | Agente | Per ogni giorno: sveglia, uscita, spostamenti con durata, orari tappe e visite, pasti, rientro |
 | **USJ biglietti PRENOTATI (Giorno 4 — 27 ott)** | 05 Set 2026 | Lorenzo | **1-day Studio Pass + ingresso Super Nintendo World = 88 €/pax** · portare QR/codice · Express Pass NON incluso |
 | Budget riallineato al prezzo reale USJ (88 €/pax, con pasto) | 05 Set 2026 | Agente | Giorno 4 ~118 € (pranzo coperto da voucher) · ingressi totali ~217 € · spese giornaliere ~841 € · tot **~2.856 €/pax** (~2.800–2.910) |

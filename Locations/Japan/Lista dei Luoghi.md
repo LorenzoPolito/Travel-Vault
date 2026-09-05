@@ -67,7 +67,7 @@ tags:
 1. [[Arashiyama (嵐山)]] ( 24H ) [japan-arashiyama-trecking](https://www.wikiloc.com/hiking-trails/japan-arashiyama-31188930)(3 ore di scampagnata nella natura?) #5/5
 //
 1. [[Adashino nenbutsuji (化野念仏寺)]] ( 9:00-16:30 ) #2/5
-2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( 9:00-17:00 ) #1/5
+2. [[TOEI Kyoto studio park (東映太秦映画村)]] ( Uzumasa Kyoto Village · 10:00-21:00 · chiuso alcuni mar · ¥2.000 dopo le 17 · area anime/EVA ) #3/5
 ## [[Tokyo(東京)]]
 
 1. Quartiere di [[Asakusa(浅草)]] e [[Tempio Senso-Ji (浅草寺)]] ( 6:30-17:00 ) #5/5

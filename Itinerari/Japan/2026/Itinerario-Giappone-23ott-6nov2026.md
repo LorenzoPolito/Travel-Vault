@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.856 €/persona"
+budget_totale_stimato: "~2.855 €/persona"
 tags:
   - itinerario
   - japan
@@ -102,7 +102,7 @@ gantt
     section 🦌 Nara → ⛩️ Kyoto
     Nara mattina           :g7, 2026-10-29, 1d
     Kyoto Higashiyama      :2026-10-30, 1d
-    Kyoto Arashiyama       :2026-10-31, 1d
+    Templi Nord + Uzumasa  :2026-10-31, 1d
 
     section 🚄 Trasferimento
     Kyoto→Tokyo            :2026-11-01, 1d
@@ -111,7 +111,7 @@ gantt
     Asakusa + Akihabara    :2026-11-02, 1d
     Shibuya + Nakano + Shinjuku :2026-11-03, 1d
     🌆 TeamLab + Odaiba    :2026-11-04, 1d
-    Ultimo giorno libero  :2026-11-05, 1d
+    Centro-sud + bagagli   :2026-11-05, 1d
     Ultimo giorno          :2026-11-06, 1d
 
     section ✈️ Ritorno
@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,46,118,30,47,56,58,124,53,60,70,40,45,30]
+    bar [25,39,46,118,30,47,56,58,109,53,60,70,54,45,30]
 ```
 
 ---
@@ -205,16 +205,16 @@ xychart-beta
 |    6    |  29 Ott   |    30 €    |    7 €     |    10 €    |    47 €    |
 |    7    |  30 Ott   |    30 €    |    8 €     |    18 €    |    56 €    |
 |    8    |  31 Ott   |    30 €    |    8 €     |    20 €    |    58 €    |
-|    9    |   1 Nov   |    30 €    |    84 €    |    10 €    |   124 €    |
+|    9    |   1 Nov   |    25 €    |    84 €    |     —      |   109 €    |
 |   10    |   2 Nov   |    30 €    |    10 €    |    13 €    |    53 €    |
 |   11    |   3 Nov   |    35 €    |    10 €    |    15 €    |    60 €    |
 |   12    |   4 Nov   |    35 €    |    10 €    |    25 €    |    70 €    |
-|   13    |   5 Nov   |    30 €    |    10 €    |     —      |    40 €    |
+|   13    |   5 Nov   |    35 €    |    12 €    |    7 €     |    54 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
-| **TOT** |           | **~420 €** | **~204 €** | **~217 €** | **~841 €** |
+| **TOT** |           | **~420 €** | **~206 €** | **~214 €** | **~840 €** |
 
-> Spese giornaliere **~841 €/persona** (cibo 420 + trasporti 204 + ingressi 217 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)** e **TeamLab il 4 nov**; **PokéPark KANTO e Fuji day trip rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.856 €/persona** (~2.800–2.910 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~840 €/persona** (cibo 420 + trasporti 206 + ingressi 214 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)**, **TeamLab il 4 nov** e **Tokyo Tower il 5 nov**; **PokéPark KANTO e Fuji day trip rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.855 €/persona** (~2.800–2.910 €). *Tasso: ~184 ¥/€ (ag. 2026).*
 
 ### Alloggi
 
@@ -235,7 +235,7 @@ xychart-beta
 
 ## Giorno 1 — Venerdì 23 (sera) · Sabato 24 Ottobre — Partenza & Arrivo KIX
 
-**Difficoltà:** 1/4 · **Budget:** 0 €
+**Difficoltà:** 1/4 · **Budget:** ~25 €
 
 **⏱️ Orari indicativi:**
 - **18:10** Check-in FCO (volo 21:10, ~3h prima)
@@ -579,38 +579,37 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ## Giorno 9 — Domenica 1 Novembre — Kyoto→Tokyo via Shinkansen
 
-**Difficoltà:** 2/4 · **Budget:** ~124 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
+**Difficoltà:** 2/4 · **Budget:** ~109 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
 
 **⏱️ Orari indicativi:**
-- **08:00** Sveglia · colazione
-- **09:30** Check-out · breve sosta Nishiki Market / passeggiata Gion (⚪)
-- **10:50** Kyoto Station → binari Shinkansen
-- **~11:00–13:40** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.320 — pranzo ekiben/depachika)
-- **14:00** Metro → Taito · check-in/deposito bagagli
-- **15:30** Metro → Roppongi (~35–40 min)
-- **17:00–18:00** Tokyo Tower (vista notturna) ⚪ vicino a Roppongi
-- **19:00** Cena Roppongi (alternative)
-- **21:00** Rientro Taito (se stanchi: cena vicino hotel)
+- **07:30** Sveglia · colazione
+- **09:00** Check-out (self) — **niente sosta**: [[Nishiki Market (錦市場)|Nishiki]] già visitato al Giorno 7
+- **09:25** Metro Nijo → Kyoto Station
+- **09:45** Acquisto biglietto singolo + **prenotazione posto riservato** (Hikari)
+- **10:15–12:55** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.320 — pranzo ekiben/depachika)
+- **13:10** Metro → Taito · check-in/deposito bagagli
+- **13:45–15:30** Sistemazione · pausa
+- **16:00–17:30** Passeggiata leggera: fiume Sumida / Asakusa al tramonto (⚪)
+- **18:00** Cena veloce vicino all'alloggio (Ueno/Ameyoko o Asakusa)
+- **19:30** Rientro guesthouse · riposo
 
 **Mattina:**
-- Check-out Kyoto
-- [[Nishiki Market (錦市場)]] #4/5 🟢 — **CORREZIONE fact-check (11/08/26):** il mercato **NON è chiuso la domenica** (i singoli negozi chiudono in giorni variabili — molti di mercoledì). Tuttavia con check-out + shinkansen il tempo è poco: meglio una sosta breve o la sostituzione con [[Tempio Kodai-ji (高台寺)]] / passeggiata a [[Quartiere Gion (祇園)|Gion]]
+- Check-out Kyoto ~09:00 (self). Nishiki Market non serve ripeterlo (fatto al G7)
+- Kyoto → Tokyo: biglietto singolo + **posto riservato** Hikari
 
-**Pomeriggio:** Shinkansen Hikari → Tokyo (~2h 40m, ¥13.320 — biglietto singolo)
+**Pomeriggio:** Shinkansen Hikari → Tokyo (~2h40, ¥13.320) · arrivo ~13:00
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo shinkansen:** [[Mangiare in Giappone#Depachika|depachika Isetan Kyoto Station]] (bento di qualità ¥800–1.500) · ekiben classico (¥800–1.200) · konbini (onigiri ¥100–200)
-- 🅱️ **Cena Roppongi:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (Bib Gourmand, ramen yuzu, ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Saizeriya]] (¥500–1.000)
-- 🅲 **Cena media:** [[Mangiare in Giappone#Per Fasce di Budget|izakaya]] a Roppongi (¥2.000–4.000) · yakitori ([[:Roppongi (六本木)]]) · steakhouse
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Roppongi, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|THE WAGYU BROTHERS]] (Roppongi, wagyu burger ✅) · **cucina in hotel**
+- 🅰️ **Pranzo shinkansen:** depachika Isetan Kyoto Station (bento ¥800–1.500) · ekiben (¥800–1.200) · konbini
+- 🅱️ **Sera vicino casa:** Ueno/Ameyoko (yakitori e spiedini ¥200–800) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · konbini
+- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · konbini · **cucina in guesthouse**
 
-**Sera | Tokyo — Roppongi:**
-- Check-in alloggio a **Taito (Asakusa/Ueno)** — [[Tokyo - Taito City Guesthouse]]
-- ⚠️ Roppongi è a ~35–40 min in metro dall'alloggio — alternativa serale più vicina: Asakusa o Akihabara
-- [[Roppongi (六本木)]] #3/5 🟢 — quartiere musei, vita notturna
-- [[Tokyo tower (東京タワー)]] #4/5 🟢 (9:00–22:30, ¥1.200) — illuminata di notte, vista sulla città
+**Sera | Leggera, zona casa (niente corse dopo il treno):**
+- Check-in a **Taito (Asakusa/Ueno)** — [[Tokyo - Taito City Guesthouse]]
+- Passeggiata Asakusa/Ueno al tramonto (⚪) · cena veloce
+- 🧭 **Akihabara** → domani (G10) pomeriggio pieno · **Tokyo Tower/Roppongi** → giorno "centro-sud" (G13)
 
-🅿 **PIANO B:** Se stanchi dal viaggio — cena vicino hotel, esplorazione leggera del quartiere
+🅿 **PIANO B (stanchi dal viaggio):** cena vicino all'hotel e passeggiata leggera ad Asakusa/Ueno (niente spostamenti lunghi)
 
 ---
 
@@ -626,10 +625,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **11:30–13:00** Tokyo Skytree (apertura 10:00) + Pokemon Center Skytree Town
 - **13:15–14:15** Pranzo Solamachi
 - **14:30** Metro → Akihabara (~15 min)
-- **14:45–18:00** Akihabara (elettronica, anime)
+- **14:45–18:00** **Akihabara** (elettronica, anime) 🧭
 - **18:15–19:15** Ameyoko (Ueno) — street food
-- **20:00** Cena zona Ueno (Rebecca: alternative sicure/cucina)
-- **21:30** Rientro guesthouse
+- **20:00** Cena/rientro verso casa (Rebecca: alternative sicure/cucina)
+- **21:00** Rientro guesthouse
 
 **Mattina | Cluster Est:**
 - [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)]] (porta lanterna), [[Asakusa(浅草)]] (via shopping)
@@ -639,7 +638,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Pomeriggio:**
 - [[Tokyo skytree (東京スカイツリー)]] #3/5 🟢 (10:00–22:00, **¥2.400 feriale** / ¥2.600 weekend; ~¥2.100–2.300 anticipato online) — torre più alta del Giappone (634m)
 - [[Pokemon Center Skytree Town]] #3/5 🟢 (10:00–21:00, GRATIS l'ingresso) — in Solamachi, accanto alla Skytree (distretto di Oshiage, **NON ad Asakusa**)
-- [[Yanaka Ginza]] #3/5 ⭐ — quartiere storico con atmosfera Showa, a 10min da Ueno (sostitutivo se stanchi di Skytree)
+- [[Yanaka Ginza]] #3/5 ⭐ — quartiere storico con atmosfera Showa, a 10 min da Ueno · ⚪ da valutare per il G13 (giorno libero) se avanza tempo
 - *Spostamento:* Tokyo Metro → Akihabara (~15 min)
 
 **Cibo oggi — Alternative:**
@@ -648,60 +647,58 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - 🅲 **Cena Ueno/Ameyoko:** [[Mangiare in Giappone#Mercati e Street Food|Ameyoko]] — yakitori, spiedini, takoyaki (¥200–800 per Lorenzo e Davide) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (gyudon ¥400) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
 - 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Ichinoya Japanese Black Wagyu]] (Asakusa, steak ✅) · **cucina in hotel**
 
-**Sera | [[Akihabara (秋葉原)]] #4/5 🟢:**
-- [[Nakano Broadway (中野ブロードウェイ)]] — manga e action figure usate
-- [[Akihabara (秋葉原)]] — 9 piani di elettronica
+**Pomeriggio | [[Akihabara (秋葉原)]] #4/5 🟢 (14:45–18:00):**
+- [[Akihabara (秋葉原)]] — 9 piani di elettronica · anime, figure e retrogame (Mandarake, Super Potato, Animate) · ⭐ Lorenzo
+- Dopo: Ameyoko/Ueno per la cena (street food)
 
 🅿 **PIANO B (pioggia):** Skytree è coperto (al chiuso), Akihabara è coperto — zero impatto!
 
 ---
 
-## Giorno 11 — Martedì 3 Novembre — Tokyo: Meiji → Nakano → Shibuya → Shinjuku
+## Giorno 11 — Martedì 3 Novembre — Tokyo: Meiji → Nakano → Shinjuku → Shibuya
 
 **Difficoltà:** 3/4 · **Budget:** ~60 € · **Meteo:** 12–17°C, 25% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
 
 **⏱️ Orari indicativi:**
 - **08:30** Sveglia · colazione
 - **09:30** Metro → Meiji (~25 min)
-- **10:00–11:30** Santuario Meiji
-- **11:45–12:45** Harajuku (Takeshita Street)
-- **13:00** JR Harajuku → Shinjuku → Nakano (~15 min)
-- **13:15–15:00** Nakano Broadway (pranzo incluso) ⭐ Lorenzo
-- **15:30** JR Nakano → Shinjuku → Shibuya (~15 min)
-- **16:00–18:30** Shibuya: crossing, Pokemon Center · **Shibuya Sky** (⚪ slot tramonto ~16:30)
-- **19:00** Metro/JR → Shinjuku
-- **19:15–21:30** Shinjuku: vista notturna, Golden Gai (⚪), cena
-- **22:00** Rientro guesthouse
+- **10:00–11:15** Santuario Meiji
+- **11:30–12:15** Harajuku (Takeshita Street)
+- **12:30** JR Harajuku → Shinjuku → Nakano (~15 min)
+- **12:45–14:15** Nakano Broadway (pranzo) ⭐ Lorenzo
+- **14:30** JR Nakano → Shinjuku (~10 min)
+- **14:45–16:15** Shinjuku: esplorazione + osservatorio (⚪ Golden Gai di giorno)
+- **16:30** JR → Shibuya (~3 min)
+- **16:45–19:15** Shibuya: Crossing, Pokemon Center · **Shibuya Sky** (⚪ slot ~17:00 — prenotare online)
+- **19:30** Cena Shibuya
+- **21:00** Rientro guesthouse
 
-> 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza.
+> 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza. Percorso in **una sola direzione** (anello ovest).
 
-**Mattina | Harajuku + Shinjuku:**
+**Mattina | Meiji & Harajuku:**
 - [[Santuario Meiji (明治神宮)]] #3/5 🟢 (10:00–16:30, GRATIS) — foresta di 100.000 alberi nel cuore di Tokyo
 - [[Harajuku (原宿)]] #2/5 🟢 — Takeshita Street, moda kawaii
-- JR da Harajuku → Shinjuku (1 stop) → Nakano (10 min)
+- JR Harajuku → Shinjuku (1 stop) → Nakano (Chuo, ~10 min)
 
-**Pomeriggio | Nakano:**
-- [[Nakano (中野市)]] #5/5 🟢 — JR Chuo Line da Shinjuku (~10 min, ¥170)
-- [[Nakano Broadway (中野ブロードウェイ)]] #5/5 🟢 — paradiso collezionismo vintage (Mandarake, manga rari, action figure, anime anni '80-'90) — **Lorenzo imperdibile**
-- JR Nakano → Shinjuku → Shibuya (~15 min)
+**Pomeriggio | Nakano Broadway (pranzo):**
+- [[Nakano (中野市)]] #5/5 🟢 — JR Chuo Line da Shinjuku (~10 min)
+- [[Nakano Broadway (中野ブロードウェイ)]] #5/5 🟢 — paradiso collezionismo vintage (Mandarake, manga rari, action figure, anime anni '80-'90) — **Lorenzo imperdibile** · pranzo nella zona
 
-**Tardo Pomeriggio | Shibuya:**
+**Tardo pomeriggio | Shinjuku:**
+- [[Shinjuku (新宿区)]] #4/5 🟢 — negozi, Omoide Yokochō, osservatorio (GRATIS fino 23:00)
+- [[Golden Gai (ゴールデン街 )]] #2/5 🟢 ⚪ — vicoli di minuscoli bar (5–8 posti), meglio la sera (in questa versione si passa di giorno)
+
+**Sera | Shibuya (tramonto + cena):**
 - [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)|Shibuya Crossing]] (attraversalo dalla folla!)
-- [[Shibuya (渋谷区)|Shibuya Sky]] #4/5 ⭐ (**¥2.700 online**; prezzo in loco più alto — prenotare online, 10:00–22:30) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)|Magnet by Shibuya109]] (gratis con consumazione)
+- [[Shibuya (渋谷区)|Shibuya Sky]] #4/5 ⭐ (**¥2.700 online** — prenotare, 10:00–22:30) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)|Magnet by Shibuya109]] (gratis con consumazione)
 - [[Pokemon center Shibuya]] #5/5 🟢 — merchandise esclusivo
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
 - 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|CoCo Ichibanya]] (curry ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso+uovo ✅) · konbini
-- 🅲 **Cena Shibuya/Shinjuku:** [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Katsukami]] (Bib Gourmand, tonkatsu ¥1.500–2.500) · [[Shinjuku (新宿区)]] — yakitori (¥200–500/spiedino)
-- 🅳 **Cena media:** [[Mangiare in Giappone#Per Fasce di Budget|izakaya]] a Shinjuku · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant, ¥500–1.500)
-- 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Shogun Burger]] (Shibuya, hamburger ✅) · **cucina in hotel**
-- 🍽️ **Dopo cena:** ramen (Ichiran, aperto fino a tardi) · hōjicha (¥300) · bar Golden Gai
-
-**Sera | Shinjuku:**
-- [[Shinjuku (新宿区)]] #4/5 🟢
-- [[Golden Gai (ゴールデン街 )]] #2/5 🟢 — vicoli di minuscoli bar (5–8 posti)
-- [[Shinjuku (新宿区)]] 🟢 (GRATIS fino 23:00) — vista notturna su tutta Tokyo
+- 🅲 **Cena Shibuya:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Katsukami]] (Bib Gourmand, tonkatsu ¥1.500–2.500) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000) · [[Shinjuku (新宿区)]] yakitori (⚪)
+- 🅳 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Shinjuku/Shibuya, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Shogun Burger]] (Shibuya, hamburger ✅) · **cucina in hotel**
+- 🍽️ **Dopo cena (⚪):** ramen (Ichiran) · dolci matcha · se si vuole la vera Golden Gai serale, rientro via Shinjuku (~10 min)
 
 ---
 
@@ -710,7 +707,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 2/4 (giornata tranquilla) · **Budget:** ~70 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **08:30** Sveglia tardi · colazione (⚪ chi si sveglia presto: Tsukiji 06:30–08:00)
+- **08:30** Sveglia tardi · colazione (⚪ ultimi acquisti nelle vicinanze)
 - **09:30–11:30** Liberi in zona Taito (ultimi acquisti Asakusa/Ueno/Akihabara)
 - **12:00** Pranzo zona Taito
 - **12:45** Metro/TX → Toyosu / Shin-Toyosu (~30 min)
@@ -725,7 +722,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Mattina libera | Taito:**
 - 🟢 Recupero/ultimi acquisti in zona alloggio: [[Asakusa(浅草)]] · [[Parco di Ueno (上野恩賜公園)|Ueno]] · [[Akihabara (秋葉原)]]
-- ⚪ Colazione al [[Mercato del pesce di Tsukiji (築地場外市場)]] (5:00–14:00) per chi si sveglia presto (sushi per Lorenzo&Davide)
+- 📍 Il mercato di **Tsukiji** (colazione sushi) è al **Giorno 13**
 
 **Pomeriggio | TeamLab Planets:**
 - *Trasferimento:* Taito → **Toyosu / Shin-Toyosu** (metro/TX ~30 min, ~¥500)
@@ -746,35 +743,51 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ---
 
-## Giorno 13 — Giovedì 5 Novembre — Ultimo giorno libero
+## Giorno 13 — Giovedì 5 Novembre — Tokyo centro-sud: Tsukiji → Ginza → Tokyo Tower → Roppongi
 
-**Difficoltà:** 1/4 · **Budget:** ~40 € · **Meteo:** 12–17°C, 25% pioggia
+**Difficoltà:** 2/4 · **Budget:** ~54 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **09:00** Sveglia (⚪ chi vuole la colazione sushi a Tsukiji parte ~06:00)
-- **10:00–16:30** Ultimo giro libero a scelta: Asakusa · Ueno · Akihabara · Ginza · Nakano Broadway
-- **12:45** Pranzo (a scelta)
-- **16:30** Rientro guesthouse · preparazione bagagli
-- **18:30** Cena leggera vicino all'alloggio
-- **20:00** Riposo presto (domattina sveglia 04:30)
+- **07:30** Sveglia (⚪ 07:00 per chi vuole Tsukiji appena apre)
+- **08:00–09:30** [[Mercato del pesce di Tsukiji (築地場外市場)|Tsukiji]] — colazione sushi (Lorenzo&Davide) · Rebecca: frutta/konbini
+- **09:45** A piedi/metro → **Ginza**
+- **10:00–12:00** Ginza · (⚪ Marunouchi / Tokyo Station)
+- **12:15–13:15** Pranzo Ginza/Marunouchi (depachika)
+- **13:30** Rientro a Taito · **bagagli** (valigie pronte per il volo)
+- **14:30–15:30** Pausa · ⚪ [[Yanaka Ginza]] (a ~15 min da Ueno) se si ha tempo
+- **16:00** Metro → Tokyo Tower / Azabudai Hills
+- **16:30–17:45** [[Tokyo tower (東京タワー)]] (tramonto ~16:40 — vista sulle luci)
+- **18:15** Passeggiata Azabudai/Roppongi
+- **19:30** Cena a Roppongi
+- **21:00** Rientro · ultimo controllo bagagli · riposo (domattina sveglia 04:30)
 
-> 🧘 **PokéPark KANTO rimosso (03/09/26 — lotteria non vinta).** Il **4 nov** è dedicato a TeamLab + Odaiba; il 5 nov resta l'**ultimo giorno pieno prima del volo**: si gira liberi **senza attrazioni a pagamento**, rientro presto per i bagagli.
+> 🧭 **Variante 1 (piano a spirale):** il 5 nov chiude l'anello **centro-sud** (Tsukiji → Ginza → Tokyo Tower → Roppongi). Ritmo **moderato**: si rientra per i bagagli a metà pomeriggio prima del volo del 6 (08:40).
 
-**Giornata libera:**
-- Passeggiata e ultimi acquisti (a scelta): [[Asakusa(浅草)]] · [[Parco di Ueno (上野恩賜公園)|Ueno]] · [[Akihabara (秋葉原)]] · [[Ginza (銀座)]] · [[Nakano Broadway (中野ブロードウェイ)]]
-- ⚪ [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — solo per chi si sveglia presto (colazione di sushi per Lorenzo&Davide)
-- **Preparare i bagagli** (volo 6 nov 08:40 — sveglia ~04:30)
+**Mattina | Tsukiji (colazione):**
+- [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — sushi/kaisen per colazione (Lorenzo&Davide)
+- ⚠️ Rebecca: niente pesce crudo → frutta, yogurt, uovo sodo (konbini) o cucina
 
-**Sera:**
-- Cena leggera e rientro presto — volo all'alba
+**Mattina tardi | Ginza & Marunouchi:**
+- [[Ginza (銀座)]] #1/5 🟢 — vetrine, depachika, shopping
+- ⚪ Tokyo Station / Marunouchi — architettura + stazione storica
+
+**Pomeriggio | Rientro & bagagli:**
+- Valigie pronte (volo 08:40) · ⚪ Yanaka Ginza se si ha tempo e voglia
+
+**Tramonto | Tokyo Tower:**
+- [[Tokyo tower (東京タワー)]] #4/5 🟢 (9:00–22:30, ¥1.200) — salire per il tramonto e le luci della città
+
+**Sera | Roppongi:**
+- [[Roppongi (六本木)]] #3/5 🟢 — cena e quartiere (izakaya, ramen)
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Colazione/presto:** [[Mangiare in Giappone#Mercati e Street Food|Tsukiji]] (sushi per Lorenzo&Davide) · konbini (onigiri, yogurt)
-- 🅱️ **Rebecca:** konbini (yogurt, frutta, uovo sodo) · **cucina in hotel**
-- 🅲 **Pranzo/cena:** konbini · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · depachika
-- 🅳 **Rebecca:** **cucina in hotel**
+- 🅰️ **Colazione Tsukiji:** sushi (¥1.000–3.000, Lorenzo&Davide) · konbini
+- 🅱️ **Pranzo Ginza/Marunouchi:** depachika (bento ¥800–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (¥400)
+- 🅲 **Cena Roppongi:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu, ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] · izakaya (¥2.000–4.000)
+- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|THE WAGYU BROTHERS]] (Roppongi, wagyu burger ✅) · **cucina in guesthouse**
 
-🅿 **PIANO B (pioggia):** quartieri coperti (Akihabara, Ginza, Tokyo Station) — zero impatto
+🅿 **PIANO B (pioggia/stanchi):** tutto il giro è al coperto tranne gli spostamenti (Tsukiji/Ginza/depachika/Tokyo Tower al chiuso). Se si è stanchi: niente Roppongi, Tokyo Tower + cena vicino casa.
+
 
 ---
 
@@ -814,7 +827,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ## Giorno 15 — Sabato 7 Novembre — Rientro 🏠
 
-**Difficoltà:** 1/4 · **Budget:** 0 €
+**Difficoltà:** 1/4 · **Budget:** ~30 €
 
 > Rientro e recupero — nessuna attività pianificata (arrivo della sera prima).
 
@@ -856,6 +869,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G12 baia (TeamLab+Odaiba) · G13 centro-sud (Tsukiji→Ginza→Tokyo Tower→Roppongi). Budget riallineato: spese ~840 €, tot **~2.855 €/pax** |
+| **G9/G10 (piano Tokyo): scelta A** — G9 sera leggero (Sumida/Asakusa, cena vicino), **Akihabara al G10 pomeriggio pieno** (14:45–18:00), Ameyoko/Ueno cena · Yanaka Ginza → ⚪ G13 | 05 Set 2026 | Lorenzo | Tokyo Tower/Roppongi: attesa conferma collocamento giorno "centro-sud" |
+| **Giorno 9 rivisto** (primo anello est): no sosta Nishiki (già G7) · treno ~10:15 con posto riservato · sera **Ueno/Ameyoko → Akihabara** in direzione unica; Tokyo Tower/Roppongi spostate al piano "centro-sud" | 05 Set 2026 | Agente | G10: Akihabara tolta (ora al G9) · aggiunta **Yanaka Ginza** (⭐ Rebecca) |
 | **Giorno 8 ridisegnato: Arashiyama tolta** → mattina templi del Nord + **Uzumasa Kyoto Village** (biglietto giornata ¥2.800, **EVA ultimo ingresso 17:15**) + cena/atmosfera **Halloween a Gion** | 05 Set 2026 | Gruppo | Parco aperto sab 31 (chiuso alcuni mar) · orario 10–21 · sveglia 09:00 · **Evangelion Kyoto Base** inclusa nel biglietto, entrare ~16:00 |
 | **Giorno 7 riordinato: Kiyomizu-dera al tramonto** | 05 Set 2026 | Lorenzo | Sveglia 08:30 · mattina Sannenzaka+Kodai-ji → pomeriggio Yasaka+Gion → Kiyomizu 16:15–17:45 (tramonto ~17:15, uscita entro 18:00) |
 | **Giorno 5 verificato** — fattibile con accorgimenti | 05 Set 2026 | Agente | ⚠️ Castello Hiroshima CHIUSO (mar 2026) → rimosso, sostituito da Hondori · Museo Pace orari nov 8:30–18:00 · attivare JR Pass a Shin-Osaka ~06:10 e prenotare posti riservati (andata+ritorno) · bus Meipuru-pu coperto da pass per il Peace Park · fonte japan-guide |
@@ -881,7 +897,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.856 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.855 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
 | ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
@@ -890,12 +906,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Cibo (15 gg)                      | ~420 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
-| Trasporti locali (15 gg)            | ~140 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, TeamLab)     |                         |     |
-| Attrazioni (USJ, templi, TeamLab…) | ~217 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
+| Trasporti locali (15 gg)            | ~142 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, TeamLab)     |                         |     |
+| Attrazioni (USJ, templi, TeamLab…) | ~214 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.856 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.910 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
+| **TOTALE**                         | **~2.855 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.910 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
 ### Budget Rebecca (extra cibo)
 
@@ -913,12 +929,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Volo A/R (China Eastern, open-jaw) — PRENOTATO | 1.096 € |
 | Alloggio (13 notti, camera condivisa/3) | ~380 € |
-| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~841 € |
+| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~840 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~92 € |
 | Spese personali (souvenir, extra) | ~400 € |
 | Assicurazione viaggio | ~27 € |
 | eSIM | ~20 € |
-| **TOTALE** | **~2.856 €** (~2.800–2.910 €) |
+| **TOTALE** | **~2.855 €** (~2.800–2.910 €) |
 
 ---
 

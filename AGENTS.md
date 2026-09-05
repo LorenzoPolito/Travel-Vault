@@ -16,7 +16,7 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 - **Giappone**: 23 Ott (partenza) — 6 Nov 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
 - **Route**: Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo
-- **Budget**: ~2.856 €/persona (voli inclusi 1.096 €)
+- **Budget**: ~2.855 €/persona (voli inclusi 1.096 €)
 - **Stato**: ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Alloggi prenotati · 🔵 **USJ prenotato (05/09/26)** · ❌ attività da prenotare (TeamLab, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
 
 ## Convenzioni Vault

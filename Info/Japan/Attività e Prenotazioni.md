@@ -110,4 +110,4 @@ tags:
 | USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
 | TeamLab Planets | ~20 € |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
-| **Ingressi totali** | **~217 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |
+| **Ingressi totali** | **~214 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |

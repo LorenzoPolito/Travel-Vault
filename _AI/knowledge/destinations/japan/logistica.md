@@ -109,12 +109,12 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
 | Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
 | Trasporti locali (15gg) | ~149 € |
-| Attrazioni (USJ 88 € reali con pasto, templi, TeamLab, torri) | ~217 € |
+| Attrazioni (USJ 88 € reali con pasto, templi, TeamLab, Tokyo Tower, torri) | ~214 € |
 | Spese personali | ~400 € |
 | Assicurazione + eSIM | ~47 € |
-| **TOTALE** | **~2.856 €** (~2.800–2.910 €) |
+| **TOTALE** | **~2.855 €** (~2.800–2.910 €) |
 
-> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~841 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)** e TeamLab (4 nov). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), Umeda Sky (Giorno 3).**
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~840 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)** e TeamLab (4 nov). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), Umeda Sky (Giorno 3).**
 
 ---
 

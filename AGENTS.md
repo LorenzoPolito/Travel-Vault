@@ -16,8 +16,8 @@ Questo workspace è un **Obsidian vault** per pianificazione viaggi + un **sito 
 - **Giappone**: 23 Ott (partenza) — 6 Nov 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
 - **Route**: Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo
-- **Budget**: ~2.902 €/persona (voli inclusi 1.096 €)
-- **Stato**: ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Alloggi prenotati · ❌ attività da prenotare (USJ, TeamLab, PokéPark KANTO, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
+- **Budget**: ~2.828 €/persona (voli inclusi 1.096 €)
+- **Stato**: ✅ Voli prenotati (China Eastern, 1.096 €/pax) · ✅ Alloggi prenotati · ❌ attività da prenotare (USJ, TeamLab, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
 
 ## Convenzioni Vault
 
@@ -58,4 +58,4 @@ I voli sono stati **prenotati il 09/08/26** (China Eastern open-jaw, 1.096,33 �
 - 🛬 HND→FCO 6/11 08:40 (MU576 + MU787, via Shanghai PVG) → arrivo 18:15
 - Prezzo: 575,54 € andata + 520,79 € ritorno = 1.096,33 €/pax · tot. 3.289 € (3 pax)
 
-**Attività ancora da prenotare:** USJ, TeamLab Planets, PokéPark KANTO, JR Kansai-Hiroshima Pass, eSIM, assicurazione.
+**Attività ancora da prenotare:** USJ, TeamLab Planets, JR Kansai-Hiroshima Pass, eSIM, assicurazione. ⛔ PokéPark KANTO rimosso (lotteria non vinta, 03/09/26).

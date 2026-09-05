@@ -23,7 +23,8 @@ tags:
 2. [[Tempio Shitenno-ji (四天王寺)]] (9:00-16:30) #4/5
 3. [[Tempio Hozen-ji (法善寺)]] #4/5
 4. Quartiere [[Shinsekai (新世界と通天閣​)]] #4/5
-5. [[Torre Tsutenkaku (通天閣)]] #2/5
+5. Quartiere [[Nipponbashi Den Den Town (でんでんタウン)]] (negozi ~10:00-19:30, meglio di pomeriggio) #4/5 ⭐ Lorenzo
+6. [[Torre Tsutenkaku (通天閣)]] #2/5
 //
 1. [[Teamlab botanical garden]] (18:30-21:30) #4/5
 //
@@ -99,7 +100,7 @@ tags:
 8. [[Azabudai Hills (麻布台ヒルズ)]] #4/5 ⭐ Rebecca
 //
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
-2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente, feb 2026 · Trainer's Pass ¥7.900–9.400 · prenotazione online ~2 mesi prima · NO walk-in · max 2 biglietti/persona ) #5/5
+2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente, feb 2026 · Trainer's Pass ¥7.900–9.400 · prenotazione/lotteria online, NO walk-in · ⛔ lotteria 4 nov NON vinta → fuori dal piano attivo ) #5/5
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5

@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: itineraries
 language: it
-last_updated: 2026-08-11
+last_updated: 2026-09-03
 destination: Japan
 tags: [japan, itineraries, tokyo, kyoto, osaka, hiroshima, planning]
 source_files:
@@ -28,6 +28,7 @@ Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 6 Nov 2026** (15gg/14not
 
 > ✅ **Fact-check 11/08/2026:** prezzi/orari/tariffe verificati su fonti ufficiali (JR West, teamlab.art, todaiji.or.jp, japan-guide, xe.com). **Nishiki Market NON è chiuso di domenica** (correzione). Prezzi aggiornati: TeamLab ¥3.600, Skytree ¥2.400, Shibuya Sky ¥2.700, pass 17.000 ¥, Fuji Excursion ¥4.200.
 > 🎡 **Aggiunto (11/08/26):** **PokéPark KANTO** (primo parco Pokémon permanente, Yomiuriland, aperto feb 2026) + **TeamLab** accorpati al **4 nov**; il **5 nov** è ultimo giorno libero senza attrazioni. **Fuji day trip rimosso del tutto.**
+> 🧘 **Aggiornamenti 03/09/26:** Umeda Sky rimosso dal Giorno 3 (giornata tranquilla in zona Minami) + **Nipponbashi Den Den Town** (⭐ Lorenzo, opzionale) · ⛔ **PokéPark KANTO RIMOSSO (lotteria non vinta)** → il 4 nov = **TeamLab (slot pomeriggio) + Odaiba al tramonto**. Budget aggiornato a **~2.828 €/persona**.
 
 ---
 
@@ -65,13 +66,13 @@ Itinerari/Japan/
 | Osaka (incl. USJ) + day trip Hiroshima/Miyajima | 25–29 Ott | 4 |
 | Nara (half day) → Kyoto | 29 Ott | — |
 | Kyoto | 29 Ott – 1 Nov | 3 |
-| Tokyo (PokéPark KANTO + TeamLab il 4 nov) | 1–6 Nov | 5 |
+| Tokyo (TeamLab + Odaiba il 4 nov) | 1–6 Nov | 5 |
 | Partenza (volo MU da HND) | 6 Nov | — |
 
 **Caratteristiche chiave:**
 - Orari al minuto, livello difficoltà fisica (1-4), indicazioni mezzo di trasporto
 - ✅ **VOLI PRENOTATI** (09/08/26): China Eastern open-jaw 1.096,33 €/pax — FCO→KIX 23/10 21:10, HND→FCO 6/11 08:40
-- Budget dettagliato: ~2.902 €/persona (voli inclusi)
+- Budget dettagliato: ~2.828 €/persona (voli inclusi)
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
 - 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
 

@@ -39,5 +39,5 @@ tags:
 ## Note
 
 - Il teamLab è a **Toyosu/Shin-Toyosu**, a ~5 min da Odaiba — si abbina bene a una serata a Odaiba (Rainbow Bridge illuminato)
-- Slot serale consigliato se il pomeriggio è occupato (es. PokéPark)
+- Slot pomeriggio consigliato (uscita ~15:30 → tramonto ~16:45 su Odaiba)
 - Niente rimborsi; cambio data/ora fino a 2h prima (max 3 volte) — store ufficiale DMM

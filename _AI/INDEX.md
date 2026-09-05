@@ -40,7 +40,7 @@ Travel-Vault/
 │   │   ├── workspace.md                  ← Metadati vault-wide
 │   │   └── destinations/
 │   │       ├── japan/
-│   │       │   ├── locations.md          ← 86 luoghi JP con voti e cluster
+│   │       │   ├── locations.md          ← 87 luoghi JP con voti e cluster
 │   │       │   ├── itinerari.md          ← Itinerari JP (19 varianti)
 │   │       │   └── logistica.md          ← IC Cards, JR Pass, budget JP
 │   │       ├── italia/

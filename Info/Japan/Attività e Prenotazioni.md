@@ -20,8 +20,7 @@ tags:
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
 | **USJ** (Giorno 4) | 27 Ott | ¥8.400–9.400 (~46–51 €) | Klook o `usj.co.jp` | ❌ URGENTE — acquisto anticipato obbligatorio |
-| **PokéPark KANTO** (Giorno 12) | 4 Nov | Trainer's Pass ¥7.900–9.400 | `ticket-en.pokepark-kanto.co.jp` | ❌ finestra ~inizio settembre — ORA APERTA |
-| **TeamLab Planets** (Giorno 12) | 4 Nov, slot 19:00 | ¥3.600+ | `teamlabplanets.dmm.com` | ❌ vendita novembre da fine agosto |
+| **TeamLab Planets** (Giorno 12) | 4 Nov, slot pomeriggio ~13:00–14:00 | ¥3.600+ | `teamlabplanets.dmm.com` | ❌ vendita novembre aperta |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | Klook o JR West online | ❌ da acquistare (entro 1 mese) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.320 ¥ (~72 €) | in stazione | ❌ biglietto singolo |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
@@ -40,17 +39,11 @@ tags:
 > ⚠️ **Acquisto anticipato OBBLIGATORIO:** dal 2025 i biglietti **non si vendono più al parco**. Orario tipico novembre 9:00–20:00 — verificare il calendario ufficiale per il 27 ott.
 > 👩🍳 **Rebecca:** ✅ **VA a USJ** ma deve **portare cibo da casa** (riso, pollo freddo, frutta, uova sode) — niente cibo sicuro nel parco (soia + pesce).
 
-## PokéPark KANTO (Giorno 12 — Mercoledì 4 Nov, mattina)
+## ⛔ PokéPark KANTO — RIMOSSO (lotteria non vinta)
 
-| Voce | Costo/persona | Dove prenotare | Note |
-|---|---|---|---|
-| Trainer's Pass | **¥7.900–9.400** (~43–51 €) | `ticket-en.pokepark-kanto.co.jp` | Include Yomiuriland + 1 ingresso orario Pokémon Forest |
-| Giostre (Pika/Vee Vee) | ¥1.200 adulto a testa (extra) | App ufficiale dentro il parco | — |
+> **03/09/26:** non siamo stati selezionati all'estrazione per i biglietti del 4 nov → **biglietto non acquistabile** (nessuna vendita walk-in). **PokéPark fuori dal piano attivo.** Non prenotare.
 
-> ⚠️ **NO walk-in** · prenotazione online **~2 mesi prima** (finestra 4 nov = **inizio settembre 2026 — ORA APERTA**) · solo carta, **max 2 biglietti/persona** → per 3 persone servono **2 ordini** · niente rimborsi.
-> 👩🍳 **Rebecca:** cibo a tema rischioso (soia+pesce) → pranzo al sacco/konbini.
-
-## TeamLab Planets (Giorno 12 — Mercoledì 4 Nov, slot 19:00)
+## TeamLab Planets (Giorno 12 — Mercoledì 4 Nov, slot pomeriggio)
 
 | Voce | Costo/persona | Dove prenotare | Note |
 |---|---|---|---|
@@ -59,8 +52,9 @@ tags:
 | Bambini 4–12 | ¥1.500 | idem | Under 3 gratis |
 
 > ✅ **Verificato 03/09/26:** prezzi da store ufficiale DMM. Vendita **a lotti ~2–3 mesi prima** — novembre in vendita da fine agosto/inizio settembre. **Cambio data/ora fino a 2h prima (max 3 volte)** · no rimborsi.
+> 🎫 Consigliato **slot pomeriggio ~13:00–14:00** (uscita ~15:30 → tramonto ~16:45 su Odaiba). Se lo slot 19:00 è già prenotato, **cambiarlo gratis** fino a 2h prima.
 > **Orari:** variabili per data (ultimo ingresso ~1h prima della chiusura) — confermare il 4 nov nello store.
-> ✅ **Tutti possono entrare** — Rebecca inclusa (esperienza immersiva, non si mangia). Si abbina a Odaiba di sera (Rainbow Bridge illuminato).
+> ✅ **Tutti possono entrare** — Rebecca inclusa (esperienza immersiva, non si mangia). Si abbina a Odaiba al tramonto.
 
 ## JR Kansai-Hiroshima Area Pass (attivare Mercoledì 28 Ott)
 
@@ -81,7 +75,6 @@ tags:
 | Luogo | Costo | Giorno | Data |
 |---|---|---|---|
 | Castello di Osaka | ¥600 | 3 | 26 Ott |
-| Umeda Sky Building | ¥1.500 | 3 | 26 Ott |
 | Torre Tsutenkaku *(opzionale)* | ¥900 | 3 | 26 Ott |
 | Giardini Nishinomaru *(opzionale)* | ¥350 | 3 | 26 Ott |
 | Museo della Pace Hiroshima | ¥200 | 5 | 28 Ott |
@@ -107,13 +100,14 @@ tags:
 | Mario Kart Ride | Rimosso (patente/traduzione non più necessarie) |
 | Maid café | Rimosso |
 | Fuji Excursion (Fujiyoshida) | Day trip rimosso del tutto |
+| Umeda Sky Building | Rimosso dal Giorno 3 (03/09/26) — giornata più tranquilla in zona Minami |
+| **PokéPark KANTO** | **Rimosso (03/09/26) — lotteria non vinta, biglietto non acquistabile** |
 
 ## Budget attività (per persona, stima)
 
 | Attività | Costo stimato |
 |---|---|
 | USJ biglietto | ~46–51 € |
-| PokéPark KANTO | ~43–51 € |
 | TeamLab Planets | ~20 € |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
-| **Ingressi totali** | **~236 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |
+| **Ingressi totali** | **~179 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |

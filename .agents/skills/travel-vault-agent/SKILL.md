@@ -116,8 +116,8 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 - **Destinazione**: Giappone (KIX → Izumisano → Osaka, Hiroshima, Nara, Kyoto, Tokyo)
 - **Date**: 23 Ottobre (partenza) — 6 Novembre 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
-- **Budget stimato**: ~2.902 €/persona (voli inclusi 1.096 €)
-- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · ❌ attività da prenotare (USJ, TeamLab, PokéPark KANTO, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
+- **Budget stimato**: ~2.828 €/persona (voli inclusi 1.096 €)
+- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · ❌ attività da prenotare (USJ, TeamLab, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
 - **Voli**: FCO→KIX 23/10 21:10 (via Shanghai) · HND→FCO 6/11 08:40 (via Shanghai)
 - **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~99€) + biglietto singolo Kyoto→Tokyo (~81€)
 - **Itinerari**: itinerario attivo in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`

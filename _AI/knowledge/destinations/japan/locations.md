@@ -14,7 +14,7 @@ source_files:
   - Locations/Japan/Buildings/
   - Locations/Japan/Stores/
 ai_notes: "File modulare Giappone. Per nuova destinazione, copia da _AI/templates/locations.md"
-total_locations: 86
+total_locations: 87
 ---
 
 # 📍 Locations — Giappone
@@ -43,7 +43,7 @@ total_locations: 86
 
 | Categoria | Cartella | N° |
 | --- | --- | --- |
-| Città | `Locations/Japan/Cities/` | 9 (+ 18 quartieri/strade in `Cities/blocks/`) |
+| Città | `Locations/Japan/Cities/` | 9 (+ 19 quartieri/strade in `Cities/blocks/`) |
 | Templi & Santuari | `Locations/Japan/Temples/` | 27 |
 | Parchi & Natura | `Locations/Japan/Parks-nature/` | 14 |
 | Edifici Iconici | `Locations/Japan/Buildings/` | 7 |
@@ -65,6 +65,7 @@ total_locations: 86
 - Tempio Shitenno-ji (9:00-16:30) `#4/5`
 - Tempio Hozen-ji `#4/5`
 - Shinsekai `#4/5`
+- Nipponbashi Den Den Town `#4/5` ⭐ Lorenzo *(tra Namba e Shinsekai — Osaka's Akihabara: anime, retrogame, elettronica · negozi ~10-19:30)*
 - Torre Tsutenkaku `#2/5`
 
 **Cluster 3:**
@@ -169,7 +170,7 @@ total_locations: 86
 
 **Day trip:**
 - Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(rimosso dal piano attivo 11/08/26 — resta come day trip opzionale)*
-- **PokéPark KANTO** (Yomiuriland, Tokyo ovest) `#5/5` *(Lorenzo — primo parco Pokémon permanente al mondo, feb 2026; Trainer's Pass ¥7.900–9.400, prenotazione online ~2 mesi prima, NO walk-in, **max 2 biglietti/persona** → per 3 persone servono 2 ordini)*
+- ~~**PokéPark KANTO**~~ (Yomiuriland, Tokyo ovest) `#5/5` *(⛔ **RIMOSSO dal piano attivo 03/09/26 — lotteria non vinta**, biglietto non acquistabile. Resta come POI di riferimento)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
 
@@ -192,6 +193,7 @@ total_locations: 86
 
 ## ⚠️ Note Critiche per Agenti AI
 
+- **Osaka ⭐ Lorenzo:** Nipponbashi Den Den Town (`#4/5`) — Osaka's Akihabara, tra Namba e Shinsekai (aggiunta 03/09/26)
 - **Tokyo ⭐ Rebecca (aggiunte 03/09/26):** Azabudai Hills (`#4/5`), Odaiba Beach (`#3/5`), Yanaka Ginza (`#3/5`), Monzennakacho (`#3/5`) — allineate in master list, KB e city note
 - **Miyajima:** verificare sempre orari maree — il Torii è più scenico con alta marea
 - **Gion:** comunicare il divieto dei vicoli privati (multa 70€)

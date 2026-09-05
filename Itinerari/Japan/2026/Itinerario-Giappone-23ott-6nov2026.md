@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.828 €/persona"
+budget_totale_stimato: "~2.856 €/persona"
 tags:
   - itinerario
   - japan
@@ -20,7 +20,7 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · ❌ attività da prenotare
+> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ❌ da prenotare: TeamLab, JR Pass, eSIM, assicurazione
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,46,90,30,47,56,58,124,53,60,70,40,45,30]
+    bar [25,39,46,118,30,47,56,58,124,53,60,70,40,45,30]
 ```
 
 ---
@@ -200,7 +200,7 @@ xychart-beta
 |    1    | 23–24 Ott |    15 €    |    10 €    |     —      |    25 €    |
 |    2    |  25 Ott   |    25 €    |    14 €    |     —      |    39 €    |
 |    3    |  26 Ott   |    30 €    |    8 €     |    8 €     |    46 €    |
-|    4    |  27 Ott   |    35 €    |    5 €     |    50 €    |    90 €    |
+|    4    |  27 Ott   |    25 €    |    5 €     |    88 €    |   118 €    |
 |    5    |  28 Ott   |    25 €    |  — (pass)  |    5 €     |    30 €    |
 |    6    |  29 Ott   |    30 €    |    7 €     |    10 €    |    47 €    |
 |    7    |  30 Ott   |    30 €    |    8 €     |    18 €    |    56 €    |
@@ -212,9 +212,9 @@ xychart-beta
 |   13    |   5 Nov   |    30 €    |    10 €    |     —      |    40 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
-| **TOT** |           | **~430 €** | **~204 €** | **~179 €** | **~813 €** |
+| **TOT** |           | **~420 €** | **~204 €** | **~217 €** | **~841 €** |
 
-> Spese giornaliere **~813 €/persona** (cibo 430 + trasporti 204 + ingressi 179 — inclusi shinkansen Kyoto→Tokyo, USJ e **TeamLab il 4 nov**; **PokéPark KANTO e Fuji day trip rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.828 €/persona** (~2.780–2.880 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~841 €/persona** (cibo 420 + trasporti 204 + ingressi 217 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)** e **TeamLab il 4 nov**; **PokéPark KANTO e Fuji day trip rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.856 €/persona** (~2.800–2.910 €). *Tasso: ~184 ¥/€ (ag. 2026).*
 
 ### Alloggi
 
@@ -236,6 +236,14 @@ xychart-beta
 ## Giorno 1 — Venerdì 23 (sera) · Sabato 24 Ottobre — Partenza & Arrivo KIX
 
 **Difficoltà:** 1/4 · **Budget:** 0 €
+
+**⏱️ Orari indicativi:**
+- **18:10** Check-in FCO (volo 21:10, ~3h prima)
+- **21:10 → 14:40 (24/10)** Volo MU788 FCO→Shanghai PVG (11h30)
+- **14:40–17:25** Cambio a Shanghai PVG (2h45)
+- **17:25 → 21:00** Volo FM3051 PVG→KIX (2h35)
+- **21:00** Arrivo KIX · Icoca + attivazione eSIM · Nankai Airport Express (~10 min, ¥520) → Izumisano
+- **~22:00** Check-in KURA Hotel Izumisano (self) · cena leggera (konbini)
 
 Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai (PVG)** — China Eastern **MU788 + FM3051** (prenotato), partenza **venerdì 23 sera alle 21:10** → arrivo **sabato 24 alle 21:00**. La prima notte si dorme a **Izumisano**, a 2 fermate dall'aeroporto — niente stress di trasferimento notturno fino al centro.
 
@@ -274,6 +282,18 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 2/4 · **Budget:** ~40 € · **Meteo:** 18–23°C, 30% possibilità pioggia (dati JMA)
 
+**⏱️ Orari indicativi:**
+- **07:30** Sveglia · colazione (konbini)
+- **09:30** Check-out KURA Hotel
+- **10:00–10:34** Nankai Main Line Izumisano → Namba (~34 min, ¥610)
+- **10:50** Metro Yotsubashi Line → Hanazonocho · check-in/deposito bagagli
+- **12:00–13:00** Pranzo zona Namba
+- **13:30–15:30** Riposo / primo assaggio Dotonbori di giorno (⚪)
+- **16:00** Uscita · passeggiata Hozen-ji + Dotonbori
+- **19:00** Cena Dotonbori (street food / alternative)
+- **20:30** Dotonbori illuminato · Shinsaibashi
+- **22:00** Rientro appartamento
+
 **Mattina — Trasferimento a Osaka:**
 - Check-out KURA Hotel **entro le 10:00**
 - **Nankai Main Line** → Namba (~34 min, ¥610, su Icoca) — oppure JR → Tennoji se preferisci
@@ -299,6 +319,19 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 ## Giorno 3 — Lunedì 26 Ottobre — Osaka: Cultura & Quartieri
 
 **Difficoltà:** 3/4 · **Budget:** ~46 € · **Meteo:** 18–23°C, 25% pioggia (dati JMA)
+
+**⏱️ Orari indicativi:**
+- **07:00** Sveglia · colazione
+- **08:15** Uscita → Castello di Osaka (metro ~20 min)
+- **09:00–10:00** Castello di Osaka (apertura 9:00) · giardini Nishinomaru 10:00–10:30
+- **10:45** Metro → Shitennoji-mae (~15 min)
+- **11:00–12:00** Tempio Shitenno-ji
+- **12:15–13:15** Pranzo zona Shinsekai
+- **13:30–15:00** Shinsekai + Tsutenkaku (⚪ ¥900)
+- **15:15–16:30** Nipponbashi Den Den Town (⚪ ~1h, ⭐ Lorenzo)
+- **17:00–18:30** Shinsaibashi / relax Namba
+- **19:00** Cena Namba
+- **21:30** Rientro
 
 **Mattina | Cluster Castello:**
 - [[Castello di Osaka (大阪城)]] #4/5 🟢 (9:00, ¥600) — arrivo entro 9:00 per evitare code
@@ -329,36 +362,61 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ## Giorno 4 — Martedì 27 Ottobre — Universal Studios Japan
 
-**Difficoltà:** 4/4 (camminata intensa) · **Budget:** ~90 € · **Meteo:** 18–23°C, 25% pioggia
+**Difficoltà:** 4/4 (camminata intensa) · **Budget:** ~118 € · **Meteo:** 18–23°C, 25% pioggia
 
-**Giornata intera a [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]** #3/5 🟡 **DA PRENOTARE**
+**⏱️ Orari indicativi:**
+- **07:00** Sveglia · colazione
+- **08:00** Partenza → JR Osaka Loop Line → Universal City (~15 min, ¥180)
+- **08:30** Arrivo ai cancelli (apertura indicativa 9:00 — verificare calendario)
+- **09:00–18:00** USJ: Super Nintendo World (ingresso incluso, orario assegnato) · Harry Potter · Minion/Jurassic — **pranzo coperto da voucher pasto**
+- **18:30** Uscita · JR → Namba (~15 min)
+- **19:30** Cena Namba (Rebecca: cucina / alternative sicure)
+- **21:30** Rientro (giornata ~25.000 passi)
+
+**Giornata intera a [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]** #3/5 🔵 **PRENOTATO**
+
+> ✅ **Biglietti USJ acquistati il 05/09/26** — **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto**, **88 €/pax**. Portare QR/codice conferma (app o stampa) per il **27 ott**.
 
 *Spostamento:* JR Osaka Loop Line → Universal City (~15 min, ¥180)
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo in USJ:** hamburger (¥1.500–2.500) · pizza · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|conveyor belt sushi]] (¥100–500). Opzione economica: porta onigiri/fruit (permesso)
+- 🅰️ **Pranzo in USJ:** 🎫 **coperto dal voucher pasto incluso** — verificare i ristoranti accettati al parco · in alternativa hamburger (¥1.500–2.500) · pizza · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|conveyor belt sushi]] (¥100–500)
 - 🅱️ **Cena rientro:** [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
 - 🅲 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Yakiniku Like]] (Namba, carne alla griglia ✅) · **cucina in hotel**
-- ⚠️ **Rebecca:** PORTA CIBO DA CASA a USJ (riso, pollo freddo, frutta, uova sode). Niente dentro USJ è sicuro (soia+pesce)
+- ⚠️ **Rebecca:** PORTA CIBO DA CASA a USJ (riso, pollo freddo, frutta, uova sode). Niente dentro USJ è sicuro (soia+pesce) — il **voucher pasto** potrebbe non essere utilizzabile per lei → chiedere all'arrivo un'opzione sicura o cederlo a un compagno
 
 **Aree priority:**
-- **Super Nintendo World** — Mario Kart: Koopa's Challenge
+- **Super Nintendo World** ✓ *ingresso incluso (orario assegnato — verificare sull'app)* — Mario Kart: Koopa's Challenge
 - **The Wizarding World of Harry Potter** — Hogwarts Castle
 - **Minion Park** + Jurassic World
 
 **Consigli:**
-- 🟡 **Biglietto ¥8.400–9.400 (~46–51 €)** — **acquisto anticipato OBBLIGATORIO**: dal 2025 i biglietti non si vendono più al parco. Prenotare MESI prima (Halloween season si esaurisce)
-- 🟡 **Express Pass** (~¥8.000–15.000 extra) — da valutare se si vuole evitare code 2h+
+- 🔵 **Biglietto PRENOTATO (05/09/26):** **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (tariffa del 27 ott) · **acquisto anticipato OBBLIGATORIO**: dal 2025 niente biglietti al parco
+- 🟡 **Express Pass** (~¥8.000–15.000 extra) — NON incluso: da valutare solo per saltare code 2h+ (es. Mario Kart) · acquisto separato
 - Arrivare entro 8:00–8:30 (orario tipico novembre: 9:00–20:00; l'apertura effettiva varia per periodo — verificare sul sito ufficiale)
 - Scarpe comodissime — si camminano 25.000+ passi
 
-🅿 **PIANO B:** Se troppo caro o sold-out → intera giornata a [[Kaiyukan aquarium (海遊館)]] #1/5 (¥2.700) + [[Teamlab botanical garden]] #4/5 (¥1.500) — totale ~25 €
+🅿 **PIANO B (fatica/pioggia):** Biglietti già presi — se si è stanchi si esce prima (re-ingresso non consentito) e si rientra a Namba per cena.
 
 ---
 
 ## Giorno 5 — Mercoledì 28 Ottobre — Hiroshima + Miyajima
 
 **Difficoltà:** 4/4 · **Budget:** ~30 € · **Meteo:** 17–22°C, 25% pioggia · **Attiva JR Kansai-Hiroshima Pass**
+
+**⏱️ Orari indicativi:**
+- **05:30** Sveglia · colazione
+- **06:20** Metro/Shinkansen → Shin-Osaka
+- **06:45–08:15** Shinkansen Sakura Shin-Osaka → Hiroshima (~1h30)
+- **08:30–08:55** JR Sanyo Line → Miyajimaguchi (~25 min, incluso pass)
+- **09:00–09:15** Traghetto JR → Miyajima (~10 min, + tassa 100¥)
+- **09:30–12:00** Miyajima: Itsukushima Shrine + Daisho-in (controllare maree)
+- **12:00–13:00** Pranzo a Miyajima
+- **13:15–13:30** Traghetto ritorno · **13:40–14:05** JR → Hiroshima
+- **14:15–17:00** Memorial Park + Museo della Pace (~2h)
+- **17:00–17:45** Castello di Hiroshima / Hondori (⚪)
+- **18:00–19:30** Shinkansen ritorno → Shin-Osaka
+- **20:15** Rientro Osaka · cena (konbini/alternative)
 
 > 🟡 **Da attivare oggi (28 ott):** [[JR pass|JR Kansai-Hiroshima Area Pass]] (**17.000 ¥ ≈ 92 €**) — copre Shinkansen A/R Shin-Osaka→Hiroshima + traghetto JR Miyajima + linee JR West per i prossimi 4 giorni (**valido 28 ott–1 nov**)
 
@@ -393,6 +451,17 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 3/4 · **Budget:** ~47 € · **Meteo:** 15–22°C, 25% pioggia
 
+**⏱️ Orari indicativi:**
+- **07:00** Sveglia · colazione · check-out (takkyubin valigie → Kyoto, facoltativo)
+- **08:30–09:15** Kintetsu Namba → Kintetsu Nara (~40 min, ¥570, non-JR)
+- **09:15–12:45** Nara: Parco + Todaiji (Gran Buddha) + Kasuga Taisha (~3h)
+- **13:00–14:00** Pranzo Nara
+- **14:00–14:50** JR Nara → Kyoto (~50 min, incluso pass)
+- **15:00** Check-in hotel Kyoto (deposito bagagli)
+- **16:00–17:45** Fushimi Inari (JR 5 min, 24h) — torii nel tardo pomeriggio
+- **18:15** Cena Kyoto Station (depachika / alternative)
+- **21:00** Rientro hotel
+
 **08:00** Check-out Osaka
 **08:30–09:15** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR)
 
@@ -422,6 +491,19 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 4/4 · **Budget:** ~56 € · **Meteo:** 15–22°C, 25% pioggia
 
+**⏱️ Orari indicativi:**
+- **06:30** Sveglia (alba ~06:20) · colazione
+- **07:00** Uscita → Higashiyama (bus/metro ~20 min)
+- **07:30–09:00** Kiyomizu-dera (apertura 6:00 — luce e poca folla)
+- **09:00–09:45** Sannenzaka / Ninenzaka
+- **10:00–11:00** Tempio Kodai-ji
+- **11:30–13:00** Pranzo Nishiki Market (street food)
+- **13:30–14:30** Santuario Yasaka
+- **14:45–16:00** Gion (Hanamikoji — niente vicoli privati/geisha)
+- **16:15–17:15** Pontocho / fiume Kamo (⚪)
+- **19:00** Cena Gion
+- **21:30** Rientro hotel
+
 **Mattina presto | Cluster Higashiyama:**
 - [[Kiyomizu-dera (清水寺)]] #5/5 🟢 (6:00–18:00, ¥500) — entro 8:00 per luce e folla minima. Terrazza in legno senza chiodi, vista su Kyoto. Foliage autunnale in corso
 - [[Sannenzaka e Ninenzaka (三年坂)(二年坂)]] #4/5 🟢 — viuzze acciottolate, matcha gelato
@@ -447,6 +529,20 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 ## Giorno 8 — Sabato 31 Ottobre — Kyoto: Arashiyama & Kinkakuji
 
 **Difficoltà:** 3/4 · **Budget:** ~58 € · **Meteo:** 15–22°C, 25% pioggia · 🎃 **Halloween**
+
+**⏱️ Orari indicativi:**
+- **06:30** Sveglia · colazione
+- **07:00** Treno Sagano Line → Arashiyama (~15 min)
+- **07:40–08:30** Foresta di bambù (luce migliore, poca folla)
+- **08:45–10:00** Tenryu-ji (apertura 8:30)
+- **10:15–11:15** Arashiyama: fiume Katsura / zona ⚪
+- **11:30–12:30** Pranzo Arashiyama
+- **12:45** Bus/treno → Kinkaku-ji (~40 min)
+- **13:30–14:30** Kinkaku-ji
+- **14:45–15:45** Ryoan-ji (a ~15 min a piedi)
+- **16:15** Rientro centro Kyoto (~40 min)
+- **18:00** Cena / atmosfera Halloween a Gion (⚪ illuminazioni autunnali)
+- **21:30** Rientro hotel
 
 **Mattina presto | [[Arashiyama (嵐山)]] #5/5:**
 - Treno Sagano Line da Kyoto → Arashiyama (~15 min)
@@ -476,6 +572,17 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 2/4 · **Budget:** ~124 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
 
+**⏱️ Orari indicativi:**
+- **08:00** Sveglia · colazione
+- **09:30** Check-out · breve sosta Nishiki Market / passeggiata Gion (⚪)
+- **10:50** Kyoto Station → binari Shinkansen
+- **~11:00–13:40** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.320 — pranzo ekiben/depachika)
+- **14:00** Metro → Taito · check-in/deposito bagagli
+- **15:30** Metro → Roppongi (~35–40 min)
+- **17:00–18:00** Tokyo Tower (vista notturna) ⚪ vicino a Roppongi
+- **19:00** Cena Roppongi (alternative)
+- **21:00** Rientro Taito (se stanchi: cena vicino hotel)
+
 **Mattina:**
 - Check-out Kyoto
 - [[Nishiki Market (錦市場)]] #4/5 🟢 — **CORREZIONE fact-check (11/08/26):** il mercato **NON è chiuso la domenica** (i singoli negozi chiudono in giorni variabili — molti di mercoledì). Tuttavia con check-out + shinkansen il tempo è poco: meglio una sosta breve o la sostituzione con [[Tempio Kodai-ji (高台寺)]] / passeggiata a [[Quartiere Gion (祇園)|Gion]]
@@ -501,6 +608,19 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 ## Giorno 10 — Lunedì 2 Novembre — Tokyo: Asakusa, Skytree, Akihabara
 
 **Difficoltà:** 4/4 · **Budget:** ~53 € · **Meteo:** 12–17°C, 25% pioggia
+
+**⏱️ Orari indicativi:**
+- **07:30** Sveglia · colazione
+- **08:15** Passeggiata ad Asakusa (Kaminarimon, Nakamise)
+- **08:30–10:00** Tempio Senso-ji (apertura 6:30)
+- **10:00–10:45** A piedi lungo il fiume Sumida → Oshiage/Skytree
+- **11:00–12:30** Tokyo Skytree (apertura 10:00) + Pokemon Center Skytree Town
+- **12:45–13:45** Pranzo Solamachi
+- **14:00** Metro → Akihabara (~15 min)
+- **14:15–17:30** Akihabara (elettronica, anime)
+- **17:45–18:45** Ameyoko (Ueno) — street food
+- **19:30** Cena zona Ueno (Rebecca: alternative sicure/cucina)
+- **21:00** Rientro guesthouse
 
 **Mattina | Cluster Est:**
 - [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)]] (porta lanterna), [[Asakusa(浅草)]] (via shopping)
@@ -530,6 +650,19 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 ## Giorno 11 — Martedì 3 Novembre — Tokyo: Meiji → Nakano → Shibuya → Shinjuku
 
 **Difficoltà:** 3/4 · **Budget:** ~60 € · **Meteo:** 12–17°C, 25% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
+
+**⏱️ Orari indicativi:**
+- **07:30** Sveglia · colazione
+- **08:30** Metro → Meiji (~25 min)
+- **09:00–10:30** Santuario Meiji
+- **10:45–11:45** Harajuku (Takeshita Street)
+- **12:00** JR Harajuku → Shinjuku → Nakano (~15 min)
+- **12:15–14:00** Nakano Broadway (pranzo incluso) ⭐ Lorenzo
+- **14:30** JR Nakano → Shinjuku → Shibuya (~15 min)
+- **15:00–17:30** Shibuya: crossing, Pokemon Center · **Shibuya Sky** (⚪ slot tramonto ~16:00–16:30)
+- **18:00** Metro/JR → Shinjuku
+- **18:15–21:00** Shinjuku: vista notturna, Golden Gai (⚪), cena
+- **21:30** Rientro guesthouse
 
 > 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza.
 
@@ -567,6 +700,17 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 2/4 (giornata tranquilla) · **Budget:** ~70 € · **Meteo:** 12–17°C, 25% pioggia
 
+**⏱️ Orari indicativi:**
+- **08:30** Sveglia tardi · colazione (⚪ chi si sveglia presto: Tsukiji 06:30–08:00)
+- **09:30–11:30** Liberi in zona Taito (ultimi acquisti Asakusa/Ueno/Akihabara)
+- **12:00** Pranzo zona Taito
+- **12:45** Metro/TX → Toyosu / Shin-Toyosu (~30 min)
+- **13:30–15:30** TeamLab Planets (slot pomeriggio, ~2h)
+- **15:45** Yurikamome → Odaiba (~10 min)
+- **16:00–18:30** Odaiba: tramonto ~16:45 da Odaiba Beach · Gundam · DiverCity
+- **19:00** Cena Odaiba (vista baia)
+- **20:30** Rientro Taito
+
 > ⛔ **PokéPark KANTO RIMOSSO (03/09/26):** non siamo stati selezionati alla lotteria dei biglietti → **non è possibile entrare** (niente vendita walk-in). Il 4 nov diventa una **giornata tranquilla**: mattina libera a Taito, poi **TeamLab Planets** e **Odaiba al tramonto**.
 > 🎫 **TeamLab:** prenotare (o cambiare, se già preso lo slot 19:00 — gratis fino a 2h prima, max 3 volte) uno **slot pomeriggio ~13:00–14:00** per uscire verso le 15:30 e godersi il **tramonto (~16:45)** su Odaiba.
 
@@ -597,6 +741,14 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 1/4 · **Budget:** ~40 € · **Meteo:** 12–17°C, 25% pioggia
 
+**⏱️ Orari indicativi:**
+- **07:30** Sveglia (⚪ Tsukiji 06:00 per chi vuole la colazione di sushi)
+- **09:00–16:30** Ultimo giro libero a scelta: Asakusa · Ueno · Akihabara · Ginza · Nakano Broadway
+- **12:30** Pranzo (a scelta)
+- **16:30** Rientro guesthouse · preparazione bagagli
+- **18:30** Cena leggera vicino all'alloggio
+- **20:00** Riposo presto (domattina sveglia 04:30)
+
 > 🧘 **PokéPark KANTO rimosso (03/09/26 — lotteria non vinta).** Il **4 nov** è dedicato a TeamLab + Odaiba; il 5 nov resta l'**ultimo giorno pieno prima del volo**: si gira liberi **senza attrazioni a pagamento**, rientro presto per i bagagli.
 
 **Giornata libera:**
@@ -621,6 +773,16 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Difficoltà:** 1/4 · **Budget:** ~45 €
 
+**⏱️ Orari indicativi:**
+- **04:30** Sveglia · check-out (bagagli pronti dalla sera prima)
+- **05:15** Uscita → HND: Keikyu Line da Asakusa (~50 min, ~¥600) o Tokyo Monorail/limousine
+- **06:10** Arrivo Haneda · check-in bagagli
+- **08:00** Imbarco
+- **08:40–11:05** Volo MU576 HND → Shanghai PVG (3h25)
+- **11:05–12:40** Cambio a Shanghai (1h35)
+- **12:40–18:15** Volo MU787 PVG → Roma FCO
+- **18:15** Arrivo FCO · rientro a casa 🏠
+
 > 🛫 **Volo prenotato:** MU576 (HND→PVG 3h25) + MU787 (PVG→FCO 12h35) · cambio a Shanghai 1h35 · arrivo FCO **18:15**
 
 **Mattina presto (sveglia ~04:30-05:00):**
@@ -644,6 +806,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 ## Giorno 15 — Sabato 7 Novembre — Rientro 🏠
 
 **Difficoltà:** 1/4 · **Budget:** 0 €
+
+> Rientro e recupero — nessuna attività pianificata (arrivo della sera prima).
 
 Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività pianificata — recupero del sonno e riorganizzazione.
 
@@ -683,6 +847,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| Aggiunto timeline orari indicativi a tutti i giorni (trasporti + visite) | 05 Set 2026 | Agente | Per ogni giorno: sveglia, uscita, spostamenti con durata, orari tappe e visite, pasti, rientro |
+| **USJ biglietti PRENOTATI (Giorno 4 — 27 ott)** | 05 Set 2026 | Lorenzo | **1-day Studio Pass + ingresso Super Nintendo World = 88 €/pax** · portare QR/codice · Express Pass NON incluso |
+| Budget riallineato al prezzo reale USJ (88 €/pax, con pasto) | 05 Set 2026 | Agente | Giorno 4 ~118 € (pranzo coperto da voucher) · ingressi totali ~217 € · spese giornaliere ~841 € · tot **~2.856 €/pax** (~2.800–2.910) |
 | **PokéPark KANTO rimosso dal Giorno 12** — lotteria non vinta (biglietto non acquistabile) | 03 Set 2026 | Lorenzo | 4 nov ridisegnato: mattina libera Taito + TeamLab slot pomeriggio + Odaiba al tramonto · budget: G12 ~70 €, ingressi ~179 €, spese ~813 €, tot ~2.828 €/pax |
 | **Umeda Sky Building rimosso dal Giorno 3** — giornata più tranquilla in zona Minami | 03 Set 2026 | Lorenzo | Budget ricalibrato: Giorno 3 ~46 €, ingressi totali ~229 €, spese giornaliere ~880 €, tot ~2.895 €/persona |
 | Aggiunto Nipponbashi Den Den Town (Giorno 3, ⚪ opzionale, ⭐ Lorenzo) | 03 Set 2026 | Agente | Osaka — Osaka's Akihabara tra Namba e Shinsekai · pagina quartiere + master list + KB + city note · fonte: osaka-info.jp (negozi ~10:00-19:30, chiusure variabili) |
@@ -701,21 +868,21 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.828 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.856 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
 | ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
 | Volo A/R                           | 1.096 €            | 🔵 **PRENOTATO**      | —     | China Eastern open-jaw: FCO→KIX 23/10, HND→FCO 6/11 (09/08/26) |                         |     |
 | Alloggio (13 notti, camera/3)      | ~380 €             | ✅ Calcolato           | —     | Izumisano ✅ + Osaka ✅ + Kyoto ✅ + Tokyo ✅ — tutti prenotati    |                         |     |
-| Cibo (15 gg × ~30 €)               | ~430 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
+| Cibo (15 gg)                      | ~420 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
 | Trasporti locali (15 gg)            | ~140 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, TeamLab)     |                         |     |
-| Attrazioni (USJ, templi, TeamLab…) | ~179 €             | ❌ Da calcolare        | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
+| Attrazioni (USJ, templi, TeamLab…) | ~217 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.828 €**       | **🔵 Voli prenotati** | —     | ~2.780–2.880 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
+| **TOTALE**                         | **~2.856 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.910 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
 ### Budget Rebecca (extra cibo)
 
@@ -723,7 +890,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Spesa supermarket (pasta, riso, pollo, verdure, frutta) | ~10 €/gg × 15gg = ~150 € |
 | Ristoranti sicuri (Saizeriya, yakiniku) | ~3–4 pasti × ~10 € = ~35 € |
-| **Extra Rebecca** | **~185 €** (meno dei ~430 € del budget cibo standard) |
+| **Extra Rebecca** | **~185 €** (meno dei ~420 € del budget cibo standard) |
 
 ---
 
@@ -733,12 +900,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Volo A/R (China Eastern, open-jaw) — PRENOTATO | 1.096 € |
 | Alloggio (13 notti, camera condivisa/3) | ~380 € |
-| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~813 € |
+| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~841 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~92 € |
 | Spese personali (souvenir, extra) | ~400 € |
 | Assicurazione viaggio | ~27 € |
 | eSIM | ~20 € |
-| **TOTALE** | **~2.828 €** (~2.780–2.880 €) |
+| **TOTALE** | **~2.856 €** (~2.800–2.910 €) |
 
 ---
 
@@ -752,7 +919,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Kyoto 3 notti (29 ott–1 nov)                     | ✅ **FATTO**           | 🔵 **PRENOTATO** | [[Kyoto - Miro Nijo Hotel\|Miro Kyoto Nijo Hotel]] — cucina ✅                                                                            |
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · Klook o JR West online                                                                |
-| Universal Studios Japan biglietti                         | **URGENTE (2+ mesi)** | ❌ Da prenotare   | ¥8.400–9.400 (dinamico per data) · **acquisto anticipato OBBLIGATORIO** (dal 2025 niente biglietti al parco) · Klook o `usj.co.jp` |
+| Universal Studios Japan biglietti                         | ✅ **FATTO (05/09/26)** | 🔵 **PRENOTATO** | **1-day Studio Pass + Super Nintendo World = 88 €/pax** (27 ott) · portare QR/codice · Express Pass NON incluso |
 | TeamLab Planets                                           | **Vendita aperta — prenotare subito** | ❌ Da prenotare   | Adulti ¥3.600+ (studenti ¥2.800, bambini ¥1.500) · store ufficiale `teamlabplanets.dmm.com` · **slot pomeriggio ~13:00–14:00 del 4 nov** · se già preso il 19:00, cambiabile gratis fino a 2h prima (max 3 volte) |
 | ~~PokéPark KANTO (Yomiuriland)~~                          | ❌ 03/09/26 — lotteria NON vinta | ⛔ **RIMOSSO**     | Non selezionati all'estrazione → **biglietto non acquistabile** (no walk-in). Rimosso dal piano attivo (era Giorno 12, 4 nov) |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |

@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-09-03
+last_updated: 2026-09-05
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -105,16 +105,16 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | --- | --- |
 | ✅ Voli A/R (China Eastern, prenotati) | **1.096 €** |
 | ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
-| Cibo (15gg × ~30€) | ~430 € |
+| Cibo (15gg, pasto USJ incluso) | ~420 € |
 | JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
 | Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
 | Trasporti locali (15gg) | ~149 € |
-| Attrazioni (USJ, templi, TeamLab, torri) | ~179 € |
+| Attrazioni (USJ 88 € reali con pasto, templi, TeamLab, torri) | ~217 € |
 | Spese personali | ~400 € |
 | Assicurazione + eSIM | ~47 € |
-| **TOTALE** | **~2.828 €** (~2.780–2.880 €) |
+| **TOTALE** | **~2.856 €** (~2.800–2.910 €) |
 
-> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~813 € e includono shinkansen, USJ e TeamLab (4 nov). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), Umeda Sky (Giorno 3).**
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~841 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)** e TeamLab (4 nov). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), Umeda Sky (Giorno 3).**
 
 ---
 
@@ -124,7 +124,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | --- | --- | --- |
 | ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
-| Universal Studios Japan | Alta | Biglietti online (Klook) — **acquisto anticipato OBBLIGATORIO** (¥8.400–9.400) |
+| ✅ Universal Studios Japan | ✅ **FATTO (05/09/26)** | **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (27 ott) · portare QR · Express Pass non incluso |
 | TeamLab Planets (Tokyo) | Alta | ¥3.600+ adulti (studenti ¥2.800, bambini ¥1.500) · **store ufficiale DMM** · vendita a lotti ~2-3 mesi prima · **slot pomeriggio ~13:00–14:00 del 4 nov** (se preso 19:00, cambiabile fino a 2h prima) |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
 | JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |

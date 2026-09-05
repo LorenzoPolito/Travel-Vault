@@ -19,25 +19,25 @@ tags:
 
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
-| **USJ** (Giorno 4) | 27 Ott | ¥8.400–9.400 (~46–51 €) | Klook o `usj.co.jp` | ❌ URGENTE — acquisto anticipato obbligatorio |
 | **TeamLab Planets** (Giorno 12) | 4 Nov, slot pomeriggio ~13:00–14:00 | ¥3.600+ | `teamlabplanets.dmm.com` | ❌ vendita novembre aperta |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | Klook o JR West online | ❌ da acquistare (entro 1 mese) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.320 ¥ (~72 €) | in stazione | ❌ biglietto singolo |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
 | Assicurazione viaggio | subito | ~27 €/pax | Heymondo | ❌ |
 
+> 🔵 **USJ — FATTO (05/09/26):** biglietti 1 giorno per il 27 ott **acquistati**. Vedi sezione sotto.
+
 ---
 
-## Universal Studios Japan (Giorno 4 — Martedì 27 Ott)
+## Universal Studios Japan (Giorno 4 — Martedì 27 Ott) ✅ PRENOTATO
 
-| Voce | Costo/persona | Dove prenotare | Note |
+| Voce | Costo/persona | Dove | Note |
 |---|---|---|---|
-| Biglietto 1 giorno | **¥8.400–9.400** (~46–51 €) | Klook.com o sito ufficiale | ⚠️ **URGENTE** · Halloween season si esaurisce |
-| Express Pass (4 attrazioni) | ~¥8.000–12.000 extra (~46–70 €) | Klook.com | Da valutare per code 2h+ su Mario Kart |
-| Express Pass (7 attrazioni) | ~¥12.000–18.000 extra (~70–105 €) | Klook.com | Solo se il budget lo permette |
+| **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto** | **88 € (pagato)** | Klook/official | 🔵 **Acquistato 05/09/26** — ingresso SNW incluso (orario assegnato) · portare QR/codice |
+| Express Pass (4 attrazioni) | ~¥8.000–12.000 extra (~46–70 €) | Klook.com | NON incluso — solo per code 2h+ su Mario Kart |
 
-> ⚠️ **Acquisto anticipato OBBLIGATORIO:** dal 2025 i biglietti **non si vendono più al parco**. Orario tipico novembre 9:00–20:00 — verificare il calendario ufficiale per il 27 ott.
-> 👩🍳 **Rebecca:** ✅ **VA a USJ** ma deve **portare cibo da casa** (riso, pollo freddo, frutta, uova sode) — niente cibo sicuro nel parco (soia + pesce).
+> 🔵 **Biglietti PRENOTATI (05/09/26): 1-day Studio Pass + SNW + voucher pasto = 88 €/pax.** ⚠️ Ricordare: dal 2025 **non si vendono biglietti al parco**. Orario tipico novembre 9:00–20:00 — verificare il calendario ufficiale.
+> 👩🍳 **Rebecca:** ✅ **VA a USJ** ma deve **portare cibo da casa** (riso, pollo freddo, frutta, uova sode) — niente cibo sicuro nel parco (soia + pesce). Il voucher pasto potrebbe non essere utilizzabile per lei → chiedere un'opzione sicura o cederlo.
 
 ## ⛔ PokéPark KANTO — RIMOSSO (lotteria non vinta)
 
@@ -107,7 +107,7 @@ tags:
 
 | Attività | Costo stimato |
 |---|---|
-| USJ biglietto | ~46–51 € |
+| USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
 | TeamLab Planets | ~20 € |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
-| **Ingressi totali** | **~179 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |
+| **Ingressi totali** | **~217 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |

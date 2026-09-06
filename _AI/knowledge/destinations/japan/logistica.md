@@ -125,8 +125,8 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
 | ✅ Universal Studios Japan | ✅ **FATTO (05/09/26)** | **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (27 ott) · portare QR · Express Pass non incluso |
-| TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G12) |
-| Sanrio Puroland (Tama) | Alta | **Day Passport ¥3.900~ (4 nov)** · riserva obbligatoria · **Klook** o e-Passport ufficiale · orari 4 nov da confermare |
+| TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G11) |
+| Sanrio Puroland (Tama) | Alta | **Day Passport ¥3.900~ (3 nov)** · riserva obbligatoria · **Klook** o e-Passport ufficiale · orari 3 nov da confermare |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
 | JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |
 | Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione (~13.320 ¥) |

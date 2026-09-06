@@ -28,7 +28,7 @@ Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 6 Nov 2026** (15gg/14not
 
 > ✅ **Fact-check 11/08/2026:** prezzi/orari/tariffe verificati su fonti ufficiali (JR West, teamlab.art, todaiji.or.jp, japan-guide, xe.com). **Nishiki Market NON è chiuso di domenica** (correzione). Prezzi aggiornati: TeamLab ¥3.600, Skytree ¥2.400, Shibuya Sky ¥2.700, pass 17.000 ¥, Fuji Excursion ¥4.200.
 > 🎡 **Aggiunto (11/08/26):** **PokéPark KANTO** (primo parco Pokémon permanente, Yomiuriland, aperto feb 2026) + **TeamLab** accorpati al **4 nov**; il **5 nov** è ultimo giorno libero senza attrazioni. **Fuji day trip rimosso del tutto.**
-> 🧘 **Aggiornamenti 03/09/26:** Umeda Sky rimosso dal Giorno 3 (giornata tranquilla in zona Minami) + **Nipponbashi Den Den Town** (⭐ Lorenzo, opzionale) · ⛔ **PokéPark KANTO RIMOSSO (lotteria non vinta)** → il 4 nov = **TeamLab (slot pomeriggio) + Odaiba al tramonto**. **5 nov = chiusura spirale Tokyo: centro-sud (Tsukiji → Ginza → Tokyo Tower → Roppongi)**. Budget aggiornato a **~2.858 €/persona**.
+> 🧘 **Aggiornamenti 03/09/26:** Umeda Sky rimosso dal Giorno 3 (giornata tranquilla in zona Minami) + **Nipponbashi Den Den Town** (⭐ Lorenzo, opzionale) · ⛔ **PokéPark KANTO RIMOSSO (lotteria non vinta)** → il 4 nov = **TeamLab (slot pomeriggio) + Odaiba al tramonto**. **5 nov = anniversario Davide & Rebecca (programma a cura loro) · Lorenzo: nerd + Tokyo Tower**. Budget aggiornato a **~2.858 €/persona**.
 
 ---
 

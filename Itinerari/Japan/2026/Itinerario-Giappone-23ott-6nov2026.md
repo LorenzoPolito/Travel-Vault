@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,46,118,30,47,56,58,109,53,60,73,54,45,30]
+    bar [25,39,46,118,30,47,56,58,122,40,73,60,54,45,30]
 ```
 
 ---
@@ -205,10 +205,10 @@ xychart-beta
 |    6    |  29 Ott   |    30 €    |    7 €     |    10 €    |    47 €    |
 |    7    |  30 Ott   |    30 €    |    8 €     |    18 €    |    56 €    |
 |    8    |  31 Ott   |    30 €    |    8 €     |    20 €    |    58 €    |
-|    9    |   1 Nov   |    25 €    |    84 €    |     —      |   109 €    |
-|   10    |   2 Nov   |    30 €    |    10 €    |    13 €    |    53 €    |
-|   11    |   3 Nov   |    35 €    |    10 €    |    15 €    |    60 €    |
-|   12    |   4 Nov   |    35 €    |    12 €    |    26 €    |    73 €    |
+|    9    |   1 Nov   |    25 €    |    84 €    |    13 €    |   122 €    |
+|   10    |   2 Nov   |    30 €    |    10 €    |     —      |    40 €    |
+|   11    |   3 Nov   |    35 €    |    12 €    |    26 €    |    73 €    |
+|   12    |   4 Nov   |    35 €    |    10 €    |    15 €    |    60 €    |
 |   13    |   5 Nov   |    35 €    |    12 €    |    7 €     |    54 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
@@ -579,7 +579,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ## Giorno 9 — Domenica 1 Novembre — Kyoto→Tokyo via Shinkansen
 
-**Difficoltà:** 2/4 · **Budget:** ~109 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
+**Difficoltà:** 2/4 · **Budget:** ~122 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
 
 **⏱️ Orari indicativi:**
 - **07:30** Sveglia · colazione
@@ -587,10 +587,11 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **09:25** Metro Nijo → Kyoto Station
 - **09:45** Acquisto biglietto singolo + **prenotazione posto riservato** (Hikari)
 - **10:15–12:55** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.320 — pranzo ekiben/depachika)
-- **13:10** Metro → Taito · check-in/deposito bagagli
-- **13:45–15:30** Sistemazione · pausa
-- **16:00–17:30** Passeggiata leggera: fiume Sumida / Asakusa al tramonto (⚪)
-- **18:00** Cena veloce vicino all'alloggio (Ueno/Ameyoko o Asakusa)
+- **13:30** Metro → Taito · check-in/deposito bagagli
+- **13:50–15:00** Sistemazione · pausa
+- **15:15** Metro → Oshiage/Skytree (~15 min)
+- **15:40–17:00** [[Tokyo skytree (東京スカイツリー)]] **al tramonto (~16:40)** · [[Pokemon Center Skytree Town]]
+- **17:15–19:00** **Solamachi**: shopping + cena
 - **19:30** Rientro guesthouse · riposo
 
 **Mattina:**
@@ -601,63 +602,92 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo shinkansen:** depachika Isetan Kyoto Station (bento ¥800–1.500) · ekiben (¥800–1.200) · konbini
-- 🅱️ **Sera vicino casa:** Ueno/Ameyoko (yakitori e spiedini ¥200–800) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · konbini
+- 🅱️ **Cena Solamachi (Oshiage):** ristoranti e food court (ramen, okonomiyaki, dolci) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · konbini
 - 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa) · konbini · **cucina in guesthouse**
 
-**Sera | Leggera, zona casa (niente corse dopo il treno):**
+**Pomeriggio/Sera | Tokyo Skytree & Solamachi (primo sguardo da casa):**
 - Check-in a **Taito (Asakusa/Ueno)** — [[Tokyo - Taito City Guesthouse]]
-- Passeggiata Asakusa/Ueno al tramonto (⚪) · cena veloce
-- 🧭 **Akihabara** → domani (G10) pomeriggio pieno · **Tokyo Tower/Roppongi** → giorno "centro-sud" (G13)
+- **Tokyo Skytree** (1 nov = **domenica → ¥2.600**; ~¥2.100–2.300 online) — salita verso il tramonto (~16:40)
+- **Pokemon Center Skytree Town** (Solamachi) + cena/shopping a Solamachi
+- 🧭 **Akihabara** → domani (G10) pomeriggio pieno · **Tokyo Tower/Roppongi** → G13 (anniversario D&R / opz. Lorenzo)
 
-🅿 **PIANO B (stanchi dal viaggio):** cena vicino all'hotel e passeggiata leggera ad Asakusa/Ueno (niente spostamenti lunghi)
+🅿 **PIANO B (stanchi dal viaggio):** cena vicino all'hotel e passeggiata leggera ad Asakusa/Ueno — Skytree si fa al G10 (niente perdite, è già nel piano).
 
 ---
 
-## Giorno 10 — Lunedì 2 Novembre — Tokyo: Asakusa, Skytree, Akihabara
+## Giorno 10 — Lunedì 2 Novembre — Tokyo: Asakusa → Akihabara (nerd)
 
-**Difficoltà:** 4/4 · **Budget:** ~53 € · **Meteo:** 12–17°C, 25% pioggia
+**Difficoltà:** 4/4 · **Budget:** ~40 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
 - **08:00** Sveglia · colazione
-- **08:45** Passeggiata ad Asakusa (Kaminarimon, Nakamise)
-- **09:00–10:15** Tempio Senso-ji (apertura 6:30)
-- **10:30–11:15** A piedi lungo il fiume Sumida → Oshiage/Skytree
-- **11:30–13:00** Tokyo Skytree (apertura 10:00) + Pokemon Center Skytree Town
-- **13:15–14:15** Pranzo Solamachi
-- **14:30** Metro → Akihabara (~15 min)
-- **14:45–18:00** **Akihabara** (elettronica, anime) 🧭
-- **18:15–19:15** Ameyoko (Ueno) — street food
-- **20:00** Cena/rientro verso casa (Rebecca: alternative sicure/cucina)
-- **21:00** Rientro guesthouse
+- **08:30** Passeggiata ad Asakusa (Kaminarimon, Nakamise)
+- **08:45–10:30** Tempio Senso-ji (apertura 6:30 — mattina presto, poca folla)
+- **10:45–12:00** Nakamise/negozi + fiume Sumida (⚪)
+- **12:15–13:15** Pranzo Asakusa
+- **13:20** Metro → Akihabara (~15 min)
+- **13:45–18:30** **Akihabara** (elettronica, arcade, anime, retro) 🧭 ⭐ Lorenzo
+- **18:45–19:45** Ameyoko (Ueno) — street food
+- **20:30** Rientro guesthouse
 
-**Mattina | Cluster Est:**
+**Mattina | Asakusa (stacco e cibo):**
 - [[Asakusa(浅草)]] #5/5 🟢 — [[Asakusa(浅草)]] (porta lanterna), [[Asakusa(浅草)]] (via shopping)
 - [[Tempio Senso-Ji (浅草寺)]] #5/5 🟢 (6:30–17:00, GRATIS) — tempio più antico di Tokyo
-- Passeggiata lungo il fiume Sumida verso Skytree
+- 🗼 **Tokyo Skytree già vista al G9** (tramonto + Solamachi) → oggi non serve tornare a Oshiage
 
-**Pomeriggio:**
-- [[Tokyo skytree (東京スカイツリー)]] #3/5 🟢 (10:00–22:00, **¥2.400 feriale** / ¥2.600 weekend; ~¥2.100–2.300 anticipato online) — torre più alta del Giappone (634m)
-- [[Pokemon Center Skytree Town]] #3/5 🟢 (10:00–21:00, GRATIS l'ingresso) — in Solamachi, accanto alla Skytree (distretto di Oshiage, **NON ad Asakusa**)
-- [[Yanaka Ginza]] #3/5 ⭐ — quartiere storico con atmosfera Showa, a 10 min da Ueno · ⚪ da valutare per il G13 (giorno libero) se avanza tempo
-- *Spostamento:* Tokyo Metro → Akihabara (~15 min)
+**Pomeriggio + sera | [[Akihabara (秋葉原)]] #4/5 🟢 (13:45–18:30):**
+- Elettronica (9 piani), **arcade** (Taito Station/GIGO fino a tardi), **Super Potato** (retrogame), Mandarake/second-hand, Animate, gachapon, Don Quijote
+- ⭐ Lorenzo · [[Yanaka Ginza]] #3/5 ⭐ Rebecca resta ⚪ per il **G13** (pool improvvisazione)
+- Dopo: Ameyoko/Ueno per la cena (street food)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Asakusa:** [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] (ramen ¥1.000–2.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
-- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Yakiniku Like]] (Asakusa, carne alla griglia ✅) · konbini (yogurt, frutta, uovo sodo)
-- 🅲 **Cena Ueno/Ameyoko:** [[Mangiare in Giappone#Mercati e Street Food|Ameyoko]] — yakitori, spiedini, takoyaki (¥200–800 per Lorenzo e Davide) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (gyudon ¥400) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
-- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|Ichinoya Japanese Black Wagyu]] (Asakusa, steak ✅) · **cucina in hotel**
+- 🅱️ **Pranzo Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Matsuya]] (gyudon senza salsa ✅) · konbini
+- 🅲 **Cena Ueno/Ameyoko:** [[Mangiare in Giappone#Mercati e Street Food|Ameyoko]] — yakitori, spiedini, takoyaki (¥200–800) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (¥400) · [[Mangiare in Giappone#Per Fasce di Budget|CoCo Ichibanya]] (curry ¥500–1.000)
+- 🅳 **Cena Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
 
-**Pomeriggio | [[Akihabara (秋葉原)]] #4/5 🟢 (14:45–18:00):**
-- [[Akihabara (秋葉原)]] — 9 piani di elettronica · anime, figure e retrogame (Mandarake, Super Potato, Animate) · ⭐ Lorenzo
-- Dopo: Ameyoko/Ueno per la cena (street food)
-
-🅿 **PIANO B (pioggia):** Skytree è coperto (al chiuso), Akihabara è coperto — zero impatto!
+🅿 **PIANO B (pioggia):** Asakusa (Nakamise coperta) e Akihabara sono **al coperto** — zero impatto!
 
 ---
 
-## Giorno 11 — Martedì 3 Novembre — Tokyo: Meiji → Nakano → Shinjuku → Shibuya
+## Giorno 11 — Martedì 3 Novembre — Sanrio Puroland + Ikebukuro (anime & kawaii)
 
-**Difficoltà:** 3/4 · **Budget:** ~60 € · **Meteo:** 12–17°C, 25% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
+**Difficoltà:** 3/4 (giornata piena ma divertente) · **Budget:** ~73 € · **Meteo:** 12–17°C, 25% pioggia · **🎌 Festa Nazionale (Bunka no Hi)**
+
+**⏱️ Orari indicativi:**
+- **07:30** Sveglia · colazione
+- **08:15** Uscita → JR/metro via Shinjuku → **Tama Center** (~55–60 min)
+- **10:00–14:00** [[Sanrio Puroland (サンリオピューロランド)]] (Day Passport, ~4h) — parade/show, incontri personaggi, giostrine · pranzo al sacco (⚠️ Rebecca)
+- **14:15** Ritorno verso Shinjuku (~40 min) → **Ikebukuro** (Yamanote, ~5 min)
+- **15:15–17:00** **Sunshine City**: Pokémon Center MEGA Tokyo · arcade · food
+- **17:15–19:00** **Animate Ikebukuro** (flagship) · Otome Road · negozi anime/figure
+- **19:00** Cena a Ikebukuro
+- **20:30** Rientro Taito
+
+> 🎀 **Sanrio Puroland** — ⚠️ **chiuso mercoledì 4 nov** → **spostato al 3 nov** (Bunka no Hi, festivo: aperto ma affollato → arrivare presto). + 🎮 **Ikebukuro anime** = giornata *kawaii + otaku*. 🎫 Day Passport **¥3.900~** da prenotare su **Klook** (come USJ) o e-Passport ufficiale (riserva inclusa) · verificare orari del 3 nov.
+
+**Mattina | Sanrio Puroland (Tama Center):**
+- Parco **indoor** — perfetto anche con pioggia · parade/show + greeting con i personaggi
+- 🎫 Biglietti: **Klook o e-Passport ufficiale** (include la riserva visita)
+- 👩🍳 **Rebecca:** cibo a tema non sicuro → **pranzo al sacco/konbini**
+
+**Tardo pomeriggio | Ikebukuro (anime/giochi):**
+- **Sunshine City**: **Pokémon Center MEGA Tokyo** (il più grande) · arcade
+- **Animate Ikebukuro** — flagship nazionale anime (Otome Road: manga/figure per tutti i gusti) ⭐ Lorenzo
+- Arcade: Taito Station / Round1 · gachapon · Don Quijote Ikebukuro
+
+**Cibo oggi — Alternative:**
+- 🅰️ **Pranzo al sacco** (a Puroland) · snack
+- 🅱️ **Cena Ikebukuro:** ramen (¥900–1.300) · izakaya (¥1.500–3.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]]
+- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] · **cucina in hotel**
+
+🅿 **PIANO B (stanchi/pioggia):** se la mattina al parco ti esaurisce, si salta Ikebukuro e si rientra (o si fa solo Sunshine City al chiuso). Puroland è indoor → pioggia ok.
+
+---
+
+## Giorno 12 — Mercoledì 4 Novembre — Tokyo: Meiji → Nakano → Shinjuku → Shibuya
+
+**Difficoltà:** 3/4 · **Budget:** ~60 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
 - **08:30** Sveglia · colazione
@@ -673,7 +703,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **19:30** Cena Shibuya
 - **21:00** Rientro guesthouse
 
-> 3 novembre == **Giorno della Cultura** — templi/musei possono avere eventi speciali, maggiore affluenza. Percorso in **una sola direzione** (anello ovest).
+> Percorso in **una sola direzione** (anello ovest). Giorno **feriale normale** → meno folla (qui prima c'era il festivo). Meiji/Harajuku/Shibuya Sky restano come "stacco" dalla parte nerd.
 
 **Mattina | Meiji & Harajuku:**
 - [[Santuario Meiji (明治神宮)]] #3/5 🟢 (10:00–16:30, GRATIS) — foresta di 100.000 alberi nel cuore di Tokyo
@@ -702,87 +732,35 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - 🍽️ **Dopo cena (⚪):** ramen (Ichiran) · dolci matcha · se si vuole la vera Golden Gai serale, rientro via Shinjuku (~10 min)
 
 ---
+## Giorno 13 — Giovedì 5 Novembre — Anniversario D&R · Lorenzo: nerd & Tokyo Tower
 
-## Giorno 12 — Mercoledì 4 Novembre — Sanrio Puroland + Ikebukuro (anime & kawaii)
+**Difficoltà:** 2/4 (flessibile) · **Budget:** ~54 € · **Meteo:** 12–17°C, 25% pioggia
 
-**Difficoltà:** 3/4 (giornata piena ma divertente) · **Budget:** ~73 € · **Meteo:** 12–17°C, 25% pioggia
+> 💑 **Anniversario Davide & Rebecca (5 nov):** la giornata di Davide & Rebecca è **organizzata da loro** (a cura di Rebecca) — **qui sotto c'è solo il percorso di Lorenzo**. Da integrare qui quando Rebecca condividerà il loro programma (niente scelte al posto loro).
 
-**⏱️ Orari indicativi:**
-- **07:30** Sveglia · colazione
-- **08:15** Uscita → JR/metro via Shinjuku → **Tama Center** (~55–60 min)
-- **10:00–14:00** [[Sanrio Puroland (サンリオピューロランド)]] (Day Passport, ~4h) — parade/show, incontri personaggi, giostrine · pranzo al sacco (⚠️ Rebecca)
-- **14:15** Ritorno verso Shinjuku (~40 min) → **Ikebukuro** (Yamanote, ~5 min)
-- **15:15–17:00** **Sunshine City**: Pokémon Center MEGA Tokyo · arcade · food
-- **17:15–19:00** **Animate Ikebukuro** (flagship) · Otome Road · negozi anime/figure
-- **19:00** Cena a Ikebukuro
-- **20:30** Rientro Taito
+**⏱️ Percorso Lorenzo (#gruppoA) — nerd + improvvisazione + Tokyo Tower:**
+- **08:30** Sveglia (⚪ chi vuole può fare colazione sushi a [[Mercato del pesce di Tsukiji (築地場外市場)|Tsukiji]] ~07:00–08:30)
+- **09:30–13:00** **Akihabara** *deep dive*: arcade (Taito Station/GIGO), **Super Potato** (retrogame), Mandarake/second-hand, gachapon, Don Quijote — **molto spazio all'improvvisazione**
+- **13:15** Pranzo (a scelta)
+- **14:30–16:00** Liberi a piacere: ⚪ Nakano Broadway (vintage) · ⚪ [[Yanaka Ginza]] · ultimi acquisti/negozi mancati — **decidi sul momento**
+- **16:00** Metro → Tokyo Tower / Azabudai
+- **16:30–17:45** [[Tokyo tower (東京タワー)]] **al tramonto (~16:40)** — vista sulle luci
+- **18:00–19:00** ⚪ Passeggiata [[Azabudai Hills (麻布台ヒルズ)]] o rientro
+- **19:30** Cena libera vicino casa (o, se vi va, ritrovo con Davide & Rebecca)
+- **20:30** Bagagli finali · riposo (volo 6 nov 08:40 → sveglia 04:30)
 
-> 🎀 **Sanrio Puroland (aggiunto 05/09/26)** + 🎮 **Ikebukuro anime** = giornata *kawaii + otaku*. ⛔ **TeamLab rimosso** (fuori tema). 🎫 Puroland: **Day Passport ¥3.900~** (prezzo per data) · **riserva obbligatoria** → e-Passport ufficiale (con riserva) o **Klook** (stesso canale di USJ) · orari del 4 nov da confermare sul calendario ufficiale.
+**Percorso Lorenzo — dettagli nerd:**
+- [[Akihabara (秋葉原)]] #4/5 — elettronica, anime, figure e retrogame · arcade fino a tardi
+- [[Nakano (中野市)]] / [[Nakano Broadway (中野ブロードウェイ)]] ⚪ — vintage (Mandarake)
+- [[Yanaka Ginza]] #3/5 ⚪ (⭐ Rebecca, ma va bene anche da soli — atmosfera Showa)
+- [[Tokyo tower (東京タワー)]] #4/5 (¥1.200) al tramonto
 
-**Mattina | Sanrio Puroland (Tama Center):**
-- Parco **indoor** — perfetto anche con pioggia · parade/show + greeting con i personaggi
-- 🎫 Biglietti: **Klook o e-Passport ufficiale** (include la riserva visita)
-- 👩🍳 **Rebecca:** cibo a tema non sicuro → **pranzo al sacco/konbini**
+**Cibo oggi (Lorenzo) — Alternative:**
+- 🅰️ **Tsukiji ⚪:** sushi colazione (¥1.000–3.000)
+- 🅱️ **Pranzo:** ramen/gyudon/konbini a scelta
+- 🅲 **Cena:** ramen (Ichiran/Afuri) · izakaya vicino casa · depachika
 
-**Tardo pomeriggio | Ikebukuro (anime/giochi):**
-- **Sunshine City**: **Pokémon Center MEGA Tokyo** (il più grande) · arcade
-- **Animate Ikebukuro** — flagship nazionale anime (Otome Road: manga/figure per tutti i gusti) ⭐ Lorenzo
-- Arcade: Taito Station / Round1 · gachapon · Don Quijote Ikebukuro
-
-**Cibo oggi — Alternative:**
-- 🅰️ **Pranzo al sacco** (a Puroland) · snack
-- 🅱️ **Cena Ikebukuro:** ramen (¥900–1.300) · izakaya (¥1.500–3.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]]
-- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] · **cucina in hotel**
-
-🅿 **PIANO B (stanchi/pioggia):** se la mattina al parco ti esaurisce, si salta Ikebukuro e si rientra (o si fa solo Sunshine City al chiuso). Puroland è indoor → pioggia ok.
-
-
----
-
-## Giorno 13 — Giovedì 5 Novembre — Tokyo centro-sud: Tsukiji → Ginza → Tokyo Tower → Roppongi
-
-**Difficoltà:** 2/4 · **Budget:** ~54 € · **Meteo:** 12–17°C, 25% pioggia
-
-**⏱️ Orari indicativi:**
-- **07:30** Sveglia (⚪ 07:00 per chi vuole Tsukiji appena apre)
-- **08:00–09:30** [[Mercato del pesce di Tsukiji (築地場外市場)|Tsukiji]] — colazione sushi (Lorenzo&Davide) · Rebecca: frutta/konbini
-- **09:45** A piedi/metro → **Ginza**
-- **10:00–12:00** Ginza · (⚪ Marunouchi / Tokyo Station)
-- **12:15–13:15** Pranzo Ginza/Marunouchi (depachika)
-- **13:30** Rientro a Taito · **bagagli** (valigie pronte per il volo)
-- **14:30–15:30** Pausa · ⚪ [[Yanaka Ginza]] (a ~15 min da Ueno) se si ha tempo
-- **16:00** Metro → Tokyo Tower / Azabudai Hills
-- **16:30–17:45** [[Tokyo tower (東京タワー)]] (tramonto ~16:40 — vista sulle luci)
-- **18:15** Passeggiata Azabudai/Roppongi
-- **19:30** Cena a Roppongi
-- **21:00** Rientro · ultimo controllo bagagli · riposo (domattina sveglia 04:30)
-
-> 🧭 **Variante 1 (piano a spirale):** il 5 nov chiude l'anello **centro-sud** (Tsukiji → Ginza → Tokyo Tower → Roppongi). Ritmo **moderato**: si rientra per i bagagli a metà pomeriggio prima del volo del 6 (08:40).
-
-**Mattina | Tsukiji (colazione):**
-- [[Mercato del pesce di Tsukiji (築地場外市場)]] #4/5 🟢 (5:00–14:00) — sushi/kaisen per colazione (Lorenzo&Davide)
-- ⚠️ Rebecca: niente pesce crudo → frutta, yogurt, uovo sodo (konbini) o cucina
-
-**Mattina tardi | Ginza & Marunouchi:**
-- [[Ginza (銀座)]] #1/5 🟢 — vetrine, depachika, shopping
-- ⚪ Tokyo Station / Marunouchi — architettura + stazione storica
-
-**Pomeriggio | Rientro & bagagli:**
-- Valigie pronte (volo 08:40) · ⚪ Yanaka Ginza se si ha tempo e voglia
-
-**Tramonto | Tokyo Tower:**
-- [[Tokyo tower (東京タワー)]] #4/5 🟢 (9:00–22:30, ¥1.200) — salire per il tramonto e le luci della città
-
-**Sera | Roppongi:**
-- [[Roppongi (六本木)]] #3/5 🟢 — cena e quartiere (izakaya, ramen)
-
-**Cibo oggi — Alternative:**
-- 🅰️ **Colazione Tsukiji:** sushi (¥1.000–3.000, Lorenzo&Davide) · konbini
-- 🅱️ **Pranzo Ginza/Marunouchi:** depachika (bento ¥800–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (¥400)
-- 🅲 **Cena Roppongi:** [[Mangiare in Giappone#Bib Gourmand — Qualità-Prezzo|Afuri]] (ramen yuzu, ¥1.000–1.500) · [[Mangiare in Giappone#Catene e Cibo Economico|Ichiran]] · izakaya (¥2.000–4.000)
-- 🅳 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|THE WAGYU BROTHERS]] (Roppongi, wagyu burger ✅) · **cucina in guesthouse**
-
-🅿 **PIANO B (pioggia/stanchi):** tutto il giro è al coperto tranne gli spostamenti (Tsukiji/Ginza/depachika/Tokyo Tower al chiuso). Se si è stanchi: niente Roppongi, Tokyo Tower + cena vicino casa.
+🅿 **PIANO B (pioggia/stanchi):** tutto al coperto (Akihabara/arcade, Tokyo Tower al chiuso, depachika) — si taglia senza problemi ciò che non va. **Punto fisso: bagagli pronti entro le ~20:30.**
 
 
 ---
@@ -865,8 +843,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
-| **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G12 **Sanrio Puroland + Ikebukuro** (anime/kawaii) · G13 centro-sud (Tsukiji→Ginza→Tokyo Tower→Roppongi). Budget riallineato: spese ~843 €, tot **~2.858 €/pax** |
-| **Sanrio Puroland aggiunto al G12** (4 nov, mattina, Opzione A: Puroland Day Passport + pomeriggio Ikebukuro) | 05 Set 2026 | Gruppo | Da prenotare su **Klook** (¥3.900~) · riserva obbligatoria · pagina location creata (conteggi luoghi 87→88) |
+| **Assestamento finale Tokyo (G9–G13)** | 05 Set 2026 | Gruppo | G9: **Skytree al tramonto + Solamachi** nel pomeriggio d'arrivo (Skytree tolto da G10) · G10: Asakusa → **Akihabara pieno** · G13: **anniversario Davide & Rebecca** (programma a cura loro) + **Lorenzo nerd/Tokyo Tower** con improvvisazione · **Puroland confermato il 3 nov** (Klook, riserva) · budget invariato ~2.858 € |
+| **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 **Sanrio Puroland + Ikebukuro** (anime/kawaii) · G12 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G13 anniversario D&R (a cura loro) + Lorenzo nerd/Tokyo Tower. Budget riallineato: spese ~843 €, tot **~2.858 €/pax** |
+| **Sanrio Puroland aggiunto al G11** (3 nov, mattina, Opzione A: Puroland Day Passport + pomeriggio Ikebukuro) | 05 Set 2026 | Gruppo | Da prenotare su **Klook** (¥3.900~) · riserva obbligatoria · pagina location creata · ⚠️ chiuso il 4 nov → spostato al 3 nov (verificare disponibilità su Klook) |
 | **G9/G10 (piano Tokyo): scelta A** — G9 sera leggero (Sumida/Asakusa, cena vicino), **Akihabara al G10 pomeriggio pieno** (14:45–18:00), Ameyoko/Ueno cena · Yanaka Ginza → ⚪ G13 | 05 Set 2026 | Lorenzo | Tokyo Tower/Roppongi: attesa conferma collocamento giorno "centro-sud" |
 | **Giorno 9 rivisto** (primo anello est): no sosta Nishiki (già G7) · treno ~10:15 con posto riservato · sera **Ueno/Ameyoko → Akihabara** in direzione unica; Tokyo Tower/Roppongi spostate al piano "centro-sud" | 05 Set 2026 | Agente | G10: Akihabara tolta (ora al G9) · aggiunta **Yanaka Ginza** (⭐ Rebecca) |
 | **Giorno 8 ridisegnato: Arashiyama tolta** → mattina templi del Nord + **Uzumasa Kyoto Village** (biglietto giornata ¥2.800, **EVA ultimo ingresso 17:15**) + cena/atmosfera **Halloween a Gion** | 05 Set 2026 | Gruppo | Parco aperto sab 31 (chiuso alcuni mar) · orario 10–21 · sveglia 09:00 · **Evangelion Kyoto Base** inclusa nel biglietto, entrare ~16:00 |
@@ -946,11 +925,10 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · Klook o JR West online                                                                |
 | Universal Studios Japan biglietti                         | ✅ **FATTO (05/09/26)** | 🔵 **PRENOTATO** | **1-day Studio Pass + Super Nintendo World = 88 €/pax** (27 ott) · portare QR/codice · Express Pass NON incluso |
-| Sanrio Puroland (G12, 4 nov)                              | **Da prenotare**        | ❌ Da prenotare   | **Day Passport ¥3.900~** (~21 €) · **riserva obbligatoria** · Klook (come USJ) o e-Passport ufficiale · orari 4 nov da confermare |
+| Sanrio Puroland (G11, 3 nov)                              | **Da prenotare**        | ❌ Da prenotare   | **Day Passport ¥3.900~** (~21 €) · **riserva obbligatoria** · Klook (come USJ) o e-Passport ufficiale · orari 3 nov da confermare |
 | ~~TeamLab Planets (4 nov)~~                                | ⛔ **05/09/26 — RIMOSSO (fuori tema)** | Non prenotare · sostituito dalla giornata anime a **Ikebukuro** (G12) |
 | ~~PokéPark KANTO (Yomiuriland)~~                          | ❌ 03/09/26 — lotteria NON vinta | ⛔ **RIMOSSO**     | Non selezionati all'estrazione → **biglietto non acquistabile** (no walk-in). Rimosso dal piano attivo (era Giorno 12, 4 nov) |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
 | Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |
 | Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |
 | Assicurazione Heymondo                                    | **Agosto 2026**       | ❌ Da stipulare   | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]]                                                                      |
-

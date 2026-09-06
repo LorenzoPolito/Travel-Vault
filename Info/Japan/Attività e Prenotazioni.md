@@ -19,7 +19,7 @@ tags:
 
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
-| **Sanrio Puroland** (Giorno 12) | 4 Nov, mattina | Day Passport ¥3.900~ (~21 €) | Klook o e-Passport ufficiale | ❌ riserva obbligatoria — da prenotare |
+| **Sanrio Puroland** (Giorno 11) | 3 Nov, mattina | Day Passport ¥3.900~ (~21 €) | Klook o e-Passport ufficiale | ❌ riserva obbligatoria — da prenotare |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | Klook o JR West online | ❌ da acquistare (entro 1 mese) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.320 ¥ (~72 €) | in stazione | ❌ biglietto singolo |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
@@ -43,11 +43,11 @@ tags:
 
 > **03/09/26:** non siamo stati selezionati all'estrazione per i biglietti del 4 nov → **biglietto non acquistabile** (nessuna vendita walk-in). **PokéPark fuori dal piano attivo.** Non prenotare.
 
-## 🎀 Sanrio Puroland (Giorno 12 — Mercoledì 4 Nov, mattina) DA PRENOTARE
+## 🎀 Sanrio Puroland (Giorno 11 — Martedì 3 Nov, mattina) DA PRENOTARE
 
 | Voce | Costo/persona | Dove | Note |
 |---|---|---|---|
-| Day Passport | **¥3.900~** (~21 €, prezzo per data) | **Klook** (come USJ) o e-Passport ufficiale | ⚠️ **riserva visita obbligatoria** inclusa nell'e-Passport · orari 4 nov da confermare |
+| Day Passport | **¥3.900~** (~21 €, prezzo per data) | **Klook** (come USJ) o e-Passport ufficiale | ⚠️ **riserva visita obbligatoria** inclusa nell'e-Passport · orari 3 nov da confermare |
 | Afternoon Passport (dalle 14:00) | ¥2.800~ | idem | Alternativa pomeridiana (meno adatta: meglio la mattina) |
 
 > ✅ **Rilevato 05/09/26** su `puroland.jp`. Parco **indoor** a **Tama Center** (~55–60 min dal centro). Rebecca: cibo a tema **non sicuro** → pranzo al sacco/konbini. Giornata combinata: mattina Puroland → pomeriggio **Ikebukuro** (anime).

@@ -65,7 +65,7 @@ total_locations: 88
 - Tempio Shitenno-ji (9:00-16:30) `#4/5`
 - Tempio Hozen-ji `#4/5`
 - Shinsekai `#4/5`
-- Nipponbashi Den Den Town `#4/5` ⭐ Lorenzo *(tra Namba e Shinsekai — Osaka's Akihabara: anime, retrogame, elettronica · negozi ~10-19:30)*
+- Nipponbashi Den Den Town `#4/5` ⭐ Lorenzo *(tra Namba e Shinsekai — Osaka's Akihabara: anime, retrogame, elettronica   negozi ~10-19:30)*
 - Torre Tsutenkaku `#2/5`
 
 **Cluster 3:**
@@ -82,7 +82,7 @@ total_locations: 88
 - [[KURA Hotel Izumisano]] (kitchenette ✅, self check-in) — a ~10 min da KIX (Nankai Airport Express ¥520)
 - Nankai Main Line → Namba (~34 min, ¥610) per il centro Osaka
 
-**Hotel (MagicTravel):** Astil Hotel Shin-Osaka · Hotel Shiki Utsubo Park · **KURA Hotel Izumisano** (Booking)
+**Hotel (MagicTravel):** Astil Hotel Shin-Osaka   Hotel Shiki Utsubo Park   **KURA Hotel Izumisano** (Booking)
 
 ---
 
@@ -126,9 +126,9 @@ total_locations: 88
 
 **Cluster 6:**
 - Adashino Nenbutsuji (9:00-16:30) `#2/5`
-- TOEI Kyoto Studio Park / Uzumasa Kyoto Village (10:00-21:00 · chiuso alcuni mar · ¥2.000 dopo le 17 · area anime/EVA) `#3/5`
+- TOEI Kyoto Studio Park / Uzumasa Kyoto Village (10:00-21:00   chiuso alcuni mar   ¥2.000 dopo le 17   area anime/EVA) `#3/5`
 
-**Hotel (MagicTravel):** Karasuma Rokujo Hotel · West Japan Kyoto Kiyomizu
+**Hotel (MagicTravel):** Karasuma Rokujo Hotel   West Japan Kyoto Kiyomizu
 
 ---
 
@@ -171,7 +171,7 @@ total_locations: 88
 **Day trip:**
 - Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(rimosso dal piano attivo 11/08/26 — resta come day trip opzionale)*
 - ~~**PokéPark KANTO**~~ (Yomiuriland, Tokyo ovest) `#5/5` *(⛔ **RIMOSSO dal piano attivo 03/09/26 — lotteria non vinta**, biglietto non acquistabile. Resta come POI di riferimento)*
-- **Sanrio Puroland** (Tama Center) `#4/5` ⭐ gruppo *(al coperto · Day Passport ¥3.900+ · riserva obbligatoria → e-Passport ufficiale o Klook · G12 4 nov mattina)*
+- **Sanrio Puroland** (Tama Center) `#4/5` ⭐ gruppo *(al coperto   Day Passport ¥3.900+   riserva obbligatoria → e-Passport ufficiale o Klook   G11 3 nov mattina)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
 
@@ -200,6 +200,6 @@ total_locations: 88
 - **Gion:** comunicare il divieto dei vicoli privati (multa 70€)
 - **Lorenzo:** judo (Kodokan) + anime/manga (Akihabara, Nakano Broadway)
 - **Damiano:** Harry Potter Studio → prenotazione obbligatoria con mesi di anticipo
-- **TeamLab Planets:** ¥3.600 · prenotazione online obbligatoria · **biglietti novembre da fine agosto 2026**
-- **USJ:** ¥8.400–9.400 · **acquisto anticipato obbligatorio** (dal 2025 non si vendono al parco)
-- ~~**Fuji Excursion:** ~¥4.200 Shinjuku→Fujiyoshida/Kawaguchiko · prenotazione posto obbligatoria~~ *(rimosso dal piano attivo 11/08/26)*
+- **TeamLab Planets:** ¥3.600   prenotazione online obbligatoria   **biglietti novembre da fine agosto 2026**
+- **USJ:** ¥8.400–9.400   **acquisto anticipato obbligatorio** (dal 2025 non si vendono al parco)
+- ~~**Fuji Excursion:** ~¥4.200 Shinjuku→Fujiyoshida/Kawaguchiko   prenotazione posto obbligatoria~~ *(rimosso dal piano attivo 11/08/26)*

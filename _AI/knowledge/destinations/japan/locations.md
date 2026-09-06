@@ -14,7 +14,7 @@ source_files:
   - Locations/Japan/Buildings/
   - Locations/Japan/Stores/
 ai_notes: "File modulare Giappone. Per nuova destinazione, copia da _AI/templates/locations.md"
-total_locations: 87
+total_locations: 88
 ---
 
 # 📍 Locations — Giappone
@@ -171,6 +171,7 @@ total_locations: 87
 **Day trip:**
 - Fujiyoshida + Kanandorii + Chureito Pagoda `#3/5` *(rimosso dal piano attivo 11/08/26 — resta come day trip opzionale)*
 - ~~**PokéPark KANTO**~~ (Yomiuriland, Tokyo ovest) `#5/5` *(⛔ **RIMOSSO dal piano attivo 03/09/26 — lotteria non vinta**, biglietto non acquistabile. Resta come POI di riferimento)*
+- **Sanrio Puroland** (Tama Center) `#4/5` ⭐ gruppo *(al coperto · Day Passport ¥3.900+ · riserva obbligatoria → e-Passport ufficiale o Klook · G12 4 nov mattina)*
 
 ### 📍 Kamakura *(day trip, ~55min JR Yokosuka)*
 

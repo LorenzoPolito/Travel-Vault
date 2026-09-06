@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.855 €/persona"
+budget_totale_stimato: "~2.858 €/persona"
 tags:
   - itinerario
   - japan
@@ -20,7 +20,7 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ❌ da prenotare: TeamLab, JR Pass, eSIM, assicurazione
+> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ❌ da prenotare: Sanrio Puroland, JR Pass, eSIM, assicurazione
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
@@ -64,7 +64,7 @@ flowchart LR
     C -->|Kintetsu 40min| E[🦌 Nara half day]
     E -->|JR 50min| F[⛩️ Kyoto 3 notti]
     F -->|Shinkansen 2.5h| G[🗼 Tokyo 5 notti]
-    G -->|Giorno| H[🌆 TeamLab + Odaiba]
+    G -->|Giorno| H[🎮 Ikebukuro anime]
     G -->|Volo ~12h| I[🇮🇹 Ritorno]
 
     style A fill:#ce2b37,color:#fff
@@ -110,7 +110,7 @@ gantt
     section 🗼 Tokyo
     Asakusa + Akihabara    :2026-11-02, 1d
     Shibuya + Nakano + Shinjuku :2026-11-03, 1d
-    🌆 TeamLab + Odaiba    :2026-11-04, 1d
+    🎮 Ikebukuro anime     :2026-11-04, 1d
     Centro-sud + bagagli   :2026-11-05, 1d
     Ultimo giorno          :2026-11-06, 1d
 
@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,46,118,30,47,56,58,109,53,60,70,54,45,30]
+    bar [25,39,46,118,30,47,56,58,109,53,60,73,54,45,30]
 ```
 
 ---
@@ -208,13 +208,13 @@ xychart-beta
 |    9    |   1 Nov   |    25 €    |    84 €    |     —      |   109 €    |
 |   10    |   2 Nov   |    30 €    |    10 €    |    13 €    |    53 €    |
 |   11    |   3 Nov   |    35 €    |    10 €    |    15 €    |    60 €    |
-|   12    |   4 Nov   |    35 €    |    10 €    |    25 €    |    70 €    |
+|   12    |   4 Nov   |    35 €    |    12 €    |    26 €    |    73 €    |
 |   13    |   5 Nov   |    35 €    |    12 €    |    7 €     |    54 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
-| **TOT** |           | **~420 €** | **~206 €** | **~214 €** | **~840 €** |
+| **TOT** |           | **~420 €** | **~208 €** | **~215 €** | **~843 €** |
 
-> Spese giornaliere **~840 €/persona** (cibo 420 + trasporti 206 + ingressi 214 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)**, **TeamLab il 4 nov** e **Tokyo Tower il 5 nov**; **PokéPark KANTO e Fuji day trip rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.855 €/persona** (~2.800–2.910 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~843 €/persona** (cibo 420 + trasporti 208 + ingressi 215 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)**, **Sanrio Puroland** e **Tokyo Tower il 5 nov**; **PokéPark KANTO, Fuji e TeamLab rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.858 €/persona** (~2.800–2.920 €). *Tasso: ~184 ¥/€ (ag. 2026).*
 
 ### Alloggi
 
@@ -692,6 +692,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - [[Shibuya (渋谷区)]] #5/5 🟢 — [[Shibuya (渋谷区)|Shibuya Crossing]] (attraversalo dalla folla!)
 - [[Shibuya (渋谷区)|Shibuya Sky]] #4/5 ⭐ (**¥2.700 online** — prenotare, 10:00–22:30) — **Rebecca vuole andare!** ⚪ o [[Shibuya (渋谷区)|Magnet by Shibuya109]] (gratis con consumazione)
 - [[Pokemon center Shibuya]] #5/5 🟢 — merchandise esclusivo
+- **Nintendo Tokyo** (Shibuya Parco) — store ufficiale Nintendo: giochi e merch (⭐ Lorenzo)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nakano:** [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Kaitenzushi (Conveyor Belt Sushi)|Kura Sushi]] (¥100–500/piatto) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400)
@@ -702,44 +703,39 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ---
 
-## Giorno 12 — Mercoledì 4 Novembre — TeamLab Planets + Odaiba
+## Giorno 12 — Mercoledì 4 Novembre — Sanrio Puroland + Ikebukuro (anime & kawaii)
 
-**Difficoltà:** 2/4 (giornata tranquilla) · **Budget:** ~70 € · **Meteo:** 12–17°C, 25% pioggia
+**Difficoltà:** 3/4 (giornata piena ma divertente) · **Budget:** ~73 € · **Meteo:** 12–17°C, 25% pioggia
 
 **⏱️ Orari indicativi:**
-- **08:30** Sveglia tardi · colazione (⚪ ultimi acquisti nelle vicinanze)
-- **09:30–11:30** Liberi in zona Taito (ultimi acquisti Asakusa/Ueno/Akihabara)
-- **12:00** Pranzo zona Taito
-- **12:45** Metro/TX → Toyosu / Shin-Toyosu (~30 min)
-- **13:30–15:30** TeamLab Planets (slot pomeriggio, ~2h)
-- **15:45** Yurikamome → Odaiba (~10 min)
-- **16:00–18:30** Odaiba: tramonto ~16:45 da Odaiba Beach · Gundam · DiverCity
-- **19:00** Cena Odaiba (vista baia)
+- **07:30** Sveglia · colazione
+- **08:15** Uscita → JR/metro via Shinjuku → **Tama Center** (~55–60 min)
+- **10:00–14:00** [[Sanrio Puroland (サンリオピューロランド)]] (Day Passport, ~4h) — parade/show, incontri personaggi, giostrine · pranzo al sacco (⚠️ Rebecca)
+- **14:15** Ritorno verso Shinjuku (~40 min) → **Ikebukuro** (Yamanote, ~5 min)
+- **15:15–17:00** **Sunshine City**: Pokémon Center MEGA Tokyo · arcade · food
+- **17:15–19:00** **Animate Ikebukuro** (flagship) · Otome Road · negozi anime/figure
+- **19:00** Cena a Ikebukuro
 - **20:30** Rientro Taito
 
-> ⛔ **PokéPark KANTO RIMOSSO (03/09/26):** non siamo stati selezionati alla lotteria dei biglietti → **non è possibile entrare** (niente vendita walk-in). Il 4 nov diventa una **giornata tranquilla**: mattina libera a Taito, poi **TeamLab Planets** e **Odaiba al tramonto**.
-> 🎫 **TeamLab:** prenotare (o cambiare, se già preso lo slot 19:00 — gratis fino a 2h prima, max 3 volte) uno **slot pomeriggio ~13:00–14:00** per uscire verso le 15:30 e godersi il **tramonto (~16:45)** su Odaiba.
+> 🎀 **Sanrio Puroland (aggiunto 05/09/26)** + 🎮 **Ikebukuro anime** = giornata *kawaii + otaku*. ⛔ **TeamLab rimosso** (fuori tema). 🎫 Puroland: **Day Passport ¥3.900~** (prezzo per data) · **riserva obbligatoria** → e-Passport ufficiale (con riserva) o **Klook** (stesso canale di USJ) · orari del 4 nov da confermare sul calendario ufficiale.
 
-**Mattina libera | Taito:**
-- 🟢 Recupero/ultimi acquisti in zona alloggio: [[Asakusa(浅草)]] · [[Parco di Ueno (上野恩賜公園)|Ueno]] · [[Akihabara (秋葉原)]]
-- 📍 Il mercato di **Tsukiji** (colazione sushi) è al **Giorno 13**
+**Mattina | Sanrio Puroland (Tama Center):**
+- Parco **indoor** — perfetto anche con pioggia · parade/show + greeting con i personaggi
+- 🎫 Biglietti: **Klook o e-Passport ufficiale** (include la riserva visita)
+- 👩🍳 **Rebecca:** cibo a tema non sicuro → **pranzo al sacco/konbini**
 
-**Pomeriggio | TeamLab Planets:**
-- *Trasferimento:* Taito → **Toyosu / Shin-Toyosu** (metro/TX ~30 min, ~¥500)
-- **13:30–15:30** [[TeamLab Planets (豊洲)]] 🟡 **DA PRENOTARE** (**¥3.600+** adulti, slot pomeriggio) — esperienza immersiva nell'acqua, a piedi nudi (ultimo ingresso ~1h prima della chiusura)
-- *Spostamento:* Toyosu → **Odaiba** (Yurikamome ~5–10 min, ~¥250)
-
-**Tramonto | Odaiba:**
-- **~16:00** [[Odaiba (お台場 )]] #2/5 🟢 + [[Rainbow Bridge (レインボーブリッジ)]] — **tramonto (~16:45)** da [[Odaiba Beach]] #3/5 ⭐
-- [[Odaiba (お台場 )]] — Gundam gigante, DiverCity, shopping
-- **19:00** Cena a Odaiba con vista baia
+**Tardo pomeriggio | Ikebukuro (anime/giochi):**
+- **Sunshine City**: **Pokémon Center MEGA Tokyo** (il più grande) · arcade
+- **Animate Ikebukuro** — flagship nazionale anime (Otome Road: manga/figure per tutti i gusti) ⭐ Lorenzo
+- Arcade: Taito Station / Round1 · gachapon · Don Quijote Ikebukuro
 
 **Cibo oggi — Alternative:**
-- 🅰️ **Pranzo:** zona Taito/Tsukiji o konbini (onigiri ¥100–200)
-- 🅱️ **Cena Odaiba:** ristoranti con vista baia (¥2.000–4.000) · [[Mangiare in Giappone#Per Fasce di Budget|Saizeriya]] (¥500–1.000) · [[Mangiare in Giappone#Catene e Cibo Economico|Gusto]] (family restaurant ¥500–1.500) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|bills]] (Odaiba, pancake ✅)
-- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Odaiba, pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · **cucina in hotel**
+- 🅰️ **Pranzo al sacco** (a Puroland) · snack
+- 🅱️ **Cena Ikebukuro:** ramen (¥900–1.300) · izakaya (¥1.500–3.000) · [[Mangiare in Giappone#Catene e Cibo Economico|CoCo Ichibanya]] (curry ¥500–1.000) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]]
+- 🅲 **Rebecca:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (pasta ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Royal Host]] (steak ✅) · [[Mangiare in Giappone#I Preferiti di Rebecca — dalla sua Google Maps|yakiniku]] · **cucina in hotel**
 
-🅿 **PIANO B (pioggia):** Odaiba è in gran parte coperta (DiverCity) e TeamLab è al chiuso → si anticipa/si posticipa la passeggiata, zero impatto.
+🅿 **PIANO B (stanchi/pioggia):** se la mattina al parco ti esaurisce, si salta Ikebukuro e si rientra (o si fa solo Sunshine City al chiuso). Puroland è indoor → pioggia ok.
+
 
 ---
 
@@ -869,7 +865,8 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
-| **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G12 baia (TeamLab+Odaiba) · G13 centro-sud (Tsukiji→Ginza→Tokyo Tower→Roppongi). Budget riallineato: spese ~840 €, tot **~2.855 €/pax** |
+| **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G12 **Sanrio Puroland + Ikebukuro** (anime/kawaii) · G13 centro-sud (Tsukiji→Ginza→Tokyo Tower→Roppongi). Budget riallineato: spese ~843 €, tot **~2.858 €/pax** |
+| **Sanrio Puroland aggiunto al G12** (4 nov, mattina, Opzione A: Puroland Day Passport + pomeriggio Ikebukuro) | 05 Set 2026 | Gruppo | Da prenotare su **Klook** (¥3.900~) · riserva obbligatoria · pagina location creata (conteggi luoghi 87→88) |
 | **G9/G10 (piano Tokyo): scelta A** — G9 sera leggero (Sumida/Asakusa, cena vicino), **Akihabara al G10 pomeriggio pieno** (14:45–18:00), Ameyoko/Ueno cena · Yanaka Ginza → ⚪ G13 | 05 Set 2026 | Lorenzo | Tokyo Tower/Roppongi: attesa conferma collocamento giorno "centro-sud" |
 | **Giorno 9 rivisto** (primo anello est): no sosta Nishiki (già G7) · treno ~10:15 con posto riservato · sera **Ueno/Ameyoko → Akihabara** in direzione unica; Tokyo Tower/Roppongi spostate al piano "centro-sud" | 05 Set 2026 | Agente | G10: Akihabara tolta (ora al G9) · aggiunta **Yanaka Ginza** (⭐ Rebecca) |
 | **Giorno 8 ridisegnato: Arashiyama tolta** → mattina templi del Nord + **Uzumasa Kyoto Village** (biglietto giornata ¥2.800, **EVA ultimo ingresso 17:15**) + cena/atmosfera **Halloween a Gion** | 05 Set 2026 | Gruppo | Parco aperto sab 31 (chiuso alcuni mar) · orario 10–21 · sveglia 09:00 · **Evangelion Kyoto Base** inclusa nel biglietto, entrare ~16:00 |
@@ -878,7 +875,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | **Sveglie riviste (presto solo se necessario)** | 05 Set 2026 | Agente | G6 07:30 · G7 07:00 · G8 06:45 · G10 08:00 · G11 08:30 · G13 09:00 — orari di giornata ricalibrati di conseguenza |
 | Aggiunto timeline orari indicativi a tutti i giorni (trasporti + visite) | 05 Set 2026 | Agente | Per ogni giorno: sveglia, uscita, spostamenti con durata, orari tappe e visite, pasti, rientro |
 | **USJ biglietti PRENOTATI (Giorno 4 — 27 ott)** | 05 Set 2026 | Lorenzo | **1-day Studio Pass + ingresso Super Nintendo World = 88 €/pax** · portare QR/codice · Express Pass NON incluso |
-| Budget riallineato al prezzo reale USJ (88 €/pax, con pasto) | 05 Set 2026 | Agente | Giorno 4 ~118 € (pranzo coperto da voucher) · ingressi totali ~217 € · spese giornaliere ~841 € · tot **~2.856 €/pax** (~2.800–2.910) |
+| Budget riallineato al prezzo reale USJ (88 €/pax, con pasto) | 05 Set 2026 | Agente | Giorno 4 ~118 € (pranzo coperto da voucher) · ingressi totali ~217 € · spese giornaliere ~841 € · tot **~2.856 €/pax** (~2.800–2.920) |
 | **PokéPark KANTO rimosso dal Giorno 12** — lotteria non vinta (biglietto non acquistabile) | 03 Set 2026 | Lorenzo | 4 nov ridisegnato: mattina libera Taito + TeamLab slot pomeriggio + Odaiba al tramonto · budget: G12 ~70 €, ingressi ~179 €, spese ~813 €, tot ~2.828 €/pax |
 | **Umeda Sky Building rimosso dal Giorno 3** — giornata più tranquilla in zona Minami | 03 Set 2026 | Lorenzo | Budget ricalibrato: Giorno 3 ~46 €, ingressi totali ~229 €, spese giornaliere ~880 €, tot ~2.895 €/persona |
 | Aggiunto Nipponbashi Den Den Town (Giorno 3, ⚪ opzionale, ⭐ Lorenzo) | 03 Set 2026 | Agente | Osaka — Osaka's Akihabara tra Namba e Shinsekai · pagina quartiere + master list + KB + city note · fonte: osaka-info.jp (negozi ~10:00-19:30, chiusure variabili) |
@@ -897,7 +894,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.855 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.858 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
 | ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
@@ -906,12 +903,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Cibo (15 gg)                      | ~420 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
-| Trasporti locali (15 gg)            | ~142 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu, TeamLab)     |                         |     |
-| Attrazioni (USJ, templi, TeamLab…) | ~214 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
+| Trasporti locali (15 gg)            | ~144 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)     |                         |     |
+| Attrazioni (USJ, templi, Sanrio, torri…) | ~215 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.855 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.910 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
+| **TOTALE**                         | **~2.858 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.920 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
 ### Budget Rebecca (extra cibo)
 
@@ -929,12 +926,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Volo A/R (China Eastern, open-jaw) — PRENOTATO | 1.096 € |
 | Alloggio (13 notti, camera condivisa/3) | ~380 € |
-| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~840 € |
+| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~843 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~92 € |
 | Spese personali (souvenir, extra) | ~400 € |
 | Assicurazione viaggio | ~27 € |
 | eSIM | ~20 € |
-| **TOTALE** | **~2.855 €** (~2.800–2.910 €) |
+| **TOTALE** | **~2.858 €** (~2.800–2.920 €) |
 
 ---
 
@@ -949,7 +946,8 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | Entro 1 mese          | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · Klook o JR West online                                                                |
 | Universal Studios Japan biglietti                         | ✅ **FATTO (05/09/26)** | 🔵 **PRENOTATO** | **1-day Studio Pass + Super Nintendo World = 88 €/pax** (27 ott) · portare QR/codice · Express Pass NON incluso |
-| TeamLab Planets                                           | **Vendita aperta — prenotare subito** | ❌ Da prenotare   | Adulti ¥3.600+ (studenti ¥2.800, bambini ¥1.500) · store ufficiale `teamlabplanets.dmm.com` · **slot pomeriggio ~13:00–14:00 del 4 nov** · se già preso il 19:00, cambiabile gratis fino a 2h prima (max 3 volte) |
+| Sanrio Puroland (G12, 4 nov)                              | **Da prenotare**        | ❌ Da prenotare   | **Day Passport ¥3.900~** (~21 €) · **riserva obbligatoria** · Klook (come USJ) o e-Passport ufficiale · orari 4 nov da confermare |
+| ~~TeamLab Planets (4 nov)~~                                | ⛔ **05/09/26 — RIMOSSO (fuori tema)** | Non prenotare · sostituito dalla giornata anime a **Ikebukuro** (G12) |
 | ~~PokéPark KANTO (Yomiuriland)~~                          | ❌ 03/09/26 — lotteria NON vinta | ⛔ **RIMOSSO**     | Non selezionati all'estrazione → **biglietto non acquistabile** (no walk-in). Rimosso dal piano attivo (era Giorno 12, 4 nov) |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
 | Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |

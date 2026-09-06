@@ -19,7 +19,7 @@ tags:
 
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
-| **TeamLab Planets** (Giorno 12) | 4 Nov, slot pomeriggio ~13:00–14:00 | ¥3.600+ | `teamlabplanets.dmm.com` | ❌ vendita novembre aperta |
+| **Sanrio Puroland** (Giorno 12) | 4 Nov, mattina | Day Passport ¥3.900~ (~21 €) | Klook o e-Passport ufficiale | ❌ riserva obbligatoria — da prenotare |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | Klook o JR West online | ❌ da acquistare (entro 1 mese) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.320 ¥ (~72 €) | in stazione | ❌ biglietto singolo |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
@@ -43,18 +43,14 @@ tags:
 
 > **03/09/26:** non siamo stati selezionati all'estrazione per i biglietti del 4 nov → **biglietto non acquistabile** (nessuna vendita walk-in). **PokéPark fuori dal piano attivo.** Non prenotare.
 
-## TeamLab Planets (Giorno 12 — Mercoledì 4 Nov, slot pomeriggio)
+## 🎀 Sanrio Puroland (Giorno 12 — Mercoledì 4 Nov, mattina) DA PRENOTARE
 
-| Voce | Costo/persona | Dove prenotare | Note |
+| Voce | Costo/persona | Dove | Note |
 |---|---|---|---|
-| Biglietto adulto | **¥3.600+** (dinamico, ~20 €) | `teamlabplanets.dmm.com` | Store ufficiale DMM |
-| Studenti 12–17 | ¥2.800 | idem | — |
-| Bambini 4–12 | ¥1.500 | idem | Under 3 gratis |
+| Day Passport | **¥3.900~** (~21 €, prezzo per data) | **Klook** (come USJ) o e-Passport ufficiale | ⚠️ **riserva visita obbligatoria** inclusa nell'e-Passport · orari 4 nov da confermare |
+| Afternoon Passport (dalle 14:00) | ¥2.800~ | idem | Alternativa pomeridiana (meno adatta: meglio la mattina) |
 
-> ✅ **Verificato 03/09/26:** prezzi da store ufficiale DMM. Vendita **a lotti ~2–3 mesi prima** — novembre in vendita da fine agosto/inizio settembre. **Cambio data/ora fino a 2h prima (max 3 volte)** · no rimborsi.
-> 🎫 Consigliato **slot pomeriggio ~13:00–14:00** (uscita ~15:30 → tramonto ~16:45 su Odaiba). Se lo slot 19:00 è già prenotato, **cambiarlo gratis** fino a 2h prima.
-> **Orari:** variabili per data (ultimo ingresso ~1h prima della chiusura) — confermare il 4 nov nello store.
-> ✅ **Tutti possono entrare** — Rebecca inclusa (esperienza immersiva, non si mangia). Si abbina a Odaiba al tramonto.
+> ✅ **Rilevato 05/09/26** su `puroland.jp`. Parco **indoor** a **Tama Center** (~55–60 min dal centro). Rebecca: cibo a tema **non sicuro** → pranzo al sacco/konbini. Giornata combinata: mattina Puroland → pomeriggio **Ikebukuro** (anime).
 
 ## JR Kansai-Hiroshima Area Pass (attivare Mercoledì 28 Ott)
 
@@ -96,7 +92,7 @@ tags:
 | Attività | Note |
 |---|---|
 | Pokémon Café | Rimosso (commit 11/08/26) |
-| Sanrio Puroland | Rimosso (non nel piano attivo) |
+| ~~TeamLab Planets~~ | Rimosso (05/09/26 — fuori tema; sostituito da Sanrio Puroland) |
 | Mario Kart Ride | Rimosso (patente/traduzione non più necessarie) |
 | Maid café | Rimosso |
 | Fuji Excursion (Fujiyoshida) | Day trip rimosso del tutto |
@@ -108,6 +104,6 @@ tags:
 | Attività | Costo stimato |
 |---|---|
 | USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
-| TeamLab Planets | ~20 € |
+| Sanrio Puroland (Day Passport) | ~21 € |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
-| **Ingressi totali** | **~214 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |
+| **Ingressi totali** | **~215 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |

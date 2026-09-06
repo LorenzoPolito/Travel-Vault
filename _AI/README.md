@@ -25,7 +25,7 @@ _AI/
 │   ├── workspace.md            ← Metadati globali, convenzioni, plugin
 │   └── destinations/           ← Modulare per destinazione
 │       ├── japan/
-│       │   ├── locations.md    ← 87 luoghi con voti, orari, cluster
+│       │   ├── locations.md    ← 88 luoghi con voti, orari, cluster
 │       │   ├── itinerari.md    ← 19 varianti, tempi percorrenza
 │       │   └── logistica.md    ← IC Cards, JR Pass, budget, prenotazioni
 │       ├── newyork/

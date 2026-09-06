@@ -101,6 +101,7 @@ tags:
 //
 1. [[Fujiyoshida (富士吉田市)]], [[Kanandorii (金鳥居)]] e [[Chureito Pagoda (忠霊塔)]] #3/5 ( Lontano )
 2. [[PokéPark KANTO]] ( Yomiuriland, Tokyo ovest — primo parco Pokémon permanente, feb 2026 · Trainer's Pass ¥7.900–9.400 · prenotazione/lotteria online, NO walk-in · ⛔ lotteria 4 nov NON vinta → fuori dal piano attivo ) #5/5
+3. [[Sanrio Puroland (サンリオピューロランド)]] ( Tama Center, al coperto · Day ¥3.900+ · riserva obbligatoria · biglietti Klook/ufficiale ) #4/5 ⭐ gruppo
 ### [[Kamakura(鎌倉市)]]
 *( Lontano )*
 1. [[Tempio Kutoku-in  (高徳院)]] Grande Buddha #3/5

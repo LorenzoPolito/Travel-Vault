@@ -109,12 +109,12 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
 | Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
 | Trasporti locali (15gg) | ~149 € |
-| Attrazioni (USJ 88 € reali con pasto, templi, TeamLab, Tokyo Tower, torri) | ~214 € |
+| Attrazioni (USJ 88 € reali con pasto, Sanrio Puroland, Tokyo Tower, templi, torri) | ~215 € |
 | Spese personali | ~400 € |
 | Assicurazione + eSIM | ~47 € |
-| **TOTALE** | **~2.855 €** (~2.800–2.910 €) |
+| **TOTALE** | **~2.858 €** (~2.800–2.920 €) |
 
-> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~840 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)** e TeamLab (4 nov). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), Umeda Sky (Giorno 3).**
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~843 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)**, **Sanrio Puroland** e Tokyo Tower. **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).**
 
 ---
 
@@ -125,7 +125,8 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Voli A/R | ✅ **FATTO (09/08/26)** | China Eastern open-jaw 1.096 €/pax |
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
 | ✅ Universal Studios Japan | ✅ **FATTO (05/09/26)** | **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (27 ott) · portare QR · Express Pass non incluso |
-| TeamLab Planets (Tokyo) | Alta | ¥3.600+ adulti (studenti ¥2.800, bambini ¥1.500) · **store ufficiale DMM** · vendita a lotti ~2-3 mesi prima · **slot pomeriggio ~13:00–14:00 del 4 nov** (se preso 19:00, cambiabile fino a 2h prima) |
+| TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G12) |
+| Sanrio Puroland (Tama) | Alta | **Day Passport ¥3.900~ (4 nov)** · riserva obbligatoria · **Klook** o e-Passport ufficiale · orari 4 nov da confermare |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
 | JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |
 | Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione (~13.320 ¥) |
@@ -133,4 +134,4 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
 | Assicurazione viaggio | Media | Da stipulare |
 
-> 🚫 **Non in programma (rimossi):** Mario Kart Ride, Pokémon Café, Maid café, PokéPark KANTO (lotteria non vinta 03/09/26), Umeda Sky (Giorno 3)
+> 🚫 **Non in programma (rimossi):** Mario Kart Ride, Pokémon Café, Maid café, PokéPark KANTO (lotteria non vinta 03/09/26), Umeda Sky (Giorno 3), TeamLab (05/09/26)

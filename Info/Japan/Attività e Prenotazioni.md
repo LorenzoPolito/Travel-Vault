@@ -80,12 +80,20 @@ tags:
 | Tempio Kodai-ji | ¥600 | 7 | 30 Ott |
 | Kinkaku-ji | ¥500 | 8 | 31 Ott |
 | Ryoan-ji | ¥600 | 8 | 31 Ott |
-| Tenryu-ji (giardino+edifici) | ¥800 | 8 | 31 Ott |
-| Tokyo Tower | ¥1.200 | 9 | 1 Nov |
-| Tokyo Skytree | ¥2.400 feriale / ¥2.600 weekend | 10 | 2 Nov |
-| Shibuya Sky *(opzionale)* | ~¥2.700 online | 11 | 3 Nov |
+| Uzumasa Kyoto Village (EVA inclusa) | ¥2.800 | 8 | 31 Ott |
+| Tokyo Skytree | ¥2.400 feriale / ¥2.600 weekend | 9 | 1 Nov |
+| Shibuya Sky *(opzionale)* | ~¥2.700 online | 12 | 4 Nov |
+| Tokyo Tower | ¥1.200 | 13 | 5 Nov |
 
-> Gratis: Fushimi Inari (24h), Santuari Yasaka/Meiji, Senso-ji, parchi. Gratis con JR Pass day 28 ott–1 nov: tratte JR (Nara→Kyoto, Arashiyama).
+> 🎫 **Solo questi si pagano all'ingresso (nessuna prenotazione):** Castello Osaka, Tsutenkaku, giardini Nishinomaru, Todaiji, Kiyomizu-dera, Kodai-ji, Kinkaku-ji, Ryoan-ji, Itsukushima Shrine.
+> 💻 **Biglietti online ufficiali (consigliato: risparmio/slot/zero code):**
+> - **Tokyo Skytree** → sito ufficiale `tokyo-skytree.jp` (online ~¥2.100–2.300) o Klook
+> - **Shibuya Sky** → `shibuya-sky.com` (¥2.700, slot orario ~17:00)
+> - **Tokyo Tower** → sito ufficiale `tokyotower.co.jp` (biglietto online)
+> - **Uzumasa Kyoto Village** → `ticket.eigamura.com` (¥2.800, EVA inclusa)
+> - **Museo della Pace di Hiroshima** → sito ufficiale (¥200, biglietto online consigliato)
+> 🆓 **Gratis:** Senso-ji, Fushimi Inari (24h), Santuari Yasaka/Meiji, parchi · JR gratis col pass 28 ott–1 nov (Nara→Kyoto, linee JR West).
+> ⚠️ **ANTI-SCAM:** comprare SOLO dai siti ufficiali (domini `.jp` ufficiali) o da **Klook** (canale già usato). Evitare rivenditori terzi con "fast-track"/prezzi gonfiati, link non richiesti, o offerte via social. Non pubblicare i QR dei ticket (possono essere usati da altri). Conservare le email di conferma.
 
 ## Rimosse dal piano — NON prenotare
 

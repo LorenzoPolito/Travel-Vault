@@ -278,7 +278,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 ---
 
-## Giorno 2 — Domenica 25 Ottobre — Trasferimento a Osaka & Dotonbori
+## Giorno 2 — Domenica 25 Ottobre — Trasferimento a Osaka · Shinsaibashi (pomeriggio) & Dotonbori (sera)
 
 **Difficoltà:** 2/4 · **Budget:** ~40 € · **Meteo:** 18–23°C, 30% possibilità pioggia (dati JMA)
 
@@ -288,10 +288,11 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **10:00–10:34** Nankai Main Line Izumisano → Namba (~34 min, ¥610)
 - **10:50** Metro Yotsubashi Line → Hanazonocho · check-in/deposito bagagli
 - **12:00–13:00** Pranzo zona Namba
-- **13:30–15:30** Riposo / primo assaggio Dotonbori di giorno (⚪)
-- **16:00** Uscita · passeggiata Hozen-ji + Dotonbori
+- **13:15–16:15** **Shinsaibashi** (shopping) — spostata qui dal Giorno 3
+- **16:30–17:00** Tempio Hozen-ji
+- **17:15–18:30** Riposo (⚪) / primo assaggio Dotonbori di giorno
 - **19:00** Cena Dotonbori (street food / alternative)
-- **20:30** Dotonbori illuminato · Shinsaibashi
+- **20:30** Dotonbori illuminato
 - **22:00** Rientro appartamento
 
 **Mattina — Trasferimento a Osaka:**
@@ -300,9 +301,12 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - Metro Yotsubashi Line → **Hanazonocho** → check-in appartamento
 - Deposito bagagli in stazione se il check-in è nel pomeriggio
 
-**Pomeriggio/Sera | Cluster Namba/Dotonbori:**
-- Prima passeggiata: [[Dotonbori (道頓堀)]] #5/5 🟢 — il canale illuminato, le insegne al neon, il granchio meccanico del Kani Doraku
+**Pomeriggio | Shinsaibashi & Hozen-ji (tutto a piedi da Namba):**
+- **Shinsaibashi** — la via dello shopping di Namba: arcata coperta **Shinsaibashi-suji** (moda, cosmetici, elettronica; negozi ~10:30–20:30). Da fare **al pomeriggio**, quando gli store sono aperti (di sera chiudono presto) · ⚠️ domenica pomeriggio molto affollata
 - [[Tempio Hozen-ji (法善寺)]] #4/5 🟢 — a 2 min da Dotonbori, statua coperta di muschio, atmosfera raccolta
+
+**Sera | Dotonbori (illuminato):**
+- [[Dotonbori (道頓堀)]] #5/5 🟢 — il canale illuminato, le insegne al neon, il granchio meccanico del Kani Doraku. **Non serve vederlo di giorno**: si torna dopo cena con le luci accese
 
 **Cibo — Alternative:**
 - 🅰️ **Street food** [[Dotonbori (道頓堀)]]: takoyaki (¥500), okonomiyaki (¥1.000), kushikatsu (¥800)
@@ -328,8 +332,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **11:00–12:00** Tempio Shitenno-ji
 - **12:15–13:15** Pranzo zona Shinsekai
 - **13:30–15:00** Shinsekai + Tsutenkaku (⚪ ¥900)
-- **15:15–16:30** Nipponbashi Den Den Town (⚪ ~1h, ⭐ Lorenzo)
-- **17:00–18:30** Shinsaibashi / relax Namba
+- **15:15–18:00** Nipponbashi Den Den Town (⭐ Lorenzo) — **più tempo** (~2h45: Shinsaibashi ora è al Giorno 2)
+- **18:15** Relax / rientro verso Namba
 - **19:00** Cena Namba
 - **21:30** Rientro
 
@@ -342,9 +346,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - [[Tempio Shitenno-ji (四天王寺)]] #4/5 🟢 (9:00–16:30, ¥500)
 - [[Shinsekai (新世界と通天閣​)]] #4/5 🟢 — atmosfera retrò, kushikatsu
 - [[Torre Tsutenkaku (通天閣)]] #2/5 🟢 (¥900, optional)
-- ⚪ [[Nipponbashi Den Den Town (でんでんタウン)]] #4/5 ⭐ **Lorenzo** — Osaka's Akihabara: retrogame, anime, figure, elettronica. Negozi ~10:00–19:30. A ~10 min a piedi da Shinsekai/Ebisucho (o 1 fermata Sakaisuji → Nihonbashi). **Prevedere ~1h** — in alternativa al Tsutenkaku
+- [[Nipponbashi Den Den Town (でんでんタウン)]] #4/5 ⭐ **Lorenzo** — Osaka's Akihabara: retrogame, anime, figure, elettronica. Negozi ~10:00–19:30. A ~10 min a piedi da Shinsekai/Ebisucho (o 1 fermata Sakaisuji → Nihonbashi). **Prevedere ~2h30** — ora che Shinsaibashi è al Giorno 2 si gira con calma (chi non è interessato può riposare o salire al Tsutenkaku)
 
-> 🧘 **Giornata tranquilla (modifica 03/09/26):** [[Umeda Sky Building (梅田スカイビル)]] **rimosso** — niente trasferimento a Umeda, si resta in zona **Minami** (Shinsekai → Namba). Nessuna corsa: se si è stanchi si rientra presto o si prosegue con calma verso Shinsaibashi.
+> 🧘 **Giornata tranquilla (modifica 03/09/26):** [[Umeda Sky Building (梅田スカイビル)]] **rimosso** — niente trasferimento a Umeda, si resta in zona **Minami** (Shinsekai → Namba). Nessuna corsa: se si è stanchi si rientra presto o si prosegue con calma verso Namba.
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo gyudon:** [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Yoshinoya]] (¥400) · [[Mangiare in Giappone#Catene e Cibo Economico|Matsuya]] (curry ¥380)
@@ -354,7 +358,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - 🅴 **Rebecca cena:** [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Saizeriya]] (Namba, pasta aglio e olio ✅) · [[Mangiare in Giappone#Gyudon e Curry per Rebecca (Sicuri!)|Sukiya]] (riso + uovo ✅) · [[Mangiare in Giappone#Catene e Cibo Economico|Royal Host]] (steak ✅) · **cucina in hotel**
 
 **Sera | Namba:**
-- Shopping a **Shinsaibashi** 🟢 — via coperta aperta fino a tardi 🍽️
+- Rientro con calma e cena in zona Namba — **Shinsaibashi non serve più qui** (fatto al Giorno 2 di pomeriggio, quando i negozi sono aperti)
 
 🅿 **PIANO B (pioggia):** Sostituisci Castello con TeamLab Botanical Garden (#4/5) — solo serale 18:30–21:30
 
@@ -843,6 +847,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Shinsaibashi al Giorno 2 (pomeriggio) · Nipponbashi allungata al Giorno 3** | 09 Set 2026 | Gruppo | G2: shopping a **Shinsaibashi** di pomeriggio (negozi aperti, prima si stava tutto il giorno a Dotonbori) → sera Dotonbori illuminato invariata. G3: tolto il blocco serale Shinsaibashi → più tempo a **Nipponbashi Den Den Town** (~2h45, ⭐ Lorenzo) |
 | **Sveglie riallineate post-modifiche (audit 05/09/26)** | 05 Set 2026 | Agente | G2 07:30 · G3 07:00 · G4 07:00 (USJ) · G5 05:30 · G6 07:30 · G7 08:30 (Kiyomizu tramonto) · G8 09:00 (no bambù) · G9 08:00 · G10 08:00 · G11 07:30 (Sanrio, partire presto) · G12 08:30 · G13 08:30 flessibile (+ Tsukiji ⚪) · G14 04:30 |
 | **Assestamento finale Tokyo (G9–G13)** | 05 Set 2026 | Gruppo | G9: **Skytree al tramonto + Solamachi** nel pomeriggio d'arrivo (Skytree tolto da G10) · G10: Asakusa → **Akihabara pieno** · G13: **anniversario Davide & Rebecca** (programma a cura loro) + **Lorenzo nerd/Tokyo Tower** con improvvisazione · **Puroland confermato il 3 nov** (Klook, riserva) · budget invariato ~2.858 € |
 | **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 **Sanrio Puroland + Ikebukuro** (anime/kawaii) · G12 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G13 anniversario D&R (a cura loro) + Lorenzo nerd/Tokyo Tower. Budget riallineato: spese ~843 €, tot **~2.858 €/pax** |

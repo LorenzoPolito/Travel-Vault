@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: itineraries
 language: it
-last_updated: 2026-09-03
+last_updated: 2026-09-09
 destination: Japan
 tags: [japan, itineraries, tokyo, kyoto, osaka, hiroshima, planning]
 source_files:
@@ -29,6 +29,7 @@ Viaggio **attivo A**: **Giappone, 23 Ott (partenza) — 6 Nov 2026** (15gg/14not
 > ✅ **Fact-check 11/08/2026:** prezzi/orari/tariffe verificati su fonti ufficiali (JR West, teamlab.art, todaiji.or.jp, japan-guide, xe.com). **Nishiki Market NON è chiuso di domenica** (correzione). Prezzi aggiornati: TeamLab ¥3.600, Skytree ¥2.400, Shibuya Sky ¥2.700, pass 17.000 ¥, Fuji Excursion ¥4.200.
 > 🎡 **Aggiunto (11/08/26):** **PokéPark KANTO** (primo parco Pokémon permanente, Yomiuriland, aperto feb 2026) + **TeamLab** accorpati al **4 nov**; il **5 nov** è ultimo giorno libero senza attrazioni. **Fuji day trip rimosso del tutto.**
 > 🧘 **Aggiornamenti 03/09/26:** Umeda Sky rimosso dal Giorno 3 (giornata tranquilla in zona Minami) + **Nipponbashi Den Den Town** (⭐ Lorenzo, opzionale) · ⛔ **PokéPark KANTO RIMOSSO (lotteria non vinta)** → il 4 nov = **TeamLab (slot pomeriggio) + Odaiba al tramonto**. **5 nov = anniversario Davide & Rebecca (programma a cura loro) · Lorenzo: nerd + Tokyo Tower**. Budget aggiornato a **~2.858 €/persona**.
+> 🗼 **Assestamento finale Tokyo (05/09/26) + riordino Osaka (09/09/26) — stato corrente:** G9 = arrivo Kyoto→Tokyo + **Skytree al tramonto/Solamachi** · G10 = Asakusa → **Akihabara pieno** · G11 = **Sanrio Puroland (3 nov, Klook, riserva obbligatoria)** + Ikebukuro (⛔ TeamLab rimosso 05/09) · G12 = Meiji → Nakano → Shinjuku → Shibuya · G13 = **anniversario Davide & Rebecca** (programma a cura loro) + Lorenzo nerd/Tokyo Tower. **G2 (25 ott) = Shinsaibashi al pomeriggio + Dotonbori di sera** · **G3 (26 ott) = niente Shinsaibashi → più tempo a Nipponbashi Den Den Town (~2h45, ⭐ Lorenzo)**.
 
 ---
 

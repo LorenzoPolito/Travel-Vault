@@ -108,7 +108,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | Cibo (15gg, pasto USJ incluso) | ~420 € |
 | JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
 | Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
-| Trasporti locali (15gg) | ~149 € |
+| Trasporti locali (15gg) | ~136 € |
 | Attrazioni (USJ 88 € reali con pasto, Sanrio Puroland, Tokyo Tower, templi, torri) | ~215 € |
 | Spese personali | ~400 € |
 | Assicurazione + eSIM | ~47 € |

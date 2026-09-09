@@ -888,7 +888,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Cibo (15 gg)                      | ~420 €             | ❌ Da tenere traccia   | —     | Rebecca cucina = risparmio                                     |                         |     |
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
-| Trasporti locali (15 gg)            | ~144 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)     |                         |     |
+| Trasporti locali (15 gg)            | ~136 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)     |                         |     |
 | Attrazioni (USJ, templi, Sanrio, torri…) | ~215 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |

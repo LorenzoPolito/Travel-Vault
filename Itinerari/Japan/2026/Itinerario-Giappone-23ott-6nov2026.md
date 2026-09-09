@@ -582,7 +582,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 2/4 · **Budget:** ~122 € · **Meteo Kyoto:** 15–22°C → **Meteo Tokyo:** 12–17°C (inizio Nov, clima medio JMA)
 
 **⏱️ Orari indicativi:**
-- **07:30** Sveglia · colazione
+- **08:00** Sveglia · colazione
 - **09:00** Check-out (self) — **niente sosta**: [[Nishiki Market (錦市場)|Nishiki]] già visitato al Giorno 7
 - **09:25** Metro Nijo → Kyoto Station
 - **09:45** Acquisto biglietto singolo + **prenotazione posto riservato** (Hikari)
@@ -843,6 +843,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Sveglie riallineate post-modifiche (audit 05/09/26)** | 05 Set 2026 | Agente | G2 07:30 · G3 07:00 · G4 07:00 (USJ) · G5 05:30 · G6 07:30 · G7 08:30 (Kiyomizu tramonto) · G8 09:00 (no bambù) · G9 08:00 · G10 08:00 · G11 07:30 (Sanrio, partire presto) · G12 08:30 · G13 08:30 flessibile (+ Tsukiji ⚪) · G14 04:30 |
 | **Assestamento finale Tokyo (G9–G13)** | 05 Set 2026 | Gruppo | G9: **Skytree al tramonto + Solamachi** nel pomeriggio d'arrivo (Skytree tolto da G10) · G10: Asakusa → **Akihabara pieno** · G13: **anniversario Davide & Rebecca** (programma a cura loro) + **Lorenzo nerd/Tokyo Tower** con improvvisazione · **Puroland confermato il 3 nov** (Klook, riserva) · budget invariato ~2.858 € |
 | **Piano Tokyo "a spirale" applicato (G9–G13)** | 05 Set 2026 | Gruppo | G9 leggero arrivo · G10 est (Asakusa→Skytree→Akihabara) · G11 **Sanrio Puroland + Ikebukuro** (anime/kawaii) · G12 catena unica ovest (Meiji→Nakano→Shinjuku→Shibuya) · G13 anniversario D&R (a cura loro) + Lorenzo nerd/Tokyo Tower. Budget riallineato: spese ~843 €, tot **~2.858 €/pax** |
 | **Sanrio Puroland aggiunto al G11** (3 nov, mattina, Opzione A: Puroland Day Passport + pomeriggio Ikebukuro) | 05 Set 2026 | Gruppo | Da prenotare su **Klook** (¥3.900~) · riserva obbligatoria · pagina location creata · ⚠️ chiuso il 4 nov → spostato al 3 nov (verificare disponibilità su Klook) |

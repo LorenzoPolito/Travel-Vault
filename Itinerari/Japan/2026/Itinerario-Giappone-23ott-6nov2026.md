@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.858 €/persona"
+budget_totale_stimato: "~2.846 €/persona"
 tags:
   - itinerario
   - japan
@@ -130,7 +130,7 @@ xychart-beta
     title "Spesa Giornaliera per Persona (€)"
     x-axis ["G1","G2","G3","G4","G5","G6","G7","G8","G9","G10","G11","G12","G13","G14","G15"]
     y-axis "€" 0 --> 140
-    bar [25,39,46,118,30,47,56,58,122,40,73,60,54,45,30]
+    bar [25,39,46,118,30,47,44,58,122,40,73,60,54,45,30]
 ```
 
 ---
@@ -203,7 +203,7 @@ xychart-beta
 |    4    |  27 Ott   |    25 €    |    5 €     |    88 €    |   118 €    |
 |    5    |  28 Ott   |    25 €    |  — (pass)  |    5 €     |    30 €    |
 |    6    |  29 Ott   |    30 €    |    7 €     |    10 €    |    47 €    |
-|    7    |  30 Ott   |    30 €    |    8 €     |    18 €    |    56 €    |
+|    7    |  30 Ott   |    30 €    |    8 €     |    6 €     |    44 €    |
 |    8    |  31 Ott   |    30 €    |    8 €     |    20 €    |    58 €    |
 |    9    |   1 Nov   |    25 €    |    84 €    |    13 €    |   122 €    |
 |   10    |   2 Nov   |    30 €    |    10 €    |     —      |    40 €    |
@@ -212,9 +212,10 @@ xychart-beta
 |   13    |   5 Nov   |    35 €    |    12 €    |    7 €     |    54 €    |
 |   14    |   6 Nov   |    35 €    |    5 €     |    5 €     |    45 €    |
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
-| **TOT** |           | **~420 €** | **~208 €** | **~215 €** | **~843 €** |
+| **TOT** |           | **~420 €** | **~208 €** | **~203 €** | **~831 €** |
 
-> Spese giornaliere **~843 €/persona** (cibo 420 + trasporti 208 + ingressi 215 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)**, **Sanrio Puroland** e **Tokyo Tower il 5 nov**; **PokéPark KANTO, Fuji e TeamLab rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.858 €/persona** (~2.800–2.920 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~831 €/persona** (cibo 420 + trasporti 208 + ingressi 203 — inclusi shinkansen Kyoto→Tokyo, **USJ 88 € reali (con pasto incluso)**, **Sanrio Puroland** e **Tokyo Tower il 5 nov**; **PokéPark KANTO, Fuji e TeamLab rimossi**; **Umeda Sky rimosso dal Giorno 3**). Costi fissi extra: **Volo A/R 1.096 € (PRENOTATO) + Alloggio 13 notti ~380 € + JR Kansai-Hiroshima Pass ~92 € + Spese personali ~400 € + Assicurazione ~27 € + eSIM ~20 € = ~2.846 €/persona** (~2.800–2.920 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> ℹ️ Le voci giornaliere sono stime **leggermente gonfiate come margine per imprevisti**: si correggono solo i refusi reali (es. G7 ingressi riportati al costo effettivo Kodai-ji+Kiyomizu ~6 €).
 
 ### Alloggi
 
@@ -409,8 +410,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **Difficoltà:** 4/4 · **Budget:** ~30 € · **Meteo:** 17–22°C, 25% pioggia · **Attiva JR Kansai-Hiroshima Pass**
 
 **⏱️ Orari indicativi:**
-- **05:30** Sveglia · colazione
-- **06:10** Metro → Shin-Osaka (attivare JR Pass + **prenotare posti riservati** andata e ritorno)
+- **05:15** Sveglia · colazione
+- **05:50** Uscita · metro Hanazonocho → Shin-Osaka (Yotsubashi → cambio Midosuji, ~20–25 min) → arrivo ~06:15
+- **06:15–06:45** Sportello JR West: attivazione **JR Pass** + **prenotazione posti riservati A/R** (30 min di margine: la mattina presto gli sportelli sono pochi)
 - **06:45–08:15** Shinkansen Sakura Shin-Osaka → Hiroshima (~1h30)
 - **08:30–08:55** JR Sanyo Line → Miyajimaguchi (~25 min, incluso pass)
 - **09:00–09:15** Traghetto JR → Miyajima (~10 min, + tassa 100¥)
@@ -420,9 +422,14 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **14:15** Bus Meipuru-pu (coperto da pass) o tram → Peace Park (~15 min)
 - **14:30–16:30** Museo della Pace (~2h — nov: orario 8:30–18:00)
 - **16:30–17:15** Genbaku Dome + parco
-- **17:15–17:45** Hondori street (momiji manju da portare a casa) ⚪
-- **18:00** Tram → Hiroshima St (~12 min) → **18:15–18:30** Shinkansen riservato → Shin-Osaka (~1h30)
+- **17:15–17:30** Hondori street (momiji manju da portare a casa) ⚪ — uscita anticipata alle 17:30
+- **17:45** Tram Genbaku Dome-mae → Hiroshima St (~15–20 min) → arrivo ~18:05
+- **18:05–18:15** Attraversamento stazione → binari Shinkansen (5–10 min)
+- **18:15–18:30** Shinkansen riservato → Shin-Osaka (~1h30)
 - **~20:00** Rientro Osaka · cena Namba
+
+
+> 🚆 **Punti critici rivisti (feedback 09/09/26):** ① mattina — sveglia anticipata a **05:15** e uscita **~05:50** per avere ~30 min allo sportello JR West di Shin-Osaka (attivazione pass + posti riservati A/R; i tour operator lasciano mezz'ora abbondante solo per i biglietti). ② rientro — uscita da Hondori alle **17:30** e tram delle **17:45** (la corsa richiede 15–20 min, non 12) così arrivi ai binari Shinkansen con margine sul treno riservato.
 
 
 > 🟡 **Da attivare oggi (28 ott):** [[JR pass|JR Kansai-Hiroshima Area Pass]] (**17.000 ¥ ≈ 92 €**) — copre Shinkansen A/R Shin-Osaka→Hiroshima + traghetto JR Miyajima + linee JR West per i prossimi 4 giorni (**valido 28 ott–1 nov**)
@@ -447,10 +454,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **14:15–17:15** [[Memorial Park Hiroshima]] #4/5 🟢 (24H, gratuito)
   - [[Memorial Park Hiroshima|Museo della Pace di Hiroshima]] (nov: 8:30–18:00, ultimo ingresso 17:30, ¥200, ~2h) — emotivamente intenso, 🟡 consigliato biglietto online
   - [[Memorial Park Hiroshima|Genbaku Dome]] — simbolo UNESCO
-**17:15–17:45** [[Hondori street]] ⚪ — shopping + momiji manju da portare a casa
+**17:15–17:30** [[Hondori street]] ⚪ — shopping veloce + momiji manju da portare a casa (uscire alle 17:30 per il tram delle 17:45)
 > ⚠️ **Castello di Hiroshima:** il mastio è **chiuso al pubblico da marzo 2026** (rischio sismico) — restano solo giardini + Ninomaru (gratis, fino 16:30 in autunno). Meglio dedicare il tempo a Hondori.
 
-**18:15–18:30** Shinkansen riservato ritorno → Shin-Osaka (~1h30, arrivo ~20:00)
+**18:15–18:30** Shinkansen riservato ritorno (posti già prenotati in mattinata) → Shin-Osaka (~1h30, arrivo ~20:00)
 🅿 **PIANO B (stanchi/pioggia):** Salta Hondori e rientra entro le 17:30. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
 
 ---
@@ -847,6 +854,8 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Giorno 5 (Hiroshima/Miyajima) — punti critici tempi** | 09 Set 2026 | Gruppo | Mattina: sveglia **05:15**, uscita **05:50** (metro ~20-25') → ~30' allo sportello JR West per attivazione pass + posti riservati A/R. Rientro: uscita Hondori **17:30**, tram **17:45** (15-20', non 12) + attraversamento binari 5-10' → treno riservato senza rischio |
+| **Budget G7 corretto (refuso) + allineamento totale** | 09 Set 2026 | Agente | G7 ingressi 18 € → **6 €** (reale Kodai-ji+Kiyomizu) · ingressi totali **203 €**, giornaliere **831 €**, totale **~2.846 €/pax** · nota buffer inserita (voci gonfiate volutamente) · riga Assicurazione duplicata rimossa (Heymondo ~27 €/pax, URGENTE) |
 | **Shinsaibashi al Giorno 2 (pomeriggio) · Nipponbashi allungata al Giorno 3** | 09 Set 2026 | Gruppo | G2: shopping a **Shinsaibashi** di pomeriggio (negozi aperti, prima si stava tutto il giorno a Dotonbori) → sera Dotonbori illuminato invariata. G3: tolto il blocco serale Shinsaibashi → più tempo a **Nipponbashi Den Den Town** (~2h45, ⭐ Lorenzo) |
 | **Sveglie riallineate post-modifiche (audit 05/09/26)** | 05 Set 2026 | Agente | G2 07:30 · G3 07:00 · G4 07:00 (USJ) · G5 05:30 · G6 07:30 · G7 08:30 (Kiyomizu tramonto) · G8 09:00 (no bambù) · G9 08:00 · G10 08:00 · G11 07:30 (Sanrio, partire presto) · G12 08:30 · G13 08:30 flessibile (+ Tsukiji ⚪) · G14 04:30 |
 | **Assestamento finale Tokyo (G9–G13)** | 05 Set 2026 | Gruppo | G9: **Skytree al tramonto + Solamachi** nel pomeriggio d'arrivo (Skytree tolto da G10) · G10: Asakusa → **Akihabara pieno** · G13: **anniversario Davide & Rebecca** (programma a cura loro) + **Lorenzo nerd/Tokyo Tower** con improvvisazione · **Puroland confermato il 3 nov** (Klook, riserva) · budget invariato ~2.858 € |
@@ -879,7 +888,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 ## Budget Tracker
 
-> 💰 **Budget totale stimato:** ~2.858 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
+> 💰 **Budget totale stimato:** ~2.846 €/persona · **Voli prenotati (1.096 €)** · **Budget reale:** da compilare
 
 | Voce                               | Stima              | Reale                 | Delta | Note                                                           |                         |     |
 | ---------------------------------- | ------------------ | --------------------- | ----- | -------------------------------------------------------------- | ----------------------- | --- |
@@ -889,11 +898,11 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
 | Trasporti locali (15 gg)            | ~136 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)     |                         |     |
-| Attrazioni (USJ, templi, Sanrio, torri…) | ~215 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
+| Attrazioni (USJ, templi, Sanrio, torri…) | ~203 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
 | Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
-| **TOTALE**                         | **~2.858 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.920 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
+| **TOTALE**                         | **~2.846 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.920 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
 ### Budget Rebecca (extra cibo)
 
@@ -911,12 +920,12 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 |---|---|
 | Volo A/R (China Eastern, open-jaw) — PRENOTATO | 1.096 € |
 | Alloggio (13 notti, camera condivisa/3) | ~380 € |
-| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~843 € |
+| Spese giornaliere in viaggio (cibo+trasporti+ingressi, 15 gg) | ~831 € |
 | JR Kansai-Hiroshima Area Pass 5gg | ~92 € |
 | Spese personali (souvenir, extra) | ~400 € |
 | Assicurazione viaggio | ~27 € |
 | eSIM | ~20 € |
-| **TOTALE** | **~2.858 €** (~2.800–2.920 €) |
+| **TOTALE** | **~2.846 €** (~2.800–2.920 €) |
 
 ---
 
@@ -939,9 +948,8 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | ~~TeamLab Planets (4 nov)~~                                | ⛔ **05/09/26 — RIMOSSO (fuori tema)** | Non prenotare · sostituito da **Sanrio Puroland + Ikebukuro** (G11) |
 | ~~PokéPark KANTO (Yomiuriland)~~                          | ❌ 03/09/26 — lotteria NON vinta | ⛔ **RIMOSSO**     | Non selezionati all'estrazione → **biglietto non acquistabile** (no walk-in). Rimosso dal piano attivo (era Giorno 12, 4 nov) |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
-| Assicurazione viaggio                                     | **URGENTE**           | ❌ Da stipulare   | ViaggiaSicuri per riferimento. Rebecca: verificare copertura allergie                                                                    |
+| Assicurazione viaggio (Heymondo Premium)                  | **URGENTE**           | ❌ Da stipulare   | ~1,80 €/gg × 15gg = ~27 €/pax (~81 € tot.) · [[Assicurazione Heymondo]] · Rebecca: verificare copertura allergie                          |
 | Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |
-| Assicurazione Heymondo                                    | **Agosto 2026**       | ❌ Da stipulare   | ~1,80€/gg × 15gg × 3 = ~81€ totali. Vedi [[Assicurazione Heymondo]]                                                                      |
 | Pasto speciale aereo (Rebecca)                            | Prima della partenza  | ❌ Da confermare  | Contattare China Eastern: no soia/pesce/crostacei/frutta secca · verificare su entrambi i segmenti (PVG incluso)                          |
 | Cena anniversario 5 nov (Davide & Rebecca)                | Da concordare         | 🔵 a cura di Rebecca | Prenotare ristorante (Rebecca-safe) — da aggiungere al G13 quando Rebecca condivide il programma                                          |
 | Attrazioni templi/musei/torri (Castello Osaka, Kiyomizu, Todaiji, Tokyo Tower…) | Nessuna prenotazione | ✅ Ingresso in loco | Si paga all'ingresso — elenco e prezzi in [[Attività e Prenotazioni]] · gratis: Senso-ji, Fushimi Inari, Meiji, Yasaka, parchi |

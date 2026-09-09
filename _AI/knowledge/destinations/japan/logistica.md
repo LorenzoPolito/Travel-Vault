@@ -3,7 +3,7 @@ type: knowledge-base
 domain: travel/japan
 category: logistics
 language: it
-last_updated: 2026-09-05
+last_updated: 2026-09-09
 destination: Japan
 tags: [japan, transport, ic-cards, suica, pasmo, icoca, jr-pass, budget, esim, flights]
 source_files:
@@ -109,12 +109,12 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
 | Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
 | Trasporti locali (15gg) | ~136 € |
-| Attrazioni (USJ 88 € reali con pasto, Sanrio Puroland, Tokyo Tower, templi, torri) | ~215 € |
+| Attrazioni (USJ 88 € reali con pasto, Sanrio Puroland, Tokyo Tower, templi, torri) | ~203 € |
 | Spese personali | ~400 € |
 | Assicurazione + eSIM | ~47 € |
-| **TOTALE** | **~2.858 €** (~2.800–2.920 €) |
+| **TOTALE** | **~2.846 €** (~2.800–2.920 €) |
 
-> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~843 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)**, **Sanrio Puroland** e Tokyo Tower. **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).**
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~831 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)**, **Sanrio Puroland** e Tokyo Tower. **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).** Le voci sono stime leggermente gonfiate come margine imprevisti (si correggono solo i refusi, es. G7).
 
 ---
 

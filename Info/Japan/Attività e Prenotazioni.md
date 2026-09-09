@@ -2,7 +2,7 @@
 type: info
 destination: Japan
 category: attivita
-last_updated: 2026-09-03
+last_updated: 2026-09-09
 tags:
   - attività
   - prenotazioni
@@ -114,4 +114,4 @@ tags:
 | USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
 | Sanrio Puroland (Day Passport) | ~21 € |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
-| **Ingressi totali** | **~215 €** *(allineato a tabella Budget Giornaliero dell'itinerario)* |
+| **Ingressi totali** | **~203 €** *(allineato a tabella Budget Giornaliero dell'itinerario; le voci sopra sono pure, il totale include il margine giornaliero)* |

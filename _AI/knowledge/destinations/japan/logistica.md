@@ -126,12 +126,14 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
 | ✅ Universal Studios Japan | ✅ **FATTO (05/09/26)** | **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (27 ott) · portare QR · Express Pass non incluso |
 | TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G11) |
-| Sanrio Puroland (Tama) | Alta | **Day Passport ¥3.900~ (3 nov)** · riserva obbligatoria · **Klook** o e-Passport ufficiale · orari 3 nov da confermare |
+| Sanrio Puroland (Tama) | 🔴 **URGENTE — GIÀ IN VENDITA** | 3 nov = festivo → **~¥5.500–5.600 (~30 €)** · e-Passport ufficiale (riserva inclusa) o Klook · chiuso 4-5 nov |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
-| JR Kansai-Hiroshima Area Pass | Media | 17.000 ¥ · **attivare il 28 ott** (Hiroshima), valido 28 ott–1 nov |
-| Kyoto→Tokyo Shinkansen | Media | Biglietto singolo in stazione (~13.320 ¥) |
+| JR Kansai-Hiroshima Area Pass | 🔴 **Entro 28 Set 10:00 JST** | 17.000 ¥ · acquistare su **JR-WEST ONLINE TRAIN RESERVATION** per prenotare posti online dal 28 Set · ritiro/attivazione 28 ott |
+| Kyoto→Tokyo Shinkansen | 🟠 Dal 1 Ott 10:00 JST | SmartEX (app/web) · Hikari **riservato ~13.650 ¥** · Hayatoku 21 entro 11 Ott |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
 | Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
 | Assicurazione viaggio | Media | Da stipulare |
 
 > 🚫 **Non in programma (rimossi):** Mario Kart Ride, Pokémon Café, Maid café, PokéPark KANTO (lotteria non vinta 03/09/26), Umeda Sky (Giorno 3), TeamLab (05/09/26)
+
+> 🗓️ **Finestre prenotazione (ricerca 09/09/26):** pass+posti Hiroshima = **28 Set 10:00 JST** (JR-WEST ONLINE) · Kyoto→Tokyo = **1 Ott 10:00 JST** (SmartEX) · Skytree ~**2 Ott 00:00 JST** (30gg) · Shibuya Sky = **21 Ott 00:00 JST** (14gg) · Puroland e Museo Pace **già in vendita**. Dettagli/prezzi in `Info/Japan/Attività e Prenotazioni.md`.

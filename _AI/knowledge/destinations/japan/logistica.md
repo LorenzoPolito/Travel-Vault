@@ -131,6 +131,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | JR Kansai-Hiroshima Area Pass | 🔴 **Entro 28 Set 10:00 JST** | 17.000 ¥ · acquistare su **JR-WEST ONLINE TRAIN RESERVATION** per prenotare posti online dal 28 Set · ritiro/attivazione 28 ott |
 | Kyoto→Tokyo Shinkansen | 🟠 Dal 1 Ott 10:00 JST | SmartEX (app/web) · Hikari **riservato ~13.650 ¥** · Hayatoku 21 entro 11 Ott |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
+| Trasferimento bagagli Osaka→Tokyo | Media | Takkyubin Yamato ~¥3.160/valigia (spedire 29 ott → consegna 1 nov) · confermare host Tokyo · vedi [[Trasferimento Bagagli (Takkyubin)]] |
 | Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
 | Assicurazione sanitaria | ✅ **FATTO (09/09/26)** | *Annotare provider/polizza* · verificare copertura allergie Rebecca |
 

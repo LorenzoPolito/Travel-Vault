@@ -57,6 +57,19 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 
 ---
 
+## 🧳 BAGAGLI — spedizione Osaka → Tokyo
+
+| Cosa | Quando | Costo | Note |
+|---|---|---|---|
+| Spedizione valigie grandi Osaka→Tokyo (Takkyubin Yamato) | 29 ott (consegna **1 nov**) | **~¥3.160/valigia** (~17 €) | Drop-off **Yamato Namba Station Center** (9:00–20:00) · destinatario **Taito City Guesthouse** · consegna differita entro 7 gg |
+
+- [ ] 🔴 **Confermare col host di Tokyo** che riceva/conservi i bagagli l'1 nov
+- [ ] Compilare waybill: nome ospite + Taito City Guesthouse + telefono + indirizzo; data consegna **1 nov**
+- [ ] **Non spedire**: valori, documenti, medicine, elettronica/batterie
+- Dettagli e regole: [[Trasferimento Bagagli (Takkyubin)]]
+
+---
+
 ## 🎡 ATTRAZIONI / ESPERIENZE
 
 | Cosa | Giorno/Data | Finestra | ⏰ Prenotare | Canale | Costo | Stato |

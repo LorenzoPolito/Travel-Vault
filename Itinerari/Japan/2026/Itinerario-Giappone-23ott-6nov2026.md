@@ -468,30 +468,30 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **⏱️ Orari indicativi:**
 - **07:30** Sveglia · colazione veloce · check-out (self)
-- **08:30–09:10** Kintetsu Namba → Kintetsu Nara (~40 min, ¥570, non-JR)
-- **09:15** Deposito valigie nei **coin locker** di Kintetsu Nara
-- **09:30–12:30** Nara: Parco + Todaiji (Gran Buddha) + Kasuga Taisha (~3h)
-- **12:30–13:15** Pranzo Nara (zona stazione)
-- **13:20** Ripresa valigie dai locker
-- **13:25–13:45** A piedi/bus → JR Nara (~20 min)
-- **13:50–14:40** JR Nara → Kyoto (~50 min, **incluso pass**)
-- **14:50** Metro → check-in Miro Nijo Hotel (deposito bagagli)
-- **16:00–17:45** Fushimi Inari (JR 5 min, 24h) — torii nel tardo pomeriggio
-- **18:15** Cena Kyoto Station (depachika / alternative)
+- **08:30** Valigie grandi → **Yamato Namba Station Center** (apre 9:00) — **spedizione a Tokyo, consegna 1 nov**
+- **09:30–10:10** Kintetsu Namba → Kintetsu Nara (~40 min, ¥570, non-JR) — **solo bagaglio a mano**
+- **10:15–13:15** Nara: Parco + Todaiji (Gran Buddha) + Kasuga Taisha (~3h)
+- **13:15–14:00** Pranzo Nara (zona stazione)
+- **14:05–14:25** A piedi/bus → JR Nara (~20 min)
+- **14:30–15:20** JR Nara → Kyoto (~50 min, **incluso pass**)
+- **15:30** Metro → check-in Miro Nijo Hotel
+- **16:30–18:00** Fushimi Inari (JR 5 min, 24h) — torii nel tardo pomeriggio
+- **18:30** Cena Kyoto Station (depachika / alternative)
 - **21:00** Rientro hotel
 
 **08:00** Check-out Osaka (self)
-**08:30–09:10** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR)
-**09:15** Deposito valigie nei **coin locker** di Kintetsu Nara (grandi, ¥500–700)
+**08:30–09:00** Valigie grandi → **Yamato Namba Station Center** (9:00–20:00) per la **spedizione a Tokyo** · *in alternativa spedire il 28 sera*
+**09:30–10:10** Kintetsu Line Namba → Kintetsu Nara (~40 min, ¥570 — NON JR) · solo bagaglio a mano
 
-> 🧳 **Bagagli (Opzione B):** le valigie restano ai **coin locker di Kintetsu Nara** durante la visita; a fine Nara si riprendono e si va a piedi/bus a **JR Nara** (~20 min) per il **JR fino a Kyoto (incluso nel pass)**. Takkyubin non necessario (solo alternativa se non trovi locker: spedizione same-day da confermare). Vedi [[Hotel-Hostel-Case-Appartamenti|guida bagagli]].
+> 🧳 **Bagagli — SPEDITI Osaka → Tokyo (Takkyubin Yamato):** le valigie grandi si spediscono da Osaka direttamente al **Taito City Guesthouse (Tokyo)** con **consegna specificata 1 nov** (limite 7 giorni). Costo **~¥3.160/valigia (160 size) ≈ 17 €** · 3 valigie ≈ 50 €. Si viaggia verso Nara/Kyoto con il **solo bagaglio a mano**. Dettagli, regole e punti critici: [[Trasferimento Bagagli (Takkyubin)]].
+> ⚠️ **Da confermare col host di Tokyo** che riceva/conservi i bagagli l'1 nov (private lodging può rifiutare). **Non spedire** valori/documenti/medicine/elettronica.
 
 **Mattina | [[Nara (奈良市)]]:**
 - [[Nara (奈良市)#Parco di Nara|Parco di Nara]] 🟢 — cervi Sika, shika senbei (¥150)
 - [[Nara (奈良市)#Tempio Todaiji|Tempio Todaiji]] 🟢 (¥800) — Daibutsu (Buddha in bronzo 15m)
 - [[Nara (奈良市)]] 🟢 — 3.000 lanterne di pietra
 
-**13:20–14:40** Ripresa valigie ai locker + spostamento a JR Nara (~20 min) → Kyoto (~50 min, **incluso JR Pass**)
+**14:05–15:20** Spostamento a piedi/bus a **JR Nara** (~20 min) → Kyoto (~50 min, **incluso JR Pass**)
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo Nara:** [[Mangiare in Giappone#Budget|kakinoha-zushi]] (sushi in foglia di cachi, ¥800–1.200) · [[Mangiare in Giappone#Catene e Cibo Economico|Sukiya]] (gyudon ¥400) · konbini (onigiri ¥100–200)
@@ -856,6 +856,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **G6: bagagli spediti Osaka→Tokyo (Takkyubin)** | 09 Set 2026 | Gruppo | Le valigie grandi si spediscono il 29 ott (Yamato Namba Station Center) con consegna **1 nov** al Taito City Guesthouse (~¥3.160/valigia) → Nara/Kyoto con solo bagaglio a mano · ⚠️ confermare host Tokyo · nota: [[Trasferimento Bagagli (Takkyubin)]] |
 | **Sanrio Puroland + Assicurazione sanitaria PRENOTATI** | 09 Set 2026 | Gruppo | Sanrio Day Passport + riserva (3 nov) ✅ · Assicurazione sanitaria ✅ (provider/importi da annotare) |
 | **G8: EN Tea Ceremony come alternativa a Uzumasa** | 09 Set 2026 | Gruppo | Cerimonia del tè a **Gion** (chashitsu vicino al sanmon di Chion-in, ~¥2.500/45-60', sessioni 13:00-19:00, prenotazione online) se si salta Uzumasa Kyoto Village · ⚠️ verificare operatività (segnalazioni chiusura Tripadvisor 2024) |
 | **Ricerca finestre prenotazione + prezzi ufficiali** | 09 Set 2026 | Agente | Pass+posti Hiroshima: **28 Set 10:00 JST** (acquistare su JR-WEST ONLINE TRAIN RESERVATION per prenotare posti online; Klook no) · Kyoto→Tokyo: **1 Ott** SmartEX riservato ~13.650 ¥ · Skytree ~**2 Ott** · Shibuya Sky: **21 Ott 00:00 JST** (finestra 14gg, tramonto ¥3.400) · **Sanrio GIÀ in vendita** (3 nov festivo ~¥5.500–5.600, chiuso 4-5 nov) · Museo Pace già in vendita · Tokyo Tower ¥1.500 |

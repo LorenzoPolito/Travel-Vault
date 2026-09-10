@@ -63,6 +63,7 @@ Travel-Vault/
 │   │   ├── E-Sim/
 │   │   ├── Voli/
 │   │   ├── Lista Prenotazioni.md
+│   │   ├── Trasferimento Bagagli (Takkyubin).md
 │   │   └── Viaggiare Sicuri.md
 │   └── NewYork/
 │       ├── Trasporti.md                   ← OMNY, subway, taxi, JFK
@@ -135,6 +136,7 @@ Travel-Vault/
 | Stato itinerari Giappone | `_AI/knowledge/destinations/japan/itinerari.md` |
 | Trasporti, pass, budget JP | `_AI/knowledge/destinations/japan/logistica.md` |
 | Lista completa prenotazioni (treni/posti, attrazioni, ristoranti) | `Info/Japan/Lista Prenotazioni.md` |
+| Trasferimento bagagli Osaka→Tokyo (Takkyubin) | `Info/Japan/Trasferimento Bagagli (Takkyubin).md` |
 | Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
 | Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |

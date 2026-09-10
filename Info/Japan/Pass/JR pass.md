@@ -163,3 +163,18 @@ Ogni vagone ha 5 posti (4 posti nelle Green car) in fondo dedicati al trasporto 
 ![](https://www.giapponepertutti.it/demo/wp-content/uploads/2023/03/posti-oversize-baggage.png)
 
 ![](https://www.giapponepertutti.it/demo/wp-content/uploads/2023/03/cappelliere.png)
+
+## 🇯🇵 Caso nostro — Giappone 2026 (23 ott – 6 nov)
+
+> Il **JR Pass nazionale NON conviene** per questo itinerario. Soluzione: **JR Kansai-Hiroshima Area Pass (5gg)** + biglietto singolo Kyoto→Tokyo + Suica/Icoca.
+
+| Tratta | Mezzo | Tempo | Costo p.p. | Copertura |
+|---|---|---|---|---|
+| KIX → Izumisano | Nankai Airport Express | ~8-10 min | ~520 ¥ | Suica/Icoca |
+| Izumisano → Namba (Osaka) | Nankai Main Line | ~34 min | ~610 ¥ | Suica/Icoca |
+| Osaka → Hiroshima A/R | Shinkansen Sakura | ~1h 30m | ~20.000 ¥ | **JR Kansai-Hiroshima Pass** |
+| Osaka → Nara | Kintetsu Line | ~40 min | ~570 ¥ | **Non JR** — Suica/Icoca |
+| Nara → Kyoto | JR Nara Line | ~50 min | ~720 ¥ | **JR Pass** |
+| Kyoto → Tokyo | Shinkansen Hikari | ~2h 40m | ~13.320 ¥ | Biglietto singolo |
+
+**Soluzione consigliata:** JR Kansai-Hiroshima Area Pass (**17.000 ¥ ≈ 92 €**) + Kyoto→Tokyo riservato (~13.650 ¥ ≈ 74 €) + Suica/Icoca. **Risparmio ~270 €/pax vs JR Pass 14gg** (80.000 ¥ ≈ 435 €). Acquisto pass: **JR-WEST ONLINE TRAIN RESERVATION** (per prenotare i posti online dal 28 Set). Dettagli in [[Lista Prenotazioni]].

@@ -27,7 +27,7 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 | Voli A/R (China Eastern open-jaw) | FCO→KIX 23/10 21:10 · HND→FCO 6/11 08:40 · 1.096,33 €/pax | 09/08/26 |
 | Alloggi (4) | Izumisano (KURA) · Osaka (Hanazonocho) · Kyoto (Miro Nijo) · Tokyo (Taito Guesthouse) — tutti con cucina | — |
 | Universal Studios Japan | 1-day Studio Pass + SNW + voucher pasto = 88 €/pax (27 ott) | 05/09/26 |
-| **Sanrio Puroland** | Day Passport + riserva visita (3 nov) — *annotare n. conferma/importo/orario* | **09/09/26** |
+| **Sanrio Puroland** | Day Passport + riserva visita (3 nov) — **~€19,97** · *annotare n. conferma/orario* | **09/09/26** |
 | **Assicurazione sanitaria** | *annotare provider, n. polizza, copertura allergie Rebecca* | **09/09/26** |
 
 ---
@@ -74,7 +74,7 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 
 | Cosa | Giorno/Data | Finestra | ⏰ Prenotare | Canale | Costo | Stato |
 |---|---|---|---|---|---|---|
-| **Sanrio Puroland** | 3 nov | già aperta | — | e-Passport/Klook | ~¥5.500–5.600 (~30 €) | ✅ **PRENOTATO 09/09** |
+| **Sanrio Puroland** | 3 nov | già aperta | — | e-Passport/Klook | ~€19,97 (reale) | ✅ **PRENOTATO 09/09** |
 | Uzumasa Kyoto Village (EVA) | 31 ott | ampio anticipo | 🟡 appena disponibile | `ticket.eigamura.com` | ¥2.800 | ❌ |
 | EN Tea Ceremony (⚪ alt. Uzumasa) | 31 ott | — | 🟡 se scelta | asoview/byFood/KKDay | ~¥2.500 | ❌ (verificare attivo) |
 | Tokyo Skytree | 1 nov (dom) | ~30 gg | 🟡 **~2 Ott** | sito ufficiale/Klook | online ~¥2.300 | ❌ |

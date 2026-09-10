@@ -28,6 +28,7 @@ const EXCLUDED_FILES = [
 const EXCLUDED_TYPES = [
   'web_reference',
   'web_reference_note',
+  'changelog',
 ];
 
 const URL_PREFIXES = {

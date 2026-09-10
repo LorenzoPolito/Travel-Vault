@@ -19,11 +19,11 @@ tags:
 
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
-| **Sanrio Puroland** (Giorno 11) | 3 Nov, mattina | festivo **¥5.600 in loco / ~¥5.500 e-Passport** (~30 €) | e-Passport ufficiale o Klook | ✅ **PRENOTATO 09/09/26** (biglietto + riserva visita) |
+| **Sanrio Puroland** (Giorno 11) | 3 Nov, mattina | **~€19,97** (reale) | e-Passport ufficiale o Klook | ✅ **PRENOTATO 09/09/26** (biglietto + riserva visita) |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | **JR-WEST ONLINE TRAIN RESERVATION** | ❌ 🔴 **acquistare entro 28 Set 10:00 JST** (per posti online) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.650 ¥ riservato (~74 €) | SmartEX | ❌ prenotare dal 1 Ott 10:00 JST |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
-| Assicurazione sanitaria | — | ~27 €/pax | Heymondo | ✅ **PRENOTATO 09/09/26** |
+| Assicurazione sanitaria | — | 53,43 €/pax | Heymondo | ✅ **PRENOTATO 09/09/26** |
 
 > 🔵 **USJ — FATTO (05/09/26):** biglietti 1 giorno per il 27 ott **acquistati**. Vedi sezione sotto.
 
@@ -35,7 +35,7 @@ tags:
 
 | # | Attività | Data | Finestra | ⏰ Quando | Canale | Prezzo (aggiornato) |
 |---|---|---|---|---|---|---|
-| 1 | **Sanrio Puroland** | 3 Nov | **GIÀ APERTA** (novembre in vendita) | ✅ **PRENOTATO 09/09/26** | e-Passport ufficiale (riserva inclusa) o Klook | in loco **¥5.600** / e-Passport ~**¥5.500** (~30 €) |
+| 1 | **Sanrio Puroland** | 3 Nov | **GIÀ APERTA** (novembre in vendita) | ✅ **PRENOTATO 09/09/26** | e-Passport ufficiale (riserva inclusa) o Klook | **~€19,97** (reale) |
 | 2 | **Kansai-Hiroshima Pass + posti Shinkansen A/R** | 28 Ott | **28 Set 10:00 JST** | 🔴 28 Set (in Italia 03:00) | **JR-WEST ONLINE TRAIN RESERVATION** — solo qui puoi prenotare i **posti online gratis** (Klook = exchange, posti solo in stazione) | 17.000 ¥ (~92 €) + posti **inclusi** |
 | 3 | Kyoto→Tokyo Shinkansen | 1 Nov | **1 Ott 10:00 JST** | 🟠 1-2 Ott | SmartEX (app/web), Hikari **riservato** | ~¥13.650 (~74 €); sconto Hayatoku 21 se entro 11 Ott |
 | 4 | Tokyo Skytree | 1 Nov (dom) | ~**2 Ott 00:00 JST** (30gg — fonte non ufficiale, verificare) | 🟡 inizio ottobre | sito ufficiale o Klook | online weekend ~¥2.300; in loco ¥2.600 +¥500 fee |
@@ -65,10 +65,10 @@ tags:
 
 | Voce | Costo/persona | Dove | Note |
 |---|---|---|---|
-| Day Passport | **¥5.600 in loco / ~¥5.500 e-Passport** (~30 €) — 3 nov = festivo (fascia T; i feriali costano ~¥4.300) | **e-Passport ufficiale** (riserva inclusa) o **Klook** | ⚠️ **riserva visita obbligatoria** · **GIÀ IN VENDITA** (novembre disponibile) · chiuso 4-5 nov |
+| Day Passport | **~€19,97** (reale, prenotato) | **e-Passport ufficiale** (riserva inclusa) o **Klook** | ⚠️ **riserva visita obbligatoria** · **PRENOTATO 09/09/26** · chiuso 4-5 nov |
 | Afternoon Passport (dalle 14:00) | ¥3.800~ | idem | Alternativa pomeridiana (meno adatta: meglio la mattina) |
 
-> ✅ **Rilevato 05/09/26 + verifica 09/09/26** su `puroland.jp`. **3 nov = festivo Bunka no Hi → fascia T ¥5.600** (non ¥3.900). Parco **indoor** a **Tama Center** (~55–60 min dal centro). Rebecca: cibo a tema **non sicuro** → pranzo al sacco/konbini. Giornata combinata: mattina Puroland → pomeriggio **Ikebukuro** (anime).
+> ✅ **Rilevato 05/09/26 + verifica 09/09/26** su `puroland.jp`. **3 nov = festivo Bunka no Hi**. Biglietto **prenotato a ~€19,97** (tariffa effettiva pagata; la fascia festiva teorica del sito era ¥5.600). Parco **indoor** a **Tama Center** (~55–60 min dal centro). Rebecca: cibo a tema **non sicuro** → pranzo al sacco/konbini. Giornata combinata: mattina Puroland → pomeriggio **Ikebukuro** (anime).
 
 ## JR Kansai-Hiroshima Area Pass (attivare Mercoledì 28 Ott)
 
@@ -130,6 +130,6 @@ tags:
 | Attività | Costo stimato |
 |---|---|
 | USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
-| Sanrio Puroland (Day Passport) | ~21 € |
+| Sanrio Puroland (Day Passport) | ~19,97 € (reale) |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
 | **Ingressi totali** | **~203 €** *(allineato a tabella Budget Giornaliero dell'itinerario; le voci sopra sono pure, il totale include il margine giornaliero)* |

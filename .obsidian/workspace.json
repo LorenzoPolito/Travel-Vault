@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
+                "file": "Info/Japan/Spese Reali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Itinerario-Giappone-23ott-6nov2026"
+              "title": "Spese Reali"
             }
           }
         ]
@@ -98,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.20001220703125,
-    "collapsed": true
+    "width": 241.20001220703125
   },
   "right": {
     "id": "b9e506ed6599e75a",
@@ -294,6 +293,7 @@
   },
   "active": "0e08c9bbb1bff156",
   "lastOpenFiles": [
+    "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
     "_website/dist/guides/trasporti/index.html",
     "_website/dist/guides/viaggiare-sicuri/index.html",
     "_website/dist/guides/pasmo/index.html",
@@ -304,9 +304,7 @@
     "_website/dist/guides/jr-pass/index.html",
     "_website/dist/guides/mangiare/index.html",
     "_website/dist/guides/icoca/index.html",
-    "_website/dist/guides/frasario-giapponese/index.html",
     "Locations/Japan/Parks-nature/Universal Studios Japan (ユニバーサル・スタジオ・ジャパン).md",
-    "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md",
     "Locations/Japan/Buildings/Umeda Sky Building (梅田スカイビル).md",
     "Locations/Japan/Cities/blocks/Nipponbashi Den Den Town (でんでんタウン).md",
     "_website/dist/images/countries/usa.svg",

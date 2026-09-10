@@ -62,7 +62,9 @@ Travel-Vault/
 │   │   ├── Pass/
 │   │   ├── E-Sim/
 │   │   ├── Voli/
+│   │   ├── Info pratiche.md
 │   │   ├── Lista Prenotazioni.md
+│   │   ├── Spese Reali.md
 │   │   ├── Trasferimento Bagagli (Takkyubin).md
 │   │   └── Viaggiare Sicuri.md
 │   └── NewYork/
@@ -74,7 +76,8 @@ Travel-Vault/
 │   ├── Calabria/[ARCHIVIATO]
 │   ├── Japan/
 │   │   ├── 2026/                         ★ Itinerario ATTIVO (23ott-6nov)
-│   │   │   └── Itinerario-Giappone-23ott-6nov2026.md      ★ Variante A (23ott-6nov) — ATTIVO, voli prenotati
+│   │   │   ├── Itinerario-Giappone-23ott-6nov2026.md      ★ Variante A (23ott-6nov) — ATTIVO, voli prenotati
+│   │   │   └── Changelog Itinerario.md                    ← storico modifiche
 │   │   ├── Esterni/
 │   │   └── Solo con i luoghi/
 │           ├── 7 giorni/    (×2)
@@ -136,7 +139,11 @@ Travel-Vault/
 | Stato itinerari Giappone | `_AI/knowledge/destinations/japan/itinerari.md` |
 | Trasporti, pass, budget JP | `_AI/knowledge/destinations/japan/logistica.md` |
 | Lista completa prenotazioni (treni/posti, attrazioni, ristoranti) | `Info/Japan/Lista Prenotazioni.md` |
+| Consuntivo spese reali (tabelle da compilare) | `Info/Japan/Spese Reali.md` |
 | Trasferimento bagagli Osaka→Tokyo (Takkyubin) | `Info/Japan/Trasferimento Bagagli (Takkyubin).md` |
+| Info pratiche Giappone (fuso, valuta, IC, eSIM…) | `Info/Japan/Info pratiche.md` |
+| Dettagli voli + storico monitoraggio | `Info/Japan/Voli/Prenotazione China Eastern (09-08-26).md` |
+| Changelog modifiche itinerario | `Itinerari/Japan/2026/Changelog Itinerario.md` |
 | Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
 | Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |

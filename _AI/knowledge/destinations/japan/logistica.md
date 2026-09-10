@@ -103,18 +103,20 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 
 | Voce | Stima/persona |
 | --- | --- |
-| ✅ Voli A/R (China Eastern, prenotati) | **1.096 €** |
-| ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | ~380 € |
+| ✅ Voli A/R (China Eastern, prenotati) | **1.096,33 €** |
+| ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | **359,89 €** |
 | Cibo (15gg, pasto USJ incluso) | ~420 € |
-| JR Kansai-Hiroshima Area Pass (5gg) | ~92 € (17.000 ¥) |
-| Kyoto→Tokyo Shinkansen | ~72 € (13.320 ¥) |
+| JR Kansai-Hiroshima Area Pass (5gg) | 92,39 € (17.000 ¥) |
+| Kyoto→Tokyo Shinkansen | 74,18 € (13.650 ¥) |
 | Trasporti locali (15gg) | ~136 € |
-| Attrazioni (USJ 88 € reali con pasto, Sanrio Puroland, Tokyo Tower, templi, torri) | ~203 € |
+| Attrazioni (USJ 88,25 · Sanrio 19,97 · Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09 + templi) | ~203 € |
 | Spese personali | ~400 € |
-| Assicurazione + eSIM | ~47 € |
-| **TOTALE** | **~2.846 €** (~2.800–2.920 €) |
+| Assicurazione sanitaria | 53,43 € |
+| eSIM | 20,00 € |
+| Bagagli (Takkyubin) | 17,17 € |
+| **TOTALE** | **~2.870 €** (~2.850–2.950 €) |
 
-> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~831 € e includono shinkansen, **USJ (88 € reali/pax con pasto, 05/09/26)**, **Sanrio Puroland** e Tokyo Tower. **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).** Le voci sono stime leggermente gonfiate come margine imprevisti (si correggono solo i refusi, es. G7).
+> 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~831 € (stime in loco). I **costi reali** sono in [[Spese Reali]] (volo 1.096,33 · alloggio 359,89 · assicurazione 53,43 · eSIM 20 · bagagli 17,17 · USJ 88,25 · Sanrio 19,97 …). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).**
 
 ---
 

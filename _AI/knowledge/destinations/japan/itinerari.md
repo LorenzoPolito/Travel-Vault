@@ -73,7 +73,7 @@ Itinerari/Japan/
 **Caratteristiche chiave:**
 - Orari al minuto, livello difficoltà fisica (1-4), indicazioni mezzo di trasporto
 - ✅ **VOLI PRENOTATI** (09/08/26): China Eastern open-jaw 1.096,33 €/pax — FCO→KIX 23/10 21:10, HND→FCO 6/11 08:40
-- Budget dettagliato: ~2.870 €/persona (voli inclusi)
+- Budget dettagliato: ~2.875 €/persona (voli inclusi)
 - JR Pass nazionale NON consigliato → JR Kansai-Hiroshima 5gg + biglietto singolo Kyoto→Tokyo
 - 1ª notte a Izumisano (KIX) — KURA Hotel, per arrivo 24 sera
 

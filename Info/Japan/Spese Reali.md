@@ -81,12 +81,12 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | Alloggio (13 notti) | 359,89 | 359,89 | 0 | 4 strutture (reale) |
 | Cibo | 420 |  |  | stima (Rebecca cucina) |
 | Trasporti (pass + shinkansen + locali) | 302,57 | 166,57 |  | pass 92,39 + Kyoto→Tokyo 74,18 reali; locali ~136 stima |
-| Ingressi/Attività | 203 | 155,51 |  | USJ/Sanrio/Skytree/Shibuya/Uzumasa/Museo reali; ~47 templi stima |
+| Ingressi/Attività | 206 | 155,51 |  | USJ/Sanrio/Skytree/Shibuya/Uzumasa/Museo reali; ~50 templi stima |
 | Spese personali | 400 |  |  | stima |
 | Assicurazione | 53,43 | 53,43 | 0 | reale |
 | eSIM | 20,00 | 20,00 | 0 | reale |
 | Bagagli (Takkyubin) | 17,17 | 17,17 | 0 | reale |
-| **TOTALE / persona** | **~2.870** | **1.868,90** |  | + stime in loco ~1.003 |
+| **TOTALE / persona** | **~2.875** | **1.868,90** |  | + stime in loco ~1.006 |
 
 ---
 
@@ -117,7 +117,7 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | Assicurazione sanitaria | 53,43 € | ✅ **53,43 €** | Copertura da verificare (Rebecca allergie) |
 | eSIM 15gg | 20,00 € | ❌ Da comprare | Klook o Airalo |
 | Bagagli (Takkyubin Osaka→Tokyo) | 17,17 € | ❌ Da fare | 3.160 ¥ · [[Trasferimento Bagagli (Takkyubin)]] |
-| **TOTALE** | **~2.870 €** | **1.868,90 € reali** | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026) |
+| **TOTALE** | **~2.875 €** | **1.868,90 € reali** | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026) |
 
 ### Budget Rebecca (extra cibo)
 

@@ -12,18 +12,18 @@ tags:
 
 # Attività e Prenotazioni — Costi
 
-> ✅ **Allineato all'itinerario attivo (23 ott – 6 nov 2026)** · fact-check prezzi 11/08/26 + verifica 03/09/26 su fonti ufficiali.
+> ✅ **Allineato all'itinerario attivo (23 ott – 6 nov 2026)** · fact-check prezzi 11/08/26 + verifica 03/09/26 su fonti ufficiali. ✅ **Sanrio Puroland + assicurazione sanitaria prenotati (09/09/26)**.
 > ⚠️ I prezzi di parchi/attrazioni sono **dinamici per data**: la cifra esatta va confermata al momento dell'acquisto sul canale ufficiale.
 
 ## Riepilogo prenotazioni mancanti
 
 | Attività | Data/giorno | Costo | Dove | Stato |
 |---|---|---|---|---|
-| **Sanrio Puroland** (Giorno 11) | 3 Nov, mattina | festivo **¥5.600 in loco / ~¥5.500 e-Passport** (~30 €) | e-Passport ufficiale o Klook | 🔴 **GIÀ IN VENDITA — prenotare subito** (riserva obbligatoria inclusa) |
+| **Sanrio Puroland** (Giorno 11) | 3 Nov, mattina | festivo **¥5.600 in loco / ~¥5.500 e-Passport** (~30 €) | e-Passport ufficiale o Klook | ✅ **PRENOTATO 09/09/26** (biglietto + riserva visita) |
 | JR Kansai-Hiroshima Area Pass | attivare 28 Ott | 17.000 ¥ (~92 €) | **JR-WEST ONLINE TRAIN RESERVATION** | ❌ 🔴 **acquistare entro 28 Set 10:00 JST** (per posti online) |
 | Kyoto→Tokyo Shinkansen | 1 Nov | ~13.650 ¥ riservato (~74 €) | SmartEX | ❌ prenotare dal 1 Ott 10:00 JST |
 | eSIM | prima della partenza | ~15–25 € | Klook / Airalo | ❌ |
-| Assicurazione viaggio | subito | ~27 €/pax | Heymondo | ❌ |
+| Assicurazione sanitaria | — | ~27 €/pax | Heymondo | ✅ **PRENOTATO 09/09/26** |
 
 > 🔵 **USJ — FATTO (05/09/26):** biglietti 1 giorno per il 27 ott **acquistati**. Vedi sezione sotto.
 
@@ -35,7 +35,7 @@ tags:
 
 | # | Attività | Data | Finestra | ⏰ Quando | Canale | Prezzo (aggiornato) |
 |---|---|---|---|---|---|---|
-| 1 | **Sanrio Puroland** | 3 Nov | **GIÀ APERTA** (novembre in vendita) | 🔴 **Subito** — festivo fascia T, esaurisce (chiuso 4-5 nov) | e-Passport ufficiale (riserva inclusa) o Klook | in loco **¥5.600** / e-Passport ~**¥5.500** (~30 €) |
+| 1 | **Sanrio Puroland** | 3 Nov | **GIÀ APERTA** (novembre in vendita) | ✅ **PRENOTATO 09/09/26** | e-Passport ufficiale (riserva inclusa) o Klook | in loco **¥5.600** / e-Passport ~**¥5.500** (~30 €) |
 | 2 | **Kansai-Hiroshima Pass + posti Shinkansen A/R** | 28 Ott | **28 Set 10:00 JST** | 🔴 28 Set (in Italia 03:00) | **JR-WEST ONLINE TRAIN RESERVATION** — solo qui puoi prenotare i **posti online gratis** (Klook = exchange, posti solo in stazione) | 17.000 ¥ (~92 €) + posti **inclusi** |
 | 3 | Kyoto→Tokyo Shinkansen | 1 Nov | **1 Ott 10:00 JST** | 🟠 1-2 Ott | SmartEX (app/web), Hikari **riservato** | ~¥13.650 (~74 €); sconto Hayatoku 21 se entro 11 Ott |
 | 4 | Tokyo Skytree | 1 Nov (dom) | ~**2 Ott 00:00 JST** (30gg — fonte non ufficiale, verificare) | 🟡 inizio ottobre | sito ufficiale o Klook | online weekend ~¥2.300; in loco ¥2.600 +¥500 fee |
@@ -43,7 +43,7 @@ tags:
 | 6 | **Shibuya Sky** (⭐ Rebecca) | 4 Nov | **21 Ott 00:00 JST** (14 giorni) | 🟠 segnare in agenda (slot tramonto via subito) | shibuya-sky.com / Webket | web ¥2.700 (10:00–14:59) / **¥3.400 (dalle 15:00)** |
 | 7 | Museo della Pace Hiroshima (slot web) | 28 Ott | **90 gg prima** → **GIÀ APERTA** (dal 30 lug) | 🟡 questa settimana (slot 17:30–19:00 solo web; di giorno ok anche in cassa) | Klook / Asoview | ¥200 |
 | 8 | Tokyo Tower | 5 Nov | nessuna finestra | 🟢 anche giorno stesso | cassa o online | ¥1.500 (stesso prezzo) |
-| 9 | eSIM + Assicurazione | — | — | 🔴 al più presto | Klook/Airalo · Heymondo | ~27 € + ~20 € |
+| 9 | eSIM | — | — | 🔴 ~2 settimane prima | Klook/Airalo | ~20 € |
 
 > 🚆 **Nota JR pass:** acquistandolo su JR-WEST ONLINE (non Klook) i posti del 28 ott si prenotano online già dal 28 Set → al G5 in stazione basta **ritirare il pass** (macchinetta: n. prenotazione + ID + carta + passaporto), niente più attivazione+fila per i posti la mattina presto.
 
@@ -61,7 +61,7 @@ tags:
 
 > **03/09/26:** non siamo stati selezionati all'estrazione per i biglietti del 4 nov → **biglietto non acquistabile** (nessuna vendita walk-in). **PokéPark fuori dal piano attivo.** Non prenotare.
 
-## 🎀 Sanrio Puroland (Giorno 11 — Martedì 3 Nov, mattina) DA PRENOTARE
+## 🎀 Sanrio Puroland (Giorno 11 — Martedì 3 Nov, mattina) ✅ PRENOTATO (09/09/26)
 
 | Voce | Costo/persona | Dove | Note |
 |---|---|---|---|

@@ -62,6 +62,7 @@ Travel-Vault/
 │   │   ├── Pass/
 │   │   ├── E-Sim/
 │   │   ├── Voli/
+│   │   ├── Lista Prenotazioni.md
 │   │   └── Viaggiare Sicuri.md
 │   └── NewYork/
 │       ├── Trasporti.md                   ← OMNY, subway, taxi, JFK
@@ -133,6 +134,7 @@ Travel-Vault/
 | Luoghi JP con voti e orari | `_AI/knowledge/destinations/japan/locations.md` |
 | Stato itinerari Giappone | `_AI/knowledge/destinations/japan/itinerari.md` |
 | Trasporti, pass, budget JP | `_AI/knowledge/destinations/japan/logistica.md` |
+| Lista completa prenotazioni (treni/posti, attrazioni, ristoranti) | `Info/Japan/Lista Prenotazioni.md` |
 | Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
 | Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |

@@ -20,7 +20,7 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ❌ da prenotare: Sanrio Puroland, JR Pass, eSIM, assicurazione
+> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ❌ da prenotare: JR Pass + posti treno, Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
@@ -677,11 +677,11 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **19:00** Cena a Ikebukuro
 - **20:30** Rientro Taito
 
-> 🎀 **Sanrio Puroland** — ⚠️ **chiuso mercoledì 4 nov** → **spostato al 3 nov** (Bunka no Hi, festivo: aperto ma affollato → arrivare presto). + 🎮 **Ikebukuro anime** = giornata *kawaii + otaku*. 🎫 Day Passport **¥3.900~** da prenotare su **Klook** (come USJ) o e-Passport ufficiale (riserva inclusa) · verificare orari del 3 nov.
+> 🎀 **Sanrio Puroland** — ⚠️ **chiuso mercoledì 4 nov** → **spostato al 3 nov** (Bunka no Hi, festivo: aperto ma affollato → arrivare presto). + 🎮 **Ikebukuro anime** = giornata *kawaii + otaku*. 🎫 Day Passport **✅ PRENOTATO (09/09/26)** con riserva visita (festivo ~¥5.500–5.600) · *annotare n. conferma/orario*.
 
 **Mattina | Sanrio Puroland (Tama Center):**
 - Parco **indoor** — perfetto anche con pioggia · parade/show + greeting con i personaggi
-- 🎫 Biglietti: **Klook o e-Passport ufficiale** (include la riserva visita)
+- 🎫 Biglietti: **✅ prenotati (09/09/26)** — e-Passport/Klook (riserva visita inclusa)
 - 👩🍳 **Rebecca:** cibo a tema non sicuro → **pranzo al sacco/konbini**
 
 **Tardo pomeriggio | Ikebukuro (anime/giochi):**
@@ -856,6 +856,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Sanrio Puroland + Assicurazione sanitaria PRENOTATI** | 09 Set 2026 | Gruppo | Sanrio Day Passport + riserva (3 nov) ✅ · Assicurazione sanitaria ✅ (provider/importi da annotare) |
 | **G8: EN Tea Ceremony come alternativa a Uzumasa** | 09 Set 2026 | Gruppo | Cerimonia del tè a **Gion** (chashitsu vicino al sanmon di Chion-in, ~¥2.500/45-60', sessioni 13:00-19:00, prenotazione online) se si salta Uzumasa Kyoto Village · ⚠️ verificare operatività (segnalazioni chiusura Tripadvisor 2024) |
 | **Ricerca finestre prenotazione + prezzi ufficiali** | 09 Set 2026 | Agente | Pass+posti Hiroshima: **28 Set 10:00 JST** (acquistare su JR-WEST ONLINE TRAIN RESERVATION per prenotare posti online; Klook no) · Kyoto→Tokyo: **1 Ott** SmartEX riservato ~13.650 ¥ · Skytree ~**2 Ott** · Shibuya Sky: **21 Ott 00:00 JST** (finestra 14gg, tramonto ¥3.400) · **Sanrio GIÀ in vendita** (3 nov festivo ~¥5.500–5.600, chiuso 4-5 nov) · Museo Pace già in vendita · Tokyo Tower ¥1.500 |
 | **Giorno 5 (Hiroshima/Miyajima) — punti critici tempi** | 09 Set 2026 | Gruppo | Mattina: sveglia **05:15**, uscita **05:50** (metro ~20-25') → ~30' allo sportello JR West per attivazione pass + posti riservati A/R. Rientro: uscita Hondori **17:30**, tram **17:45** (15-20', non 12) + attraversamento binari 5-10' → treno riservato senza rischio |
@@ -902,9 +903,9 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | JR Kansai-Hiroshima Area Pass 5gg  | ~92 € (17.000 ¥)   | ❌ Da acquistare       | —     | Attivare il 28 ott · valido 28 ott–1 nov                        |                         |     |
 | Kyoto→Tokyo Shinkansen             | ~72 € (13.320 ¥)   | ❌ Da acquistare       | —     | Hikari, posto libero                                            |                         |     |
 | Trasporti locali (15 gg)            | ~136 €             | ❌ Da tenere traccia   | —     | Suica/Icoca (metro, bus, Nankai, Kintetsu)     |                         |     |
-| Attrazioni (USJ, templi, Sanrio, torri…) | ~203 €             | 🔵 **USJ 88 €/pax**     | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
+| Attrazioni (USJ, templi, Sanrio, torri…) | ~203 €             | 🔵 **USJ 88 €/pax** · **Sanrio ✅** | —     | Vedi                                                           | [[Attività e Prenotazioni]] |     |
 | Spese personali                    | ~400 €             | ❌ Da tenere traccia   | —     | Souvenir, extra                                                |                         |     |
-| Assicurazione (Heymondo Premium)   | ~27 €/persona      | ❌ Da stipulare        | —     | Vedi                                                           | [[Assicurazione Heymondo]] |     |
+| Assicurazione sanitaria            | ~27 €/persona      | ✅ **PRENOTATO 09/09** | —     | Copertura da verificare (Rebecca allergie) · [[Assicurazione Heymondo]] |                         |     |
 | eSIM 15gg                          | ~15–25 €           | ❌ Da comprare         | —     | Klook o Airalo                                                 |                         |     |
 | **TOTALE**                         | **~2.846 €**       | **🔵 Voli prenotati** | —     | ~2.800–2.920 € · tasso 184 ¥/€ (ag. 2026)                      |                         |     |
 
@@ -944,7 +945,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | Alloggio Tokyo 5 notti (1–6 nov)                          | ✅ **CONFERMATO**      | 🔵 **PRENOTATO** | [[Tokyo - Taito City Guesthouse\|Taito City Guesthouse]] — cucina condivisa al 1° piano ✅                                                |
 | JR Kansai-Hiroshima Area Pass                             | 🔴 **28 Set, 10:00 JST** | ❌ Da acquistare  | 17.000 ¥ (~92 €) · attivare il 28 ott · **JR-WEST ONLINE TRAIN RESERVATION** (per prenotare i posti online dal 28 Set) — Klook = posti solo in stazione |
 | Universal Studios Japan biglietti                         | ✅ **FATTO (05/09/26)** | 🔵 **PRENOTATO** | **1-day Studio Pass + Super Nintendo World = 88 €/pax** (27 ott) · portare QR/codice · Express Pass NON incluso |
-| Sanrio Puroland (G11, 3 nov)                              | 🔴 **URGENTE — GIÀ IN VENDITA** | ❌ Da prenotare   | **3 nov = festivo → ~¥5.500–5.600 (~30 €)** (non ¥3.900) · e-Passport ufficiale (riserva inclusa) o Klook · chiuso 4-5 nov |
+| Sanrio Puroland (G11, 3 nov)                              | ✅ **FATTO (09/09/26)**    | 🔵 **PRENOTATO** | Biglietto + riserva visita · *annotare n. conferma/importo/orario* · e-Passport/Klook · chiuso 4-5 nov |
 | Kyoto→Tokyo Shinkansen (1 nov)                            | 🟠 **1 Ott 10:00 JST**     | ❌ Da acquistare   | SmartEX (app/web): Hikari **posto riservato** ~13.650 ¥ (~74 €) · sconto Hayatoku 21 se entro 11 Ott |
 | Tokyo Skytree (G9, 1 nov)                                 | 🟡 **~2 Ott 2026**         | ❌ Da prenotare   | 1 nov = domenica → online **~¥2.300** (in loco ¥2.600 +¥500 fee) · finestra ~30gg (00:00 JST) |
 | Shibuya Sky (G12, 4 nov) ⚪                               | 🟠 **21 Ott 00:00 JST**     | ❌ Da prenotare   | **Finestra 14 gg** · web ¥2.700 (10:00–14:59) / **¥3.400 (15:00+, tramonto)** su `shibuya-sky.com` · ⭐ Rebecca |
@@ -952,7 +953,7 @@ Giorno di rientro a casa dopo l'arrivo della sera prima. Nessuna attività piani
 | ~~TeamLab Planets (4 nov)~~                                | ⛔ **05/09/26 — RIMOSSO (fuori tema)** | Non prenotare · sostituito da **Sanrio Puroland + Ikebukuro** (G11) |
 | ~~PokéPark KANTO (Yomiuriland)~~                          | ❌ 03/09/26 — lotteria NON vinta | ⛔ **RIMOSSO**     | Non selezionati all'estrazione → **biglietto non acquistabile** (no walk-in). Rimosso dal piano attivo (era Giorno 12, 4 nov) |
 | eSIM / SIM                                                | 2 settimane prima     | ❌ Da comprare    | Klook.com o Airalo                                                                                                                       |
-| Assicurazione viaggio (Heymondo Premium)                  | **URGENTE**           | ❌ Da stipulare   | ~1,80 €/gg × 15gg = ~27 €/pax (~81 € tot.) · [[Assicurazione Heymondo]] · Rebecca: verificare copertura allergie                          |
+| Assicurazione sanitaria                                   | ✅ **FATTO (09/09/26)**    | 🔵 **PRENOTATO** | *Annotare provider, n. polizza, copertura* · Rebecca: verificare copertura allergie |
 | Controllo maree Miyajima                                  | Giorno prima          | ❌ Da fare        | Alta marea = torii nell'acqua                                                                                                            |
 | Pasto speciale aereo (Rebecca)                            | Prima della partenza  | ❌ Da confermare  | Contattare China Eastern: no soia/pesce/crostacei/frutta secca · verificare su entrambi i segmenti (PVG incluso)                          |
 | Cena anniversario 5 nov (Davide & Rebecca)                | Da concordare         | 🔵 a cura di Rebecca | Prenotare ristorante (Rebecca-safe) — da aggiungere al G13 quando Rebecca condivide il programma                                          |

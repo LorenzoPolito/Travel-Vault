@@ -117,9 +117,9 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 - **Date**: 23 Ottobre (partenza) — 6 Novembre 2026 (15gg/14notti)
 - **Persone**: Lorenzo, Davide, Rebecca
 - **Budget stimato**: ~2.858 €/persona (voli inclusi 1.096 €)
-- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · 🔵 **USJ PRENOTATO (05/09/26)** · ❌ attività da prenotare (Sanrio Puroland, JR Kansai-Hiroshima Pass, eSIM, assicurazione)
+- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ❌ da prenotare (JR Kansai-Hiroshima Pass + posti treno, Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM)
 - **Voli**: FCO→KIX 23/10 21:10 (via Shanghai) · HND→FCO 6/11 08:40 (via Shanghai)
-- **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~99€) + biglietto singolo Kyoto→Tokyo (~81€)
+- **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~92€) + Kyoto→Tokyo riservato (~74€)
 - **Itinerari**: itinerario attivo in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 
 ## Website Publishing

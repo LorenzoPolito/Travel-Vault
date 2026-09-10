@@ -126,13 +126,13 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Hotel (tutti) | ✅ **PRENOTATI** | Izumisano, Osaka, Kyoto, Tokyo — tutti con cucina per Rebecca |
 | ✅ Universal Studios Japan | ✅ **FATTO (05/09/26)** | **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (27 ott) · portare QR · Express Pass non incluso |
 | TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G11) |
-| Sanrio Puroland (Tama) | 🔴 **URGENTE — GIÀ IN VENDITA** | 3 nov = festivo → **~¥5.500–5.600 (~30 €)** · e-Passport ufficiale (riserva inclusa) o Klook · chiuso 4-5 nov |
+| Sanrio Puroland (Tama) | ✅ **FATTO (09/09/26)** | Day Passport + riserva visita · *annotare n. conferma/importo* · chiuso 4-5 nov |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
 | JR Kansai-Hiroshima Area Pass | 🔴 **Entro 28 Set 10:00 JST** | 17.000 ¥ · acquistare su **JR-WEST ONLINE TRAIN RESERVATION** per prenotare posti online dal 28 Set · ritiro/attivazione 28 ott |
 | Kyoto→Tokyo Shinkansen | 🟠 Dal 1 Ott 10:00 JST | SmartEX (app/web) · Hikari **riservato ~13.650 ¥** · Hayatoku 21 entro 11 Ott |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
 | Verifica maree Miyajima | Info | Torii meglio con alta marea. ⚠️ Tassa visita 100¥ per possessori pass |
-| Assicurazione viaggio | Media | Da stipulare |
+| Assicurazione sanitaria | ✅ **FATTO (09/09/26)** | *Annotare provider/polizza* · verificare copertura allergie Rebecca |
 
 > 🚫 **Non in programma (rimossi):** Mario Kart Ride, Pokémon Café, Maid café, PokéPark KANTO (lotteria non vinta 03/09/26), Umeda Sky (Giorno 3), TeamLab (05/09/26)
 

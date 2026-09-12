@@ -48,6 +48,11 @@ const $ = (p: string) => url(base, p);
         <a href={$(R.destinations)} class="hero-btn hero-btn--secondary">
           Esplora Destinazioni
         </a>
+        {activeItin && activeItin.id.includes('23ott-6nov2026') && (
+          <a href={$('/downloads/Giappone-2026-Companion.xlsx')} download class="hero-btn hero-btn--secondary">
+            <Icon name="external" size={16} style="margin-right: 6px;" /> Companion Excel
+          </a>
+        )}
       </div>
 
       <div class="hero-stats">

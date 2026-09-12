@@ -20,6 +20,10 @@ _website/public/images/vault/
 Thumbs.db
 desktop.ini
 
+# Python
+__pycache__/
+*.pyc
+
 # Environment
 .env
 .env.local

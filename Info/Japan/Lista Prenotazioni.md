@@ -66,6 +66,7 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 
 > ⏱️ **Consigliato:** scambio + prenotazione posti **il 25–27 ott a Osaka** (siete già lì) → il **28 mattina solo imbarco**, nessuna coda allo sportello.
 > ⚠️ Il **sito ufficiale (JR-WEST ONLINE)** consente la prenotazione posti online dall'estero ma aggiunge ~19,95 € di handling/shipping → **non indispensabile** nel nostro caso.
+> ✅ **Pass acquistato su Klook il 29/09/26 — 287,57 € tot (95,86 €/pax).** Resta da fare: **scambio voucher + prenotazione posti A/R del 28 ott a Osaka il 25–27 ott**.
 > 🧳 Bagagli oltre 160 cm su Sanyo Shinkansen → serve posto con area bagagli (non il nostro caso).
 
 ---

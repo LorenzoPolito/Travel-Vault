@@ -48,7 +48,7 @@ Tessere RFID ricaricabili per metro, treni locali, bus e acquisti in combini/dis
 - Kyoto→Tokyo singola: ~13.320 yen (~72€)
 
 **Raccomandazione (aggiornata 11/08/2026):**
-- **JR Kansai-Hiroshima Area Pass (5 giorni, 17.000 ¥ ≈ 92€)** — copre Shinkansen Sanyo Shin-Osaka⇔Hiroshima (posti riservati), traghetto JR Miyajima (tassa visita 100¥ a parte), linee JR West (incl. JR Nara Line Nara→Kyoto). **Attivare il 28 ott** (giorno di Hiroshima) → valido 28 ott–1 nov. Prezzo ufficiale: westjr.co.jp
+- **JR Kansai-Hiroshima Area Pass (5 giorni)** — ✅ **acquistato su Klook (29/09/26, 287,57 € tot = 95,86 €/pax)**. Copre Shinkansen Sanyo Shin-Osaka⇔Hiroshima (posti riservati), traghetto JR Miyajima (tassa visita 100¥ a parte), linee JR West (incl. JR Nara Line Nara→Kyoto). **Scambiare il 25–27 ott a Osaka** (start 28 ott) → valido 28 ott–1 nov. I **posti A/R del 28 ott** si prenotano gratis allo scambio.
 - **Alternativa da valutare:** due biglietti one-way scontati per turisti Shin-Osaka⇔Hiroshima (¥7.900 a tratta, tot. ¥15.800 < pass) + traghetto + Nara→Kyoto. Il pass conviene per posti riservati e praticità.
 - **Biglietto singolo Kyoto→Tokyo (~13.320 ¥ ≈ 72€)** — Shinkansen Hikari, posto libero
 - **Suica/Icoca** per trasporti locali
@@ -106,7 +106,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | ✅ Voli A/R (China Eastern, prenotati) | **1.096,33 €** |
 | ✅ Alloggio (13 notti in condivisione, incl. 1 notte Izumisano) | **359,89 €** |
 | Cibo (15gg, pasto USJ incluso) | ~420 € |
-| JR Kansai-Hiroshima Area Pass (5gg) | 92,39 € (17.000 ¥) |
+| JR Kansai-Hiroshima Area Pass (5gg) | 95,86 € (Klook, 287,57 € tot/3) |
 | Kyoto→Tokyo Shinkansen | 74,18 € (13.650 ¥) |
 | Trasporti locali (15gg) | ~136 € |
 | Attrazioni (USJ 88,25 · Sanrio 19,97 · Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09 + templi) | ~206 € |
@@ -114,7 +114,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | Assicurazione sanitaria | 53,43 € |
 | eSIM | 20,00 € |
 | Bagagli (Takkyubin) | 17,17 € |
-| **TOTALE** | **~2.875 €** (~2.850–2.950 €) |
+| **TOTALE** | **~2.880 €** (~2.850–2.950 €) |
 
 > 💱 Tasso di riferimento: **~184 ¥/€** (agosto 2026, xe.com). Le spese giornaliere (cibo+trasporti+ingressi) sono ~836 € (stime in loco, aggiornate coi prezzi reali). I **costi reali** sono in [[Spese Reali]] (volo 1.096,33 · alloggio 359,89 · assicurazione 53,43 · eSIM 20 · bagagli 17,17 · USJ 88,25 · Sanrio 19,97 …). **Rimossi: Fuji day trip, PokéPark KANTO (lotteria non vinta), TeamLab, Umeda Sky (Giorno 3).**
 
@@ -130,7 +130,7 @@ Guida sicurezza per viaggiatori: emergenze, normative locali, sanità.
 | TeamLab Planets (Tokyo) | Alta | ⛔ **RIMOSSO (05/09/26)** — fuori tema · sostituito da Sanrio Puroland (G11) |
 | Sanrio Puroland (Tama) | ✅ **FATTO (09/09/26)** | Day Passport + riserva visita · *annotare n. conferma/importo* · chiuso 4-5 nov |
 | ~~PokéPark KANTO (Yomiuriland)~~ | ⛔ **RIMOSSO (03/09/26)** | **Lotteria non vinta** → biglietto non acquistabile (no walk-in). Fuori dal piano attivo |
-| JR Kansai-Hiroshima Area Pass | 🔴 **Entro 28 Set 10:00 JST** | 17.000 ¥ · acquistare su **JR-WEST ONLINE TRAIN RESERVATION** per prenotare posti online dal 28 Set · ritiro/attivazione 28 ott |
+| JR Kansai-Hiroshima Area Pass | ✅ **FATTO (Klook, 29/09/26)** | Scambiare il 25–27 ott a Osaka (start 28 ott) + prenotare posti A/R gratis allo scambio · [[Lista Prenotazioni]] |
 | Kyoto→Tokyo Shinkansen | 🟠 Dal 1 Ott 10:00 JST | SmartEX (app/web) · Hikari **riservato ~13.650 ¥** · Hayatoku 21 entro 11 Ott |
 | eSIM | Media | Comprare prima della partenza (Klook/Airalo) |
 | Trasferimento bagagli Osaka→Tokyo | Media | Takkyubin Yamato ~¥3.160/valigia (spedire 29 ott → consegna 1 nov) · confermare host Tokyo · vedi [[Trasferimento Bagagli (Takkyubin)]] |

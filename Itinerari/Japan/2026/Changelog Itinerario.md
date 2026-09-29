@@ -17,6 +17,7 @@ ai_role: "Storico modifiche dell'itinerario Giappone 2026 (spostato qui dall'iti
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **JR Pass Kansai-Hiroshima acquistato su Klook (287,57 €)** | 29 Set 2026 | Gruppo | 95,86 €/pax · budget totale ~2.880 €/pax · resta scambio voucher + prenotazione posti A/R a Osaka 25–27 ott |
 | **Tratte treno + variante Klook (no fee)** | 29 Set 2026 | Gruppo | Pass Kansai-Hiroshima su **Klook** (nessun handling/shipping ~19,95 €); **scambio + prenotazione posti A/R del 28 ott a Osaka il 25–27 ott** → 28 mattina solo imbarco. Tratte dettagliate (riservate vs no) in [[Lista Prenotazioni]]. |
 | **Creata tabella "Spese Reali" (consuntivo)** | 09 Set 2026 | Agente | File `Info/Japan/Spese Reali.md`: pre-partenza + registro giornaliero + riepilogo per categoria + saldo tra noi · collegato dal Budget Tracker |
 | **G6: bagagli spediti Osaka→Tokyo (Takkyubin)** | 09 Set 2026 | Gruppo | Le valigie grandi si spediscono il 29 ott (Yamato Namba Station Center) con consegna **1 nov** al Taito City Guesthouse (~¥3.160/valigia) → Nara/Kyoto con solo bagaglio a mano · ⚠️ confermare host Tokyo · nota: [[Trasferimento Bagagli (Takkyubin)]] |

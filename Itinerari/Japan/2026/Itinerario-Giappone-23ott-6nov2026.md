@@ -11,7 +11,7 @@ autori:
   - Davide
   - Rebecca
 percorso: "Roma → KIX → Izumisano → Osaka → Hiroshima → Nara → Kyoto → Tokyo"
-budget_totale_stimato: "~2.875 €/persona"
+budget_totale_stimato: "~2.880 €/persona"
 tags:
   - itinerario
   - japan
@@ -20,7 +20,7 @@ tags:
 ---
 
 > Creato da @Lorenzo · @Davide · @Rebecca
-> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ❌ da prenotare: JR Pass + posti treno, Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM
+> ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ✅ **JR Pass Kansai-Hiroshima (Klook, 29/09/26)** · ❌ da prenotare: posti treno (a Osaka 25–27 ott), Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
@@ -164,7 +164,7 @@ JR Pass nazionale **non conviene**: meglio **[[JR pass|JR Kansai-Hiroshima Area 
 |   15    |   7 Nov   |    15 €    |    15 €    |     —      |    30 €    |
 | **TOT** |           | **~420 €** | **~210 €** | **~206 €** | **~836 €** |
 
-> Spese giornaliere **~836 €/persona** (stime in loco: cibo 420 + trasporti 210 + ingressi 206 — aggiornate con i prezzi reali: USJ 88,25 · Sanrio 19,97 · Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09 · Kyoto→Tokyo 74,18). Costi fissi **reali** (da [[Spese Reali]]): **Volo 1.096,33 + Alloggio 359,89 + JR Pass 92,39 + Spese personali ~400 + Assicurazione 53,43 + eSIM 20 + Bagagli 17,17 = ~2.039 €** → **TOTALE ~2.875 €/persona** (~2.850–2.950 €). *Tasso: ~184 ¥/€ (ag. 2026).*
+> Spese giornaliere **~836 €/persona** (stime in loco: cibo 420 + trasporti 210 + ingressi 206 — aggiornate con i prezzi reali: USJ 88,25 · Sanrio 19,97 · Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09 · Kyoto→Tokyo 74,18). Costi fissi **reali** (da [[Spese Reali]]): **Volo 1.096,33 + Alloggio 359,89 + JR Pass 95,86 (Klook) + Spese personali ~400 + Assicurazione 53,43 + eSIM 20 + Bagagli 17,17 = ~2.043 €** → **TOTALE ~2.880 €/persona** (~2.850–2.950 €). *Tasso: ~184 ¥/€ (ag. 2026).*
 > ℹ️ Le voci giornaliere sono stime **leggermente gonfiate come margine per imprevisti**: si correggono solo i refusi reali (es. G7 ingressi riportati al costo effettivo Kodai-ji+Kiyomizu ~6 €).
 
 ### Alloggi

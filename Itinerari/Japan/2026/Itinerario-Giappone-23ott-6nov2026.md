@@ -362,7 +362,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **⏱️ Orari indicativi:**
 - **05:15** Sveglia · colazione
 - **05:50** Uscita · metro Hanazonocho → Shin-Osaka (Yotsubashi → cambio Midosuji, ~20–25 min) → arrivo ~06:15
-- **06:15–06:45** Sportello JR West: attivazione **JR Pass** + **prenotazione posti riservati A/R** (30 min di margine: la mattina presto gli sportelli sono pochi)
+- **06:15–06:40** Arrivo Shin-Osaka · **binario** (nessuna coda: **pass già ritirato + posti già prenotati** a Osaka il 25–27 ott)
 - **06:45–08:15** Shinkansen Sakura Shin-Osaka → Hiroshima (~1h30)
 - **08:30–08:55** JR Sanyo Line → Miyajimaguchi (~25 min, incluso pass)
 - **09:00–09:15** Traghetto JR → Miyajima (~10 min, + tassa 100¥)
@@ -379,10 +379,10 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **~20:00** Rientro Osaka · cena Namba
 
 
-> 🚆 **Punti critici rivisti (feedback 09/09/26):** ① mattina — sveglia anticipata a **05:15** e uscita **~05:50** per avere ~30 min allo sportello JR West di Shin-Osaka (attivazione pass + posti riservati A/R; i tour operator lasciano mezz'ora abbondante solo per i biglietti). ② rientro — uscita da Hondori alle **17:30** e tram delle **17:45** (la corsa richiede 15–20 min, non 12) così arrivi ai binari Shinkansen con margine sul treno riservato.
+> 🚆 **Punti critici rivisti:** ① mattina — sveglia **05:15**, uscita **~05:50** (metro Hanazonocho→Shin-Osaka ~20–25 min). **Variante Klook:** il pass è **scambiato** e i **posti A/R sono già prenotati a Osaka il 25–27 ott**, quindi allo Shin-Osaka **non ci sono operazioni biglietti** → solo imbarco (si può partire anche 10–15 min più tardi). ② rientro — uscita da Hondori alle **17:30** e tram delle **17:45** (15–20 min) per arrivare ai binari con margine.
 
 
-> 🟡 **Da attivare oggi (28 ott):** [[JR pass|JR Kansai-Hiroshima Area Pass]] (**17.000 ¥ ≈ 92 €**) — copre Shinkansen A/R Shin-Osaka→Hiroshima + traghetto JR Miyajima + linee JR West per i prossimi 4 giorni (**valido 28 ott–1 nov**)
+> 🟡 **Pass (variante Klook — nessun fee):** [[JR pass|JR Kansai-Hiroshima Area Pass]] — **scambiato il 25–27 ott a Osaka** con data d'inizio **28 ott** (valido 28 ott–1 nov) · **posti A/R del 28 già prenotati** allo scambio. Tratte e istruzioni: [[Lista Prenotazioni]].
 
 **06:45–08:15** Shinkansen Sakura: [[Shin-Osaka Station]] → [[Hiroshima(広島)]] (~1h 30m)
 **08:30–08:55** JR Sanyo Line → [[Miyajima (宮島)|Miyajimaguchi]] (~25 min, incluso JR Pass)
@@ -407,7 +407,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 **17:15–17:30** [[Hondori street]] ⚪ — shopping veloce + momiji manju da portare a casa (uscire alle 17:30 per il tram delle 17:45)
 > ⚠️ **Castello di Hiroshima:** il mastio è **chiuso al pubblico da marzo 2026** (rischio sismico) — restano solo giardini + Ninomaru (gratis, fino 16:30 in autunno). Meglio dedicare il tempo a Hondori.
 
-**18:15–18:30** Shinkansen riservato ritorno (posti già prenotati in mattinata) → Shin-Osaka (~1h30, arrivo ~20:00)
+**18:15–18:30** Shinkansen riservato ritorno (posti prenotati a Osaka il 25–27 ott) → Shin-Osaka (~1h30, arrivo ~20:00)
 🅿 **PIANO B (stanchi/pioggia):** Salta Hondori e rientra entro le 17:30. Se piove forte a Miyajima → inversione: prima Museo della Pace, poi Miyajima se schiarisce
 
 ---
@@ -548,8 +548,8 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **08:00** Sveglia · colazione
 - **09:00** Check-out (self) — **niente sosta**: [[Nishiki Market (錦市場)|Nishiki]] già visitato al Giorno 7
 - **09:25** Metro Nijo → Kyoto Station
-- **09:45** Acquisto biglietto singolo + **prenotazione posto riservato** (Hikari)
-- **10:15–12:55** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.320 — pranzo ekiben/depachika)
+- **09:45** Diretti al binario — **posto riservato già prenotato su SmartEX** (nessuna coda)
+- **10:15–12:55** Shinkansen Hikari Kyoto → Tokyo (~2h40, ¥13.650 — pranzo ekiben/depachika)
 - **13:30** Metro → Taito · check-in/deposito bagagli
 - **13:50–15:00** Sistemazione · pausa
 - **15:15** Metro → Oshiage/Skytree (~15 min)
@@ -559,9 +559,9 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Mattina:**
 - Check-out Kyoto ~09:00 (self). Nishiki Market non serve ripeterlo (fatto al G7)
-- Kyoto → Tokyo: biglietto singolo + **posto riservato** Hikari
+- Kyoto → Tokyo: **posto riservato Hikari prenotato su SmartEX** (dal 1 ott)
 
-**Pomeriggio:** Shinkansen Hikari → Tokyo (~2h40, ¥13.320) · arrivo ~13:00
+**Pomeriggio:** Shinkansen Hikari → Tokyo (~2h40, ¥13.650) · arrivo ~13:00
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Pranzo shinkansen:** depachika Isetan Kyoto Station (bento ¥800–1.500) · ekiben (¥800–1.200) · konbini

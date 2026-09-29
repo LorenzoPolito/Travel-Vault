@@ -40,19 +40,32 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 
 ---
 
-## 🚄 TRENI — prenotazioni/posti
+## 🚄 TRENI — tratte e prenotazione posti
 
-| Cosa | Data viaggio | Finestra apertura | ⏰ Prenotare | Canale | Costo |
+### Tratte con **posto riservato** (da prenotare)
+| Data | Tratta | Treno | Orario | Copertura | Prenotazione |
 |---|---|---|---|---|---|
-| **Kansai-Hiroshima Area Pass (5gg)** | attivo 28 ott | **28 Set 10:00 JST** | 🔴 28 Set | **JR-WEST ONLINE TRAIN RESERVATION** | 17.000 ¥ (~92 €) |
-| **Posti riservati Shin-Osaka→Hiroshima** | 28 ott, Sakura 06:45 | 28 Set 10:00 JST | 🔴 28 Set | JR-WEST Online (gratis col pass) | incluso |
-| **Posti riservati Hiroshima→Shin-Osaka** | 28 ott, ~18:15–18:30 | 28 Set 10:00 JST | 🔴 28 Set | JR-WEST Online (gratis col pass) | incluso |
-| **Kyoto→Tokyo Hikari riservato** | 1 nov | **1 Ott 10:00 JST** | 🟠 1–2 Ott | **SmartEX** (app/web) | ~13.650 ¥ (~74 €) · Hayatoku 21 se entro 11 Ott |
-| Nara→Kyoto (JR Nara Line) | 29 ott | — | — | **incluso nel pass** | — |
-| Osaka→Nara (Kintetsu) | 29 ott | — | — | IC card, no prenotazione | ~570 ¥ |
-| Metro/bus locali + Nankai/Keikyu | vari | — | — | Suica/Icoca, no prenotazione | — |
+| **28 ott** | Shin-Osaka → Hiroshima | Shinkansen **Sakura** | **06:45 → 08:15** (~1h30) | JR Kansai-Hiroshima Pass | ✅ posto riservato |
+| **28 ott** | Hiroshima → Shin-Osaka | Shinkansen (Sakura/Nozomi) | **~18:15–18:30 → ~20:00** | JR Kansai-Hiroshima Pass | ✅ posto riservato |
+| **1 nov** | Kyoto → Tokyo | Shinkansen **Hikari** | **10:15 → 12:55** (~2h40) | **SmartEX** (biglietto separato) | ✅ posto riservato |
 
-> ⚠️ **Importante:** per prenotare i posti **online** del Kansai-Hiroshima Pass **bisogna acquistare il pass su JR-WEST ONLINE** (Klook = solo exchange, posti prenotabili solo in stazione).
+### Tratte **senza prenotazione**
+| Data | Tratta | Linea | Note |
+|---|---|---|---|
+| 28 ott | Hiroshima ⇄ Miyajimaguchi | JR Sanyo Line (locale) | incluso nel pass |
+| 28 ott | Miyajimaguchi ⇄ Miyajima | **JR Ferry** | incluso nel pass (+100 ¥ tassa visita) |
+| 29 ott | JR Nara → Kyoto | JR Nara Line (rapido) | incluso nel pass |
+| 29 ott | Namba → Nara | **Kintetsu** (non-JR) | ❌ non coperto → IC card (~570 ¥) |
+| vari | Osaka metro / Tokyo JR+metro / Nankai / Keikyu | locali | Suica/Icoca |
+
+### ✅ Come prenotare (variante **Klook** — nessun fee)
+1. **Compra il pass su Klook** (nessun handling/shipping di ~19,95 €) → ricevi l'**exchange order**.
+2. **Scambia il voucher in Giappone** in biglietteria JR (Midori no Madoguchi: KIX / Osaka / Shin-Osaka / Kyoto) con **passaporto** · **data di inizio = 28 ott** (valido 28 ott–1 nov).
+3. **Nello stesso momento prenota i posti** del 28 ott (andata 06:45 + ritorno ~18:15–18:30) → **gratis col pass** · dire: data, stazione di partenza/arrivo, orario, **3 passeggeri**.
+4. **Kyoto→Tokyo (1 nov)**: su **SmartEX** dal **1 ott 10:00 JST** (Hikari riservato ~13.650 ¥ ≈ 74 €).
+
+> ⏱️ **Consigliato:** scambio + prenotazione posti **il 25–27 ott a Osaka** (siete già lì) → il **28 mattina solo imbarco**, nessuna coda allo sportello.
+> ⚠️ Il **sito ufficiale (JR-WEST ONLINE)** consente la prenotazione posti online dall'estero ma aggiunge ~19,95 € di handling/shipping → **non indispensabile** nel nostro caso.
 > 🧳 Bagagli oltre 160 cm su Sanyo Shinkansen → serve posto con area bagagli (non il nostro caso).
 
 ---

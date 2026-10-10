@@ -23,7 +23,7 @@ tags:
 | **Check-in** | 25 Ott 2026 (16:00–00:00) |
 | **Check-out** | 29 Ott 2026 (00:00–10:00) |
 | **Notti** | 4 |
-| **Piattaforma** | Booking.com / Airbnb |
+| **Piattaforma** | Booking.com |
 | **Stato** | 🔵 **PRENOTATO** |
 
 ## Posizione

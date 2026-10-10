@@ -23,6 +23,7 @@ tags:
 | **Check-in** | 29 Ott 2026 (16:00–22:00) |
 | **Check-out** | 1 Nov 2026 (entro 10:00) |
 | **Notti** | 3 |
+| **Piattaforma** | Booking.com |
 | **Telefono** | +81-50-5444-6620 |
 | **Stato** | 🔵 **PRENOTATO** |
 

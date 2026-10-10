@@ -23,6 +23,7 @@ tags:
 | **Check-in** | 1 Nov 2026 (dalle 15:00) |
 | **Check-out** | 6 Nov 2026 (entro 10:00) |
 | **Notti** | 5 |
+| **Piattaforma** | Airbnb |
 | **Stato** | 🔵 **PRENOTATO** |
 
 ## Posizione

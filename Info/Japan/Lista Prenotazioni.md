@@ -1,9 +1,10 @@
 ---
 type: info
+publish: false
 destination: Japan
 category: prenotazioni
 language: it
-last_updated: 2026-09-09
+last_updated: 2026-10-10
 tags:
   - prenotazioni
   - checklist
@@ -15,6 +16,7 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 
 # 📋 Lista Prenotazioni — Giappone 23 Ott – 6 Nov 2026
 
+> 🧭 **Fonte di verità per lo stato delle prenotazioni.** Gli altri file (AGENTS, skill, KB, itinerario) rimandano qui: aggiornare **prima** questo file.
 > Lista **master** di tutto ciò che va prenotato/acquistato. Legenda: ✅ fatto · 🔴 subito · 🟠 a finestra · 🟡 opzionale/in attesa · ⚪ alternativa · 🎫 in loco (no prenotazione).
 > ⏰ **JST = +7h sull'Italia fino al 25 ott** (poi +8h). Finestre in `Info/Japan/Attività e Prenotazioni.md`.
 
@@ -26,14 +28,19 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 |---|---|---|
 | Voli A/R (China Eastern open-jaw) | FCO→KIX 23/10 21:10 · HND→FCO 6/11 08:40 · 1.096,33 €/pax | 09/08/26 |
 | Alloggi (4) | Izumisano (KURA) · Osaka (Hanazonocho) · Kyoto (Miro Nijo) · Tokyo (Taito Guesthouse) — tutti con cucina | — |
-| Universal Studios Japan | 1-day Studio Pass + SNW + voucher pasto = 88 €/pax (27 ott) | 05/09/26 |
+| Universal Studios Japan | 1-day Studio Pass + SNW + voucher pasto = 88,25 €/pax (27 ott) | 05/09/26 |
 | **Sanrio Puroland** | Day Passport + riserva visita (3 nov) — **~€19,97** · *annotare n. conferma/orario* | **09/09/26** |
 | **Assicurazione sanitaria** | *annotare provider, n. polizza, copertura allergie Rebecca* | **09/09/26** |
+| **JR Kansai-Hiroshima Area Pass** | Klook, 287,57 € tot (95,86 €/pax) · exchange order → scambio + posti A/R a Osaka 25–27 ott | **29/09/26** |
 
 ---
 
 ## 🔴 Da fare subito
 
+- [ ] **Kyoto→Tokyo 1 nov (SmartEX)** — vendita aperta dal 1 ott · sconto *Hayatoku 21* solo fino all'**11 ott**
+- [ ] **Tokyo Skytree (1 nov)** — finestra aperta dal ~2 ott
+- [ ] **eSIM** — comprare ora (~2 settimane prima della partenza)
+- [ ] **Shibuya Sky (4 nov)** — apre **21 ott 00:00 JST** (= 20 ott 17:00 in Italia)
 - [ ] Salvare le conferme di **Sanrio Puroland** (biglietto + riserva visita) e **assicurazione** (PDF, numeri, copertura allergie Rebecca)
 - [ ] **Pasto speciale Rebecca** — contattare China Eastern (no soia/pesce/crostacei/frutta secca), verificare **entrambi i segmenti + scalo PVG**
 - [ ] Decidere **Express Pass USJ** (opzionale, ~¥8.000–15.000) per saltare code su Mario Kart
@@ -45,9 +52,9 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 ### Tratte con **posto riservato** (da prenotare)
 | Data | Tratta | Treno | Orario | Copertura | Prenotazione |
 |---|---|---|---|---|---|
-| **28 ott** | Shin-Osaka → Hiroshima | Shinkansen **Sakura** | **06:45 → 08:15** (~1h30) | JR Kansai-Hiroshima Pass | ✅ posto riservato |
-| **28 ott** | Hiroshima → Shin-Osaka | Shinkansen (Sakura/Nozomi) | **~18:15–18:30 → ~20:00** | JR Kansai-Hiroshima Pass | ✅ posto riservato |
-| **1 nov** | Kyoto → Tokyo | Shinkansen **Hikari** | **10:15 → 12:55** (~2h40) | **SmartEX** (biglietto separato) | ✅ posto riservato |
+| **28 ott** | Shin-Osaka → Hiroshima | Shinkansen **Sakura** | **06:45 → 08:15** (~1h30) | JR Kansai-Hiroshima Pass | ❌ allo scambio (Osaka 25–27 ott) |
+| **28 ott** | Hiroshima → Shin-Osaka | Shinkansen (Sakura/Nozomi) | **~18:15–18:30 → ~20:00** | JR Kansai-Hiroshima Pass | ❌ allo scambio (Osaka 25–27 ott) |
+| **1 nov** | Kyoto → Tokyo | Shinkansen **Hikari** | **10:15 → 12:55** (~2h40) | **SmartEX** (biglietto separato) | ❌ da prenotare (SmartEX) |
 
 ### Tratte **senza prenotazione**
 | Data | Tratta | Linea | Note |
@@ -130,7 +137,7 @@ Castello di Osaka (¥600) · Giardini Nishinomaru (¥350) · Torre Tsutenkaku (�
 | Data (JST) | Cosa |
 |---|---|
 | **Subito** | Pasto Rebecca · Express Pass USJ (decisione) · salvare conferme |
-| **28 Set, 10:00** | Pass Kansai-Hiroshima + posti Shinkansen A/R (28 ott) |
+| ~~28 Set~~ | ✅ Pass Kansai-Hiroshima acquistato su Klook (29/09) → posti A/R allo scambio a Osaka **25–27 ott** |
 | **1 Ott, 10:00** | Kyoto→Tokyo (SmartEX) |
 | **~2 Ott, 00:00** | Tokyo Skytree (1 nov) |
 | **21 Ott, 00:00** | Shibuya Sky (4 nov) |

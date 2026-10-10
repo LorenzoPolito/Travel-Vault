@@ -21,6 +21,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Vault governance check (link, frontmatter, privacy)
+        run: python3 _AI/scripts/vault_check.py
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:

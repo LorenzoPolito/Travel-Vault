@@ -2,10 +2,10 @@
 type: ai-workspace-metadata
 scope: global
 vault: Travel-Vault
-vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
+vault_root: "."  # root del repository: usare sempre percorsi relativi
 language: it
-last_updated: 2026-08-20
-authors: [Lorenzo, Damiano]
+last_updated: 2026-10-10
+authors: [Lorenzo]
 tags: [metadata, vault, conventions, obsidian, travel]
 ai_role: "Leggi questo file per capire la struttura e le convenzioni del vault prima di operare."
 ---
@@ -23,7 +23,7 @@ ai_role: "Leggi questo file per capire la struttura e le convenzioni del vault p
 **Travel-Vault** è un vault Obsidian per la **pianificazione di viaggi in generale**.
 Attualmente focalizzato su **Giappone** (contenuto principale) e con **Italia** (Calabria 2025, archiviato).
 
-**Autori:** Lorenzo, Damiano · **Versioning:** Git (`.git/` in root)
+**Autore:** Lorenzo · **Versioning:** Git (`.git/` in root)
 
 ---
 
@@ -32,9 +32,9 @@ Attualmente focalizzato su **Giappone** (contenuto principale) e con **Italia** 
 | Cartella | Contenuto | Note |
 | --- | --- | --- |
 | `_AI/` | Knowledge hub per agenti AI | Questa cartella |
-| `Info/` | Info logistiche per destinazione | Attuale: solo Japan |
+| `Info/` | Info logistiche per destinazione | Japan, NewYork |
 | `Itinerari/` | Itinerari per destinazione | Japan + Calabria |
-| `Locations/` | Schede luoghi per destinazione | Attuale: solo Japan |
+| `Locations/` | Schede luoghi per destinazione | Japan, UnitedStates |
 | `Documenti Esterni/` | PDF e DOCX da fonti esterne | — |
 | `allegati/` | Immagini e allegati | — |
 
@@ -45,7 +45,7 @@ Attualmente focalizzato su **Giappone** (contenuto principale) e con **Italia** 
 | Destinazione | Stato | Cartelle principali |
 | --- | --- | --- |
 | 🇯🇵 Giappone | **Confermato — voli e alloggi prenotati** (23 ott — 6 nov 2026) | `Locations/Japan/`, `Itinerari/Japan/`, `Info/Japan/` |
-| 🇺🇸 New York | **Confermato — tutte le prenotazioni completate** (21-29 ago 2026) | `Itinerari/UnitedStates/NewYork/`, `Locations/UnitedStates/NewYork/`, `Info/NewYork/` |
+| 🇺🇸 New York | **Completato** (21-29 ago 2026) — solo consultazione | `Itinerari/UnitedStates/NewYork/`, `Locations/UnitedStates/NewYork/`, `Info/NewYork/` |
 | 🇮🇹 Italia | **Archiviato** (ago 2025) | `Itinerari/Calabria/` |
 
 ---
@@ -96,6 +96,5 @@ _AI/knowledge/destinations/
 ## Plugin e Feature Tecniche
 
 - **Git:** versioning attivo, `.gitignore` presente
-- **`Path.json`:** `{}` — placeholder non ancora usato
 - **MagicTravel link:** hotel linkati in Kyoto e Osaka via `https://www.magictravel.ai/`
 - **TBLFM:** formule tabelle inline in alcuni itinerari (es. somme budget)

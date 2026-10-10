@@ -1,9 +1,10 @@
 ---
 type: info
+publish: false
 destination: Japan
 category: spese
 language: it
-last_updated: 2026-09-09
+last_updated: 2026-10-10
 tags:
   - spese
   - budget
@@ -13,6 +14,8 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 ---
 
 # 💶 Spese Reali — Giappone 23 Ott – 6 Nov 2026
+
+> 🧭 **Fonte di verità per i soldi** (budget, pagato, saldi). Gli altri file riportano solo il totale e rimandano qui.
 
 > Consuntivo **manuale**. Aggiungi ogni spesa appena la fai.
 > 💱 Tasso di riferimento: **~184 ¥/€** (aggiorna se cambia) · 👥 Persone: Lorenzo, Davide, Rebecca.
@@ -29,7 +32,7 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | Alloggio Osaka (Hanazonocho)      | Alloggio      |           |          | €      |         74,33 |           | 3          | ✅           |
 | Alloggio Kyoto (Miro Nijo)        | Alloggio      |           |          | €      |         85,72 |           | 3          | ✅           |
 | Alloggio Tokyo (Taito Guesthouse) | Alloggio      |           |          | €      |        173,17 |           | 3          | ✅           |
-| Universal Studios Japan           | Attività      |  05/09/26 |    88,00 | €      |         88,25 |           | 3          | ✅ Pagato    |
+| Universal Studios Japan           | Attività      |  05/09/26 |   264,75 | €      |         88,25 |           | 3          | ✅ Pagato    |
 | Sanrio Puroland (Day Passport)    | Attività      |  09/09/26 |          | €      |         19,97 |           | 3          | ✅ Prenotato |
 | Assicurazione sanitaria           | Assicurazione |  09/09/26 |          | €      |         53,43 |           | 3          | ✅ Prenotato |
 | JR Kansai-Hiroshima Area Pass     | Trasporti     |  29/09/26 |   287,57 | €      |         95,86 |           | 3          | ✅ Klook     |
@@ -80,13 +83,13 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | Voli | 1.096,33 | 1.096,33 | 0 | reale (prenotato) |
 | Alloggio (13 notti) | 359,89 | 359,89 | 0 | 4 strutture (reale) |
 | Cibo | 420 |  |  | stima (Rebecca cucina) |
-| Trasporti (pass + shinkansen + locali) | 306,04 | 170,04 |  | pass 95,86 (Klook) + Kyoto→Tokyo 74,18 reali; locali ~136 stima |
-| Ingressi/Attività | 206 | 155,51 |  | USJ/Sanrio/Skytree/Shibuya/Uzumasa/Museo reali; ~50 templi stima |
+| Trasporti (pass + shinkansen + locali) | 306,04 | 95,86 |  | pass 95,86 (Klook) pagato · Kyoto→Tokyo 74,18 da acquistare · locali ~136 stima |
+| Ingressi/Attività | 206 | 108,22 |  | USJ 88,25 + Sanrio 19,97 pagati · Skytree/Shibuya/Uzumasa/Museo (47,29) da acquistare · ~50 templi stima |
 | Spese personali | 400 |  |  | stima |
 | Assicurazione | 53,43 | 53,43 | 0 | reale |
-| eSIM | 20,00 | 20,00 | 0 | reale |
-| Bagagli (Takkyubin) | 17,17 | 17,17 | 0 | reale |
-| **TOTALE / persona** | **~2.880** | **1.872,37** |  | + stime in loco ~1.006 |
+| eSIM | 20,00 |  |  | prezzo stimato, da acquistare |
+| Bagagli (Takkyubin) | 17,17 |  |  | tariffa nota, da pagare in loco (29/10) |
+| **TOTALE / persona** | **~2.880** | **1.713,73** |  | solo spese già pagate · resto = prenotazioni da fare + spese in loco |
 
 ---
 
@@ -112,12 +115,12 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | JR Kansai-Hiroshima Area Pass 5gg | 95,86 € | ✅ **Klook 287,57 € (3 pax)** | Scambiare il 25–27 ott a Osaka (start 28 ott) · posti A/R da prenotare allo scambio |
 | Kyoto→Tokyo Shinkansen | 74,18 € (13.650 ¥) | ❌ Da acquistare | Hikari, posto riservato |
 | Trasporti locali (15 gg) | ~136 € | ❌ Da tenere traccia | Suica/Icoca (metro, bus, Nankai, Kintetsu) |
-| Attrazioni (USJ, templi, Sanrio, torri…) | ~203 € | ✅ **USJ 88,25 · Sanrio 19,97 · Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09** | Vedi [[Attività e Prenotazioni]] |
+| Attrazioni (USJ, templi, Sanrio, torri…) | ~203 € | ✅ **USJ 88,25 · Sanrio 19,97** · ❌ Skytree 12,50 · Shibuya 18,48 · Uzumasa 15,22 · Museo 1,09 (da acquistare) | Vedi [[Attività e Prenotazioni]] |
 | Spese personali | ~400 € | ❌ Da tenere traccia | Souvenir, extra |
 | Assicurazione sanitaria | 53,43 € | ✅ **53,43 €** | Copertura da verificare (Rebecca allergie) |
 | eSIM 15gg | 20,00 € | ❌ Da comprare | Klook o Airalo |
 | Bagagli (Takkyubin Osaka→Tokyo) | 17,17 € | ❌ Da fare | 3.160 ¥ · [[Trasferimento Bagagli (Takkyubin)]] |
-| **TOTALE** | **~2.880 €** | **1.872,37 € reali** | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026) |
+| **TOTALE** | **~2.880 €** | **1.713,73 € pagati** | ~2.850–2.950 € · tasso 184 ¥/€ (ag. 2026) |
 
 ### Budget Rebecca (extra cibo)
 

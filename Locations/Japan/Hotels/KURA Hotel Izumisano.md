@@ -1,5 +1,6 @@
 ---
 type: location
+publish: false
 category: Hotels
 destination: Japan
 city: Izumisano

@@ -3,7 +3,7 @@ type: ai-readme
 scope: ai-folder
 vault: Travel-Vault
 language: it
-last_updated: 2026-09-03
+last_updated: 2026-10-10
 tags: [ai, readme, conventions, entry-point]
 ai_role: "Entry point per agenti AI. Leggere prima di qualsiasi altro file _AI."
 ---
@@ -35,6 +35,9 @@ _AI/
 │       └── italia/
 │           └── itinerari.md    ← Calabria 2025 (archiviato)
 │
+├── archive/                    ← ⛔ File superati — NON usare come fonte
+├── scripts/vault_check.py      ← Verifica governance (dopo ogni modifica)
+│
 └── templates/                  ← Copia per aggiungere nuove destinazioni
     ├── locations.md
     ├── itinerari.md
@@ -45,6 +48,7 @@ _AI/
 
 ## 🚀 Come Iniziare (per un agente)
 
+0. **Leggi `AGENTS.md`** (root) — regole, fonti di verità, protocollo modifiche, privacy
 1. **Leggi `INDEX.md`** — albero del vault + quick reference
 2. **Leggi `knowledge/workspace.md`** — convenzioni e struttura
 3. **Vai alla destinazione** in `knowledge/destinations/[paese]/`

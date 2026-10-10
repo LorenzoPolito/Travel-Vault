@@ -1,3 +1,12 @@
+---
+type: ai-archive
+status: archived
+language: it
+ai_role: "ARCHIVIATO (feb 2026) — contenuto superato, non usare come fonte."
+---
+
+> ⛔ **ARCHIVIATO** — file superato (pianificazione feb 2026). Fonte attuale: `_AI/knowledge/destinations/japan/`.
+
 # Knowledge Base — Logistica & Trasporti
 
 > Ultima revisione: 2026-02-23

@@ -2,9 +2,9 @@
 type: ai-index
 scope: vault-root
 vault: Travel-Vault
-vault_path: "c:\\Users\\loren\\Documents\\TravelBay\\Travel-Vault"
+vault_root: "."  # root del repository: usare sempre percorsi relativi
 language: it
-last_updated: 2026-09-03
+last_updated: 2026-10-10
 tags: [index, ai, vault-map, travel]
 ai_role: "Master index del vault e della cartella _AI. Entry point principale per agenti."
 ---
@@ -45,10 +45,13 @@ Travel-Vault/
 │   │       │   └── logistica.md          ← IC Cards, JR Pass, budget JP
 │   │       ├── italia/
 │   │       │   └── itinerari.md          ← Calabria 2025 (archiviato)
-│   │       └── newyork/                  ← ★ NYC 21-29 Ago 2026
+│   │       └── newyork/                  ← NYC 21-29 Ago 2026 (completato)
 │   │           ├── logistica.md          ← Trasporti, OMNY, CityPASS, budget
 │   │           ├── locations.md          ← Cluster NYC (Downtown, Midtown, Uptown)
 │   │           └── itinerari.md          ← Riferimento itinerario attivo
+│   │
+│   ├── archive/                          ← ⛔ File superati — NON usare come fonte
+│   ├── scripts/vault_check.py            ← ★ Verifica governance (lanciare dopo ogni modifica)
 │   │
 │   └── templates/                        ← Per aggiungere nuove destinazioni
 │       ├── locations.md                  ← Template locations
@@ -91,7 +94,7 @@ Travel-Vault/
 │       └── NewYork/
 │           └── 2026/
 │               ├── New York - Agosto 2026 - 21 to 29 Agosto.md   ← ★ Appunti draft (giorni 1-5)
-│               └── New York - 21-29 Agosto 2026 - Itinerario Dettagliato.md  ← ★ Itinerario ATTIVO
+│               └── New York - 21-29 Agosto 2026 - Itinerario Dettagliato.md  ← Itinerario (viaggio completato)
 │
 ├── Locations/
 │   ├── Japan/
@@ -133,13 +136,13 @@ Travel-Vault/
 
 | Obiettivo | File da leggere |
 | --- | --- |
+| Regole agente, fonti di verità, protocollo modifiche | `AGENTS.md` |
 | Overview vault e convenzioni | `_AI/knowledge/workspace.md` |
-| Overview vault + convenzioni | `AGENTS.md` o `_AI/knowledge/workspace.md` |
+| 🧭 **Stato prenotazioni (fonte di verità)** | `Info/Japan/Lista Prenotazioni.md` |
+| 🧭 **Soldi: budget, pagato, saldi (fonte di verità)** | `Info/Japan/Spese Reali.md` |
 | Luoghi JP con voti e orari | `_AI/knowledge/destinations/japan/locations.md` |
 | Stato itinerari Giappone | `_AI/knowledge/destinations/japan/itinerari.md` |
 | Trasporti, pass, budget JP | `_AI/knowledge/destinations/japan/logistica.md` |
-| Lista completa prenotazioni (treni/posti, attrazioni, ristoranti) | `Info/Japan/Lista Prenotazioni.md` |
-| Consuntivo spese reali (tabelle da compilare) | `Info/Japan/Spese Reali.md` |
 | Trasferimento bagagli Osaka→Tokyo (Takkyubin) | `Info/Japan/Trasferimento Bagagli (Takkyubin).md` |
 | Info pratiche Giappone (fuso, valuta, IC, eSIM…) | `Info/Japan/Info pratiche.md` |
 | Dettagli voli + storico monitoraggio | `Info/Japan/Voli/Prenotazione China Eastern (09-08-26).md` |
@@ -147,7 +150,7 @@ Travel-Vault/
 | Skill principale agente | `.agents/skills/travel-vault-agent/SKILL.md` |
 | Configurazione agente | `opencode.jsonc` |
 | Viaggio Italia (archiviato) | `_AI/knowledge/destinations/italia/itinerari.md` |
-| Viaggio New York (attivo) | `_AI/knowledge/destinations/newyork/` |
+| Viaggio New York (completato, ago 2026) | `_AI/knowledge/destinations/newyork/` |
 | Info trasporti NYC | `Info/NewYork/Trasporti.md` |
 | CityPASS NYC | `Info/NewYork/CityPASS.md` |
 | Ristoranti NYC | `Info/NewYork/Mangiare.md` |

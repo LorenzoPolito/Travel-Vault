@@ -753,7 +753,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Colazione:** konbini (onigiri, yogurt) · aeroporto (¥500-1.000)
-- 🅱️ **Rebecca:** konbini/volo — **pasto speciale prenotato** (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
+- 🅱️ **Rebecca:** konbini/volo — **pasto speciale da richiedere a China Eastern** (vedi [[Lista Prenotazioni]]) (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
 - 🅲 **Pranzo in scalo (PVG):** konbini/ristorante — per Rebecca: riso bianco, frutta sicura, yogurt
 - 🅳 **Cena:** a casa in Italia 🎉
 

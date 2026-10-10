@@ -11,6 +11,7 @@ tags:
 
 # Frasario Giapponese per il Viaggio
 
+<!-- private -->
 ## Cartellino Allergie di Rebecca
 
 **Stampare e plastificare. Mostrare a ogni ristorante/personale.**
@@ -50,6 +51,8 @@ Grazie mille per la tua comprensione!
 塩だけ使って、肉や野菜を焼いていただけますか？（醤油、味噌、だしなしで）
 ご理解いただきありがとうございます！
 ```
+
+<!-- /private -->
 
 ## Frasi Utili per Tutti
 

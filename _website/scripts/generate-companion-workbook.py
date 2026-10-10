@@ -8,7 +8,8 @@ Approccio "expression-first":
   - le liste a tendina puntano ai Defined Names del CONFIG
   - per estendere il workbook basta aggiungere righe/valori, non riscrivere formule
 
-Output: _website/public/downloads/Giappone-2026-Companion.xlsx
+Output: _private/Giappone-2026-Companion.xlsx (cartella ignorata da git, NON pubblicata:
+        il file contiene spese, prenotazioni e dati sanitari)
 
 Dipendenze: openpyxl, Pillow
     python -m pip install openpyxl Pillow
@@ -673,7 +674,7 @@ def build_config(wb, img_paths):
         ("Estendere", "Aggiungi voci in fondo alle liste del CONFIG: i menu a tendina si allargano da soli (range dinamici). "
                       "I fogli SPESE/PRENOTAZIONI hanno righe con formule gia' pronte."),
         ("Rigenerare", "python _website/scripts/generate-companion-workbook.py — ricrea il file dai dati sorgente."),
-        ("Download", "https://lorenzopolito.github.io/Travel-Vault/downloads/Giappone-2026-Companion.xlsx"),
+        ("File", "_private/Giappone-2026-Companion.xlsx — solo locale, non pubblicato sul sito (dati personali)."),
     ]
     gr = 51
     for title, desc in guida:
@@ -1481,8 +1482,9 @@ def build_logistica(wb, img_paths):
 
 def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    website_root = os.path.dirname(script_dir)
-    out_dir = os.path.join(website_root, "public", "downloads")
+    vault_root = os.path.dirname(os.path.dirname(script_dir))
+    # Privacy: il workbook contiene dati personali → mai in _website/public/
+    out_dir = os.path.join(vault_root, "_private")
     os.makedirs(out_dir, exist_ok=True)
     out_path = os.path.join(out_dir, "Giappone-2026-Companion.xlsx")
 

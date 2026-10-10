@@ -21,7 +21,9 @@ tags:
 
 > Creato da @Lorenzo · @Davide · @Rebecca
 > ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ✅ **JR Pass Kansai-Hiroshima (Klook, 29/09/26)** · ❌ da prenotare: posti treno (a Osaka 25–27 ott), Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM
+<!-- private -->
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
+<!-- /private -->
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
 

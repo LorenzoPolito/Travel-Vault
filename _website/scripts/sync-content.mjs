@@ -31,6 +31,11 @@ const EXCLUDED_TYPES = [
   'changelog',
 ];
 
+// Privacy: una nota con `publish: false` nel frontmatter NON viene mai pubblicata sul sito.
+// I blocchi tra `<!-- private -->` e `<!-- /private -->` vengono rimossi dalle pagine pubblicate
+// (in Obsidian restano visibili). Vedi AGENTS.md → "Privacy e pubblicazione".
+const PRIVATE_BLOCK_RE = /<!--\s*private\s*-->[\s\S]*?<!--\s*\/private\s*-->/gi;
+
 const URL_PREFIXES = {
   locations: '/Travel-Vault/locations/',
   info: '/Travel-Vault/guides/',
@@ -38,6 +43,7 @@ const URL_PREFIXES = {
 };
 
 let slugTypeMap = null;
+let privateSlugs = new Set();
 
 async function buildSlugTypeMap() {
   const map = {};
@@ -46,6 +52,10 @@ async function buildSlugTypeMap() {
     const files = await findMarkdownFiles(dir);
     for (const file of files) {
       const slug = slugify(basename(file, '.md'));
+      if (isPrivate(await readFile(file, 'utf-8'))) {
+        privateSlugs.add(slug);
+        continue;
+      }
       if (!map[slug]) map[slug] = target;
     }
   }
@@ -113,8 +123,18 @@ function extractRating(content) {
   return Math.max(...nums);
 }
 
+function isPrivate(content) {
+  const fm = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  return !!fm && /^publish:\s*["']?false["']?\s*$/m.test(fm[1]);
+}
+
+// Link a note private → solo testo (la pagina non esiste sul sito)
+function isPrivateLink(page) {
+  return privateSlugs.has(slugify(page.split('/').pop()));
+}
+
 function transformContent(content, filePath) {
-  let result = content;
+  let result = content.replace(PRIVATE_BLOCK_RE, '');
 
   // Coordinate/rating extraction is only meaningful for location pages
   // (itineraries mention "#X/5" ratings of locations and must NOT get a rating).
@@ -178,11 +198,13 @@ function transformContent(content, filePath) {
 
   // Transform wikilinks with alias and optional section: [[Page#Section|Display]] → [Display](/prefix/slug/#section)
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\|([^\]]+)\]\]/g, (_, page, section, display) => {
+    if (isPrivateLink(page)) return display;
     return `[${display}](${resolveWikilink(page, section)})`;
   });
 
   // Transform plain wikilinks with optional section: [[Page#Section]] → [Page](/prefix/slug/#section)
   result = result.replace(/\[\[([^\]|#]+)(?:#([^\]|]+))?\]\]/g, (_, page, section) => {
+    if (isPrivateLink(page)) return page;
     return `[${page}](${resolveWikilink(page, section)})`;
   });
 
@@ -305,7 +327,7 @@ async function sync() {
         continue;
       }
 
-      if (hasExcludedType(content)) {
+      if (hasExcludedType(content) || isPrivate(content)) {
         skipped++;
         continue;
       }

@@ -1,5 +1,6 @@
 ---
 type: info
+publish: false
 destination: Japan
 category: voli
 language: it
@@ -41,7 +42,7 @@ ai_role: "Dettagli prenotazione voli China Eastern (09/08/26) + storico monitora
 | **MU787** | China Eastern | Shanghai PVG → Roma FCO | 12:40 → 18:15 | 12h35 |
 
 > ✅ **Pagato con Mastercard Debit** — ordine 09/08/26 · Rebecca/Davide/Lorenzo · Economy
-> ⚠️ **Rebecca:** pasto speciale prenotato (no soia, no pesce, no crostacei, no frutta secca) — verificare all'imbarco e sugli scali PVG
+> ⚠️ **Rebecca:** pasto speciale **da richiedere** a China Eastern (no soia, no pesce, no crostacei, no frutta secca) — verificare all'imbarco e sugli scali PVG
 
 ## Criteri volo (scelta finale)
 

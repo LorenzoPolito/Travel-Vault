@@ -1,5 +1,6 @@
 ---
 type: info
+publish: false
 destination: Japan
 category: allergie
 tags:

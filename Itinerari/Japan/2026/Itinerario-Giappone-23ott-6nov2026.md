@@ -21,7 +21,9 @@ tags:
 
 > Creato da @Lorenzo · @Davide · @Rebecca
 > ⚡ **Stato:** ✅ **VOLI PRENOTATI** (China Eastern, 09/08/26) · ✅ alloggi prenotati · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ✅ **JR Pass Kansai-Hiroshima (Klook, 29/09/26)** · ❌ da prenotare: posti treno (a Osaka 25–27 ott), Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM
+<!-- private -->
 > ⚠️ **Allergie Rebecca (CRITICO):** soia, pesce, crostacei, frutta secca, banana, fragola, kiwi, arancia, nichel (lieve). Rebecca **deve cucinare da sola** — alloggi con cucina obbligatori. Vedi [[Allergie Alimentari Rebecca]] per guida completa.
+<!-- /private -->
 
 # Giappone 2026 — 23 Ottobre (partenza) · 6 Novembre (ritorno)
 
@@ -330,7 +332,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Giornata intera a [[Universal Studios Japan (ユニバーサル・スタジオ・ジャパン)]]** #3/5 🔵 **PRENOTATO**
 
-> ✅ **Biglietti USJ acquistati il 05/09/26** — **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto**, **88 €/pax**. Portare QR/codice conferma (app o stampa) per il **27 ott**.
+> ✅ **Biglietti USJ acquistati il 05/09/26** — **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto**, **88,25 €/pax**. Portare QR/codice conferma (app o stampa) per il **27 ott**.
 
 *Spostamento:* JR Osaka Loop Line → Universal City (~15 min, ¥180)
 
@@ -346,7 +348,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 - **Minion Park** + Jurassic World
 
 **Consigli:**
-- 🔵 **Biglietto PRENOTATO (05/09/26):** **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88 €/pax** (tariffa del 27 ott) · **acquisto anticipato OBBLIGATORIO**: dal 2025 niente biglietti al parco
+- 🔵 **Biglietto PRENOTATO (05/09/26):** **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto = 88,25 €/pax** (tariffa del 27 ott) · **acquisto anticipato OBBLIGATORIO**: dal 2025 niente biglietti al parco
 - 🟡 **Express Pass** (~¥8.000–15.000 extra) — NON incluso: da valutare solo per saltare code 2h+ (es. Mario Kart) · acquisto separato
 - Arrivare entro 8:00–8:30 (orario tipico novembre: 9:00–20:00; l'apertura effettiva varia per periodo — verificare sul sito ufficiale)
 - Scarpe comodissime — si camminano 25.000+ passi
@@ -751,7 +753,7 @@ Preparativi e partenza dall'Italia. Volo notturno per Osaka (KIX) **via Shanghai
 
 **Cibo oggi — Alternative:**
 - 🅰️ **Colazione:** konbini (onigiri, yogurt) · aeroporto (¥500-1.000)
-- 🅱️ **Rebecca:** konbini/volo — **pasto speciale prenotato** (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
+- 🅱️ **Rebecca:** konbini/volo — **pasto speciale da richiedere a China Eastern** (vedi [[Lista Prenotazioni]]) (soia-free, fish-free, nut-free, no banana/fragola/kiwi/arancia)
 - 🅲 **Pranzo in scalo (PVG):** konbini/ristorante — per Rebecca: riso bianco, frutta sicura, yogurt
 - 🅳 **Cena:** a casa in Italia 🎉
 

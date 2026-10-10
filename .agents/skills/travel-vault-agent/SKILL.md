@@ -5,20 +5,13 @@ description: Specialized agent for the Travel-Vault Obsidian workspace. Use when
 
 # Travel-Vault Agent
 
-Skill specializzata per operare nel workspace Travel-Vault. Il vault si trova su Windows.
+Skill specializzata per operare nel workspace Travel-Vault, valida per **qualsiasi harness** (opencode, Claude Code, Codex, Cursor…). Usa sempre **percorsi relativi alla root** del repository: il vault può essere aperto su Windows, macOS, Linux o in cloud.
 
-## Tool Reference (Opencode)
+> 📌 **Regole, fonti di verità, protocollo di modifica e privacy sono in `AGENTS.md`** (root). Questa skill aggiunge solo il "come" per struttura e contenuti: in caso di conflitto vale `AGENTS.md`.
 
-Usa questi tool per operare nel vault:
+## Tool
 
-- `read:` — Leggi file del vault
-- `grep:` — Cerca contenuti nel vault
-- `glob:` — Trova file per pattern
-- `edit:` — Modifica file esistenti
-- `write:` — Crea nuovi file
-- `bash:` — Esegui comandi (git, npm, python, obsidian)
-
-Se Obsidian CLI è attivo, usa `bash: obsidian search/read/daily/create` per interagire col vault via app.
+Negli esempi `read:` / `grep:` / `glob:` / `edit:` / `write:` / `bash:` indicano l'**azione** (leggi, cerca, trova, modifica, crea, esegui): usa lo strumento equivalente del tuo harness.
 
 ## Vault Overview
 
@@ -75,7 +68,7 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 
 | Template | Use Case | Struttura |
 |---|---|---|
-| `Citta.md` | New city note | mapview + clusters + hotels |
+| `Città.md` | New city note | mapview + clusters + hotels |
 | `Location.md` | New POI | hero image + Google Maps + sections |
 | `Itinerario.md` | Basic itinerary | budget table + day-by-day |
 | `Itinerario Dettagliato.md` | Detailed itinerary | minute-by-minute + difficulty + budget |
@@ -101,7 +94,7 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 
 ### Nuova Città
 
-1. `read: _templates/Citta.md`
+1. `read: _templates/Città.md`
 2. Scrivi in `Locations/<Country>/Cities/` con `write:`
 3. Includi mapview block, cluster con `//`, ratings `#X/5`
 
@@ -111,22 +104,22 @@ Obsidian templates in `_templates/`. Dettagli in `references/templates.md`.
 - **Davide, Rebecca**: nel gruppo del viaggio 2026
 - **Group tags**: usare `#gruppoA`, `#gruppoB` per attività divise
 
-## Current Trip Status
+## Current Trip
 
 - **Destinazione**: Giappone (KIX → Izumisano → Osaka, Hiroshima, Nara, Kyoto, Tokyo)
-- **Date**: 23 Ottobre (partenza) — 6 Novembre 2026 (15gg/14notti)
+- **Date**: 23 Ottobre (partenza) — 6 Novembre 2026 (rientro FCO 6 nov sera)
 - **Persone**: Lorenzo, Davide, Rebecca
-- **Budget stimato**: ~2.880 €/persona (voli inclusi 1.096 €)
-- **Stato**: ✅ **VOLI PRENOTATI** (China Eastern open-jaw, 09/08/26) · ✅ **Alloggi prenotati** · 🔵 **USJ PRENOTATO (05/09/26)** · ✅ **Sanrio Puroland (09/09/26)** · ✅ **Assicurazione sanitaria (09/09/26)** · ❌ da prenotare (JR Kansai-Hiroshima Pass + posti treno, Kyoto→Tokyo, Skytree, Shibuya Sky, Uzumasa, eSIM)
-- **Voli**: FCO→KIX 23/10 21:10 (via Shanghai) · HND→FCO 6/11 08:40 (via Shanghai)
-- **JR Pass**: NON consigliato — meglio JR Kansai-Hiroshima 5gg (~92€) + Kyoto→Tokyo riservato (~74€)
+- **Stato prenotazioni**: leggere **sempre** `Info/Japan/Lista Prenotazioni.md` (fonte di verità — non copiarlo qui)
+- **Budget e speso reale**: leggere `Info/Japan/Spese Reali.md` (fonte di verità)
 - **Itinerari**: itinerario attivo in `Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md`
 
 ## Website Publishing
 
 - Il sito Astro è in `_website/`
-- `bash: cd _website && node scripts/sync-content.mjs && npm run build` per buildare
-- CI/CD automatico su push a `main` via GitHub Actions
+- `bash: cd _website && npm run build` (il sync è incluso nello script `build`)
+- CI/CD automatico su push a `main` via GitHub Actions → **mai pushare su `main` senza conferma**
+- Le note con `publish: false` e i blocchi `<!-- private -->…<!-- /private -->` non vengono pubblicati: vedi `AGENTS.md` → *Privacy e pubblicazione*
+- Dopo ogni modifica: `bash: python3 _AI/scripts/vault_check.py`
 
 ## Obsidian CLI (opzionale)
 

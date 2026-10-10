@@ -8,7 +8,14 @@
   },
   "default_agent": "build",
   "permission": {
-    "bash": "allow",
+    // Pubblicazione e operazioni irreversibili: chiedere conferma (vedi AGENTS.md → Git)
+    "bash": {
+      "*": "allow",
+      "git push*": "ask",
+      "git reset --hard*": "ask",
+      "git rebase*": "ask",
+      "rm -rf*": "ask"
+    },
     "read": "allow",
     "write": "allow",
     "edit": "allow",
@@ -18,6 +25,6 @@
   },
   "instructions": ["AGENTS.md", ".agents/skills/travel-vault-agent/SKILL.md"],
   "watcher": {
-    "ignore": [".obsidian/**", "_website/node_modules/**", "_website/dist/**", "_website/public/images/vault/**", "allegati/**", ".git/**"]
+    "ignore": [".obsidian/**", "_website/node_modules/**", "_website/dist/**", "_website/public/images/vault/**", "allegati/**", "_private/**", ".git/**"]
   }
 }

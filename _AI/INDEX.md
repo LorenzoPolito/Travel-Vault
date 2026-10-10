@@ -23,7 +23,6 @@ Travel-Vault/
 ├── README.md                             ← Descrizione progetto
 ├── AGENTS.md                             ← ★ Istruzioni agente opencode (leggimi)
 ├── opencode.jsonc                        ← ★ Configurazione agente opencode
-├── SKILL.md                              ← Skill root (stub)
 │
 ├── _templates/                           ← ★ Template Obsidian per nuovi doc
 │   ├── Città.md                          ← mapview + cluster + hotel

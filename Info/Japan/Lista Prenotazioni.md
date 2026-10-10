@@ -28,7 +28,7 @@ ai_role: "Lista master di TUTTO ciò che va prenotato per il Giappone 23 ott –
 |---|---|---|
 | Voli A/R (China Eastern open-jaw) | FCO→KIX 23/10 21:10 · HND→FCO 6/11 08:40 · 1.096,33 €/pax | 09/08/26 |
 | Alloggi (4) | Izumisano (KURA) · Osaka (Hanazonocho) · Kyoto (Miro Nijo) · Tokyo (Taito Guesthouse) — tutti con cucina | — |
-| Universal Studios Japan | 1-day Studio Pass + SNW + voucher pasto = 88 €/pax (27 ott) | 05/09/26 |
+| Universal Studios Japan | 1-day Studio Pass + SNW + voucher pasto = 88,25 €/pax (27 ott) | 05/09/26 |
 | **Sanrio Puroland** | Day Passport + riserva visita (3 nov) — **~€19,97** · *annotare n. conferma/orario* | **09/09/26** |
 | **Assicurazione sanitaria** | *annotare provider, n. polizza, copertura allergie Rebecca* | **09/09/26** |
 | **JR Kansai-Hiroshima Area Pass** | Klook, 287,57 € tot (95,86 €/pax) · exchange order → scambio + posti A/R a Osaka 25–27 ott | **29/09/26** |

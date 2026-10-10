@@ -51,10 +51,10 @@ tags:
 
 | Voce | Costo/persona | Dove | Note |
 |---|---|---|---|
-| **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto** | **88 € (pagato)** | Klook/official | 🔵 **Acquistato 05/09/26** — ingresso SNW incluso (orario assegnato) · portare QR/codice |
+| **1-day Studio Pass + ingresso Super Nintendo World + voucher pasto** | **88,25 € (pagato)** | Klook/official | 🔵 **Acquistato 05/09/26** — ingresso SNW incluso (orario assegnato) · portare QR/codice |
 | Express Pass (4 attrazioni) | ~¥8.000–12.000 extra (~46–70 €) | Klook.com | NON incluso — solo per code 2h+ su Mario Kart |
 
-> 🔵 **Biglietti PRENOTATI (05/09/26): 1-day Studio Pass + SNW + voucher pasto = 88 €/pax.** ⚠️ Ricordare: dal 2025 **non si vendono biglietti al parco**. Orario tipico novembre 9:00–20:00 — verificare il calendario ufficiale.
+> 🔵 **Biglietti PRENOTATI (05/09/26): 1-day Studio Pass + SNW + voucher pasto = 88,25 €/pax.** ⚠️ Ricordare: dal 2025 **non si vendono biglietti al parco**. Orario tipico novembre 9:00–20:00 — verificare il calendario ufficiale.
 > 👩🍳 **Rebecca:** ✅ **VA a USJ** ma deve **portare cibo da casa** (riso, pollo freddo, frutta, uova sode) — niente cibo sicuro nel parco (soia + pesce). Il voucher pasto potrebbe non essere utilizzabile per lei → chiedere un'opzione sicura o cederlo.
 
 ## ⛔ PokéPark KANTO — RIMOSSO (lotteria non vinta)
@@ -129,7 +129,7 @@ tags:
 
 | Attività | Costo stimato |
 |---|---|
-| USJ (1-day + SNW + pasto) — **reale 88 €** | **88 €** |
+| USJ (1-day + SNW + pasto) — **reale 88,25 €** | **88,25 €** |
 | Sanrio Puroland (Day Passport) | ~19,97 € (reale) |
 | Templi, musei e torri (tutti i giorni) | ~70 € |
 | **Ingressi totali** | **~206 €** *(allineato a tabella Budget Giornaliero dell'itinerario; le voci sopra sono pure, il totale include il margine giornaliero)* |

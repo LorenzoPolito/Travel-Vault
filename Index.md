@@ -15,7 +15,6 @@
 - [[Suica]]
 - [[JR pass]]
 - [[Osaka Amazing pass]]
-- [[Test per riferimento]]
 - [[Viaggiare Sicuri]]
 - [[Itinerario Ossama Valentina]]
 - [[Rail Adventure SiVola.it (14 gg)]]

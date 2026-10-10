@@ -32,7 +32,7 @@ ai_role: "Consuntivo spese reali del viaggio Giappone 2026. Tabelle da compilare
 | Alloggio Osaka (Hanazonocho)      | Alloggio      |           |          | €      |         74,33 |           | 3          | ✅           |
 | Alloggio Kyoto (Miro Nijo)        | Alloggio      |           |          | €      |         85,72 |           | 3          | ✅           |
 | Alloggio Tokyo (Taito Guesthouse) | Alloggio      |           |          | €      |        173,17 |           | 3          | ✅           |
-| Universal Studios Japan           | Attività      |  05/09/26 |    88,00 | €      |         88,25 |           | 3          | ✅ Pagato    |
+| Universal Studios Japan           | Attività      |  05/09/26 |   264,75 | €      |         88,25 |           | 3          | ✅ Pagato    |
 | Sanrio Puroland (Day Passport)    | Attività      |  09/09/26 |          | €      |         19,97 |           | 3          | ✅ Prenotato |
 | Assicurazione sanitaria           | Assicurazione |  09/09/26 |          | €      |         53,43 |           | 3          | ✅ Prenotato |
 | JR Kansai-Hiroshima Area Pass     | Trasporti     |  29/09/26 |   287,57 | €      |         95,86 |           | 3          | ✅ Klook     |

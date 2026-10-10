@@ -5,7 +5,7 @@ vault: Travel-Vault
 vault_root: "."  # root del repository: usare sempre percorsi relativi
 language: it
 last_updated: 2026-10-10
-authors: [Lorenzo, Damiano]
+authors: [Lorenzo]
 tags: [metadata, vault, conventions, obsidian, travel]
 ai_role: "Leggi questo file per capire la struttura e le convenzioni del vault prima di operare."
 ---
@@ -23,7 +23,7 @@ ai_role: "Leggi questo file per capire la struttura e le convenzioni del vault p
 **Travel-Vault** è un vault Obsidian per la **pianificazione di viaggi in generale**.
 Attualmente focalizzato su **Giappone** (contenuto principale) e con **Italia** (Calabria 2025, archiviato).
 
-**Autori:** Lorenzo, Damiano · **Versioning:** Git (`.git/` in root)
+**Autore:** Lorenzo · **Versioning:** Git (`.git/` in root)
 
 ---
 
@@ -96,6 +96,5 @@ _AI/knowledge/destinations/
 ## Plugin e Feature Tecniche
 
 - **Git:** versioning attivo, `.gitignore` presente
-- **`Path.json`:** `{}` — placeholder non ancora usato
 - **MagicTravel link:** hotel linkati in Kyoto e Osaka via `https://www.magictravel.ai/`
 - **TBLFM:** formule tabelle inline in alcuni itinerari (es. somme budget)

@@ -3,7 +3,7 @@ type: changelog
 destination: Japan
 itinerary: "Itinerari/Japan/2026/Itinerario-Giappone-23ott-6nov2026.md"
 language: it
-last_updated: 2026-09-09
+last_updated: 2026-10-10
 tags:
   - changelog
   - japan
@@ -17,6 +17,7 @@ ai_role: "Storico modifiche dell'itinerario Giappone 2026 (spostato qui dall'iti
 
 | Modifica | Data | Chi | Note |
 |---|---|---|---|
+| **Governance + privacy + allineamento dati** | 10 Ott 2026 | Agente | JR Pass ✅ ovunque · treni: posti A/R ancora da prenotare allo scambio · speso reale 1.713,73 €/pax (solo pagato) · USJ 88,25 €/pax · pasto speciale Rebecca ancora da richiedere · note sensibili escluse dal sito |
 | **JR Pass Kansai-Hiroshima acquistato su Klook (287,57 €)** | 29 Set 2026 | Gruppo | 95,86 €/pax · budget totale ~2.880 €/pax · resta scambio voucher + prenotazione posti A/R a Osaka 25–27 ott |
 | **Tratte treno + variante Klook (no fee)** | 29 Set 2026 | Gruppo | Pass Kansai-Hiroshima su **Klook** (nessun handling/shipping ~19,95 €); **scambio + prenotazione posti A/R del 28 ott a Osaka il 25–27 ott** → 28 mattina solo imbarco. Tratte dettagliate (riservate vs no) in [[Lista Prenotazioni]]. |
 | **Creata tabella "Spese Reali" (consuntivo)** | 09 Set 2026 | Agente | File `Info/Japan/Spese Reali.md`: pre-partenza + registro giornaliero + riepilogo per categoria + saldo tra noi · collegato dal Budget Tracker |

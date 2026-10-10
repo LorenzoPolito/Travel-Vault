@@ -9,7 +9,7 @@ import os
 import re
 from pathlib import Path
 
-VAULT = Path(r"c:\Users\loren\Documents\TravelBay\Travel-Vault")
+VAULT = Path(__file__).resolve().parents[2]  # root del vault (portabile su ogni OS)
 
 # Category -> tag mapping for Info files
 INFO_CATEGORY_TAGS = {
